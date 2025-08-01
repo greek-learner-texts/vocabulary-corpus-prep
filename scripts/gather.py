@@ -66,6 +66,8 @@ def write_gorman_file(paths, work_id, group_id, group_label):
                         postag = gchild.attrib.get("postag")
                         relation = gchild.attrib.get("relation")
                         head = gchild.attrib.get("head")
+                        if re.match(r"\[\d\]", form):
+                            continue
                         print(group_id, work_id, subdoc, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
 
 
