@@ -1,0 +1,2134 @@
+0014	001	1	0	-	-	ἀντὶ	-	ADP	R-	-		ἀντί
+0014	001	1	1	-	-	πολλῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	1	2	-	-	ἄν	-	ADV	Df	-		ἄν
+0014	001	1	3	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	1	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	1	6	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	1	7	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	8	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0014	001	1	9	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	1	10	-	-	ἑλέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	αἱρέω
+0014	001	1	11	-	-	νομίζω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	νομίζω
+0014	001	1	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	13	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	1	14	-	-	φανερὸν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	φανερός
+0014	001	1	15	-	-	γένοιτο	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	1	16	-	-	τὸ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	1	17	-	-	μέλλον	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	μέλλω
+0014	001	1	18	-	-	συνοίσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	συμφέρω
+0014	001	1	19	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	1	20	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0014	001	1	21	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	1	22	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	1	23	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0014	001	1	24	-	-	σκοπεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	σκοπέω
+0014	001	1	25	-	-	.	-	PUNCT	Z	-		.
+0014	001	1	26	-	-	ὅτε	-	SCONJ	G-	-		ὅτε
+0014	001	1	27	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0014	001	1	28	-	-	τοῦθʼ	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0014	001	1	29	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0014	001	1	30	-	-	ἔχει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	1	31	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	32	-	-	προσήκει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προσήκω
+0014	001	1	33	-	-	προθύμως	-	ADV	Df	-	Degree=Pos	προθύμως
+0014	001	1	34	-	-	ἐθέλειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐθέλω
+0014	001	1	35	-	-	ἀκούειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀκούω
+0014	001	1	36	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	1	37	-	-	βουλομένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	βούλομαι
+0014	001	1	38	-	-	συμβουλεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συμβουλεύω
+0014	001	1	39	-	-	·	-	PUNCT	Z	-		·
+0014	001	1	40	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	1	41	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	1	42	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0014	001	1	43	-	-	εἴ	-	SCONJ	G-	-		εἰ
+0014	001	1	44	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0014	001	1	45	-	-	χρήσιμον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	χρήσιμος
+0014	001	1	46	-	-	ἐσκεμμένος	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	ἐσκεμμένος
+0014	001	1	47	-	-	ἥκει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἥκω
+0014	001	1	48	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	1	49	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	50	-	-	τοῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	1	51	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	1	52	-	-	ἀκούσαντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἀκούω
+0014	001	1	53	-	-	λάβοιτε	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λαμβάνω
+0014	001	1	54	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	55	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0014	001	1	56	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	1	57	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	1	58	-	-	ὑμετέρας	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0014	001	1	59	-	-	τύχης	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	τύχη
+0014	001	1	60	-	-	ὑπολαμβάνω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ὑπολαμβάνω
+0014	001	1	61	-	-	πολλὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	1	62	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	1	63	-	-	δεόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δεῖ
+0014	001	1	64	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0014	001	1	65	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	1	66	-	-	παραχρῆμʼ	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	παραχρῆμα
+0014	001	1	67	-	-	ἐνίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἔνιοι
+0014	001	1	68	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	1	69	-	-	ἐπελθεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἐπέρχομαι
+0014	001	1	70	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0014	001	1	71	-	-	,	-	PUNCT	Z	-		,
+0014	001	1	72	-	-	ὥστʼ	-	CCONJ	C-	-		ὥστε
+0014	001	1	73	-	-	ἐξ	-	ADP	R-	-		ἐκ
+0014	001	1	74	-	-	ἁπάντων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0014	001	1	75	-	-	ῥᾳδίαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ῥᾴδιος
+0014	001	1	76	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	1	77	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	1	78	-	-	συμφέροντος	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	συμφέρω
+0014	001	1	79	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	1	80	-	-	αἵρεσιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	αἵρεσις
+0014	001	1	81	-	-	γενέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	γίγνομαι
+0014	001	1	82	-	-	.	-	PUNCT	Z	-		.
+0014	001	2	0	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	2	1	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	2	2	-	-	οὖν	-	ADV	Df	-		οὖν
+0014	001	2	3	-	-	παρὼν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0014	001	2	4	-	-	καιρός	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	καιρός
+0014	001	2	5	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	6	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	2	7	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	2	8	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	2	9	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	10	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0014	001	2	11	-	-	οὐχὶ	-	ADV	Df	-	Polarity=Neg	οὐχί
+0014	001	2	12	-	-	λέγει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0014	001	2	13	-	-	φωνὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	φωνή
+0014	001	2	14	-	-	ἀφιεὶς	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀφίημι
+0014	001	2	15	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0014	001	2	16	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	2	17	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	2	18	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	2	19	-	-	ἐκείνων	-	DET	Pd	-	Case=Gen|Gender=Neut|Number=Plur	ἐκεῖνος
+0014	001	2	20	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	2	21	-	-	ἀντιληπτέον	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	ἀντιληόπ
+0014	001	2	22	-	-	ἐστίν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	2	23	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	24	-	-	εἴπερ	-	SCONJ	G-	-		εἴπερ
+0014	001	2	25	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	2	26	-	-	σωτηρίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	σωτηρία
+0014	001	2	27	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	2	28	-	-	φροντίζετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	φροντίζω
+0014	001	2	29	-	-	·	-	PUNCT	Z	-		·
+0014	001	2	30	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	2	31	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	2	32	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	2	33	-	-	οἶδʼ	-	ADP	V-	-		οἶδα
+0014	001	2	34	-	-	ὅντινά	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	ὅστις
+0014	001	2	35	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	2	36	-	-	δοκοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0014	001	2	37	-	-	ἔχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω
+0014	001	2	38	-	-	τρόπον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	τρόπος
+0014	001	2	39	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	2	40	-	-	αὐτά	-	PRON	Pp	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	2	41	-	-	.	-	PUNCT	Z	-		.
+0014	001	2	42	-	-	ἔστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	2	43	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	2	44	-	-	τά	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	2	45	-	-	γʼ	-	ADV	Df	-		γε
+0014	001	2	46	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	2	47	-	-	δοκοῦντα	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δοκέω
+0014	001	2	48	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	49	-	-	ψηφίσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	ψηφίζω
+0014	001	2	50	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	2	51	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0014	001	2	52	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	2	53	-	-	βοήθειαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	βοήθεια
+0014	001	2	54	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	55	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	2	56	-	-	παρασκευάσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	παρασκευάζω
+0014	001	2	57	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	2	58	-	-	ταχίστην	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	ταχύς
+0014	001	2	59	-	-	ὅπως	-	SCONJ	G-	-		ὅπως
+0014	001	2	60	-	-	ἐνθένδε	-	ADV	Df	-		ἐνθένδε
+0014	001	2	61	-	-	βοηθήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	βοηθέω
+0014	001	2	62	-	-	(	-	PUNCT	G-	-		(
+0014	001	2	63	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	2	64	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	2	65	-	-	πάθητε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	πάσχω
+0014	001	2	66	-	-	ταὐτὸν	-	ADJ	A-	-	Case=Acc|Gender=Neut|Number=Sing	αὐτός
+0014	001	2	67	-	-	ὅπερ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0014	001	2	68	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	2	69	-	-	πρότερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πρότερος
+0014	001	2	70	-	-	)	-	CCONJ	Z	-		)
+0014	001	2	71	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	72	-	-	πρεσβείαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πρεσβεία
+0014	001	2	73	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	2	74	-	-	πέμπειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πέμπω
+0014	001	2	75	-	-	,	-	PUNCT	Z	-		,
+0014	001	2	76	-	-	ἥτις	-	PRON	Pr	-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	ὅστις
+0014	001	2	77	-	-	ταῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	2	78	-	-	ἐρεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	λέγω
+0014	001	2	79	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	2	80	-	-	παρέσται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	πάρειμι
+0014	001	2	81	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	2	82	-	-	πράγμασιν	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	2	83	-	-	·	-	PUNCT	Z	-		·
+0014	001	3	0	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	3	1	-	-	ἔστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	3	2	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0014	001	3	3	-	-	τοῦτο	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0014	001	3	4	-	-	δέος	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Sing	δέος
+0014	001	3	5	-	-	,	-	PUNCT	Z	-		,
+0014	001	3	6	-	-	μὴ	-	SCONJ	G-	-		μή
+0014	001	3	7	-	-	πανοῦργος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	πανοῦργος
+0014	001	3	8	-	-	ὢν	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0014	001	3	9	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	3	10	-	-	δεινὸς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	δεινός
+0014	001	3	11	-	-	ἅ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	ἅ
+0014	001	3	12	-	-	νθρωπος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	νθρωπος
+0014	001	3	13	-	-	πράγμασι	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	3	14	-	-	χρῆσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	χράω
+0014	001	3	15	-	-	,	-	PUNCT	Z	-		,
+0014	001	3	16	-	-	τὰ	-	PRON	Pp	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ
+0014	001	3	17	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	3	18	-	-	εἴκων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἴκω
+0014	001	3	19	-	-	,	-	PUNCT	Z	-		,
+0014	001	3	20	-	-	ἡνίκʼ	-	SCONJ	G-	-		ἡνίκα
+0014	001	3	21	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	3	22	-	-	τύχῃ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	τύχη
+0014	001	3	23	-	-	,	-	PUNCT	Z	-		,
+0014	001	3	24	-	-	τὰ	-	PRON	Pp	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ
+0014	001	3	25	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	3	26	-	-	ἀπειλῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀπειλέω
+0014	001	3	27	-	-	(	-	PUNCT	Z	-		(
+0014	001	3	28	-	-	ἀξιόπιστος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἀξιόπιστος
+0014	001	3	29	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	3	30	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	3	31	-	-	εἰκότως	-	ADV	Df	-	Degree=Pos	εἰκός
+0014	001	3	32	-	-	φαίνοιτο	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	φαίνω
+0014	001	3	33	-	-	)	-	ADV	Z	-		)
+0014	001	3	34	-	-	,	-	PUNCT	Z	-		,
+0014	001	3	35	-	-	τὰ	-	PRON	Pp	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ
+0014	001	3	36	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	3	37	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	3	38	-	-	διαβάλλων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	διαβάλλω
+0014	001	3	39	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	3	40	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	3	41	-	-	ἀπουσίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀπουσία
+0014	001	3	42	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	3	43	-	-	ἡμετέραν	-	ADJ	Ps	-	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἡμέτερος
+0014	001	3	44	-	-	,	-	PUNCT	Z	-		,
+0014	001	3	45	-	-	τρέψηται	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	τρέψω
+0014	001	3	46	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	3	47	-	-	παρασπάσηταί	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	παρασπάσητής
+0014	001	3	48	-	-	τι	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0014	001	3	49	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	3	50	-	-	ὅλων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ὅλος
+0014	001	3	51	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	3	52	-	-	.	-	PUNCT	Z	-		.
+0014	001	4	0	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	4	1	-	-	μὴν	-	ADV	Df	-		μείς
+0014	001	4	2	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0014	001	4	3	-	-	ἐπιεικῶς	-	ADV	Df	-	Degree=Pos	ἐπιεικής
+0014	001	4	4	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	4	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	4	7	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	4	8	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	9	-	-	τοῦθʼ	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0014	001	4	10	-	-	ὃ	-	PRON	Pr	-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	ὁ
+0014	001	4	11	-	-	δυσμαχώτατόν	-	ADJ	A-	-	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	δυσμαχώτατον
+0014	001	4	12	-	-	ἐστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	4	13	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	4	14	-	-	Φιλίππου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	4	15	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	4	16	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	17	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	18	-	-	βέλτιστον	-	ADJ	A-	-	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	βέλτιστος
+0014	001	4	19	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	4	20	-	-	·	-	PUNCT	Z	-		·
+0014	001	4	21	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	4	22	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	4	23	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	4	24	-	-	πάντων	-	ADJ	Px	-	Case=Gen|Gender=Neut|Number=Plur	πᾶς
+0014	001	4	25	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	4	26	-	-	ἕνʼ	-	ADP	R-	-		εἷς
+0014	001	4	27	-	-	ὄντα	-	AUX	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0014	001	4	28	-	-	κύριον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	κύριος
+0014	001	4	29	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	30	-	-	ῥητῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ῥηίτω
+0014	001	4	31	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	32	-	-	ἀπορρήτων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἀπόρρητος
+0014	001	4	33	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	34	-	-	ἅμα	-	ADV	Df	-		ἅμα
+0014	001	4	35	-	-	στρατηγὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	στρατηγός
+0014	001	4	36	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	37	-	-	δεσπότην	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	δεσπότης
+0014	001	4	38	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	39	-	-	ταμίαν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	ταμία
+0014	001	4	40	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	41	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	42	-	-	πανταχοῦ	-	ADV	Df	-		πανταχοῦ
+0014	001	4	43	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	4	44	-	-	παρεῖναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πάρειμι
+0014	001	4	45	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	4	46	-	-	στρατεύματι	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	στράτευμα
+0014	001	4	47	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	48	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	4	49	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	4	50	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	4	51	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	4	52	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	4	53	-	-	πολέμου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	πόλεμος
+0014	001	4	54	-	-	ταχὺ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ταχύς
+0014	001	4	55	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	4	56	-	-	κατὰ	-	ADP	R-	-		κατά
+0014	001	4	57	-	-	καιρὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	καιρός
+0014	001	4	58	-	-	πράττεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	πράσσω
+0014	001	4	59	-	-	πολλῷ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0014	001	4	60	-	-	προέχει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προέχω
+0014	001	4	61	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	62	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	4	63	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	4	64	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	4	65	-	-	καταλλαγάς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	καταλλαγή
+0014	001	4	66	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	67	-	-	ἃς	-	PRON	Pr	-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	ὅς
+0014	001	4	68	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	4	69	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	4	70	-	-	ποιήσαιτʼ	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ποιήω
+0014	001	4	71	-	-	ἄσμενος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἄσμενος
+0014	001	4	72	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	4	73	-	-	Ὀλυνθίους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	4	74	-	-	,	-	PUNCT	Z	-		,
+0014	001	4	75	-	-	ἐναντίως	-	ADV	Df	-	Degree=Pos	ἐναντίος
+0014	001	4	76	-	-	ἔχει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	4	77	-	-	.	-	PUNCT	Z	-		.
+0014	001	5	0	-	-	δῆλον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δῆλος
+0014	001	5	1	-	-	γάρ	-	ADV	Df	-		γάρ
+0014	001	5	2	-	-	ἐστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	5	3	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	5	4	-	-	Ὀλυνθίοις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	5	5	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0014	001	5	6	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	5	7	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	5	8	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	5	9	-	-	δόξης	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	δόξα
+0014	001	5	10	-	-	οὐδʼ	-	CCONJ	C-	-		οὐδέ
+0014	001	5	11	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	5	12	-	-	μέρους	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	μέρος
+0014	001	5	13	-	-	χώρας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	χώρα
+0014	001	5	14	-	-	πολεμοῦσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πολεμέω
+0014	001	5	15	-	-	,	-	PUNCT	Z	-		,
+0014	001	5	16	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0014	001	5	17	-	-	ἀναστάσεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἀνάστασις
+0014	001	5	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	5	19	-	-	ἀνδραποδισμοῦ	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	ἀνδραποδισμός
+0014	001	5	20	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	5	21	-	-	πατρίδος	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πατρίς
+0014	001	5	22	-	-	,	-	PUNCT	Z	-		,
+0014	001	5	23	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	5	24	-	-	ἴσασιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	οἶδα
+0014	001	5	25	-	-	ἅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	5	26	-	-	τʼ	-	CCONJ	C-	-		τε
+0014	001	5	27	-	-	Ἀμφιπολιτῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	Ἀμφιπολίτης
+0014	001	5	28	-	-	ἐποίησε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω
+0014	001	5	29	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	5	30	-	-	παραδόντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	παραδίδωμι
+0014	001	5	31	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	5	32	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	5	33	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0014	001	5	34	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	5	35	-	-	Πυδναίων	-	ADJ	Ne	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	Πυδναῖος
+0014	001	5	36	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	5	37	-	-	ὑποδεξαμένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ὑποδεξαμένος
+0014	001	5	38	-	-	·	-	PUNCT	Z	-		·
+0014	001	5	39	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	5	40	-	-	ὅλως	-	ADV	Df	-	Degree=Pos	ὅλως
+0014	001	5	41	-	-	ἄπιστον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἄπιστος
+0014	001	5	42	-	-	,	-	PUNCT	Z	-		,
+0014	001	5	43	-	-	οἶμαι	-	INTJ	V-	-		οἴομαι
+0014	001	5	44	-	-	,	-	PUNCT	Z	-		,
+0014	001	5	45	-	-	ταῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	5	46	-	-	πολιτείαις	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	πολιτεία
+0014	001	5	47	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	5	48	-	-	τυραννίς	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	τυραννίς
+0014	001	5	49	-	-	,	-	PUNCT	Z	-		,
+0014	001	5	50	-	-	ἄλλως	-	ADV	Df	-	Degree=Pos	ἄλλως
+0014	001	5	51	-	-	τε	-	CCONJ	C-	-		τε
+0014	001	5	52	-	-	κἂν	-	SCONJ	G-	-		ἐάν
+0014	001	5	53	-	-	ὅμορον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Number=Sing	ὅμορος
+0014	001	5	54	-	-	χώραν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χώρα
+0014	001	5	55	-	-	ἔχωσι	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	5	56	-	-	.	-	PUNCT	Z	-		.
+0014	001	6	0	-	-	ταῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	6	1	-	-	οὖν	-	ADV	Df	-		οὖν
+0014	001	6	2	-	-	ἐγνωκότας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	γιγνώσκω
+0014	001	6	3	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	6	4	-	-	,	-	PUNCT	Z	-		,
+0014	001	6	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	6	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	6	7	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	6	8	-	-	,	-	PUNCT	Z	-		,
+0014	001	6	9	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	6	10	-	-	τἄλλʼ	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Plur	ἄλλος
+0014	001	6	11	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	6	12	-	-	προσήκει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προσήκω
+0014	001	6	13	-	-	πάντʼ	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0014	001	6	14	-	-	ἐνθυμουμένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἐνθυμέομαι
+0014	001	6	15	-	-	φημὶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	φημί
+0014	001	6	16	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0014	001	6	17	-	-	ἐθελῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἐθέλω
+0014	001	6	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	6	19	-	-	παροξυνθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	παροξυνθῆναι
+0014	001	6	20	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	6	21	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	6	22	-	-	πολέμῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	πόλεμος
+0014	001	6	23	-	-	προσέχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	προσέχω
+0014	001	6	24	-	-	εἴπερ	-	SCONJ	G-	-		εἴπερ
+0014	001	6	25	-	-	ποτὲ	-	ADV	Df	-		ποτε
+0014	001	6	26	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	6	27	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	6	28	-	-	,	-	PUNCT	Z	-		,
+0014	001	6	29	-	-	χρήματʼ	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	χρῆμα
+0014	001	6	30	-	-	εἰσφέροντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰσφέροντη
+0014	001	6	31	-	-	προθύμως	-	ADV	Df	-	Degree=Pos	προθύμως
+0014	001	6	32	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	6	33	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	6	34	-	-	ἐξιόντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔξειμι
+0014	001	6	35	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	6	36	-	-	μηδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	μηδείς
+0014	001	6	37	-	-	ἐλλείποντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἐλλείπω
+0014	001	6	38	-	-	.	-	PUNCT	Z	-		.
+0014	001	6	39	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0014	001	6	40	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	6	41	-	-	λόγος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	λόγος
+0014	001	6	42	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0014	001	6	43	-	-	σκῆψις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	σκῆψις
+0014	001	6	44	-	-	ἔθʼ	-	ADV	Df	-		ἔτι
+0014	001	6	45	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	6	46	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	6	47	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	6	48	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	6	49	-	-	δέοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δέω
+0014	001	6	50	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0014	001	6	51	-	-	ἐθέλειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐθέλω
+0014	001	6	52	-	-	ὑπολείπεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ὑπολείπω
+0014	001	6	53	-	-	.	-	PUNCT	Z	-		.
+0014	001	7	0	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0014	001	7	1	-	-	γάρ	-	ADV	Df	-		γάρ
+0014	001	7	2	-	-	,	-	PUNCT	Z	-		,
+0014	001	7	3	-	-	ὃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὁ
+0014	001	7	4	-	-	πάντες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	πᾶς
+0014	001	7	5	-	-	ἐθρύλουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	θρυλέω
+0014	001	7	6	-	-	τέως	-	ADV	Df	-		τέως
+0014	001	7	7	-	-	,	-	PUNCT	Z	-		,
+0014	001	7	8	-	-	Ὀλυνθίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	7	9	-	-	ἐκπολεμῶσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἐκπολεμῶω
+0014	001	7	10	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0014	001	7	11	-	-	Φιλίππῳ	-	PROPN	Ne	-	Case=Dat|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	7	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	7	13	-	-	γέγονεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	γίγνομαι
+0014	001	7	14	-	-	αὐτόματον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	αὐτόματος
+0014	001	7	15	-	-	,	-	PUNCT	Z	-		,
+0014	001	7	16	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	7	17	-	-	ταῦθʼ	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0014	001	7	18	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	7	19	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	7	20	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	7	21	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0014	001	7	22	-	-	συμφέροι	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συμφέρω
+0014	001	7	23	-	-	.	-	PUNCT	Z	-		.
+0014	001	7	24	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	7	25	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	7	26	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	7	27	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0014	001	7	28	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	7	29	-	-	πεισθέντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	πείθω
+0014	001	7	30	-	-	ἀνείλοντο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἀναιρέω
+0014	001	7	31	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	7	32	-	-	πόλεμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πόλεμος
+0014	001	7	33	-	-	,	-	PUNCT	Z	-		,
+0014	001	7	34	-	-	σφαλεροὶ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	σφαλερός
+0014	001	7	35	-	-	σύμμαχοι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	σύμμαχος
+0014	001	7	36	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	7	37	-	-	μέχρι	-	ADP	R-	-		μέχρι
+0014	001	7	38	-	-	του	-	PRON	Pp	-	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	τις
+0014	001	7	39	-	-	ταῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	7	40	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	7	41	-	-	ἐγνωκότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	γιγνώσκω
+0014	001	7	42	-	-	ἦσαν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	7	43	-	-	ἴσως	-	ADV	Df	-		ἴσως
+0014	001	7	44	-	-	·	-	PUNCT	Z	-		·
+0014	001	7	45	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0014	001	7	46	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	7	47	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0014	001	7	48	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	7	49	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	7	50	-	-	αὑτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ἑαυτοῦ
+0014	001	7	51	-	-	ἐγκλημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	ἔγκλημα
+0014	001	7	52	-	-	μισοῦσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μισέω
+0014	001	7	53	-	-	,	-	PUNCT	Z	-		,
+0014	001	7	54	-	-	βεβαίαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	βέβαιος
+0014	001	7	55	-	-	εἰκὸς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἔοικα
+0014	001	7	56	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	7	57	-	-	ἔχθραν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἔχθρα
+0014	001	7	58	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	7	59	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	7	60	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	7	61	-	-	φοβοῦνται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φοβέω
+0014	001	7	62	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	7	63	-	-	πεπόνθασιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πάσχω
+0014	001	7	64	-	-	ἔχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω
+0014	001	7	65	-	-	.	-	PUNCT	Z	-		.
+0014	001	8	0	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	8	1	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	8	2	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	8	3	-	-	τοιοῦτον	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	τοιοῦτος
+0014	001	8	4	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	8	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	8	7	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	8	8	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	9	-	-	παραπεπτωκότα	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παραπίπτω
+0014	001	8	10	-	-	καιρὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	καιρός
+0014	001	8	11	-	-	ἀφεῖναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀφίημι
+0014	001	8	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	13	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0014	001	8	14	-	-	παθεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	πάσχω
+0014	001	8	15	-	-	ταὐτὸν	-	ADJ	Ma	-	Case=Acc|Gender=Neut|Number=Sing	αὐτός
+0014	001	8	16	-	-	ὅπερ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0014	001	8	17	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0014	001	8	18	-	-	πολλάκις	-	ADV	Df	-		πολλάκις
+0014	001	8	19	-	-	πρότερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πρότερος
+0014	001	8	20	-	-	πεπόνθατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	πάσχω
+0014	001	8	21	-	-	.	-	PUNCT	Z	-		.
+0014	001	8	22	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	8	23	-	-	γάρ	-	ADV	Df	-		γάρ
+0014	001	8	24	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	25	-	-	ὅθʼ	-	SCONJ	G-	-		ὅτε
+0014	001	8	26	-	-	ἥκομεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἥκω
+0014	001	8	27	-	-	Εὐβοεῦσιν	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	Εὐβοεύς
+0014	001	8	28	-	-	βεβοηθηκότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	βοηθέω
+0014	001	8	29	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	8	30	-	-	παρῆσαν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πάρειμι
+0014	001	8	31	-	-	Ἀμφιπολιτῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	Ἀμφιπολίτης
+0014	001	8	32	-	-	Ἱέραξ	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Ἱέραξ
+0014	001	8	33	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	8	34	-	-	Στρατοκλῆς	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Στρατοκλέης
+0014	001	8	35	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0014	001	8	36	-	-	τουτὶ	-	DET	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	8	37	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	8	38	-	-	βῆμα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	βῆμα
+0014	001	8	39	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	40	-	-	κελεύοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κελεύω
+0014	001	8	41	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	8	42	-	-	πλεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πλέω
+0014	001	8	43	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	8	44	-	-	παραλαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	παραλαμβάνω
+0014	001	8	45	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	8	46	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0014	001	8	47	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	48	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	8	49	-	-	αὐτὴν	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	αὐτός
+0014	001	8	50	-	-	παρειχόμεθʼ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	παρείχω
+0014	001	8	51	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	8	52	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	8	53	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	8	54	-	-	αὐτῶν	-	DET	Pd	-	Case=Gen|Number=Plur	αὐτός
+0014	001	8	55	-	-	προθυμίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	προθυμία
+0014	001	8	56	-	-	ἥνπερ	-	PRON	Pr	-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0014	001	8	57	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	8	58	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	8	59	-	-	Εὐβοέων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	Εὐβοεύς
+0014	001	8	60	-	-	σωτηρίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	σωτηρία
+0014	001	8	61	-	-	,	-	PUNCT	Z	-		,
+0014	001	8	62	-	-	εἴχετʼ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Mid	ἔχω
+0014	001	8	63	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	8	64	-	-	Ἀμφίπολιν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Ἀμφίπολις
+0014	001	8	65	-	-	τότε	-	ADV	Df	-		τότε
+0014	001	8	66	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	8	67	-	-	πάντων	-	DET	Px	-	Case=Gen|Gender=Neut|Number=Plur	πᾶς
+0014	001	8	68	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	8	69	-	-	μετὰ	-	ADP	R-	-		μετά
+0014	001	8	70	-	-	ταῦτʼ	-	DET	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	8	71	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	8	72	-	-	ἦτʼ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	8	73	-	-	ἀπηλλαγμένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἀπαλλάσσω
+0014	001	8	74	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	8	75	-	-	.	-	PUNCT	Z	-		.
+0014	001	9	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	9	1	-	-	πάλιν	-	ADV	Df	-		πάλιν
+0014	001	9	2	-	-	ἡνίκα	-	SCONJ	G-	-		ἡνίκα
+0014	001	9	3	-	-	Πύδνα	-	PROPN	Ne	-	Case=Nom|Gender=Fem|Number=Sing	Πύδνα
+0014	001	9	4	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	5	-	-	Ποτείδαια	-	PROPN	Ne	-	Case=Nom|Gender=Fem|Number=Sing	Ποτείδαια
+0014	001	9	6	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	7	-	-	Μεθώνη	-	PROPN	Ne	-	Case=Nom|Gender=Fem|Number=Sing	Μεθώνη
+0014	001	9	8	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	9	-	-	Παγασαί	-	PROPN	Ne	-	Case=Nom|Gender=Fem|Number=Plur	Παγασαί
+0014	001	9	10	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	11	-	-	τ	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Plur	τ
+0014	001	9	12	-	-	ἄλλα	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Plur	ἄλλος
+0014	001	9	13	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	14	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0014	001	9	15	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	9	16	-	-	καθʼ	-	ADP	R-	-		κατά
+0014	001	9	17	-	-	ἕκαστα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἕκαστος
+0014	001	9	18	-	-	λέγων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0014	001	9	19	-	-	διατρίβω	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	διατρίβω
+0014	001	9	20	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	21	-	-	πολιορκούμενʼ	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	πολιορκούμην
+0014	001	9	22	-	-	ἀπηγγέλλετο	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass	ἀπαγγέλλω
+0014	001	9	23	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	24	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	9	25	-	-	τότε	-	ADV	Df	-		τότε
+0014	001	9	26	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0014	001	9	27	-	-	ἑνὶ	-	NUM	Ma	-	Case=Dat|Gender=Masc|Number=Sing	εἷς
+0014	001	9	28	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	9	29	-	-	πρώτῳ	-	ADJ	Mo	-	Case=Dat|Gender=Masc|Number=Sing	πρῶτος
+0014	001	9	30	-	-	προθύμως	-	ADV	Df	-	Degree=Pos	προθύμως
+0014	001	9	31	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	9	32	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	9	33	-	-	προσῆκεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	προσίημι
+0014	001	9	34	-	-	ἐβοηθήσαμεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	βοηθέω
+0014	001	9	35	-	-	αὐτοί	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	αὐτός
+0014	001	9	36	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	37	-	-	ῥᾴονι	-	ADJ	A-	-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing	ῥᾴδιος
+0014	001	9	38	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	9	39	-	-	πολὺ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0014	001	9	40	-	-	ταπεινοτέρῳ	-	ADJ	A-	-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing	ταπεινοτέρῳ
+0014	001	9	41	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	9	42	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	9	43	-	-	ἐχρώμεθα	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	χράω
+0014	001	9	44	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	9	45	-	-	Φιλίππῳ	-	PROPN	Ne	-	Case=Dat|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	9	46	-	-	.	-	PUNCT	Z	-		.
+0014	001	9	47	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	9	48	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	9	49	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	9	50	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	9	51	-	-	παρὸν	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0014	001	9	52	-	-	ἀεὶ	-	ADV	Df	-		ἀεί
+0014	001	9	53	-	-	προϊέμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	προΐημι
+0014	001	9	54	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	55	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	9	56	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	9	57	-	-	μέλλοντʼ	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	μέλλω
+0014	001	9	58	-	-	αὐτόματʼ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	αὐτόματος
+0014	001	9	59	-	-	οἰόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	οἴομαι
+0014	001	9	60	-	-	σχήσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἔχω
+0014	001	9	61	-	-	καλῶς	-	ADV	Df	-	Degree=Pos	καλῶς
+0014	001	9	62	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	63	-	-	ηὐξήσαμεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	αὐξάνω
+0014	001	9	64	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	65	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	9	66	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	9	67	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	9	68	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	69	-	-	Φίλιππον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	9	70	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	9	71	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	9	72	-	-	κατεστήσαμεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	καθίστημι
+0014	001	9	73	-	-	τηλικοῦτον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	τηλικοῦτος
+0014	001	9	74	-	-	ἡλίκος	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ἡλίκος
+0014	001	9	75	-	-	οὐδείς	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	οὐδείς
+0014	001	9	76	-	-	πω	-	ADV	Df	-		πω
+0014	001	9	77	-	-	βασιλεὺς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	βασιλεύς
+0014	001	9	78	-	-	γέγονεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	γίγνομαι
+0014	001	9	79	-	-	Μακεδονίας	-	PROPN	Ne	-	Case=Gen|Gender=Fem|Number=Sing	Μακεδονία
+0014	001	9	80	-	-	.	-	PUNCT	Z	-		.
+0014	001	9	81	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0014	001	9	82	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	9	83	-	-	καιρὸς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	καιρός
+0014	001	9	84	-	-	ἥκει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἥκω
+0014	001	9	85	-	-	τις	-	DET	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	9	86	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	87	-	-	οὗτος	-	DET	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0014	001	9	88	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	9	89	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	9	90	-	-	Ὀλυνθίων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	9	91	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	92	-	-	αὐτόματος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	αὐτόματος
+0014	001	9	93	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	9	94	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0014	001	9	95	-	-	,	-	PUNCT	Z	-		,
+0014	001	9	96	-	-	ὃς	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0014	001	9	97	-	-	οὐδενός	-	ADJ	Px	-	Case=Gen|Gender=Masc|Number=Sing	οὐδείς
+0014	001	9	98	-	-	ἐστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	9	99	-	-	ἐλάττων	-	ADJ	A-	-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	ἐλάσσων
+0014	001	9	100	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	9	101	-	-	προτέρων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	πρότερος
+0014	001	9	102	-	-	ἐκείνων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	ἐκεῖνος
+0014	001	9	103	-	-	.	-	PUNCT	Z	-		.
+0014	001	10	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	10	1	-	-	ἔμοιγε	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	10	2	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0014	001	10	3	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	10	4	-	-	ἄν	-	ADV	Df	-		ἄν
+0014	001	10	5	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	6	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	10	7	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	10	8	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	10	9	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	10	-	-	δίκαιος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	δίκαιος
+0014	001	10	11	-	-	λογιστὴς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	λογιστής
+0014	001	10	12	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	10	13	-	-	παρὰ	-	ADP	R-	-		παρά
+0014	001	10	14	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	10	15	-	-	θεῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	θεός
+0014	001	10	16	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	10	17	-	-	ὑπηργμένων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ὑπηργμένω
+0014	001	10	18	-	-	καταστάς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	καθίστημι
+0014	001	10	19	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	20	-	-	καίπερ	-	ADV	Df	-		καίπερ
+0014	001	10	21	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	10	22	-	-	ἐχόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0014	001	10	23	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	10	24	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	10	25	-	-	πολλῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	πολύς
+0014	001	10	26	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	27	-	-	ὅμως	-	ADV	Df	-		ὅμως
+0014	001	10	28	-	-	μεγάλην	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	μέγας
+0014	001	10	29	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	10	30	-	-	ἔχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω
+0014	001	10	31	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	10	32	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0014	001	10	33	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	34	-	-	εἰκότως	-	ADV	Df	-	Degree=Pos	εἰκός
+0014	001	10	35	-	-	·	-	PUNCT	Z	-		·
+0014	001	10	36	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	10	37	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	10	38	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	10	39	-	-	πόλλʼ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	10	40	-	-	ἀπολωλεκέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀπόλλυμι
+0014	001	10	41	-	-	κατὰ	-	ADP	R-	-		κατά
+0014	001	10	42	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	10	43	-	-	πόλεμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πόλεμος
+0014	001	10	44	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	10	45	-	-	ἡμετέρας	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἡμέτερος
+0014	001	10	46	-	-	ἀμελείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἀμέλεια
+0014	001	10	47	-	-	ἄν	-	ADV	Df	-		ἄν
+0014	001	10	48	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	10	49	-	-	θείη	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	θεῖος
+0014	001	10	50	-	-	δικαίως	-	ADV	Df	-	Degree=Pos	δικαίως
+0014	001	10	51	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	52	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	10	53	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	10	54	-	-	μήτε	-	CCONJ	C-	-		μήτε
+0014	001	10	55	-	-	πάλαι	-	ADV	Df	-		πάλαι
+0014	001	10	56	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	10	57	-	-	πεπονθέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	πάσχω
+0014	001	10	58	-	-	πεφηνέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	πεφηνέναι
+0014	001	10	59	-	-	τέ	-	CCONJ	C-	-		τε
+0014	001	10	60	-	-	τινʼ	-	ADV	Df	-		τις
+0014	001	10	61	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	10	62	-	-	συμμαχίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	συμμαχία
+0014	001	10	63	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0014	001	10	64	-	-	ἀντίρροπον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Number=Sing	ἀντίρροπος
+0014	001	10	65	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	66	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	10	67	-	-	βουλώμεθα	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0014	001	10	68	-	-	χρῆσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	χράω
+0014	001	10	69	-	-	,	-	PUNCT	Z	-		,
+0014	001	10	70	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	10	71	-	-	παρʼ	-	ADP	R-	-		παρά
+0014	001	10	72	-	-	ἐκείνων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	ἐκεῖνος
+0014	001	10	73	-	-	εὐνοίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	εὔνοια
+0014	001	10	74	-	-	εὐεργέτημʼ	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	εὐεργέτημι
+0014	001	10	75	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	10	76	-	-	ἔγωγε	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	10	77	-	-	θείην	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	τίθημι
+0014	001	10	78	-	-	.	-	PUNCT	Z	-		.
+0014	001	11	0	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0014	001	11	1	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	2	-	-	οἶμαι	-	INTJ	I-	-		οἴομαι
+0014	001	11	3	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	4	-	-	παρόμοιόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	παρόμοιον
+0014	001	11	5	-	-	ἐστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	11	6	-	-	ὅπερ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0014	001	11	7	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	11	8	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	11	9	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	11	10	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	11	11	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0014	001	11	12	-	-	κτήσεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	κτῆσις
+0014	001	11	13	-	-	·	-	PUNCT	Z	-		·
+0014	001	11	14	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	11	15	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	11	16	-	-	γάρ	-	ADV	Df	-		γάρ
+0014	001	11	17	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	18	-	-	ὅσʼ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0014	001	11	19	-	-	ἄν	-	ADV	Df	-		ἄν
+0014	001	11	20	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Fem,Masc|Number=Sing	τίς
+0014	001	11	21	-	-	λάβῃ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λαμβάνω
+0014	001	11	22	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	23	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	11	24	-	-	σῴσῃ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	σῴσῃ
+0014	001	11	25	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	26	-	-	μεγάλην	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	μέγας
+0014	001	11	27	-	-	ἔχει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	11	28	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	11	29	-	-	τύχῃ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	τύχη
+0014	001	11	30	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	11	31	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0014	001	11	32	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	33	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	11	34	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	11	35	-	-	ἀναλώσας	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀναλίσκω
+0014	001	11	36	-	-	λάθῃ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λανθάνω
+0014	001	11	37	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	38	-	-	συνανήλωσε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συνανήλωσε
+0014	001	11	39	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	11	40	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	11	41	-	-	μεμνῆσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	μιμνῄσκω
+0014	001	11	42	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	11	43	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0014	001	11	44	-	-	.	-	PUNCT	Z	-		.
+0014	001	11	45	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	11	46	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	11	47	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	11	48	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	11	49	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0014	001	11	50	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	11	51	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	11	52	-	-	χρησάμενοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	χράω
+0014	001	11	53	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	11	54	-	-	καιροῖς	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	καιρός
+0014	001	11	55	-	-	ὀρθῶς	-	ADV	Df	-	Degree=Pos	ὀρθῶς
+0014	001	11	56	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	57	-	-	οὐδʼ	-	ADV	Df	-	Polarity=Neg	οὐδέ
+0014	001	11	58	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	11	59	-	-	συνέβη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συμβαίνω
+0014	001	11	60	-	-	τι	-	DET	Px	-	Case=Nom|Gender=Neut|Number=Sing	τίς
+0014	001	11	61	-	-	παρὰ	-	ADP	R-	-		παρά
+0014	001	11	62	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	11	63	-	-	θεῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	θεός
+0014	001	11	64	-	-	χρηστὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	χρηστός
+0014	001	11	65	-	-	μνημονεύουσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μνημονεύω
+0014	001	11	66	-	-	·	-	PUNCT	Z	-		·
+0014	001	11	67	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	11	68	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	11	69	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	11	70	-	-	τελευταῖον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	τελευταῖος
+0014	001	11	71	-	-	ἐκβὰν	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἐκβαίνω
+0014	001	11	72	-	-	ἕκαστον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἕκαστος
+0014	001	11	73	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	11	74	-	-	πρὶν	-	ADV	Df	-		πρίν
+0014	001	11	75	-	-	ὑπαρξάντων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ὑπάρχω
+0014	001	11	76	-	-	κρίνεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	κρίνω
+0014	001	11	77	-	-	.	-	PUNCT	Z	-		.
+0014	001	11	78	-	-	διὸ	-	ADV	Df	-		διό
+0014	001	11	79	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	11	80	-	-	σφόδρα	-	ADV	Df	-		σφόδρα
+0014	001	11	81	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	11	82	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	11	83	-	-	λοιπῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	λοιπός
+0014	001	11	84	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	11	85	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	86	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	11	87	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	11	88	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	11	89	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	90	-	-	φροντίσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	φροντίζω
+0014	001	11	91	-	-	,	-	PUNCT	Z	-		,
+0014	001	11	92	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0014	001	11	93	-	-	ταῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	11	94	-	-	ἐπανορθωσάμενοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ἐπανορθωσάμενω
+0014	001	11	95	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	11	96	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0014	001	11	97	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	11	98	-	-	πεπραγμένοις	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	πράσσω
+0014	001	11	99	-	-	ἀδοξίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀδοξία
+0014	001	11	100	-	-	ἀποτριψώμεθα	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἀποτριψώμεθα
+0014	001	11	101	-	-	.	-	PUNCT	Z	-		.
+0014	001	12	0	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	12	1	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	12	2	-	-	προησόμεθʼ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	προησόμεθω
+0014	001	12	3	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	12	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	12	6	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	12	7	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	8	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	12	9	-	-	τούτους	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0014	001	12	10	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	12	11	-	-	ἀνθρώπους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἄνθρωπος
+0014	001	12	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	13	-	-	εἶτʼ	-	SCONJ	G-	-		εἶτα
+0014	001	12	14	-	-	Ὄλυνθον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ὄλυνθος
+0014	001	12	15	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	12	16	-	-	καταστρέψεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	καταστρέψω
+0014	001	12	17	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	18	-	-	φρασάτω	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	φράζω
+0014	001	12	19	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	12	20	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	12	21	-	-	τί	-	PRON	Pi	-	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	τίς
+0014	001	12	22	-	-	τὸ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	12	23	-	-	κωλῦον	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κωλύω
+0014	001	12	24	-	-	ἔτʼ	-	ADV	Df	-		ἔτι
+0014	001	12	25	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	12	26	-	-	ἔσται	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί
+0014	001	12	27	-	-	βαδίζειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	βαδίζω
+0014	001	12	28	-	-	ὅποι	-	ADV	Dq	-	PronType=Rel	ὅποι
+0014	001	12	29	-	-	βούλεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0014	001	12	30	-	-	.	-	PUNCT	Z	-		.
+0014	001	12	31	-	-	ἆρα	-	ADV	Df	-		ἆρα
+0014	001	12	32	-	-	λογίζεταί	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	λογίγζομαι
+0014	001	12	33	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	12	34	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	12	35	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	36	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	12	37	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	12	38	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	12	39	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	40	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	12	41	-	-	θεωρεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	θεωρέω
+0014	001	12	42	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	12	43	-	-	τρόπον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	τρόπος
+0014	001	12	44	-	-	διʼ	-	ADP	R-	-		διά
+0014	001	12	45	-	-	ὃν	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0014	001	12	46	-	-	μέγας	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μέγας
+0014	001	12	47	-	-	γέγονεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	γίγνομαι
+0014	001	12	48	-	-	ἀσθενὴς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἀσθενής
+0014	001	12	49	-	-	ὢν	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0014	001	12	50	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	12	51	-	-	κατʼ	-	ADP	R-	-		κατά
+0014	001	12	52	-	-	ἀρχὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ἀρχή
+0014	001	12	53	-	-	Φίλιππος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	12	54	-	-	;	-	PUNCT	Z	-		;
+0014	001	12	55	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	12	56	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0014	001	12	57	-	-	Ἀμφίπολιν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Ἀμφίπολις
+0014	001	12	58	-	-	λαβών	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	λαμβάνω
+0014	001	12	59	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	60	-	-	μετὰ	-	ADP	R-	-		μετά
+0014	001	12	61	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	12	62	-	-	Πύδναν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Πύδνη
+0014	001	12	63	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	64	-	-	πάλιν	-	ADV	Df	-		πάλιν
+0014	001	12	65	-	-	Ποτείδαιαν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Ποτείδαια
+0014	001	12	66	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	67	-	-	Μεθώνην	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Μεθώνη
+0014	001	12	68	-	-	αὖθις	-	ADV	Df	-		αὖθις
+0014	001	12	69	-	-	,	-	PUNCT	Z	-		,
+0014	001	12	70	-	-	εἶτα	-	ADV	Df	-		εἶτα
+0014	001	12	71	-	-	Θετταλίας	-	PROPN	Ne	-	Case=Gen|Gender=Fem|Number=Sing	Θεσσαλία
+0014	001	12	72	-	-	ἐπέβη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιβαίνω
+0014	001	12	73	-	-	·	-	PUNCT	Z	-		·
+0014	001	13	0	-	-	μετὰ	-	ADP	R-	-		μετά
+0014	001	13	1	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	13	2	-	-	Φεράς	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Plur	Φερός
+0014	001	13	3	-	-	,	-	PUNCT	Z	-		,
+0014	001	13	4	-	-	Παγασάς	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Plur	Παγασάς
+0014	001	13	5	-	-	,	-	PUNCT	Z	-		,
+0014	001	13	6	-	-	Μαγνησίαν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Μαγνησία
+0014	001	13	7	-	-	,	-	PUNCT	Z	-		,
+0014	001	13	8	-	-	πάνθʼ	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0014	001	13	9	-	-	ὃν	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0014	001	13	10	-	-	ἐβούλετʼ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐβούλω
+0014	001	13	11	-	-	εὐτρεπίσας	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	εὐτρεπίω
+0014	001	13	12	-	-	τρόπον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	τρόπος
+0014	001	13	13	-	-	ᾤχετʼ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	οἴχομαι
+0014	001	13	14	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	13	15	-	-	Θρᾴκην	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Θρᾴκη
+0014	001	13	16	-	-	·	-	PUNCT	Z	-		·
+0014	001	13	17	-	-	εἶτʼ	-	CCONJ	C-	-		εἶτα
+0014	001	13	18	-	-	ἐκεῖ	-	ADV	Df	-		ἐκεῖ
+0014	001	13	19	-	-	τοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0014	001	13	20	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	13	21	-	-	ἐκβαλὼν	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἐκβάλλω
+0014	001	13	22	-	-	τοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0014	001	13	23	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	13	24	-	-	καταστήσας	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	καθίστημι
+0014	001	13	25	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	13	26	-	-	βασιλέων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	βασιλεύς
+0014	001	13	27	-	-	ἠσθένησε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀσθενέω
+0014	001	13	28	-	-	·	-	PUNCT	Z	-		·
+0014	001	13	29	-	-	πάλιν	-	ADV	Df	-		πάλιν
+0014	001	13	30	-	-	ῥᾴσας	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ῥᾴω
+0014	001	13	31	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	13	32	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0014	001	13	33	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	13	34	-	-	ῥᾳθυμεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ῥαθυμέω
+0014	001	13	35	-	-	ἀπέκλινεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποκλίνω
+0014	001	13	36	-	-	,	-	PUNCT	Z	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	,
+0014	001	13	37	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0014	001	13	38	-	-	εὐθὺς	-	ADV	Df	-		εὐθύς
+0014	001	13	39	-	-	Ὀλυνθίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	13	40	-	-	ἐπεχείρησεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιχειρέω
+0014	001	13	41	-	-	.	-	PUNCT	Z	-		.
+0014	001	13	42	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	13	43	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	13	44	-	-	ἐπʼ	-	ADP	R-	-		ἐπί
+0014	001	13	45	-	-	Ἰλλυριοὺς	-	NOUN	Ne	-	Case=Acc|Gender=Masc|Number=Plur	Ἰλλυριοί
+0014	001	13	46	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	13	47	-	-	Παίονας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	Παίονες
+0014	001	13	48	-	-	αὐτοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	13	49	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	13	50	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	13	51	-	-	Ἀρύββαν	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἀρύββας
+0014	001	13	52	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	13	53	-	-	ὅποι	-	ADV	Dq	-	PronType=Rel	ὅποι
+0014	001	13	54	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	13	55	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	13	56	-	-	εἴποι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0014	001	13	57	-	-	παραλείπω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	παραλείπω
+0014	001	13	58	-	-	στρατείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	στρατεία
+0014	001	13	59	-	-	.	-	PUNCT	Z	-		.
+0014	001	14	0	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0014	001	14	1	-	-	οὖν	-	ADV	Df	-		οὖν
+0014	001	14	2	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	3	-	-	ἄν	-	ADV	Df	-		ἄν
+0014	001	14	4	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	14	5	-	-	εἴποι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0014	001	14	6	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	7	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	14	8	-	-	λέγεις	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0014	001	14	9	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	14	10	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	14	11	-	-	;	-	PUNCT	Z	-		;
+0014	001	14	12	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0014	001	14	13	-	-	γνῶτʼ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	γνώς
+0014	001	14	14	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	15	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	14	16	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	14	17	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	14	18	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	19	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	14	20	-	-	αἴσθησθʼ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	αἴσθησθι
+0014	001	14	21	-	-	ἀμφότερα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἀμφότεροι
+0014	001	14	22	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	23	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	14	24	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	14	25	-	-	προΐεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	προΐημι
+0014	001	14	26	-	-	καθʼ	-	ADP	R-	-		κατά
+0014	001	14	27	-	-	ἕκαστον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος
+0014	001	14	28	-	-	ἀεί	-	ADV	Df	-		ἀεί
+0014	001	14	29	-	-	τι	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0014	001	14	30	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	14	31	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	14	32	-	-	ὡς	-	ADV	Df	-	PronType=Rel	ὡς
+0014	001	14	33	-	-	ἀλυσιτελές	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἀλυσιτελής
+0014	001	14	34	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	35	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	14	36	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	14	37	-	-	φιλοπραγμοσύνην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	φιλοπραγμοσύνη
+0014	001	14	38	-	-	ᾗ	-	PRON	Pr	-	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0014	001	14	39	-	-	χρῆται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	χράω
+0014	001	14	40	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	14	41	-	-	συζῇ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συζῇ
+0014	001	14	42	-	-	Φίλιππος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	14	43	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	44	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0014	001	14	45	-	-	ἧς	-	PRON	Pr	-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0014	001	14	46	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	14	47	-	-	ἔστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	14	48	-	-	ὅπως	-	SCONJ	G-	-		ὅπως
+0014	001	14	49	-	-	ἀγαπήσας	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀγαπέω
+0014	001	14	50	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	14	51	-	-	πεπραγμένοις	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	πράσσω
+0014	001	14	52	-	-	ἡσυχίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἡσυχία
+0014	001	14	53	-	-	σχήσει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	14	54	-	-	.	-	PUNCT	Z	-		.
+0014	001	14	55	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	14	56	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	14	57	-	-	ὁ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ὁ
+0014	001	14	58	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	14	59	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0014	001	14	60	-	-	ἀεί	-	ADV	Df	-		ἀεί
+0014	001	14	61	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0014	001	14	62	-	-	μεῖζον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	μέγας
+0014	001	14	63	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	14	64	-	-	ὑπαρχόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑπάρχω
+0014	001	14	65	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	14	66	-	-	πράττειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πράσσω
+0014	001	14	67	-	-	ἐγνωκὼς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	γιγνώσκω
+0014	001	14	68	-	-	ἔσται	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί
+0014	001	14	69	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	70	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	14	71	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	14	72	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0014	001	14	73	-	-	οὐδενὸς	-	ADJ	Px	-	Case=Gen|Gender=Neut|Number=Sing	οὐδείς
+0014	001	14	74	-	-	ἀντιληπτέον	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀντιληόπ
+0014	001	14	75	-	-	ἐρρωμένως	-	ADV	Df	-	Degree=Pos	ἐρρωμένος
+0014	001	14	76	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	14	77	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	14	78	-	-	,	-	PUNCT	Z	-		,
+0014	001	14	79	-	-	σκοπεῖσθʼ	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	σκοπενῖομαι
+0014	001	14	80	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	14	81	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0014	001	14	82	-	-	ποτʼ	-	ADP	Px	-		πρός
+0014	001	14	83	-	-	ἐλπὶς	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ἐλπίς
+0014	001	14	84	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	14	85	-	-	τελευτῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	τελευτάω
+0014	001	14	86	-	-	.	-	PUNCT	Z	-		.
+0014	001	15	0	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	15	1	-	-	θεῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	θεός
+0014	001	15	2	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	3	-	-	τίς	-	PRON	Pi	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	τίς
+0014	001	15	4	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0014	001	15	5	-	-	εὐήθης	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	εὐήθης
+0014	001	15	6	-	-	ἐστὶν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	15	7	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	15	8	-	-	ὅστις	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅστις
+0014	001	15	9	-	-	ἀγνοεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγνοέω
+0014	001	15	10	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	15	11	-	-	ἐκεῖθεν	-	ADV	Df	-		ἐκεῖθεν
+0014	001	15	12	-	-	πόλεμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πόλεμος
+0014	001	15	13	-	-	δεῦρʼ	-	ADV	Df	-		δεῦρο
+0014	001	15	14	-	-	ἥξοντα	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἥκω
+0014	001	15	15	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	16	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	15	17	-	-	ἀμελήσωμεν	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀμελήσω
+0014	001	15	18	-	-	;	-	PUNCT	Z	-		;
+0014	001	15	19	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0014	001	15	20	-	-	μήν	-	ADV	Df	-		μήν
+0014	001	15	21	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	22	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	15	23	-	-	τοῦτο	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0014	001	15	24	-	-	γενήσεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	15	25	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	26	-	-	δέδοικʼ	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	δείδω
+0014	001	15	27	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	28	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	15	29	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	15	30	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	15	31	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	32	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	15	33	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	15	34	-	-	αὐτὸν	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	αὐτός
+0014	001	15	35	-	-	τρόπον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	τρόπος
+0014	001	15	36	-	-	ὥσπερ	-	ADV	Dq	-	PronType=Rel	ὥσπερ
+0014	001	15	37	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	15	38	-	-	δανειζόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	δανειζόμενος
+0014	001	15	39	-	-	ῥᾳδίως	-	ADV	Df	-	Degree=Pos	ῥᾴδιος
+0014	001	15	40	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0014	001	15	41	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	15	42	-	-	μεγάλοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	μέγας
+0014	001	15	43	-	-	τόκοις	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	τόκος
+0014	001	15	44	-	-	μικρὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	μικρός
+0014	001	15	45	-	-	εὐπορήσαντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	εὐπορέω
+0014	001	15	46	-	-	χρόνον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	χρόνος
+0014	001	15	47	-	-	ὕστερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ὕστερος
+0014	001	15	48	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	15	49	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	15	50	-	-	ἀρχαίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἀρχαῖος
+0014	001	15	51	-	-	ἀπέστησαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀφίστημι
+0014	001	15	52	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	53	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0014	001	15	54	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	15	55	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	15	56	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	15	57	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0014	001	15	58	-	-	πολλῷ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0014	001	15	59	-	-	φανῶμεν	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	φαίνω
+0014	001	15	60	-	-	ἐρρᾳθυμηκότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἐρρᾳθυμηκότες
+0014	001	15	61	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	62	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	15	63	-	-	ἅπαντα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0014	001	15	64	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	15	65	-	-	ἡδονὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἡδονή
+0014	001	15	66	-	-	ζητοῦντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ζητέω
+0014	001	15	67	-	-	πολλὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	15	68	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	15	69	-	-	χαλεπὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	χαλεπός
+0014	001	15	70	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	15	71	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	15	72	-	-	ἐβουλόμεθʼ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	βουλόμω
+0014	001	15	73	-	-	ὕστερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ὕστερος
+0014	001	15	74	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	15	75	-	-	ἀνάγκην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀνάγκη
+0014	001	15	76	-	-	ἔλθωμεν	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἔρχομαι
+0014	001	15	77	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0014	001	15	78	-	-	,	-	PUNCT	Z	-		,
+0014	001	15	79	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	15	80	-	-	κινδυνεύσωμεν	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	κινδυνεύζω
+0014	001	15	81	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	15	82	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	15	83	-	-	ἐν	-	ADP	R-	-		ἐν
+0014	001	15	84	-	-	αὐτῇ	-	DET	Pd	-	Case=Dat|Gender=Fem|Number=Sing	αὐτός
+0014	001	15	85	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	15	86	-	-	χώρᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	χώρα
+0014	001	15	87	-	-	.	-	PUNCT	Z	-		.
+0014	001	16	0	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	16	1	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	16	2	-	-	οὖν	-	ADV	Df	-		οὖν
+0014	001	16	3	-	-	ἐπιτιμᾶν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιτιμέω
+0014	001	16	4	-	-	ἴσως	-	ADV	Df	-		ἴσως
+0014	001	16	5	-	-	φήσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	φήζω
+0014	001	16	6	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	16	7	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	16	8	-	-	ῥᾴδιον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ῥᾴδιος
+0014	001	16	9	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	16	10	-	-	παντὸς	-	ADJ	Px	-	Case=Gen|Gender=Masc|Number=Sing	πᾶς
+0014	001	16	11	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	16	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	16	13	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	16	14	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	16	15	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	16	16	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	16	17	-	-	παρόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0014	001	16	18	-	-	ὅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0014	001	16	19	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0014	001	16	20	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	16	21	-	-	πράττειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πράσσω
+0014	001	16	22	-	-	ἀποφαίνεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἀποφαίνω
+0014	001	16	23	-	-	,	-	PUNCT	Z	-		,
+0014	001	16	24	-	-	τοῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	16	25	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	16	26	-	-	συμβούλου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	συμβούλος
+0014	001	16	27	-	-	.	-	PUNCT	Z	-		.
+0014	001	16	28	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	16	29	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	16	30	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	16	31	-	-	ἀγνοῶ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀγνοέω
+0014	001	16	32	-	-	μέν	-	ADV	Df	-		μέν
+0014	001	16	33	-	-	,	-	PUNCT	Z	-		,
+0014	001	16	34	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	16	35	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	16	36	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	16	37	-	-	,	-	PUNCT	Z	-		,
+0014	001	16	38	-	-	τοῦθʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	16	39	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0014	001	16	40	-	-	πολλάκις	-	ADV	Df	-		πολλάκις
+0014	001	16	41	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	16	42	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	16	43	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	16	44	-	-	αἰτίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	αἴτιος
+0014	001	16	45	-	-	,	-	PUNCT	Z	-		,
+0014	001	16	46	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0014	001	16	47	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	16	48	-	-	ὑστάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	ὕστερος
+0014	001	16	49	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	16	50	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	16	51	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	16	52	-	-	εἰπόντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	λέγω
+0014	001	16	53	-	-	ἐν	-	ADP	R-	-		ἐν
+0014	001	16	54	-	-	ὀργῇ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ὀργή
+0014	001	16	55	-	-	ποιεῖσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ποιέω
+0014	001	16	56	-	-	,	-	PUNCT	Z	-		,
+0014	001	16	57	-	-	ἄν	-	SCONJ	G-	-		ἄν
+0014	001	16	58	-	-	τι	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Sing	τίς
+0014	001	16	59	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	16	60	-	-	κατὰ	-	ADP	R-	-		κατά
+0014	001	16	61	-	-	γνώμην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	γνώμη
+0014	001	16	62	-	-	ἐκβῇ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐκβαίνω
+0014	001	16	63	-	-	·	-	PUNCT	Z	-		·
+0014	001	16	64	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	16	65	-	-	μὴν	-	ADV	Df	-		μείς
+0014	001	16	66	-	-	οἶμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0014	001	16	67	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0014	001	16	68	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	16	69	-	-	ἰδίαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἴδιος
+0014	001	16	70	-	-	ἀσφάλειαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀσφάλεια
+0014	001	16	71	-	-	σκοποῦνθʼ	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	σκοποῦντα
+0014	001	16	72	-	-	ὑποστείλασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	ὑποστείλασθαι
+0014	001	16	73	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	16	74	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	16	75	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	16	76	-	-	συμφέρειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συμφέρω
+0014	001	16	77	-	-	ἡγοῦμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0014	001	16	78	-	-	.	-	PUNCT	Z	-		.
+0014	001	17	0	-	-	φημὶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	φημί
+0014	001	17	1	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	17	2	-	-	διχῇ	-	ADV	Df	-	Degree=Pos	διχή
+0014	001	17	3	-	-	βοηθητέον	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	βοηθέω
+0014	001	17	4	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	17	5	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	17	6	-	-	πράγμασιν	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	17	7	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	17	8	-	-	,	-	PUNCT	Z	-		,
+0014	001	17	9	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	17	10	-	-	τε	-	CCONJ	C-	-		τε
+0014	001	17	11	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	17	12	-	-	πόλεις	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	πόλις
+0014	001	17	13	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	17	14	-	-	Ὀλυνθίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	17	15	-	-	σῴζειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	σῴζω
+0014	001	17	16	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	17	17	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	17	18	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	17	19	-	-	ποιήσοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	ποιήσω
+0014	001	17	20	-	-	στρατιώτας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	στρατιώτης
+0014	001	17	21	-	-	ἐκπέμπειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐκπέμπω
+0014	001	17	22	-	-	,	-	PUNCT	Z	-		,
+0014	001	17	23	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	17	24	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	17	25	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	17	26	-	-	ἐκείνου	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	17	27	-	-	χώραν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χώρα
+0014	001	17	28	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0014	001	17	29	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0014	001	17	30	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	17	31	-	-	τριήρεσι	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	τριήρης
+0014	001	17	32	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	17	33	-	-	στρατιώταις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	στρατιώτης
+0014	001	17	34	-	-	ἑτέροις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἕτερος
+0014	001	17	35	-	-	·	-	PUNCT	Z	-		·
+0014	001	18	0	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	18	1	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	18	2	-	-	θατέρου	-	ADJ	A-	-	Case=Gen|Gender=Neut|Number=Sing	ἕτερος
+0014	001	18	3	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0014	001	18	4	-	-	ὀλιγωρήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ὀλιγωρήσω
+0014	001	18	5	-	-	,	-	PUNCT	Z	-		,
+0014	001	18	6	-	-	ὀκνῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ὀκνέω
+0014	001	18	7	-	-	μὴ	-	SCONJ	G-	-		μή
+0014	001	18	8	-	-	μάταιος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	μάταιος
+0014	001	18	9	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	18	10	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	18	11	-	-	στρατεία	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	στρατεία
+0014	001	18	12	-	-	γένηται	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	18	13	-	-	.	-	PUNCT	Z	-		.
+0014	001	18	14	-	-	εἴτε	-	SCONJ	G-	-		εἴτε
+0014	001	18	15	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	18	16	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	18	17	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	18	18	-	-	ἐκείνου	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	18	19	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0014	001	18	20	-	-	ποιούντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω
+0014	001	18	21	-	-	,	-	PUNCT	Z	-		,
+0014	001	18	22	-	-	ὑπομείνας	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ὑπομένω
+0014	001	18	23	-	-	τοῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0014	001	18	24	-	-	Ὄλυνθον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ὄλυνθος
+0014	001	18	25	-	-	παραστήσεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	παρίστημι
+0014	001	18	26	-	-	,	-	PUNCT	Z	-		,
+0014	001	18	27	-	-	ῥᾳδίως	-	ADV	Df	-	Degree=Pos	ῥᾴδιος
+0014	001	18	28	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0014	001	18	29	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	18	30	-	-	οἰκείαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	οἰκεῖος
+0014	001	18	31	-	-	ἐλθὼν	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἔρχομαι
+0014	001	18	32	-	-	ἀμυνεῖται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀμύνω
+0014	001	18	33	-	-	·	-	PUNCT	Z	-		·
+0014	001	18	34	-	-	εἴτε	-	CCONJ	C-	-		εἴτε
+0014	001	18	35	-	-	βοηθησάντων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	βοηθέω
+0014	001	18	36	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0014	001	18	37	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	18	38	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	18	39	-	-	Ὄλυνθον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ὄλυνθος
+0014	001	18	40	-	-	,	-	PUNCT	Z	-		,
+0014	001	18	41	-	-	ἀκινδύνως	-	ADV	Df	-	Degree=Pos	ἀκίνδυνος
+0014	001	18	42	-	-	ὁρῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὁράω
+0014	001	18	43	-	-	ἔχοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0014	001	18	44	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	18	45	-	-	οἴκοι	-	ADV	Df	-		οἶκος
+0014	001	18	46	-	-	,	-	PUNCT	Z	-		,
+0014	001	18	47	-	-	προσκαθεδεῖται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	προσκαθεδέομαι
+0014	001	18	48	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	18	49	-	-	προσεδρεύσει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	προσεδρεύσις
+0014	001	18	50	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	18	51	-	-	πράγμασι	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	18	52	-	-	,	-	PUNCT	Z	-		,
+0014	001	18	53	-	-	περιέσται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	περίειμι
+0014	001	18	54	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	18	55	-	-	χρόνῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	χρόνος
+0014	001	18	56	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	18	57	-	-	πολιορκουμένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	πολιορκέω
+0014	001	18	58	-	-	.	-	PUNCT	Z	-		.
+0014	001	18	59	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	18	60	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	18	61	-	-	πολλὴν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	πολύς
+0014	001	18	62	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	18	63	-	-	διχῇ	-	ADV	Df	-		διχή
+0014	001	18	64	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	18	65	-	-	βοήθειαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	βοήθεια
+0014	001	18	66	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	18	67	-	-	.	-	PUNCT	Z	-		.
+0014	001	19	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	19	1	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	19	2	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	19	3	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	19	4	-	-	βοηθείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	βοήθεια
+0014	001	19	5	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	19	6	-	-	γιγνώσκω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	γιγνώσκω
+0014	001	19	7	-	-	·	-	PUNCT	Z	-		·
+0014	001	19	8	-	-	περὶ	-	ADP	R-	-		περί
+0014	001	19	9	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	19	10	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0014	001	19	11	-	-	πόρου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	πόρος
+0014	001	19	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	13	-	-	ἔστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	19	14	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	15	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	19	16	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	19	17	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	19	18	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	19	-	-	χρήμαθʼ	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Plur	χρῆμα
+0014	001	19	20	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	19	21	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	22	-	-	ἔστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	19	23	-	-	ὅσʼ	-	PRON	Pr	-	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0014	001	19	24	-	-	οὐδενὶ	-	ADJ	Px	-	Case=Dat|Gender=Masc|Number=Sing	οὐδείς
+0014	001	19	25	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	19	26	-	-	ἄλλων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0014	001	19	27	-	-	ἀνθρώπων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ἄνθρωπος
+0014	001	19	28	-	-	στρατιωτικά	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	στρατιωτικός
+0014	001	19	29	-	-	·	-	PUNCT	Z	-		·
+0014	001	19	30	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	19	31	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	19	32	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	19	33	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0014	001	19	34	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	19	35	-	-	βούλεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0014	001	19	36	-	-	λαμβάνετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λαμβάνω
+0014	001	19	37	-	-	.	-	PUNCT	Z	-		.
+0014	001	19	38	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	19	39	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	19	40	-	-	οὖν	-	ADV	Df	-		οὖν
+0014	001	19	41	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	19	42	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	19	43	-	-	στρατευομένοις	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	στρατεύω
+0014	001	19	44	-	-	ἀποδώσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ἀποδώσω
+0014	001	19	45	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	46	-	-	οὐδενὸς	-	DET	Px	-	Case=Gen|Gender=Masc|Number=Sing	οὐδείς
+0014	001	19	47	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	19	48	-	-	προσδεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προσδέω
+0014	001	19	49	-	-	πόρου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	πόρος
+0014	001	19	50	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	51	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	19	52	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	19	53	-	-	μή	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	19	54	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	55	-	-	προσδεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προσδέω
+0014	001	19	56	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	57	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0014	001	19	58	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	19	59	-	-	ἅπαντος	-	DET	Px	-	Case=Gen|Gender=Masc|Number=Sing	ἅπας
+0014	001	19	60	-	-	ἐνδεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐνδέω
+0014	001	19	61	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	19	62	-	-	πόρου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	πόρος
+0014	001	19	63	-	-	.	-	PUNCT	Z	-		.
+0014	001	19	64	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0014	001	19	65	-	-	οὖν	-	ADV	Df	-		οὖν
+0014	001	19	66	-	-	;	-	PUNCT	Z	-	PronType=Int	;
+0014	001	19	67	-	-	ἄν	-	SCONJ	G-	-		ἄν
+0014	001	19	68	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	19	69	-	-	εἴποι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0014	001	19	70	-	-	,	-	PUNCT	Z	-		,
+0014	001	19	71	-	-	σὺ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ
+0014	001	19	72	-	-	γράφεις	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	γράφω
+0014	001	19	73	-	-	ταῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	19	74	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	19	75	-	-	στρατιωτικά	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	στρατιωτικός
+0014	001	19	76	-	-	;	-	PUNCT	Z	-		;
+0014	001	19	77	-	-	μὰ	-	INTJ	I-	-		μά
+0014	001	19	78	-	-	Δίʼ	-	PROPN	C-	-	Case=Acc|Gender=Masc|Number=Sing	Ζεύς
+0014	001	19	79	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	19	80	-	-	ἔγωγε	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	19	81	-	-	.	-	PUNCT	Z	-		.
+0014	001	20	0	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	20	1	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	20	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	20	3	-	-	ἡγοῦμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0014	001	20	4	-	-	στρατιώτας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	στρατιώτης
+0014	001	20	5	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0014	001	20	6	-	-	κατασκευασθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	κατασκευάζω
+0014	001	20	7	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	20	8	-	-	ταῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	20	9	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	20	10	-	-	στρατιωτικὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	στρατιωτικός
+0014	001	20	11	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	20	12	-	-	μίαν	-	NUM	Ma	-	Case=Acc|Gender=Fem|Number=Sing	εἷς
+0014	001	20	13	-	-	σύνταξιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	σύνταξις
+0014	001	20	14	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	20	15	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	20	16	-	-	αὐτὴν	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	αὐτός
+0014	001	20	17	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	20	18	-	-	τε	-	CCONJ	C-	-		τε
+0014	001	20	19	-	-	λαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω
+0014	001	20	20	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	20	21	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	20	22	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0014	001	20	23	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	20	24	-	-	δέοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δέω
+0014	001	20	25	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	26	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	20	27	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	20	28	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0014	001	20	29	-	-	πως	-	ADV	Df	-	PronType=Int	πως
+0014	001	20	30	-	-	ἄνευ	-	ADP	R-	-		ἄνευ
+0014	001	20	31	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	20	32	-	-	λαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω
+0014	001	20	33	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	20	34	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	20	35	-	-	ἑορτάς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ἑορτή
+0014	001	20	36	-	-	.	-	PUNCT	Z	-		.
+0014	001	20	37	-	-	ἔστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	20	38	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	20	39	-	-	λοιπόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	λοιπός
+0014	001	20	40	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	41	-	-	οἶμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0014	001	20	42	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	43	-	-	πάντας	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Plur	πᾶς
+0014	001	20	44	-	-	εἰσφέρειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰσφέρω
+0014	001	20	45	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	46	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	20	47	-	-	πολλῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	20	48	-	-	δέῃ	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	20	49	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	50	-	-	πολλά	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	20	51	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	52	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	20	53	-	-	ὀλίγων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ὀλίγος
+0014	001	20	54	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	55	-	-	ὀλίγα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ὀλίγος
+0014	001	20	56	-	-	.	-	PUNCT	Z	-		.
+0014	001	20	57	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	20	58	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	20	59	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0014	001	20	60	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	61	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	20	62	-	-	ἄνευ	-	ADP	R-	-		ἄνευ
+0014	001	20	63	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0014	001	20	64	-	-	οὐδὲν	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Sing	οὐδείς
+0014	001	20	65	-	-	ἔστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	20	66	-	-	γενέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	γίγνομαι
+0014	001	20	67	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	20	68	-	-	δεόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δεῖ
+0014	001	20	69	-	-	.	-	PUNCT	Z	-		.
+0014	001	20	70	-	-	λέγουσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0014	001	20	71	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	20	72	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	20	73	-	-	ἄλλους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0014	001	20	74	-	-	τινὰς	-	DET	Px	-	Case=Acc|Gender=Masc|Number=Plur	τίς
+0014	001	20	75	-	-	ἄλλοι	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	ἄλλος
+0014	001	20	76	-	-	πόρους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	πόρος
+0014	001	20	77	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	78	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	20	79	-	-	ἕλεσθʼ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	αἱρέω
+0014	001	20	80	-	-	ὅστις	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅστις
+0014	001	20	81	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	20	82	-	-	συμφέρειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συμφέρω
+0014	001	20	83	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0014	001	20	84	-	-	·	-	PUNCT	Z	-		·
+0014	001	20	85	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	20	86	-	-	ἕως	-	SCONJ	G-	-		ἕως
+0014	001	20	87	-	-	ἐστὶ	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	20	88	-	-	καιρός	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	καιρός
+0014	001	20	89	-	-	,	-	PUNCT	Z	-		,
+0014	001	20	90	-	-	ἀντιλάβεσθε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἀντιλάβομαι
+0014	001	20	91	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	20	92	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	20	93	-	-	.	-	PUNCT	Z	-		.
+0014	001	21	0	-	-	ἄξιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἄξιος
+0014	001	21	1	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	21	2	-	-	ἐνθυμηθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ἐνθυμέομαι
+0014	001	21	3	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	21	4	-	-	λογίσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	λογίζομαι
+0014	001	21	5	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	21	6	-	-	πράγματʼ	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	21	7	-	-	ἐν	-	ADP	R-	-		ἐν
+0014	001	21	8	-	-	ᾧ	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0014	001	21	9	-	-	καθέστηκε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	καθίστημι
+0014	001	21	10	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0014	001	21	11	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	21	12	-	-	Φιλίππου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	21	13	-	-	.	-	PUNCT	Z	-		.
+0014	001	21	14	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0014	001	21	15	-	-	γάρ	-	ADV	Df	-		γάρ
+0014	001	21	16	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	17	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	21	18	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0014	001	21	19	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	21	20	-	-	φήσειέ	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	φημί
+0014	001	21	21	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	21	22	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	21	23	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	21	24	-	-	σκοπῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	σκοπέω
+0014	001	21	25	-	-	ἀκριβῶς	-	ADV	Df	-	Degree=Pos	ἀκριβῶς
+0014	001	21	26	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	27	-	-	εὐτρεπῶς	-	ADV	Df	-	Degree=Pos	εὐτρεπής
+0014	001	21	28	-	-	οὐδʼ	-	CCONJ	C-	-		οὐδέ
+0014	001	21	29	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0014	001	21	30	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	21	31	-	-	κάλλιστʼ	-	VERB	V-	-	Case=Dat|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	καλός
+0014	001	21	32	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	21	33	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	21	34	-	-	παρόντʼ	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	πάρειμι
+0014	001	21	35	-	-	ἔχει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	21	36	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	37	-	-	οὔτʼ	-	CCONJ	C-	-		οὔτε
+0014	001	21	38	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	21	39	-	-	ἐξήνεγκε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐκφέρω
+0014	001	21	40	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	21	41	-	-	πόλεμόν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πόλεμος
+0014	001	21	42	-	-	ποτε	-	ADV	Df	-		ποτε
+0014	001	21	43	-	-	τοῦτον	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	οὗτος
+0014	001	21	44	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	21	45	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	46	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	21	47	-	-	πολεμεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πολεμέω
+0014	001	21	48	-	-	ᾠήθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	οἴομαι
+0014	001	21	49	-	-	δεήσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	δέω
+0014	001	21	50	-	-	αὐτόν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	21	51	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	52	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0014	001	21	53	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0014	001	21	54	-	-	ἐπιὼν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔπειμι
+0014	001	21	55	-	-	ἅπαντα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0014	001	21	56	-	-	τότʼ	-	ADV	Df	-		τότε
+0014	001	21	57	-	-	ἤλπιζε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐλπίζω
+0014	001	21	58	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	21	59	-	-	πράγματʼ	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	21	60	-	-	ἀναιρήσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	ἀναιρέω
+0014	001	21	61	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	62	-	-	κ	-	ADV	Df	-		κ
+0014	001	21	63	-	-	ᾆτα	-	ADV	Df	-		ᾆτα
+0014	001	21	64	-	-	διέψευσται	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	διαψεύδω
+0014	001	21	65	-	-	.	-	PUNCT	Z	-		.
+0014	001	21	66	-	-	τοῦτο	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0014	001	21	67	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	21	68	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0014	001	21	69	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	21	70	-	-	ταράττει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ταράσσω
+0014	001	21	71	-	-	παρὰ	-	ADP	R-	-		παρά
+0014	001	21	72	-	-	γνώμην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	γνώμη
+0014	001	21	73	-	-	γεγονὸς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	γίγνομαι
+0014	001	21	74	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	21	75	-	-	πολλὴν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	πολύς
+0014	001	21	76	-	-	ἀθυμίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀθυμία
+0014	001	21	77	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	21	78	-	-	παρέχει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	παρέχω
+0014	001	21	79	-	-	,	-	PUNCT	Z	-		,
+0014	001	21	80	-	-	εἶτα	-	ADV	Df	-		εἶτα
+0014	001	21	81	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	21	82	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	21	83	-	-	Θετταλῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	Θεσσαλός
+0014	001	21	84	-	-	.	-	PUNCT	Z	-		.
+0014	001	22	0	-	-	ταῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0014	001	22	1	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	22	2	-	-	ἄπιστα	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἄπιστος
+0014	001	22	3	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	22	4	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	22	5	-	-	δήπου	-	ADV	Df	-		δήπου
+0014	001	22	6	-	-	φύσει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	φύσις
+0014	001	22	7	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	22	8	-	-	ἀεὶ	-	ADV	Df	-		ἀεί
+0014	001	22	9	-	-	πᾶσιν	-	DET	Px	-	Case=Dat|Gender=Masc|Number=Plur	πᾶς
+0014	001	22	10	-	-	ἀνθρώποις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	ἄνθρωπος
+0014	001	22	11	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	12	-	-	κομιδῇ	-	ADV	Df	-		κομιδῇ
+0014	001	22	13	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	22	14	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	15	-	-	ὥσπερ	-	ADV	Dq	-	PronType=Rel	ὥσπερ
+0014	001	22	16	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	22	17	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	18	-	-	καὶ	-	ADV	Df	-		καί
+0014	001	22	19	-	-	ἔστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	22	20	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	22	21	-	-	τούτῳ	-	ADJ	Pd	-	Case=Dat|Gender=Masc|Number=Sing	οὗτος
+0014	001	22	22	-	-	.	-	PUNCT	Z	-		.
+0014	001	22	23	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	22	24	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	22	25	-	-	Παγασὰς	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Plur	Παγασαί
+0014	001	22	26	-	-	ἀπαιτεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀπαιτέω
+0014	001	22	27	-	-	αὐτόν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	22	28	-	-	εἰσιν	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	22	29	-	-	ἐψηφισμένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ψηφίζω
+0014	001	22	30	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	31	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	22	32	-	-	Μαγνησίαν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Μαγνησία
+0014	001	22	33	-	-	κεκωλύκασι	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κωλύω
+0014	001	22	34	-	-	τειχίζειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	τειχίζω
+0014	001	22	35	-	-	.	-	PUNCT	Z	-		.
+0014	001	22	36	-	-	ἤκουον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀκούω
+0014	001	22	37	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	22	38	-	-	ἔγωγέ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0014	001	22	39	-	-	τινων	-	ADJ	Px	-	Case=Gen|Gender=Masc|Number=Plur	τίς
+0014	001	22	40	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	41	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0014	001	22	42	-	-	οὐδὲ	-	ADV	Df	-	Polarity=Neg	οὐδέ
+0014	001	22	43	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	22	44	-	-	λιμένας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λιμήν
+0014	001	22	45	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	22	46	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	22	47	-	-	ἀγορὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ἀγορά
+0014	001	22	48	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0014	001	22	49	-	-	δώσοιεν	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δώσω
+0014	001	22	50	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	22	51	-	-	καρποῦσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	καρπόω
+0014	001	22	52	-	-	·	-	PUNCT	Z	-		·
+0014	001	22	53	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	22	54	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	22	55	-	-	κοινὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	κοινός
+0014	001	22	56	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	22	57	-	-	Θετταλῶν	-	NOUN	Ne	-	Case=Gen|Gender=Masc|Number=Plur	Θεσσαλός
+0014	001	22	58	-	-	ἀπὸ	-	ADP	R-	-		ἀπό
+0014	001	22	59	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0014	001	22	60	-	-	δέοι	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	22	61	-	-	διοικεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	διοικέω
+0014	001	22	62	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	63	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	22	64	-	-	Φίλιππον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	22	65	-	-	λαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω
+0014	001	22	66	-	-	.	-	PUNCT	Z	-		.
+0014	001	22	67	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	22	68	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	22	69	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0014	001	22	70	-	-	ἀποστερήσεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀποστερήσω
+0014	001	22	71	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	22	72	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0014	001	22	73	-	-	,	-	PUNCT	Z	-		,
+0014	001	22	74	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	22	75	-	-	στενὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	στενός
+0014	001	22	76	-	-	κομιδῇ	-	ADV	Df	-		κομιδῇ
+0014	001	22	77	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	22	78	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	22	79	-	-	τροφῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	τροφή
+0014	001	22	80	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	22	81	-	-	ξένοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ξένος
+0014	001	22	82	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	22	83	-	-	καταστήσεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	καθίστημι
+0014	001	22	84	-	-	.	-	PUNCT	Z	-		.
+0014	001	23	0	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0014	001	23	1	-	-	μὴν	-	ADV	Df	-		μείς
+0014	001	23	2	-	-	τόν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	23	3	-	-	γε	-	ADV	Df	-		γε
+0014	001	23	4	-	-	Παίονα	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Παίων
+0014	001	23	5	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	23	6	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	23	7	-	-	Ἰλλυριὸν	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἰλλυριός
+0014	001	23	8	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	23	9	-	-	ἁπλῶς	-	ADV	Df	-		ἁπλῶς
+0014	001	23	10	-	-	τούτους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0014	001	23	11	-	-	ἅπαντας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἅπας
+0014	001	23	12	-	-	ἡγεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἡγέομαι
+0014	001	23	13	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0014	001	23	14	-	-	αὐτονόμους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	αὐτόνομος
+0014	001	23	15	-	-	ἥδιον	-	ADV	A-	-	Degree=Cmp	ἡδύς
+0014	001	23	16	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	23	17	-	-	καὶ	-	ADV	C-	-		καί
+0014	001	23	18	-	-	ἐλευθέρους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἐλεύθερος
+0014	001	23	19	-	-	ἢ	-	ADV	Df	-		ἤ
+0014	001	23	20	-	-	δούλους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	δοῦλος
+0014	001	23	21	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	23	22	-	-	·	-	PUNCT	Z	-		·
+0014	001	23	23	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	23	24	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	23	25	-	-	ἀήθεις	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἀήθω
+0014	001	23	26	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	23	27	-	-	κατακούειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κατακούω
+0014	001	23	28	-	-	τινός	-	ADJ	Px	-	Case=Gen|Gender=Fem,Masc|Number=Sing	τίς
+0014	001	23	29	-	-	εἰσι	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	23	30	-	-	,	-	PUNCT	Z	-		,
+0014	001	23	31	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	23	32	-	-	ἅ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	ἅ
+0014	001	23	33	-	-	νθρωπος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	νθρωπος
+0014	001	23	34	-	-	ὑβριστής	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ὑβριστής
+0014	001	23	35	-	-	,	-	PUNCT	Z	-		,
+0014	001	23	36	-	-	ὥς	-	ADV	Dq	-	PronType=Rel	ὡς
+0014	001	23	37	-	-	φασιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φημί
+0014	001	23	38	-	-	.	-	PUNCT	Z	-		.
+0014	001	23	39	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	23	40	-	-	μὰ	-	INTJ	Df	-		μά
+0014	001	23	41	-	-	Δίʼ	-	ADP	R-	-		Ζεύς
+0014	001	23	42	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0014	001	23	43	-	-	ἄπιστον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἄπιστος
+0014	001	23	44	-	-	ἴσως	-	ADV	Df	-		ἴσως
+0014	001	23	45	-	-	·	-	PUNCT	Z	-		·
+0014	001	23	46	-	-	τὸ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	23	47	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	23	48	-	-	εὖ	-	ADV	Df	-		εὖ
+0014	001	23	49	-	-	πράττειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πράσσω
+0014	001	23	50	-	-	παρὰ	-	ADP	R-	-		παρά
+0014	001	23	51	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	23	52	-	-	ἀξίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἄξιος
+0014	001	23	53	-	-	ἀφορμὴ	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ἀφορμή
+0014	001	23	54	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	23	55	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0014	001	23	56	-	-	φρονεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	φρονέω
+0014	001	23	57	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	23	58	-	-	ἀνοήτοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἀνόητος
+0014	001	23	59	-	-	γίγνεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	23	60	-	-	·	-	PUNCT	Z	-		·
+0014	001	23	61	-	-	διόπερ	-	ADV	Df	-		διόπερ
+0014	001	23	62	-	-	πολλάκις	-	ADV	Df	-		πολλάκις
+0014	001	23	63	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0014	001	23	64	-	-	τὸ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	23	65	-	-	φυλάξαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	φυλάσσω
+0014	001	23	66	-	-	τἀγαθὰ	-	ADJ	A-	-	Case=Acc|Gender=Neut|Number=Plur	ἀγαθός
+0014	001	23	67	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	23	68	-	-	κτήσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	κτάομαι
+0014	001	23	69	-	-	χαλεπώτερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	χαλεπός
+0014	001	23	70	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0014	001	23	71	-	-	.	-	PUNCT	Z	-		.
+0014	001	24	0	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	24	1	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0014	001	24	2	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	24	3	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0014	001	24	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	24	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	24	6	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	24	7	-	-	,	-	PUNCT	Z	-		,
+0014	001	24	8	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	24	9	-	-	ἀκαιρίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀκαιρία
+0014	001	24	10	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	24	11	-	-	ἐκείνου	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	24	12	-	-	καιρὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	καιρός
+0014	001	24	13	-	-	ὑμέτερον	-	ADJ	Ps	-	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0014	001	24	14	-	-	νομίσαντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	νομίζω
+0014	001	24	15	-	-	ἑτοίμως	-	ADV	Df	-	Degree=Pos	ἑτοίμως
+0014	001	24	16	-	-	συνάρασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	συνάραμι
+0014	001	24	17	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	24	18	-	-	πράγματα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	24	19	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0014	001	24	20	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	24	21	-	-	πρεσβευομένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	πρεσβευομένος
+0014	001	24	22	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0014	001	24	23	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	24	24	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	24	25	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	24	26	-	-	στρατευομένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	στρατεύω
+0014	001	24	27	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	24	28	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	24	29	-	-	παροξύνοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	παροξύνω
+0014	001	24	30	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	24	31	-	-	ἄλλους	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Plur	ἄλλος
+0014	001	24	32	-	-	ἅπαντας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἅπας
+0014	001	24	33	-	-	,	-	PUNCT	Z	-		,
+0014	001	24	34	-	-	λογιζομένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	λογίζομαι
+0014	001	24	35	-	-	,	-	PUNCT	Z	-		,
+0014	001	24	36	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	24	37	-	-	Φίλιππος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	24	38	-	-	λάβοι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λαμβάνω
+0014	001	24	39	-	-	καθʼ	-	ADP	R-	-		κατά
+0014	001	24	40	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0014	001	24	41	-	-	τοιοῦτον	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	τοιοῦτος
+0014	001	24	42	-	-	καιρὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	καιρός
+0014	001	24	43	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	24	44	-	-	πόλεμος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	πόλεμος
+0014	001	24	45	-	-	γένοιτο	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	24	46	-	-	πρὸς	-	ADP	R-	-		πρός
+0014	001	24	47	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	24	48	-	-	χώρᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	χώρα
+0014	001	24	49	-	-	,	-	PUNCT	Z	-		,
+0014	001	24	50	-	-	πῶς	-	ADV	Du	-	PronType=Int	πῶς
+0014	001	24	51	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	24	52	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	24	53	-	-	οἴεσθʼ	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0014	001	24	54	-	-	ἑτοίμως	-	ADV	Df	-	Degree=Pos	ἑτοίμως
+0014	001	24	55	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0014	001	24	56	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	24	57	-	-	ἐλθεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἔρχομαι
+0014	001	24	58	-	-	;	-	PUNCT	Z	-		;
+0014	001	24	59	-	-	εἶτʼ	-	CCONJ	C-	-		εἶτα
+0014	001	24	60	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	24	61	-	-	αἰσχύνεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	αἰσχύνομαι
+0014	001	24	62	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0014	001	24	63	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	24	64	-	-	μηδʼ	-	ADV	Df	-	Polarity=Neg	μηδέ
+0014	001	24	65	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	24	66	-	-	πάθοιτʼ	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	πάθω
+0014	001	24	67	-	-	ἄν	-	ADV	Df	-		ἄν
+0014	001	24	68	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0014	001	24	69	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	24	70	-	-	δύναιτʼ	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δύναμαι
+0014	001	24	71	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	24	72	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0014	001	24	73	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	24	74	-	-	ποιῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ποιέω
+0014	001	24	75	-	-	καιρὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	καιρός
+0014	001	24	76	-	-	ἔχοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0014	001	24	77	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	24	78	-	-	τολμήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	τολμήσω
+0014	001	24	79	-	-	;	-	PUNCT	Z	-		;
+0014	001	25	0	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0014	001	25	1	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0014	001	25	2	-	-	,	-	PUNCT	Z	-		,
+0014	001	25	3	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	25	4	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0014	001	25	5	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0014	001	25	6	-	-	,	-	PUNCT	Z	-		,
+0014	001	25	7	-	-	μηδὲ	-	CCONJ	C-	-		μηδέ
+0014	001	25	8	-	-	τοῦθʼ	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0014	001	25	9	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	25	10	-	-	λανθανέτω	-	VERB	V-	-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λανθάνω
+0014	001	25	11	-	-	,	-	PUNCT	Z	-		,
+0014	001	25	12	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0014	001	25	13	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	25	14	-	-	αἵρεσίς	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	αἵρεσις
+0014	001	25	15	-	-	ἐστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	25	16	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	25	17	-	-	πότερʼ	-	ADV	Pi	-	PronType=Int	πότερον
+0014	001	25	18	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	25	19	-	-	ἐκεῖ	-	ADV	Df	-		ἐκεῖ
+0014	001	25	20	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0014	001	25	21	-	-	πολεμεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πολεμέω
+0014	001	25	22	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0014	001	25	23	-	-	παρʼ	-	ADP	R-	-		παρά
+0014	001	25	24	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	25	25	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	25	26	-	-	.	-	PUNCT	Z	-		.
+0014	001	25	27	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0014	001	25	28	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	25	29	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	25	30	-	-	ἀντέχῃ	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀντέχω
+0014	001	25	31	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	25	32	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	25	33	-	-	Ὀλυνθίων	-	NOUN	A-	-	Case=Gen|Gender=Masc|Number=Plur	Ὀλύνθιος
+0014	001	25	34	-	-	,	-	PUNCT	Z	-		,
+0014	001	25	35	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	25	36	-	-	ἐκεῖ	-	ADV	Df	-		ἐκεῖ
+0014	001	25	37	-	-	πολεμήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	πολεμήσω
+0014	001	25	38	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	25	39	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	25	40	-	-	ἐκείνου	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Sing	ἐκεῖνος
+0014	001	25	41	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0014	001	25	42	-	-	ποιήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ποιέω
+0014	001	25	43	-	-	,	-	PUNCT	Z	-		,
+0014	001	25	44	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	25	45	-	-	ὑπάρχουσαν	-	VERB	V-	-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ὑπάρχω
+0014	001	25	46	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	25	47	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	25	48	-	-	οἰκείαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	οἰκεῖος
+0014	001	25	49	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0014	001	25	50	-	-	ἀδεῶς	-	ADV	Df	-	Degree=Pos	ἀδεῶς
+0014	001	25	51	-	-	καρπούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	καρπόω
+0014	001	25	52	-	-	·	-	PUNCT	Z	-		·
+0014	001	25	53	-	-	ἂν	-	SCONJ	G-	-		ἄν
+0014	001	25	54	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	25	55	-	-	ἐκεῖνα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	ἐκεῖνος
+0014	001	25	56	-	-	Φίλιππος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	25	57	-	-	λάβῃ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λαμβάνω
+0014	001	25	58	-	-	,	-	PUNCT	Z	-		,
+0014	001	25	59	-	-	τίς	-	PRON	Pi	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	τίς
+0014	001	25	60	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	25	61	-	-	κωλύσει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	κωλύω
+0014	001	25	62	-	-	δεῦρο	-	ADV	Df	-		δεῦρο
+0014	001	25	63	-	-	βαδίζειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	βαδίζω
+0014	001	25	64	-	-	;	-	PUNCT	Z	-		;
+0014	001	25	65	-	-	Θηβαῖοι	-	ADJ	A-	-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	Θηβαῖος
+0014	001	25	66	-	-	;	-	PUNCT	Z	-	PronType=Int	;
+0014	001	26	0	-	-	 	-	CCONJ	V-	-		 
+0014	001	26	1	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	26	2	-	-	λίαν	-	ADV	Df	-		λίαν
+0014	001	26	3	-	-	πικρὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πικρός
+0014	001	26	4	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0014	001	26	5	-	-	ᾖ	-	AUX	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	26	6	-	-	—	-	SCONJ	G-	-		—
+0014	001	26	7	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	26	8	-	-	συνεισβαλοῦσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	συνεισβαλέω
+0014	001	26	9	-	-	ἑτοίμως	-	ADV	Df	-	Degree=Pos	ἑτοίμως
+0014	001	26	10	-	-	.	-	PUNCT	Z	-		.
+0014	001	26	11	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0014	001	26	12	-	-	Φωκεῖς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	Φωκεύς
+0014	001	26	13	-	-	;	-	PUNCT	Z	-		;
+0014	001	26	14	-	-	οἱ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ
+0014	001	26	15	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	26	16	-	-	οἰκείαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	οἰκεῖος
+0014	001	26	17	-	-	οὐχ	-	ADV	Df	-	Polarity=Neg	οὐ
+0014	001	26	18	-	-	οἷοί	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	οἷος
+0014	001	26	19	-	-	τε	-	ADV	Df	-		τε
+0014	001	26	20	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0014	001	26	21	-	-	φυλάττειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	φυλάσσω
+0014	001	26	22	-	-	,	-	PUNCT	Z	-		,
+0014	001	26	23	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0014	001	26	24	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	26	25	-	-	βοηθήσηθʼ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	βοηθήσημι
+0014	001	26	26	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	26	27	-	-	.	-	PUNCT	Z	-		.
+0014	001	26	28	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0014	001	26	29	-	-	ἄλλος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἄλλος
+0014	001	26	30	-	-	τις	-	DET	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	26	31	-	-	;	-	PUNCT	Z	-		;
+0014	001	26	32	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0014	001	26	33	-	-	,	-	PUNCT	Z	-		,
+0014	001	26	34	-	-	ὦ	-	INTJ	I-	-		ὦ
+0014	001	26	35	-	-	τᾶν	-	PROPN	F-	-	Case=Voc|Gender=Masc|Number=Sing	ὁ
+0014	001	26	36	-	-	,	-	PUNCT	Z	-		,
+0014	001	26	37	-	-	οὐχὶ	-	ADV	Df	-	Polarity=Neg	οὐχί
+0014	001	26	38	-	-	βουλήσεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	βούλομαι
+0014	001	26	39	-	-	.	-	PUNCT	Z	-		.
+0014	001	26	40	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	26	41	-	-	ἀτοπωτάτων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἄτοπωτα
+0014	001	26	42	-	-	μέντἂν	-	ADV	Df	-		μέντοι
+0014	001	26	43	-	-	εἴη	-	AUX	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	26	44	-	-	,	-	PUNCT	Z	-		,
+0014	001	26	45	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	26	46	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	26	47	-	-	νῦν	-	ADV	Df	-		νῦν
+0014	001	26	48	-	-	ἄνοιαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἄνοια
+0014	001	26	49	-	-	ὀφλισκάνων	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ὀφλισκάνω
+0014	001	26	50	-	-	ὅμως	-	ADV	Df	-		ὅμως
+0014	001	26	51	-	-	ἐκλαλεῖ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐκλαλέω
+0014	001	26	52	-	-	,	-	PUNCT	Z	-		,
+0014	001	26	53	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	26	54	-	-	δυνηθεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	δύναμαι
+0014	001	26	55	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0014	001	26	56	-	-	πράξει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	πρᾶξις
+0014	001	26	57	-	-	.	-	PUNCT	Z	-		.
+0014	001	27	0	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0014	001	27	1	-	-	μὴν	-	ADV	Df	-		μείς
+0014	001	27	2	-	-	ἡλίκα	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἧλιξ
+0014	001	27	3	-	-	γʼ	-	ADV	Df	-		γε
+0014	001	27	4	-	-	ἐστὶν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	27	5	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	27	6	-	-	διάφορʼ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	διάφορος
+0014	001	27	7	-	-	ἐνθάδʼ	-	ADP	R-	-		ἐνθάδε
+0014	001	27	8	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0014	001	27	9	-	-	ἐκεῖ	-	ADV	Df	-		ἐκεῖ
+0014	001	27	10	-	-	πολεμεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πολεμέω
+0014	001	27	11	-	-	,	-	PUNCT	Z	-		,
+0014	001	27	12	-	-	οὐδὲ	-	ADV	Df	-	Polarity=Neg	οὐδέ
+0014	001	27	13	-	-	λόγου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	λόγος
+0014	001	27	14	-	-	προσδεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	προσδέω
+0014	001	27	15	-	-	ἡγοῦμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0014	001	27	16	-	-	.	-	PUNCT	Z	-		.
+0014	001	27	17	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	27	18	-	-	γὰρ	-	ADV	Df	-		γάρ
+0014	001	27	19	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	27	20	-	-	δεήσειεν	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	27	21	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0014	001	27	22	-	-	τριάκονθʼ	-	NUM	Ma	-	Case=Acc|Gender=Fem|Number=Plur	τριάκοντα
+0014	001	27	23	-	-	ἡμέρας	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ἡμέρα
+0014	001	27	24	-	-	μόνας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	μόνος
+0014	001	27	25	-	-	ἔξω	-	ADV	Df	-		ἔξω
+0014	001	27	26	-	-	γενέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	γίγνομαι
+0014	001	27	27	-	-	,	-	PUNCT	Z	-		,
+0014	001	27	28	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	27	29	-	-	ὅσʼ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0014	001	27	30	-	-	ἀνάγκη	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ἀνάγκη
+0014	001	27	31	-	-	στρατοπέδῳ	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	στρατόπεδον
+0014	001	27	32	-	-	χρωμένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	χράω
+0014	001	27	33	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	27	34	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0014	001	27	35	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	27	36	-	-	χώρας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	χώρα
+0014	001	27	37	-	-	λαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω
+0014	001	27	38	-	-	,	-	PUNCT	Z	-		,
+0014	001	27	39	-	-	μηδενὸς	-	DET	Px	-	Case=Gen|Gender=Masc|Number=Sing	μηδείς
+0014	001	27	40	-	-	ὄντος	-	AUX	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0014	001	27	41	-	-	ἐν	-	ADP	R-	-		ἐν
+0014	001	27	42	-	-	αὐτῇ	-	PRON	Pp	-	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός
+0014	001	27	43	-	-	πολεμίου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	πολέμιος
+0014	001	27	44	-	-	λέγω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0014	001	27	45	-	-	,	-	PUNCT	Z	-		,
+0014	001	27	46	-	-	πλείονʼ	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	πολύς
+0014	001	27	47	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	27	48	-	-	οἶμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0014	001	27	49	-	-	ζημιωθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ζημιόω
+0014	001	27	50	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	27	51	-	-	γεωργοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	γεωργέω
+0014	001	27	52	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	27	53	-	-	ἢ	-	ADV	Df	-		ἤ
+0014	001	27	54	-	-	ὅσʼ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0014	001	27	55	-	-	εἰς	-	ADP	R-	-		εἰς
+0014	001	27	56	-	-	ἅπαντα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἅπας
+0014	001	27	57	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	27	58	-	-	πρὸ	-	ADP	R-	-		πρό
+0014	001	27	59	-	-	τοῦ	-	PRON	Pp	-	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	ὁ
+0014	001	27	60	-	-	πόλεμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πόλεμος
+0014	001	27	61	-	-	δεδαπάνησθε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	δεδαπάνησθε
+0014	001	27	62	-	-	.	-	PUNCT	Z	-		.
+0014	001	27	63	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0014	001	27	64	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	27	65	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	27	66	-	-	πόλεμός	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	πόλεμος
+0014	001	27	67	-	-	τις	-	DET	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0014	001	27	68	-	-	ἥξει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἥκω
+0014	001	27	69	-	-	,	-	PUNCT	Z	-		,
+0014	001	27	70	-	-	πόσα	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Int	πόσος
+0014	001	27	71	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0014	001	27	72	-	-	νομίσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	νομίζω
+0014	001	27	73	-	-	ζημιώσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	ζημιόω
+0014	001	27	74	-	-	;	-	PUNCT	Z	-		;
+0014	001	27	75	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	27	76	-	-	πρόσεσθʼ	-	ADV	V-	-		πρόσεσθʼ
+0014	001	27	77	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	27	78	-	-	ὕβρις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ὕβρις
+0014	001	27	79	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	27	80	-	-	ἔθʼ	-	ADV	Df	-		ἔτι
+0014	001	27	81	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	27	82	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	27	83	-	-	πραγμάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	27	84	-	-	αἰσχύνη	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	αἰσχύνη
+0014	001	27	85	-	-	,	-	PUNCT	Z	-		,
+0014	001	27	86	-	-	οὐδεμιᾶς	-	DET	Px	-	Case=Gen|Gender=Fem|Number=Sing	οὐδείς
+0014	001	27	87	-	-	ἐλάττων	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ἐλάσσων
+0014	001	27	88	-	-	ζημίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ζημία
+0014	001	27	89	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	27	90	-	-	γε	-	ADV	Df	-		γε
+0014	001	27	91	-	-	σώφροσιν	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	σώφρων
+0014	001	27	92	-	-	.	-	PUNCT	Z	-		.
+0014	001	28	0	-	-	πάντα	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0014	001	28	1	-	-	δὴ	-	ADV	Df	-		δή
+0014	001	28	2	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0014	001	28	3	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0014	001	28	4	-	-	συνιδόντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	συνοράω
+0014	001	28	5	-	-	ἅπαντας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἅπας
+0014	001	28	6	-	-	βοηθεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	βοηθέω
+0014	001	28	7	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	28	8	-	-	ἀπωθεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀπωθέω
+0014	001	28	9	-	-	ἐκεῖσε	-	ADV	Df	-		ἐκεῖσε
+0014	001	28	10	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0014	001	28	11	-	-	πόλεμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πόλεμος
+0014	001	28	12	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	13	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	28	14	-	-	μὲν	-	ADV	Df	-		μέν
+0014	001	28	15	-	-	εὐπόρους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	εὔπορος
+0014	001	28	16	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	17	-	-	ἵνʼ	-	SCONJ	G-	-		ἵνα
+0014	001	28	18	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0014	001	28	19	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	28	20	-	-	πολλῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0014	001	28	21	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0014	001	28	22	-	-	καλῶς	-	ADV	Df	-	Degree=Pos	καλῶς
+0014	001	28	23	-	-	ποιοῦντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω
+0014	001	28	24	-	-	ἔχουσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0014	001	28	25	-	-	μίκρʼ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	μικρός
+0014	001	28	26	-	-	ἀναλίσκοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀναλίσκοντες
+0014	001	28	27	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	28	28	-	-	λοιπὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	λοιπός
+0014	001	28	29	-	-	καρπῶνται	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	καρπῶνται
+0014	001	28	30	-	-	ἀδεῶς	-	ADV	Df	-		ἀδεῶς
+0014	001	28	31	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	32	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	28	33	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	28	34	-	-	ἐν	-	ADP	R-	-		ἐν
+0014	001	28	35	-	-	ἡλικίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ἡλικία
+0014	001	28	36	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	37	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0014	001	28	38	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	28	39	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0014	001	28	40	-	-	πολεμεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πολεμέω
+0014	001	28	41	-	-	ἐμπειρίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἐμπειρία
+0014	001	28	42	-	-	ἐν	-	ADP	R-	-		ἐν
+0014	001	28	43	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	28	44	-	-	Φιλίππου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Φίλιππος
+0014	001	28	45	-	-	χώρᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	χώρα
+0014	001	28	46	-	-	κτησάμενοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	κτάομαι
+0014	001	28	47	-	-	φοβεροὶ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	φοβερός
+0014	001	28	48	-	-	φύλακες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	φύλαξ
+0014	001	28	49	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0014	001	28	50	-	-	οἰκείας	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	οἰκεῖος
+0014	001	28	51	-	-	ἀκεραίου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ἀκέραιος
+0014	001	28	52	-	-	γένωνται	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	28	53	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	54	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	28	55	-	-	δὲ	-	ADV	Df	-		δέ
+0014	001	28	56	-	-	λέγοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0014	001	28	57	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	58	-	-	ἵνʼ	-	SCONJ	G-	-		ἵνα
+0014	001	28	59	-	-	αἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0014	001	28	60	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0014	001	28	61	-	-	πεπολιτευμένων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	πολιτεύω
+0014	001	28	62	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	28	63	-	-	εὔθυναι	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	εὔθυναι
+0014	001	28	64	-	-	ῥᾴδιαι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	ῥᾴδιος
+0014	001	28	65	-	-	γένωνται	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0014	001	28	66	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	67	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0014	001	28	68	-	-	ὁποῖʼ	-	ADV	Dq	-	PronType=Rel	ὁποῖος
+0014	001	28	69	-	-	ἄττʼ	-	SCONJ	Pr	-		τις
+0014	001	28	70	-	-	ἂν	-	ADV	Df	-		ἄν
+0014	001	28	71	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0014	001	28	72	-	-	περιστῇ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	περιίστημι
+0014	001	28	73	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0014	001	28	74	-	-	πράγματα	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Plur	πρᾶγμα
+0014	001	28	75	-	-	,	-	PUNCT	Z	-		,
+0014	001	28	76	-	-	τοιοῦτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	τοιοῦτος
+0014	001	28	77	-	-	κριταὶ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	κριτής
+0014	001	28	78	-	-	καὶ	-	CCONJ	C-	-		καί
+0014	001	28	79	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0014	001	28	80	-	-	πεπραγμένων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	πράσσω
+0014	001	28	81	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0014	001	28	82	-	-	ἔσεσθε	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί
+0014	001	28	83	-	-	.	-	PUNCT	Z	-		.
+0014	001	28	84	-	-	χρηστὰ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	χρηστός
+0014	001	28	85	-	-	δʼ	-	ADV	Df	-		δέ
+0014	001	28	86	-	-	εἴη	-	AUX	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0014	001	28	87	-	-	παντὸς	-	ADJ	Px	-	Case=Gen|Gender=Neut|Number=Sing	πᾶς
+0014	001	28	88	-	-	εἵνεκα	-	ADP	R-	-		ἕνεκα
+0014	001	28	89	-	-	.	-	PUNCT	Z	-		.

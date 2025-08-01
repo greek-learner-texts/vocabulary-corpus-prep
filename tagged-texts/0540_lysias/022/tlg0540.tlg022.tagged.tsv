@@ -1,0 +1,1395 @@
+0540	022	1	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	1	1	-	-	πολλοί	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	πολύς
+0540	022	1	2	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	1	3	-	-	προσεληλύθασιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	προσεληλύθα
+0540	022	1	4	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0540	022	1	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	1	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	1	7	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	1	8	-	-	,	-	PUNCT	Z	-		,
+0540	022	1	9	-	-	θαυμάζοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	θαυμάζω
+0540	022	1	10	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	1	11	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	1	12	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	1	13	-	-	σιτοπωλῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	σιτοπωλός
+0540	022	1	14	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	1	15	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	1	16	-	-	βουλῇ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	βουλή
+0540	022	1	17	-	-	κατηγόρουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	κατηγορέω
+0540	022	1	18	-	-	,	-	PUNCT	Z	-		,
+0540	022	1	19	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	1	20	-	-	λέγοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	022	1	21	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	1	22	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	1	23	-	-	,	-	PUNCT	Z	-		,
+0540	022	1	24	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	1	25	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	1	26	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0540	022	1	27	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	1	28	-	-	ἀδικεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀδικέω
+0540	022	1	29	-	-	ἡγεῖσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	022	1	30	-	-	,	-	PUNCT	Z	-		,
+0540	022	1	31	-	-	οὐδὲν	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	022	1	32	-	-	ἧττον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	ἥσσων
+0540	022	1	33	-	-	καὶ	-	ADV	Df	-		καί
+0540	022	1	34	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	1	35	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	1	36	-	-	τούτων	-	DET	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	022	1	37	-	-	λόγους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λόγος
+0540	022	1	38	-	-	ποιουμένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ποιέω
+0540	022	1	39	-	-	συκοφαντεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συκοφαντέω
+0540	022	1	40	-	-	νομίζετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	νομίζω
+0540	022	1	41	-	-	.	-	PUNCT	Z	-		.
+0540	022	1	42	-	-	ὅθεν	-	ADV	Dq	-	PronType=Rel	ὅθεν
+0540	022	1	43	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	022	1	44	-	-	ἠνάγκασμαι	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἀναγκάζω
+0540	022	1	45	-	-	κατηγορεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κατηγορέω
+0540	022	1	46	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	1	47	-	-	,	-	PUNCT	Z	-		,
+0540	022	1	48	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	1	49	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	022	1	50	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	022	1	51	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	022	1	52	-	-	βούλομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	022	1	53	-	-	.	-	PUNCT	Z	-		.
+0540	022	2	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	2	1	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	022	2	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	2	3	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	2	4	-	-	πρυτάνεις	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	πρύτανις
+0540	022	2	5	-	-	ἀπέδοσαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποδίδωμι
+0540	022	2	6	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	022	2	7	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	2	8	-	-	βουλὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	βουλή
+0540	022	2	9	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	2	10	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	2	11	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	12	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0540	022	2	13	-	-	ὠργίσθησαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ὀργίζω
+0540	022	2	14	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	2	15	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	16	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	022	2	17	-	-	ἔλεγόν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	022	2	18	-	-	τινες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	τίς
+0540	022	2	19	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	2	20	-	-	ῥητόρων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ῥήτωρ
+0540	022	2	21	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	022	2	22	-	-	ἀκρίτους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἄκριτος
+0540	022	2	23	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	2	24	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0540	022	2	25	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	2	26	-	-	ἕνδεκα	-	NUM	Ma	-		ἕνδεκα
+0540	022	2	27	-	-	παραδοῦναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	παραδίδωμι
+0540	022	2	28	-	-	θανάτῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	θάνατος
+0540	022	2	29	-	-	ζημιῶσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ζημιόω
+0540	022	2	30	-	-	.	-	PUNCT	Z	-		.
+0540	022	2	31	-	-	ἡγούμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	022	2	32	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	2	33	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	2	34	-	-	δεινὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	δεινός
+0540	022	2	35	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	022	2	36	-	-	τοιαῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	τοιοῦτος
+0540	022	2	37	-	-	ἐθίζεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἐθίζω
+0540	022	2	38	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	022	2	39	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	2	40	-	-	βουλήν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	βουλή
+0540	022	2	41	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	42	-	-	ἀναστὰς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀνίστημι
+0540	022	2	43	-	-	εἶπον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	022	2	44	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	2	45	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	2	46	-	-	δοκοίη	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0540	022	2	47	-	-	κρίνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κρίνω
+0540	022	2	48	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	2	49	-	-	σιτοπώλας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	σιτοπώλη
+0540	022	2	50	-	-	κατὰ	-	ADP	R-	-		κατά
+0540	022	2	51	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	2	52	-	-	νόμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	νόμος
+0540	022	2	53	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	54	-	-	νομίζων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	νομίζω
+0540	022	2	55	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	56	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	2	57	-	-	μέν	-	ADV	Df	-		μέν
+0540	022	2	58	-	-	εἰσιν	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	2	59	-	-	ἄξια	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἄξιος
+0540	022	2	60	-	-	θανάτου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	θάνατος
+0540	022	2	61	-	-	εἰργασμένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἐργάζομαι
+0540	022	2	62	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	63	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	2	64	-	-	οὐδὲν	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	022	2	65	-	-	ἧττον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	ἥσσων
+0540	022	2	66	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	022	2	67	-	-	γνώσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	γιγνώσκω
+0540	022	2	68	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	2	69	-	-	δίκαια	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	δίκαιος
+0540	022	2	70	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	71	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	2	72	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	2	73	-	-	μηδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	μηδείς
+0540	022	2	74	-	-	ἀδικοῦσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀδικέω
+0540	022	2	75	-	-	,	-	PUNCT	Z	-		,
+0540	022	2	76	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	2	77	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0540	022	2	78	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	2	79	-	-	ἀκρίτους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἄκριτος
+0540	022	2	80	-	-	ἀπολωλέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ἀπόλλυμι
+0540	022	2	81	-	-	.	-	PUNCT	Z	-		.
+0540	022	2	82	-	-	πεισθείσης	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	πεισθείσης
+0540	022	2	83	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	2	84	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	2	85	-	-	βουλῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	βουλή
+0540	022	2	86	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	022	2	87	-	-	,	-	PUNCT	Z	-		,
+0540	022	3	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	3	1	-	-	διαβάλλειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	διαβάλλω
+0540	022	3	2	-	-	ἐπεχείρουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιχειρέω
+0540	022	3	3	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	3	4	-	-	λέγοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	022	3	5	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	022	3	6	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	3	7	-	-	σωτηρίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	σωτηρία
+0540	022	3	8	-	-	ἕνεκα	-	ADP	R-	-		ἕνεκα
+0540	022	3	9	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	3	10	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	3	11	-	-	σιτοπωλῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	σιτοπωλόω
+0540	022	3	12	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	3	13	-	-	λόγους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λόγος
+0540	022	3	14	-	-	τούτους	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	022	3	15	-	-	ἐποιούμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ποιέω
+0540	022	3	16	-	-	.	-	PUNCT	Z	-		.
+0540	022	3	17	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	022	3	18	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	3	19	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	022	3	20	-	-	βουλήν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	βουλή
+0540	022	3	21	-	-	,	-	PUNCT	Z	-		,
+0540	022	3	22	-	-	ὅτʼ	-	SCONJ	G-	-		ὅτε
+0540	022	3	23	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	3	24	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	3	25	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	3	26	-	-	κρίσις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	κρίσις
+0540	022	3	27	-	-	,	-	PUNCT	Z	-		,
+0540	022	3	28	-	-	ἔργῳ	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	ἔργον
+0540	022	3	29	-	-	ἀπελογησάμην	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἀπολογέομαι
+0540	022	3	30	-	-	·	-	PUNCT	Z	-		·
+0540	022	3	31	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	3	32	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	3	33	-	-	ἄλλων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0540	022	3	34	-	-	ἡσυχίαν	-	NOUN	V-	-	Case=Acc|Gender=Fem|Number=Sing	ἡσυχία
+0540	022	3	35	-	-	ἀγόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἄγω
+0540	022	3	36	-	-	ἀναστὰς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀνίστημι
+0540	022	3	37	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	3	38	-	-	κατηγόρουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	κατηγορέω
+0540	022	3	39	-	-	,	-	PUNCT	Z	-		,
+0540	022	3	40	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	3	41	-	-	πᾶσι	-	ADJ	Px	-	Case=Dat|Gender=Masc|Number=Plur	πᾶς
+0540	022	3	42	-	-	φανερὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	φανερός
+0540	022	3	43	-	-	ἐποίησα	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω
+0540	022	3	44	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	3	45	-	-	οὐχ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	3	46	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	022	3	47	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	022	3	48	-	-	ἔλεγον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	022	3	49	-	-	,	-	PUNCT	Z	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	,
+0540	022	3	50	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	3	51	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	3	52	-	-	νόμοις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	νόμος
+0540	022	3	53	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	3	54	-	-	κειμένοις	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	κεῖμαι
+0540	022	3	55	-	-	ἐβοήθουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	βοηθέω
+0540	022	3	56	-	-	.	-	PUNCT	Z	-		.
+0540	022	4	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	4	1	-	-	ἠρξάμην	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἄρχω
+0540	022	4	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	4	3	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	022	4	4	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	022	4	5	-	-	ἕνεκα	-	ADP	R-	-		ἕνεκα
+0540	022	4	6	-	-	,	-	PUNCT	Z	-		,
+0540	022	4	7	-	-	δεδιὼς	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	δείδω
+0540	022	4	8	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	022	4	9	-	-	αἰτίας	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	αἰτία
+0540	022	4	10	-	-	·	-	PUNCT	Z	-		·
+0540	022	4	11	-	-	αἰσχρὸν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	αἰσχρός
+0540	022	4	12	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	4	13	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	4	14	-	-	quod	-	ADV	Df	-		quod
+0540	022	4	15	-	-	est	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	est
+0540	022	4	16	-	-	in	-	VERB	Nb	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	in
+0540	022	4	17	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	022	4	18	-	-	pone	-	CCONJ	C-	-		pone
+0540	022	4	19	-	-	δεδιὼς	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	δείδω
+0540	022	4	20	-	-	post	-	ADV	Df	-		post
+0540	022	4	21	-	-	αἰσχρὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	αἰσχρός
+0540	022	4	22	-	-	transp.	-	PUNCT	Z	-		transp.
+0540	022	4	23	-	-	Dobree.	-	PUNCT	Z	-		Dobree.
+0540	022	4	24	-	-	ἡγοῦμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	022	4	25	-	-	πρότερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πρότερος
+0540	022	4	26	-	-	παύσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	παύω
+0540	022	4	27	-	-	,	-	PUNCT	Z	-		,
+0540	022	4	28	-	-	πρὶν	-	SCONJ	G-	-		πρίν
+0540	022	4	29	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	4	30	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	4	31	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	4	32	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	4	33	-	-	ὅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0540	022	4	34	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	022	4	35	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	4	36	-	-	βούλησθε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	022	4	37	-	-	ψηφίσησθε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ψηφίσμαη
+0540	022	4	38	-	-	.	-	PUNCT	Z	-		.
+0540	022	5	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	5	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	5	2	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	022	5	3	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	5	4	-	-	ἀνάβητε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀναβαίνω
+0540	022	5	5	-	-	.	-	PUNCT	Z	-		.
+0540	022	5	6	-	-	εἰπὲ	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	022	5	7	-	-	σὺ	-	PRON	Pp	-	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	σύ
+0540	022	5	8	-	-	ἐμοί	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	5	9	-	-	,	-	PUNCT	Z	-		,
+0540	022	5	10	-	-	μέτοικος	-	ADJ	Nb	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μέτοικος
+0540	022	5	11	-	-	εἶ	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	5	12	-	-	;	-	PUNCT	Z	-		;
+0540	022	5	13	-	-	ναί	-	INTJ	I-	-		ναί
+0540	022	5	14	-	-	.	-	PUNCT	Z	-		.
+0540	022	5	15	-	-	μετοικεῖς	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	μετοικέω
+0540	022	5	16	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	5	17	-	-	πότερον	-	ADV	Du	-	PronType=Int	πότερον
+0540	022	5	18	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	5	19	-	-	πεισόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Mid	πείθω
+0540	022	5	20	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	5	21	-	-	νόμοις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	νόμος
+0540	022	5	22	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	5	23	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	5	24	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	022	5	25	-	-	,	-	PUNCT	Z	-		,
+0540	022	5	26	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	5	27	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	5	28	-	-	ποιήσων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	ποιέω
+0540	022	5	29	-	-	ὅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0540	022	5	30	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	022	5	31	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	5	32	-	-	βούλῃ	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	022	5	33	-	-	;	-	PUNCT	Z	-		;
+0540	022	5	34	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	5	35	-	-	πεισόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Mid	πείθω
+0540	022	5	36	-	-	.	-	PUNCT	Z	-		.
+0540	022	5	37	-	-	ἄλλο	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἄλλος
+0540	022	5	38	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	022	5	39	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	022	5	40	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	5	41	-	-	ἀξιοῖς	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἄξιος
+0540	022	5	42	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	5	43	-	-	ἀξιοῖς	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἄξιος
+0540	022	5	44	-	-	Reiske	-	CCONJ	C-	-		Reiske
+0540	022	5	45	-	-	:	-	CCONJ	C-	-		:
+0540	022	5	46	-	-	ἀξιοῖς	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἄξιος
+0540	022	5	47	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	5	48	-	-	.	-	PUNCT	Z	-		.
+0540	022	5	49	-	-	ἀποθανεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀποθνῄσκω
+0540	022	5	50	-	-	,	-	PUNCT	Z	-		,
+0540	022	5	51	-	-	εἴ	-	SCONJ	G-	-		εἰ
+0540	022	5	52	-	-	τι	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	022	5	53	-	-	πεποίηκας	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω
+0540	022	5	54	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	022	5	55	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	5	56	-	-	νόμους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	νόμος
+0540	022	5	57	-	-	,	-	PUNCT	Z	-		,
+0540	022	5	58	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0540	022	5	59	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	022	5	60	-	-	θάνατος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	θάνατος
+0540	022	5	61	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	5	62	-	-	ζημία	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ζημία
+0540	022	5	63	-	-	;	-	PUNCT	Z	-		;
+0540	022	5	64	-	-	ἔγωγε	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	5	65	-	-	·	-	PUNCT	Z	-		·
+0540	022	5	66	-	-	ἀπόκριναι	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀποκρίνω
+0540	022	5	67	-	-	δή	-	ADV	Df	-		δή
+0540	022	5	68	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	5	69	-	-	,	-	PUNCT	Z	-		,
+0540	022	5	70	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	5	71	-	-	ὁμολογεῖς	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ὁμολογέω
+0540	022	5	72	-	-	πλείω	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	πολύς
+0540	022	5	73	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	5	74	-	-	συμπρίασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	συμπρίαμι
+0540	022	5	75	-	-	πεντήκοντα	-	NUM	Ma	-		πεντήκοντα
+0540	022	5	76	-	-	φορμῶν	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	φορμός
+0540	022	5	77	-	-	,	-	PUNCT	Z	-		,
+0540	022	5	78	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	022	5	79	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	5	80	-	-	νόμος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	νόμος
+0540	022	5	81	-	-	ἐξεῖναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔξεστι
+0540	022	5	82	-	-	κελεύει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κελεύω
+0540	022	5	83	-	-	.	-	PUNCT	Z	-		.
+0540	022	5	84	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	5	85	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	5	86	-	-	ἀρχόντων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ἄρχω
+0540	022	5	87	-	-	κελευόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κελεύω
+0540	022	5	88	-	-	συνεπριάμην	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	συνεπριάμη
+0540	022	5	89	-	-	.	-	PUNCT	Z	-		.
+0540	022	6	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	6	1	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	6	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	6	3	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	022	6	4	-	-	ἀποδείξῃ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποδείκνυμι
+0540	022	6	5	-	-	,	-	PUNCT	Z	-	Case=Acc|Gender=Masc|Number=Sing	,
+0540	022	6	6	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	6	7	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	6	8	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	6	9	-	-	,	-	PUNCT	Z	-		,
+0540	022	6	10	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0540	022	6	11	-	-	ἔστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	6	12	-	-	νόμος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	νόμος
+0540	022	6	13	-	-	ὃς	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0540	022	6	14	-	-	κελεύει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κελεύω
+0540	022	6	15	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	6	16	-	-	σιτοπώλας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	σιτοπώλη
+0540	022	6	17	-	-	συνωνεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	συνωνέομαι
+0540	022	6	18	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	6	19	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	6	20	-	-	,	-	PUNCT	Z	-		,
+0540	022	6	21	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	6	22	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	6	23	-	-	ἄρχοντες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	ἄρχων
+0540	022	6	24	-	-	κελεύωσιν	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κελεύω
+0540	022	6	25	-	-	,	-	PUNCT	Z	-		,
+0540	022	6	26	-	-	ἀποψηφίσασθε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἀποψηφίσαμαι
+0540	022	6	27	-	-	·	-	PUNCT	Z	-		·
+0540	022	6	28	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	6	29	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	6	30	-	-	μή	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	6	31	-	-	,	-	PUNCT	Z	-		,
+0540	022	6	32	-	-	δίκαιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δίκαιος
+0540	022	6	33	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	6	34	-	-	καταψηφίσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	καταψηφίζομαι
+0540	022	6	35	-	-	.	-	PUNCT	Z	-		.
+0540	022	6	36	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	022	6	37	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	6	38	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	6	39	-	-	παρεσχόμεθα	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	παρέχω
+0540	022	6	40	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	6	41	-	-	νόμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	νόμος
+0540	022	6	42	-	-	,	-	PUNCT	Z	-	Case=Acc|Gender=Masc|Number=Sing	,
+0540	022	6	43	-	-	ὃς	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0540	022	6	44	-	-	ἀπαγορεύει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀπαγορεύω
+0540	022	6	45	-	-	μηδένα	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Sing	μηδείς
+0540	022	6	46	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	6	47	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	6	48	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	6	49	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	022	6	50	-	-	πλείω	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	πολύς
+0540	022	6	51	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	6	52	-	-	πεντήκοντα	-	NUM	Ma	-		πεντήκοντα
+0540	022	6	53	-	-	φορμῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	φορμός
+0540	022	6	54	-	-	συνωνεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	συνωνέομαι
+0540	022	6	55	-	-	.	-	PUNCT	Z	-		.
+0540	022	7	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	7	1	-	-	χρῆν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	χρή
+0540	022	7	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	7	3	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	022	7	4	-	-	,	-	PUNCT	Z	-		,
+0540	022	7	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	7	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	7	7	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	7	8	-	-	,	-	PUNCT	Z	-		,
+0540	022	7	9	-	-	ἱκανὴν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἱκανός
+0540	022	7	10	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	022	7	11	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0540	022	7	12	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	7	13	-	-	κατηγορίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	κατηγορία
+0540	022	7	14	-	-	,	-	PUNCT	Z	-		,
+0540	022	7	15	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	022	7	16	-	-	οὗτος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0540	022	7	17	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	7	18	-	-	ὁμολογεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ὁμολογέω
+0540	022	7	19	-	-	συμπρίασθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	συμπρίαμι
+0540	022	7	20	-	-	,	-	PUNCT	Z	-		,
+0540	022	7	21	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	7	22	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	7	23	-	-	νόμος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	νόμος
+0540	022	7	24	-	-	ἀπαγορεύων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀπαγορεύω
+0540	022	7	25	-	-	φαίνεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	φαίνω
+0540	022	7	26	-	-	,	-	PUNCT	Z	-		,
+0540	022	7	27	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	7	28	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	7	29	-	-	κατὰ	-	ADP	R-	-		κατά
+0540	022	7	30	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	7	31	-	-	νόμους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	νόμος
+0540	022	7	32	-	-	ὀμωμόκατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ὄμνυμι
+0540	022	7	33	-	-	ψηφιεῖσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	ψηφίζω
+0540	022	7	34	-	-	·	-	PUNCT	Z	-		·
+0540	022	7	35	-	-	ὅμως	-	ADV	Df	-		ὅμως
+0540	022	7	36	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	7	37	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0540	022	7	38	-	-	πεισθῆτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	πείθω
+0540	022	7	39	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	7	40	-	-	καὶ	-	ADV	Df	-		καί
+0540	022	7	41	-	-	κατὰ	-	ADP	R-	-		κατά
+0540	022	7	42	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	7	43	-	-	ἀρχόντων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ἄρχω
+0540	022	7	44	-	-	ψεύδονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ψεύδομαι
+0540	022	7	45	-	-	,	-	PUNCT	Z	-		,
+0540	022	7	46	-	-	ἀνάγκη	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ἀνάγκη
+0540	022	7	47	-	-	καὶ	-	ADV	Df	-		καί
+0540	022	7	48	-	-	μακρότερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	μακρός
+0540	022	7	49	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	022	7	50	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	7	51	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	7	52	-	-	.	-	PUNCT	Z	-		.
+0540	022	8	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	8	1	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	022	8	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	8	3	-	-	οὗτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	οὗτος
+0540	022	8	4	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	8	5	-	-	αἰτίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	αἰτία
+0540	022	8	6	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	022	8	7	-	-	ἐκείνους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	022	8	8	-	-	ἀνέφερον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀναφέρω
+0540	022	8	9	-	-	,	-	PUNCT	Z	-		,
+0540	022	8	10	-	-	παρακαλέσαντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	παρακαλέω
+0540	022	8	11	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	8	12	-	-	ἄρχοντας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἄρχω
+0540	022	8	13	-	-	ἠρωτῶμεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐρωτάω
+0540	022	8	14	-	-	.	-	PUNCT	Z	-		.
+0540	022	8	15	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	8	16	-	-	οἱ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	022	8	17	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	8	18	-	-	δύο	-	NUM	Ma	-		δύο
+0540	022	8	19	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	022	8	20	-	-	ἔφασαν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	φημί
+0540	022	8	21	-	-	εἰδέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	οἶδα
+0540	022	8	22	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	022	8	23	-	-	πράγματος	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	πρᾶγμα
+0540	022	8	24	-	-	,	-	PUNCT	Z	-		,
+0540	022	8	25	-	-	Ἄνυτος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Ἄνυτος
+0540	022	8	26	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	8	27	-	-	ἔλεγεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	022	8	28	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	022	8	29	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	8	30	-	-	προτέρου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	πρότερος
+0540	022	8	31	-	-	χειμῶνος	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	χειμών
+0540	022	8	32	-	-	,	-	PUNCT	Z	-		,
+0540	022	8	33	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	022	8	34	-	-	τίμιος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	τίμιος
+0540	022	8	35	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	8	36	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	8	37	-	-	σῖτος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	σῖτος
+0540	022	8	38	-	-	,	-	PUNCT	Z	-		,
+0540	022	8	39	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	8	40	-	-	ὑπερβαλλόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑπερβάλλω
+0540	022	8	41	-	-	ἀλλήλους	-	PRON	Pc	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	ἀλλήλων
+0540	022	8	42	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	8	43	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	022	8	44	-	-	σφᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	σφεῖς
+0540	022	8	45	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	022	8	46	-	-	μαχομένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	μάχομαι
+0540	022	8	47	-	-	συμβουλεύσειεν	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συμβουλεύω
+0540	022	8	48	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	8	49	-	-	παύσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	παύω
+0540	022	8	50	-	-	φιλονικοῦσιν	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	φιλονικέω
+0540	022	8	51	-	-	,	-	PUNCT	Z	-		,
+0540	022	8	52	-	-	ἡγούμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	022	8	53	-	-	συμφέρειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συμφέρω
+0540	022	8	54	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	8	55	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	8	56	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	022	8	57	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	8	58	-	-	ὠνουμένοις	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ὠνέομαι
+0540	022	8	59	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	8	60	-	-	ἀξιώτατον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	ἀξιώτατος
+0540	022	8	61	-	-	τούτους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	022	8	62	-	-	πρίασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	πρίασθαι
+0540	022	8	63	-	-	·	-	PUNCT	Z	-		·
+0540	022	8	64	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0540	022	8	65	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	8	66	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	8	67	-	-	ὀβολῷ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	ὀβολῷ
+0540	022	8	68	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0540	022	8	69	-	-	πωλεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πωλέω
+0540	022	8	70	-	-	τιμιώτερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	τίμιος
+0540	022	8	71	-	-	.	-	PUNCT	Z	-		.
+0540	022	9	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	9	1	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	022	9	2	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	022	9	3	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	9	4	-	-	συμπριαμένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	συμπριαμένους
+0540	022	9	5	-	-	καταθέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	κατατίθημι
+0540	022	9	6	-	-	ἐκέλευεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κελεύω
+0540	022	9	7	-	-	αὐτούς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	9	8	-	-	,	-	PUNCT	Z	-		,
+0540	022	9	9	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	9	10	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	9	11	-	-	ἀλλήλοις	-	PRON	Pc	-	Case=Dat|Gender=Masc|Number=Plur|PronType=Rcp	ἀλλήλων
+0540	022	9	12	-	-	ἀντωνεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἀντωνενῖομαι
+0540	022	9	13	-	-	συνεβούλευεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συμβουλεύω
+0540	022	9	14	-	-	,	-	PUNCT	Z	-		,
+0540	022	9	15	-	-	αὐτὸν	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	αὐτός
+0540	022	9	16	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	9	17	-	-	Ἄνυτον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἄνυτος
+0540	022	9	18	-	-	μάρτυρα	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	μάρτυς
+0540	022	9	19	-	-	παρέξομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	παρέχω
+0540	022	9	20	-	-	.	-	PUNCT	Z	-		.
+0540	022	9	21	-	-	Μαρτυρία	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	Μαρτυρία
+0540	022	9	22	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	9	23	-	-	ὡς	-	SCONJ	Dq	-		ὡς
+0540	022	9	24	-	-	ὡς	-	ADV	Dq	-	PronType=Rel	ὡς
+0540	022	9	25	-	-	del.	-	PUNCT	Z	-		del.
+0540	022	9	26	-	-	Pluygers.	-	PUNCT	Z	-		Pluygers.
+0540	022	9	27	-	-	οὗτος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0540	022	9	28	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	9	29	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	9	30	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	9	31	-	-	προτέρας	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	πρότερος
+0540	022	9	32	-	-	βουλῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	βουλή
+0540	022	9	33	-	-	τούτους	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	022	9	34	-	-	εἶπε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	022	9	35	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	9	36	-	-	λόγους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λόγος
+0540	022	9	37	-	-	,	-	PUNCT	Z	-		,
+0540	022	9	38	-	-	οὗτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	οὗτος
+0540	022	9	39	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	9	40	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	9	41	-	-	τῆσδε	-	ADJ	Pd	-	Case=Gen|Gender=Fem|Number=Sing	ὅδε
+0540	022	9	42	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	9	43	-	-	τῆσδε	-	ADJ	Pd	-	Case=Gen|Gender=Fem|Number=Sing	ὅδε
+0540	022	9	44	-	-	Bekker	-	NOUN	V-	-	Case=Gen|Gender=Fem|Number=Sing	Bekker
+0540	022	9	45	-	-	:	-	SCONJ	G-	-		:
+0540	022	9	46	-	-	ἐπίτηδες	-	ADV	Df	-		ἐπίτηδες
+0540	022	9	47	-	-	,	-	PUNCT	Z	-		,
+0540	022	9	48	-	-	ἐξεπίτηδες	-	ADV	Df	-	Degree=Pos	ἐξεπίτηδες
+0540	022	9	49	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	022	9	50	-	-	συνωνούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	συνωνέω
+0540	022	9	51	-	-	φαίνονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	φαίνω
+0540	022	9	52	-	-	.	-	PUNCT	Z	-		.
+0540	022	10	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	10	1	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	10	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	10	3	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	022	10	4	-	-	οὐχ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	10	5	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	022	10	6	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	10	7	-	-	ἀρχόντων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ἄρχω
+0540	022	10	8	-	-	κελευσθέντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	κελεύω
+0540	022	10	9	-	-	συνεπρίαντο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	συναπρίαμαι
+0540	022	10	10	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	10	11	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	10	12	-	-	,	-	PUNCT	Z	-		,
+0540	022	10	13	-	-	ἀκηκόατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	ἀκούω
+0540	022	10	14	-	-	·	-	PUNCT	Z	-		·
+0540	022	10	15	-	-	ἡγοῦμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	022	10	16	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	10	17	-	-	,	-	PUNCT	Z	-		,
+0540	022	10	18	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	10	19	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	10	20	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0540	022	10	21	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	10	22	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	022	10	23	-	-	ἀληθῆ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἀληθής
+0540	022	10	24	-	-	λέγωσιν	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	022	10	25	-	-	,	-	PUNCT	Z	-		,
+0540	022	10	26	-	-	οὐχ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	10	27	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	022	10	28	-	-	αὑτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	10	29	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	10	30	-	-	ἀπολογήσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	ἀπολογέομαι
+0540	022	10	31	-	-	,	-	PUNCT	Z	-		,
+0540	022	10	32	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	10	33	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	10	34	-	-	κατηγορήσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	κατηγορήσω
+0540	022	10	35	-	-	·	-	PUNCT	Z	-		·
+0540	022	10	36	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	10	37	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	10	38	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	022	10	39	-	-	εἰσι	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	10	40	-	-	νόμοι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	νόμος
+0540	022	10	41	-	-	διαρρήδην	-	ADV	Df	-		διαρρήδην
+0540	022	10	42	-	-	γεγραμμένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	γράφω
+0540	022	10	43	-	-	,	-	PUNCT	Z	-		,
+0540	022	10	44	-	-	πῶς	-	ADV	Du	-	PronType=Int	πῶς
+0540	022	10	45	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	10	46	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0540	022	10	47	-	-	διδόναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δίδωμι
+0540	022	10	48	-	-	δίκην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	δίκη
+0540	022	10	49	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	10	50	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	10	51	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	10	52	-	-	πειθομένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	πείθω
+0540	022	10	53	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	10	54	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	10	55	-	-	κελεύοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κελεύω
+0540	022	10	56	-	-	τούτοις	-	ADJ	Pd	-	Case=Dat|Gender=Neut|Number=Plur	οὗτος
+0540	022	10	57	-	-	τἀναντία	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἐναντίος
+0540	022	10	58	-	-	πράττειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πράσσω
+0540	022	10	59	-	-	;	-	PUNCT	Z	-		;
+0540	022	11	0	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	11	1	-	-	γάρ	-	ADV	Df	-		γάρ
+0540	022	11	2	-	-	,	-	PUNCT	Z	-		,
+0540	022	11	3	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	11	4	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	11	5	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	11	6	-	-	,	-	PUNCT	Z	-		,
+0540	022	11	7	-	-	οἴομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	οἴομαι
+0540	022	11	8	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	11	9	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	11	10	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	11	11	-	-	τοῦτον	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	οὗτος
+0540	022	11	12	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	11	13	-	-	λόγον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	λόγος
+0540	022	11	14	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	11	15	-	-	ἐλεύσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	ἔρχομαι
+0540	022	11	16	-	-	·	-	PUNCT	Z	-		·
+0540	022	11	17	-	-	ἴσως	-	ADV	Df	-		ἴσως
+0540	022	11	18	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	11	19	-	-	ἐροῦσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	λέγω
+0540	022	11	20	-	-	,	-	PUNCT	Z	-		,
+0540	022	11	21	-	-	ὥσπερ	-	ADV	Dq	-	PronType=Rel	ὥσπερ
+0540	022	11	22	-	-	καὶ	-	ADV	Df	-		καί
+0540	022	11	23	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	11	24	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	11	25	-	-	βουλῇ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	βουλή
+0540	022	11	26	-	-	,	-	PUNCT	Z	-		,
+0540	022	11	27	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	022	11	28	-	-	ἐπʼ	-	ADP	R-	-		ἐπί
+0540	022	11	29	-	-	εὐνοίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	εὔνοια
+0540	022	11	30	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	11	31	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	022	11	32	-	-	συνεωνοῦντο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	συνωνέομαι
+0540	022	11	33	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	11	34	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	11	35	-	-	,	-	PUNCT	Z	-		,
+0540	022	11	36	-	-	ἵνʼ	-	SCONJ	G-	-		ἵνα
+0540	022	11	37	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	022	11	38	-	-	ἀξιώτατον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	ἀξιώτατος
+0540	022	11	39	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	11	40	-	-	πωλοῖεν	-	VERB	V-	-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πωλέω
+0540	022	11	41	-	-	.	-	PUNCT	Z	-		.
+0540	022	11	42	-	-	μέγιστον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	μέγας
+0540	022	11	43	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	11	44	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	11	45	-	-	ἐρῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	λέγω
+0540	022	11	46	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	11	47	-	-	περιφανέστατον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	περιφανής
+0540	022	11	48	-	-	τεκμήριον	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	τεκμήριον
+0540	022	11	49	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	11	50	-	-	ψεύδονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ψεύδομαι
+0540	022	11	51	-	-	·	-	PUNCT	Z	-		·
+0540	022	12	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	12	1	-	-	ἐχρῆν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	χρή
+0540	022	12	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	12	3	-	-	αὐτούς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	12	4	-	-	,	-	PUNCT	Z	-		,
+0540	022	12	5	-	-	εἴπερ	-	SCONJ	G-	-		εἴπερ
+0540	022	12	6	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	12	7	-	-	ἕνεκα	-	ADP	R-	-		ἕνεκα
+0540	022	12	8	-	-	ἔπραττον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πράσσω
+0540	022	12	9	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	022	12	10	-	-	,	-	PUNCT	Z	-		,
+0540	022	12	11	-	-	φαίνεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	φαίνω
+0540	022	12	12	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	12	13	-	-	αὐτῆς	-	DET	Pd	-	Case=Gen|Gender=Fem|Number=Sing	αὐτός
+0540	022	12	14	-	-	τιμῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	τιμή
+0540	022	12	15	-	-	πολλὰς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	πολύς
+0540	022	12	16	-	-	ἡμέρας	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ἡμέρα
+0540	022	12	17	-	-	πωλοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πωλόω
+0540	022	12	18	-	-	,	-	PUNCT	Z	-		,
+0540	022	12	19	-	-	ἕως	-	SCONJ	G-	-		ἕως
+0540	022	12	20	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	12	21	-	-	συνεωνημένος	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	συνεωνημένος
+0540	022	12	22	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	12	23	-	-	ἐπέλιπε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιλείπω
+0540	022	12	24	-	-	·	-	PUNCT	Z	-		·
+0540	022	12	25	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	022	12	26	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	12	27	-	-	ἐνίοτε	-	ADV	Df	-		ἐνίοτε
+0540	022	12	28	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	12	29	-	-	αὐτῆς	-	DET	Pd	-	Case=Gen|Gender=Fem|Number=Sing	αὐτός
+0540	022	12	30	-	-	ἡμέρας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἡμέρα
+0540	022	12	31	-	-	ἐπώλουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πωλέω
+0540	022	12	32	-	-	δραχμῇ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	δραχμῇ
+0540	022	12	33	-	-	τιμιώτερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	τίμιος
+0540	022	12	34	-	-	,	-	PUNCT	Z	-		,
+0540	022	12	35	-	-	ὥσπερ	-	ADV	Df	-		ὥσπερ
+0540	022	12	36	-	-	κατὰ	-	ADP	R-	-		κατά
+0540	022	12	37	-	-	μέδιμνον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	μέδιμνος
+0540	022	12	38	-	-	συνωνούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	συνωνέω
+0540	022	12	39	-	-	.	-	PUNCT	Z	-		.
+0540	022	12	40	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	12	41	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	12	42	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	12	43	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	022	12	44	-	-	παρέχομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	παρέχω
+0540	022	12	45	-	-	.	-	PUNCT	Z	-		.
+0540	022	13	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	13	1	-	-	δεινὸν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δεινός
+0540	022	13	2	-	-	δέ	-	ADV	Df	-		δέ
+0540	022	13	3	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	022	13	4	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0540	022	13	5	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	022	13	6	-	-	,	-	PUNCT	Z	-		,
+0540	022	13	7	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	13	8	-	-	ὅταν	-	ADV	Dq	-	PronType=Rel	ὅταν
+0540	022	13	9	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	13	10	-	-	εἰσφορὰν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	εἰσφορά
+0540	022	13	11	-	-	εἰσενεγκεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	εἰσφέρω
+0540	022	13	12	-	-	δέη	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δέος
+0540	022	13	13	-	-	,	-	PUNCT	Z	-		,
+0540	022	13	14	-	-	ἣν	-	PRON	Pr	-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0540	022	13	15	-	-	πάντες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	πᾶς
+0540	022	13	16	-	-	εἴσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	οἶδα
+0540	022	13	17	-	-	μέλλουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μέλλω
+0540	022	13	18	-	-	,	-	PUNCT	Z	-		,
+0540	022	13	19	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	13	20	-	-	ἐθέλουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐθέλω
+0540	022	13	21	-	-	,	-	PUNCT	Z	-		,
+0540	022	13	22	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	13	23	-	-	πενίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πενία
+0540	022	13	24	-	-	προφασίζονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	προφασίγζομαι
+0540	022	13	25	-	-	,	-	PUNCT	Z	-		,
+0540	022	13	26	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0540	022	13	27	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	022	13	28	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	13	29	-	-	θάνατός	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	θάνατος
+0540	022	13	30	-	-	ἐστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	13	31	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	13	32	-	-	ζημία	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	ζημία
+0540	022	13	33	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	13	34	-	-	λαθεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λανθάνω
+0540	022	13	35	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	13	36	-	-	συνέφερε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συμφέρω
+0540	022	13	37	-	-	,	-	PUNCT	Z	-		,
+0540	022	13	38	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	022	13	39	-	-	ἐπʼ	-	ADP	R-	-		ἐπί
+0540	022	13	40	-	-	εὐνοίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	εὔνοια
+0540	022	13	41	-	-	φασὶ	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φημί
+0540	022	13	42	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	13	43	-	-	ὑμετέρα	-	ADJ	Ps	-	Case=Dat|Gender=Fem|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	022	13	44	-	-	παρανομῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	παρανομέω
+0540	022	13	45	-	-	.	-	PUNCT	Z	-		.
+0540	022	13	46	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	022	13	47	-	-	πάντες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	πᾶς
+0540	022	13	48	-	-	ἐπίστασθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐπίσταμαι
+0540	022	13	49	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	13	50	-	-	τούτοις	-	ADJ	Pd	-	Case=Dat|Gender=Neut|Number=Plur	οὗτος
+0540	022	13	51	-	-	ἥκιστα	-	ADV	Df	-	Degree=Sup	ἦκα
+0540	022	13	52	-	-	προσήκει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προσήκω
+0540	022	13	53	-	-	τοιούτους	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	τοιοῦτος
+0540	022	13	54	-	-	ποιεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ποιέω
+0540	022	13	55	-	-	λόγους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λόγος
+0540	022	13	56	-	-	.	-	PUNCT	Z	-		.
+0540	022	14	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	14	1	-	-	τἀναντία	-	ADJ	A-	-	Case=Nom|Gender=Neut|Number=Plur	ἐναντίος
+0540	022	14	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	14	3	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	14	4	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	14	5	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	14	6	-	-	ἄλλοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0540	022	14	7	-	-	συμφέρει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συμφέρω
+0540	022	14	8	-	-	·	-	PUNCT	Z	-		·
+0540	022	14	9	-	-	τότε	-	ADV	Df	-		τότε
+0540	022	14	10	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	14	11	-	-	πλεῖστα	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	πολύς
+0540	022	14	12	-	-	κερδαίνουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κερδαίνουμι
+0540	022	14	13	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	14	-	-	ὅταν	-	ADV	Dq	-	PronType=Rel	ὅταν
+0540	022	14	15	-	-	κακοῦ	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	κακός
+0540	022	14	16	-	-	τινος	-	DET	Px	-	Case=Gen|Gender=Masc,Neut|Number=Sing	τίς
+0540	022	14	17	-	-	ἀπαγγελθέντος	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἀπαγγέλλω
+0540	022	14	18	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	14	19	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	022	14	20	-	-	τίμιον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	τίμιος
+0540	022	14	21	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	14	22	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	14	23	-	-	πωλῶσιν	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πωλῶσις
+0540	022	14	24	-	-	.	-	PUNCT	Z	-		.
+0540	022	14	25	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	022	14	26	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	14	27	-	-	ἄσμενοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἄσμενος
+0540	022	14	28	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	022	14	29	-	-	συμφορὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	συμφορά
+0540	022	14	30	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	022	14	31	-	-	ὑμετέρας	-	ADJ	Ps	-	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	ὑμέτερος
+0540	022	14	32	-	-	ὁρῶσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ὁράω
+0540	022	14	33	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	34	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	022	14	35	-	-	τὰς	-	PRON	Pp	-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	022	14	36	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	14	37	-	-	πρότεροι	-	ADJ	A-	-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	πρότερος
+0540	022	14	38	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	14	39	-	-	ἄλλων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0540	022	14	40	-	-	πυνθάνονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	πυνθάνομαι
+0540	022	14	41	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	42	-	-	τὰς	-	PRON	Pp	-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	022	14	43	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	14	44	-	-	αὐτοὶ	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	αὐτός
+0540	022	14	45	-	-	αὐτοὶ	-	DET	Pd	-	Case=Nom|Gender=Masc|Number=Plur	αὐτός
+0540	022	14	46	-	-	Markland	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	Markland
+0540	022	14	47	-	-	:	-	PUNCT	Z	-		:
+0540	022	14	48	-	-	οὗτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	οὗτος
+0540	022	14	49	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	022	14	50	-	-	λογοποιοῦσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λογοποιέω
+0540	022	14	51	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	52	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	14	53	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	022	14	54	-	-	ναῦς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ναῦς
+0540	022	14	55	-	-	διεφθάρθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	διαφθείρω
+0540	022	14	56	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	022	14	57	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	14	58	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	14	59	-	-	Πόντῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	Πόντος
+0540	022	14	60	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	14	61	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	022	14	62	-	-	Λακεδαιμονίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	Λακεδαιμόνιος
+0540	022	14	63	-	-	ἐκπλεούσας	-	VERB	V-	-	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἐκπλέω
+0540	022	14	64	-	-	συνειλῆφθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	συλλαμβάνω
+0540	022	14	65	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	66	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	14	67	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	14	68	-	-	ἐμπόρια	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	ἐμπόριον
+0540	022	14	69	-	-	κεκλῇσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	κεκλῇσθαι
+0540	022	14	70	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	71	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	022	14	72	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	022	14	73	-	-	σπονδὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	σπονδή
+0540	022	14	74	-	-	μέλλειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	μέλλω
+0540	022	14	75	-	-	ἀπορρηθήσεσθαι	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Pass	ἀπορρηθήσομαι
+0540	022	14	76	-	-	,	-	PUNCT	Z	-		,
+0540	022	14	77	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	14	78	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	022	14	79	-	-	τοῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	022	14	80	-	-	ἔχθρας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἔχθρα
+0540	022	14	81	-	-	ἐληλύθασιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔρχομαι
+0540	022	14	82	-	-	,	-	PUNCT	Z	-		,
+0540	022	15	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	15	1	-	-	ὥστʼ	-	ADV	Df	-		ὥστε
+0540	022	15	2	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	15	3	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	15	4	-	-	αὐτοῖς	-	DET	Pd	-	Case=Dat|Gender=Masc,Neut|Number=Plur	αὐτός
+0540	022	15	5	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	15	6	-	-	αὐτοῖς	-	DET	Pd	-	Case=Dat|Gender=Masc,Neut|Number=Plur	αὐτός
+0540	022	15	7	-	-	Cobet	-	ADV	V-	-		Cobet
+0540	022	15	8	-	-	:	-	CCONJ	C-	-		:
+0540	022	15	9	-	-	τούτοις	-	DET	Pd	-	Case=Dat|Gender=Neut|Number=Plur	οὗτος
+0540	022	15	10	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	15	11	-	-	.	-	PUNCT	Z	-		.
+0540	022	15	12	-	-	καιροῖς	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	καιρός
+0540	022	15	13	-	-	ἐπιβουλεύουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπιβουλεύω
+0540	022	15	14	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	15	15	-	-	,	-	PUNCT	Z	-		,
+0540	022	15	16	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	15	17	-	-	οἷσπερ	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	022	15	18	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	15	19	-	-	πολέμιοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	πολέμιος
+0540	022	15	20	-	-	.	-	PUNCT	Z	-		.
+0540	022	15	21	-	-	ὅταν	-	ADV	Dq	-	PronType=Rel	ὅταν
+0540	022	15	22	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	15	23	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0540	022	15	24	-	-	σίτου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	σῖτος
+0540	022	15	25	-	-	τυγχάνητε	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	τυγχάνω
+0540	022	15	26	-	-	δεόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	δέω
+0540	022	15	27	-	-	,	-	PUNCT	Z	-		,
+0540	022	15	28	-	-	ἀναρπάζουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀναρπάζω
+0540	022	15	29	-	-	οὗτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	οὗτος
+0540	022	15	30	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	15	31	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	15	32	-	-	ἐθέλουσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐθέλω
+0540	022	15	33	-	-	πωλεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πωλέω
+0540	022	15	34	-	-	,	-	PUNCT	Z	-		,
+0540	022	15	35	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0540	022	15	36	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	15	37	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	15	38	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	15	39	-	-	τιμῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	τιμή
+0540	022	15	40	-	-	διαφερώμεθα	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	διαφέρω
+0540	022	15	41	-	-	,	-	PUNCT	Z	-		,
+0540	022	15	42	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	022	15	43	-	-	ἀγαπῶμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγαπάω
+0540	022	15	44	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	15	45	-	-	ὁποσουτινοσοῦν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	ὁποσουτινοσέω
+0540	022	15	46	-	-	πριάμενοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	πρίασθαι
+0540	022	15	47	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	022	15	48	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	15	49	-	-	ἀπέλθωμεν	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀπέλθωμεν
+0540	022	15	50	-	-	.	-	PUNCT	Z	-		.
+0540	022	15	51	-	-	ὥστʼ	-	ADV	Df	-		ὥστε
+0540	022	15	52	-	-	ἐνίοτε	-	ADV	Df	-		ἐνίοτε
+0540	022	15	53	-	-	εἰρήνης	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	εἰρήνη
+0540	022	15	54	-	-	οὔσης	-	AUX	V-	-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	022	15	55	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	022	15	56	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	15	57	-	-	πολιορκούμεθα	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	πολιορκούμεθα
+0540	022	15	58	-	-	.	-	PUNCT	Z	-		.
+0540	022	16	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	16	1	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	022	16	2	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	16	3	-	-	πάλαι	-	ADV	Df	-		πάλαι
+0540	022	16	4	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	16	5	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	16	6	-	-	τούτων	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	16	7	-	-	πανουργίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πανουργία
+0540	022	16	8	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	16	9	-	-	κακονοίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	κακονοία
+0540	022	16	10	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	16	11	-	-	πόλις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	πόλις
+0540	022	16	12	-	-	ἔγνωκεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	γιγνώσκω
+0540	022	16	13	-	-	,	-	PUNCT	Z	-		,
+0540	022	16	14	-	-	ὥστʼ	-	SCONJ	G-	-		ὥστε
+0540	022	16	15	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	16	16	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	16	17	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	16	18	-	-	ἄλλοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	ἄλλος
+0540	022	16	19	-	-	ὠνίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	ὠνίω
+0540	022	16	20	-	-	ἅπασι	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0540	022	16	21	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	16	22	-	-	ἀγορανόμους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἀγορανόμους
+0540	022	16	23	-	-	φύλακας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	φύλαξ
+0540	022	16	24	-	-	κατεστήσατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	κατεστέω
+0540	022	16	25	-	-	,	-	PUNCT	Z	-		,
+0540	022	16	26	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	16	27	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	16	28	-	-	ταύτῃ	-	DET	Pd	-	Case=Dat|Gender=Fem|Number=Sing	ταύτῃ
+0540	022	16	29	-	-	μόνῃ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	μονή
+0540	022	16	30	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	16	31	-	-	τέχνῃ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	τέχνη
+0540	022	16	32	-	-	χωρὶς	-	ADP	R-	-		χωρίς
+0540	022	16	33	-	-	σιτοφύλακας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	σιτοφύλαξ
+0540	022	16	34	-	-	ἀποκληροῦτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀποκληρόω
+0540	022	16	35	-	-	·	-	PUNCT	Z	-		·
+0540	022	16	36	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	16	37	-	-	πολλάκις	-	ADV	Df	-		πολλάκις
+0540	022	16	38	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	022	16	39	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	022	16	40	-	-	ἐκείνων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	022	16	41	-	-	πολιτῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	πολίτης
+0540	022	16	42	-	-	ὄντων	-	AUX	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	022	16	43	-	-	δίκην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	δίκη
+0540	022	16	44	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	16	45	-	-	μεγίστην	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	μέγας
+0540	022	16	46	-	-	ἐλάβετε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λαμβάνω
+0540	022	16	47	-	-	,	-	PUNCT	Z	-		,
+0540	022	16	48	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	16	49	-	-	οὐχ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	16	50	-	-	οἷοί	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	οἷος
+0540	022	16	51	-	-	τʼ	-	ADV	Df	-		τε
+0540	022	16	52	-	-	ἦσαν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	16	53	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	16	54	-	-	τούτων	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	16	55	-	-	πονηρίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πονηρία
+0540	022	16	56	-	-	ἐπικρατῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἐπικρατέω
+0540	022	16	57	-	-	.	-	PUNCT	Z	-		.
+0540	022	16	58	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	022	16	59	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0540	022	16	60	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0540	022	16	61	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	022	16	62	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	16	63	-	-	ἀδικοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀδικέω
+0540	022	16	64	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0540	022	16	65	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	16	66	-	-	πάσχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πάσχω
+0540	022	16	67	-	-	,	-	PUNCT	Z	-		,
+0540	022	16	68	-	-	ὁπότε	-	SCONJ	G-	-		ὁπότε
+0540	022	16	69	-	-	καὶ	-	ADV	Df	-		καί
+0540	022	16	70	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	16	71	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	16	72	-	-	δυναμένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	δύναμαι
+0540	022	16	73	-	-	φυλάττειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	φυλάσσω
+0540	022	16	74	-	-	ἀποκτείνετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀποκτείνω
+0540	022	16	75	-	-	;	-	PUNCT	Z	-		;
+0540	022	17	0	-	-	ἐνθυμεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐνθυμέομαι
+0540	022	17	1	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	17	2	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0540	022	17	3	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	17	4	-	-	ἀδύνατον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἀδύνατος
+0540	022	17	5	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	17	6	-	-	ἐστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	17	7	-	-	ἀποψηφίσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	ἀποψηφίζομαι
+0540	022	17	8	-	-	.	-	PUNCT	Z	-		.
+0540	022	17	9	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	17	10	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	17	11	-	-	ἀπογνώσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ἀπογνώσω
+0540	022	17	12	-	-	ὁμολογούντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὁμολογέω
+0540	022	17	13	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	17	14	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	022	17	15	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	17	16	-	-	ἐμπόρους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἔμπορος
+0540	022	17	17	-	-	συνίστασθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	συνίστημι
+0540	022	17	18	-	-	,	-	PUNCT	Z	-		,
+0540	022	17	19	-	-	δόξεθʼ	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	δόξω
+0540	022	17	20	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	17	21	-	-	ἐπιβουλεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιβουλεύω
+0540	022	17	22	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	17	23	-	-	εἰσπλέουσιν	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰσπλέω
+0540	022	17	24	-	-	.	-	PUNCT	Z	-		.
+0540	022	17	25	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	17	26	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	17	27	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	17	28	-	-	ἄλλην	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἄλλος
+0540	022	17	29	-	-	τινὰ	-	DET	Px	-	Case=Acc|Gender=Fem|Number=Sing	τίς
+0540	022	17	30	-	-	ἀπολογίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀπολογία
+0540	022	17	31	-	-	ἐποιοῦντο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ποιέω
+0540	022	17	32	-	-	,	-	PUNCT	Z	-		,
+0540	022	17	33	-	-	οὐδεὶς	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	οὐδείς
+0540	022	17	34	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	17	35	-	-	εἶχε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔχω
+0540	022	17	36	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	17	37	-	-	ἀποψηφισαμένοις	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ἀποψηφίσαμαι
+0540	022	17	38	-	-	ἐπιτιμᾶν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιτιμέω
+0540	022	17	39	-	-	·	-	PUNCT	Z	-		·
+0540	022	17	40	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0540	022	17	41	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	17	42	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	17	43	-	-	ὁποτέροις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ὁπότερος
+0540	022	17	44	-	-	βούλεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	022	17	45	-	-	πιστεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πιστεύω
+0540	022	17	46	-	-	·	-	PUNCT	Z	-		·
+0540	022	17	47	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	022	17	48	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	17	49	-	-	πῶς	-	ADV	Du	-	PronType=Int	πῶς
+0540	022	17	50	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	17	51	-	-	δεινὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	δεῖνα
+0540	022	17	52	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	17	53	-	-	δόξαιτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	δόσσω
+0540	022	17	54	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	022	17	55	-	-	,	-	PUNCT	Z	-		,
+0540	022	17	56	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	17	57	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	17	58	-	-	ὁμολογοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὁμολογέω
+0540	022	17	59	-	-	παρανομεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	παρανομέω
+0540	022	17	60	-	-	ἀζημίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἀζήμιος
+0540	022	17	61	-	-	ἀφήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ἀφίημι
+0540	022	17	62	-	-	;	-	PUNCT	Z	-		;
+0540	022	18	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	18	1	-	-	ἀναμνήσθητε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	ἀναμιμνήσκω
+0540	022	18	2	-	-	δέ	-	ADV	Df	-		δέ
+0540	022	18	3	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0540	022	18	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	18	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	18	6	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	18	7	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0540	022	18	8	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	18	9	-	-	πολλῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	πολύς
+0540	022	18	10	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	022	18	11	-	-	ἐχόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0540	022	18	12	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0540	022	18	13	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	18	14	-	-	αἰτίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	αἰτία
+0540	022	18	15	-	-	,	-	PUNCT	Z	-		,
+0540	022	18	16	-	-	ἀρνουμένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἀρνέω
+0540	022	18	17	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	18	18	-	-	ἀρνουμένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἀρνέω
+0540	022	18	19	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	18	20	-	-	Fuhr	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Fuhr
+0540	022	18	21	-	-	:	-	SCONJ	G-	-		:
+0540	022	18	22	-	-	λαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω
+0540	022	18	23	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	022	18	24	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	18	25	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	022	18	26	-	-	παρεχομένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	παρέχω
+0540	022	18	27	-	-	,	-	PUNCT	Z	-		,
+0540	022	18	28	-	-	θάνατον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	θάνατος
+0540	022	18	29	-	-	κατέγνωτε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	καταγιγνώσκω
+0540	022	18	30	-	-	,	-	PUNCT	Z	-		,
+0540	022	18	31	-	-	πιστοτέρους	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	πιστός
+0540	022	18	32	-	-	ἡγησάμενοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	022	18	33	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	18	34	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	18	35	-	-	κατηγόρων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	κατήγορος
+0540	022	18	36	-	-	λόγους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λόγος
+0540	022	18	37	-	-	.	-	PUNCT	Z	-		.
+0540	022	18	38	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	022	18	39	-	-	πῶς	-	ADV	Du	-	PronType=Int	πῶς
+0540	022	18	40	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	18	41	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	18	42	-	-	θαυμαστὸν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	θαυμαστός
+0540	022	18	43	-	-	εἴη	-	AUX	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	18	44	-	-	,	-	PUNCT	Z	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	,
+0540	022	18	45	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	18	46	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	18	47	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	18	48	-	-	αὐτῶν	-	DET	Pd	-	Case=Gen|Number=Plur	αὐτός
+0540	022	18	49	-	-	ἁμαρτημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	ἁμάρτημα
+0540	022	18	50	-	-	δικάζοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δικάζοντες
+0540	022	18	51	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	022	18	52	-	-	ἐπιθυμεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπιθυμέω
+0540	022	18	53	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	022	18	54	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	18	55	-	-	ἀρνουμένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἀρνέω
+0540	022	18	56	-	-	δίκην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	δίκη
+0540	022	18	57	-	-	λαμβάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λαμβάνω
+0540	022	18	58	-	-	;	-	PUNCT	Z	-		;
+0540	022	19	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	19	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	19	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	19	3	-	-	δή	-	ADV	Df	-		δή
+0540	022	19	4	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	19	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	19	7	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	19	8	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	9	-	-	πᾶσιν	-	ADJ	Px	-	Case=Dat|Gender=Masc|Number=Plur	πᾶς
+0540	022	19	10	-	-	ἡγοῦμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	022	19	11	-	-	φανερὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	φανερός
+0540	022	19	12	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	022	19	13	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	19	14	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	19	15	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	19	16	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	19	17	-	-	τοιούτων	-	DET	Pd	-	Case=Gen|Gender=Neut|Number=Plur	τοιοῦτος
+0540	022	19	18	-	-	ἀγῶνες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	ἀγών
+0540	022	19	19	-	-	κοινότατοι	-	ADJ	A-	-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	κοινότατος
+0540	022	19	20	-	-	τυγχάνουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	τυγχάνω
+0540	022	19	21	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	022	19	22	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	19	23	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	022	19	24	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	19	25	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	022	19	26	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	27	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	022	19	28	-	-	πεύσονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	πεύσονμι
+0540	022	19	29	-	-	ἥντινα	-	PRON	Pr	-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅστις
+0540	022	19	30	-	-	γνώμην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	γνώμη
+0540	022	19	31	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	19	32	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	19	33	-	-	ἔχετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0540	022	19	34	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	35	-	-	ἡγούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	022	19	36	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	37	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	19	38	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	19	39	-	-	θάνατον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	θάνατος
+0540	022	19	40	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	19	41	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	19	42	-	-	Kayser	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	Kayser
+0540	022	19	43	-	-	:	-	ADV	Df	-		:
+0540	022	19	44	-	-	ν	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ΑΒΓ
+0540	022	19	45	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	022	19	46	-	-	καταγνῶτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	καταγιγνώσκω
+0540	022	19	47	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	48	-	-	κοσμιωτέρους	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	κόσμιος
+0540	022	19	49	-	-	ἔσεσθαι	-	AUX	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	εἰμί
+0540	022	19	50	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	19	51	-	-	λοιπούς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	λοιπός
+0540	022	19	52	-	-	·	-	PUNCT	Z	-		·
+0540	022	19	53	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	19	54	-	-	δʼ	-	ADV	Df	-		δέ
+0540	022	19	55	-	-	ἀζημίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἀζήμιος
+0540	022	19	56	-	-	ἀφῆτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀφίημι
+0540	022	19	57	-	-	,	-	PUNCT	Z	-		,
+0540	022	19	58	-	-	πολλὴν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	πολύς
+0540	022	19	59	-	-	ἄδειαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἄδεια
+0540	022	19	60	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	19	61	-	-	ἐψηφισμένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ψηφίζω
+0540	022	19	62	-	-	ἔσεσθε	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί
+0540	022	19	63	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	022	19	64	-	-	ὅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0540	022	19	65	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	022	19	66	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	19	67	-	-	βούλωνται	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	022	19	68	-	-	.	-	PUNCT	Z	-		.
+0540	022	20	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	20	1	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0540	022	20	2	-	-	δέ	-	ADV	Df	-		δέ
+0540	022	20	3	-	-	,	-	PUNCT	Z	-		,
+0540	022	20	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	022	20	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	022	20	6	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	022	20	7	-	-	,	-	PUNCT	Z	-		,
+0540	022	20	8	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	20	9	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0540	022	20	10	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	022	20	11	-	-	παρεληλυθότων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	παρέρχομαι
+0540	022	20	12	-	-	ἕνεκα	-	ADP	R-	-		ἕνεκα
+0540	022	20	13	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	20	14	-	-	κολάζειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κολάζω
+0540	022	20	15	-	-	,	-	PUNCT	Z	-		,
+0540	022	20	16	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	20	17	-	-	καὶ	-	ADV	Df	-		καί
+0540	022	20	18	-	-	παραδείγματος	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	παράδειγμα
+0540	022	20	19	-	-	ἕνεκα	-	ADP	R-	-		ἕνεκα
+0540	022	20	20	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	20	21	-	-	μελλόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	μέλλω
+0540	022	20	22	-	-	ἔσεσθαι	-	AUX	V-	-	Tense=Fut|VerbForm=Inf|Voice=Mid	εἰμί
+0540	022	20	23	-	-	·	-	PUNCT	Z	-		·
+0540	022	20	24	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	022	20	25	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	20	26	-	-	ἔσονται	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί
+0540	022	20	27	-	-	μόγις	-	ADV	Df	-		μόγις
+0540	022	20	28	-	-	ἀνεκτοί	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἀνεκτός
+0540	022	20	29	-	-	.	-	PUNCT	Z	-		.
+0540	022	20	30	-	-	ἐνθυμεῖσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐνθυμέομαι
+0540	022	20	31	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	20	32	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	20	33	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	022	20	34	-	-	ταύτης	-	DET	Pd	-	Case=Gen|Gender=Fem|Number=Sing	οὗτος
+0540	022	20	35	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	20	36	-	-	τέχνης	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	τέχνη
+0540	022	20	37	-	-	πλεῖστοι	-	ADJ	A-	-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	πολύς
+0540	022	20	38	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	20	39	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	022	20	40	-	-	σώματός	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	σῶμα
+0540	022	20	41	-	-	εἰσιν	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	022	20	42	-	-	ἠγωνισμένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἀγωνίζομαι
+0540	022	20	43	-	-	·	-	PUNCT	Z	-		·
+0540	022	20	44	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	20	45	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	022	20	46	-	-	μεγάλα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	μέγας
+0540	022	20	47	-	-	ἐξ	-	ADP	R-	-		ἐκ
+0540	022	20	48	-	-	αὐτῆς	-	PRON	Pp	-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	022	20	49	-	-	ὠφελοῦνται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	ὠφελέω
+0540	022	20	50	-	-	,	-	PUNCT	Z	-		,
+0540	022	20	51	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	022	20	52	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	022	20	53	-	-	αἱροῦνται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	αἱρέω
+0540	022	20	54	-	-	καθʼ	-	ADP	R-	-		κατά
+0540	022	20	55	-	-	ἑκάστην	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἕκαστος
+0540	022	20	56	-	-	ἡμέραν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἡμέρα
+0540	022	20	57	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	20	58	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	20	59	-	-	ψυχῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ψυχή
+0540	022	20	60	-	-	κινδυνεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κινδυνεύω
+0540	022	20	61	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	022	20	62	-	-	παύεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	παύω
+0540	022	20	63	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	022	20	64	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	20	65	-	-	ἀδίκως	-	ADV	Df	-	Degree=Pos	ἀδίκως
+0540	022	20	66	-	-	κερδαίνοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κερδαίνω
+0540	022	20	67	-	-	.	-	PUNCT	Z	-		.
+0540	022	21	0	-	-	 	-	CCONJ	V-	-		 
+0540	022	21	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	21	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	21	3	-	-	δὴ	-	ADV	Df	-		δή
+0540	022	21	4	-	-	οὐδʼ	-	ADV	Df	-	Polarity=Neg	οὐδέ
+0540	022	21	5	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	21	6	-	-	ἀντιβολῶσιν	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀντιβολέω
+0540	022	21	7	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	21	8	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	21	9	-	-	ἱκετεύωσι	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἱκετεύωσι
+0540	022	21	10	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	11	-	-	δικαίως	-	ADV	Df	-	Degree=Pos	δικαίως
+0540	022	21	12	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	022	21	13	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	21	14	-	-	ἐλεήσαιτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐλεήσαειμι
+0540	022	21	15	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	16	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	022	21	17	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	022	21	18	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	21	19	-	-	τε	-	CCONJ	C-	-		τε
+0540	022	21	20	-	-	πολιτῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	πολίτης
+0540	022	21	21	-	-	οἳ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ
+0540	022	21	22	-	-	διὰ	-	ADP	R-	-		διά
+0540	022	21	23	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	21	24	-	-	τούτων	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	21	25	-	-	πονηρίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πονηρία
+0540	022	21	26	-	-	ἀπέθνῃσκον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἀποθνῄσκω
+0540	022	21	27	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	28	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	21	29	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	21	30	-	-	ἐμπόρους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἔμπορος
+0540	022	21	31	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0540	022	21	32	-	-	οὓς	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	022	21	33	-	-	οὓς	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	022	21	34	-	-	Taylor	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Taylor
+0540	022	21	35	-	-	:	-	CCONJ	C-	-		:
+0540	022	21	36	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	022	21	37	-	-	MSS.	-	PUNCT	V-	-		MSS.
+0540	022	21	38	-	-	οὗτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	οὗτος
+0540	022	21	39	-	-	συνέστησαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	συνίστημι
+0540	022	21	40	-	-	·	-	PUNCT	Z	-		·
+0540	022	21	41	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	022	21	42	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	022	21	43	-	-	χαριεῖσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	χαρίζω
+0540	022	21	44	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	21	45	-	-	προθυμοτέρους	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	πρόθυμος
+0540	022	21	46	-	-	ποιήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ποιέω
+0540	022	21	47	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	48	-	-	δίκην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	δίκη
+0540	022	21	49	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	022	21	50	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	21	51	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	022	21	52	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	21	53	-	-	Taylor	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	Taylor
+0540	022	21	54	-	-	:	-	ADV	Df	-		:
+0540	022	21	55	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	022	21	56	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	21	57	-	-	.	-	PUNCT	Z	-		.
+0540	022	21	58	-	-	λαμβάνοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λαμβάνω
+0540	022	21	59	-	-	.	-	PUNCT	Z	-		.
+0540	022	21	60	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	21	61	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	21	62	-	-	μή	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	21	63	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	64	-	-	τίνʼ	-	PRON	Pi	-	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	τις
+0540	022	21	65	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	022	21	66	-	-	οἴεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0540	022	21	67	-	-	γνώμην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	γνώμη
+0540	022	21	68	-	-	ἕξειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἔχω
+0540	022	21	69	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	70	-	-	ἐπειδὰν	-	SCONJ	G-	-		ἐπειδάν
+0540	022	21	71	-	-	πύθωνται	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	πύθω
+0540	022	21	72	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	022	21	73	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	21	74	-	-	καπήλων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	κάπηλος
+0540	022	21	75	-	-	οἳ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ
+0540	022	21	76	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	21	77	-	-	εἰσπλέουσιν	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰσπλέω
+0540	022	21	78	-	-	εἰσπλέουσιν	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰσπλέω
+0540	022	21	79	-	-	Reiske	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Reiske
+0540	022	21	80	-	-	:	-	CCONJ	C-	-		:
+0540	022	21	81	-	-	ἐκπλέουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐκπλέω
+0540	022	21	82	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	022	21	83	-	-	ὡμολόγησαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ὁμολογέω
+0540	022	21	84	-	-	ἐπιβουλεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιβουλεύω
+0540	022	21	85	-	-	,	-	PUNCT	Z	-		,
+0540	022	21	86	-	-	ἀπεψηφίσασθε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἀποψηφίζομαι
+0540	022	21	87	-	-	;	-	PUNCT	Z	-	PronType=Int	;
+0540	022	22	0	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	022	22	1	-	-	οἶδʼ	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	οἶδα
+0540	022	22	2	-	-	ὅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0540	022	22	3	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	022	22	4	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0540	022	22	5	-	-	πλείω	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	πολύς
+0540	022	22	6	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	022	22	7	-	-	·	-	PUNCT	Z	-		·
+0540	022	22	8	-	-	περὶ	-	ADP	R-	-		περί
+0540	022	22	9	-	-	μὲν	-	ADV	Df	-		μέν
+0540	022	22	10	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	022	22	11	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	22	12	-	-	ἄλλων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0540	022	22	13	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	22	14	-	-	ἀδικούντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀδικέω
+0540	022	22	15	-	-	,	-	PUNCT	Z	-		,
+0540	022	22	16	-	-	ὅτε	-	SCONJ	G-	-		ὅτε
+0540	022	22	17	-	-	δικάζονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	δικάζω
+0540	022	22	18	-	-	,	-	PUNCT	Z	-		,
+0540	022	22	19	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0540	022	22	20	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	022	22	21	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	022	22	22	-	-	κατηγόρων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κατήγορος
+0540	022	22	23	-	-	πυθέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	πυνθάνομαι
+0540	022	22	24	-	-	,	-	PUNCT	Z	-		,
+0540	022	22	25	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	022	22	26	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	22	27	-	-	τούτων	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	022	22	28	-	-	πονηρίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πονηρία
+0540	022	22	29	-	-	ἅπαντες	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἅπας
+0540	022	22	30	-	-	ἐπίστασθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐπίσταμαι
+0540	022	22	31	-	-	.	-	PUNCT	Z	-		.
+0540	022	22	32	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	022	22	33	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	022	22	34	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	022	22	35	-	-	καταψηφίσησθε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	καταψηφίσημαι
+0540	022	22	36	-	-	,	-	PUNCT	Z	-		,
+0540	022	22	37	-	-	τά	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	022	22	38	-	-	τε	-	CCONJ	C-	-		τε
+0540	022	22	39	-	-	δίκαια	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	δίκαιος
+0540	022	22	40	-	-	ποιήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ποιέω
+0540	022	22	41	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	022	22	42	-	-	ἀξιώτερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	ἀξιώτερος
+0540	022	22	43	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	022	22	44	-	-	σῖτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	σῖτος
+0540	022	22	45	-	-	ὠνήσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	ὠνέομαι
+0540	022	22	46	-	-	·	-	PUNCT	Z	-		·
+0540	022	22	47	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	022	22	48	-	-	δὲ	-	ADV	Df	-		δέ
+0540	022	22	49	-	-	μή	-	ADV	Df	-	Polarity=Neg	μή
+0540	022	22	50	-	-	,	-	PUNCT	Z	-		,
+0540	022	22	51	-	-	τιμιώτερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	τίμιος
+0540	022	22	52	-	-	.	-	PUNCT	Z	-		.

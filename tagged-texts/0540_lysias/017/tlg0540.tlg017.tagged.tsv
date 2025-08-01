@@ -1,0 +1,702 @@
+0540	017	1	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	1	1	-	-	ἴσως	-	ADV	Df	-		ἴσως
+0540	017	1	2	-	-	τινὲς	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	τίς
+0540	017	1	3	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	1	4	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	017	1	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	017	1	7	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	017	1	8	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	9	-	-	διὰ	-	ADP	R-	-		διά
+0540	017	1	10	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	1	11	-	-	βούλεσθαί	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	βούλομαι
+0540	017	1	12	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	1	13	-	-	ἄξιον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἄξιος
+0540	017	1	14	-	-	εἶναί	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	1	15	-	-	τινος	-	ADJ	Px	-	Case=Gen|Gender=Neut|Number=Sing	τίς
+0540	017	1	16	-	-	ἡγοῦνται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	017	1	17	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	1	18	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	017	1	19	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	017	1	20	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	017	1	21	-	-	ἑτέρου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἕτερος
+0540	017	1	22	-	-	δύνασθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι
+0540	017	1	23	-	-	·	-	PUNCT	Z	-		·
+0540	017	1	24	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	1	25	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	1	26	-	-	τοσούτου	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Sing	τοσοῦτος
+0540	017	1	27	-	-	δέω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	δέω
+0540	017	1	28	-	-	περὶ	-	ADP	R-	-		περί
+0540	017	1	29	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	1	30	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	017	1	31	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	32	-	-	προσηκόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	προσήκω
+0540	017	1	33	-	-	ἱκανὸς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἱκανός
+0540	017	1	34	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	1	35	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	017	1	36	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	37	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	017	1	38	-	-	δέδοικα	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	δείδω
+0540	017	1	39	-	-	μή	-	SCONJ	G-	-		μή
+0540	017	1	40	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	41	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	1	42	-	-	περὶ	-	ADP	R-	-		περί
+0540	017	1	43	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	1	44	-	-	ἀναγκαῖόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἀναγκαῖος
+0540	017	1	45	-	-	μοί	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	1	46	-	-	ἐστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	1	47	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	017	1	48	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	49	-	-	ἀδύνατος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	ἀδύνατος
+0540	017	1	50	-	-	ὦ	-	AUX	V-	-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ὦ
+0540	017	1	51	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	1	52	-	-	δέοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	δέω
+0540	017	1	53	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	017	1	54	-	-	.	-	PUNCT	Z	-		.
+0540	017	1	55	-	-	οἴμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0540	017	1	56	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	1	57	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	1	58	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	59	-	-	ἐάν	-	SCONJ	G-	-		ἐάν
+0540	017	1	60	-	-	πάντα	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	017	1	61	-	-	διηγήσωμαι	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	διηγέομαι
+0540	017	1	62	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	1	63	-	-	πεπραγμένα	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	πράσσω
+0540	017	1	64	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	017	1	65	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	017	1	66	-	-	Ἐράτωνα	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἐράτων
+0540	017	1	67	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	1	68	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	1	69	-	-	ἐκείνου	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	017	1	70	-	-	παῖδας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	παῖς
+0540	017	1	71	-	-	,	-	PUNCT	Z	-		,
+0540	017	1	72	-	-	ῥαδίως	-	ADV	Df	-	Degree=Pos	ῥᾴδιος
+0540	017	1	73	-	-	ἐξ	-	ADP	R-	-		ἐκ
+0540	017	1	74	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	017	1	75	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	1	76	-	-	εὑρήσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	εὑρίσκω
+0540	017	1	77	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	1	78	-	-	προσήκει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προσήκω
+0540	017	1	79	-	-	σκέψασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	σκέπτομαι
+0540	017	1	80	-	-	περὶ	-	ADP	R-	-		περί
+0540	017	1	81	-	-	ταύτης	-	DET	Pd	-	Case=Gen|Gender=Fem|Number=Sing	οὗτος
+0540	017	1	82	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	1	83	-	-	διαδικασίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	διαδικασία
+0540	017	1	84	-	-	.	-	PUNCT	Z	-		.
+0540	017	1	85	-	-	ἐξ	-	ADP	R-	-		ἐκ
+0540	017	1	86	-	-	ἀρχῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἀρχή
+0540	017	1	87	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	1	88	-	-	ἀκούσατε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀκούω
+0540	017	1	89	-	-	.	-	PUNCT	Z	-		.
+0540	017	2	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	2	1	-	-	ἐράτων	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	ἐράτων
+0540	017	2	2	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	2	3	-	-	Ἐρασιφῶντος	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐρασιφῶντος
+0540	017	2	4	-	-	πατὴρ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	πατήρ
+0540	017	2	5	-	-	ἐδανείσατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	δανείω
+0540	017	2	6	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	017	2	7	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	2	8	-	-	ἐμοῦ	-	ADJ	Pp	-	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	017	2	9	-	-	πάππου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	πάππος
+0540	017	2	10	-	-	τάλαντα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	τάλαντον
+0540	017	2	11	-	-	δύο	-	NUM	Ma	-		δύο
+0540	017	2	12	-	-	.	-	PUNCT	Z	-		.
+0540	017	2	13	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	2	14	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	2	15	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	2	16	-	-	ἔλαβε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λαμβάνω
+0540	017	2	17	-	-	τἀργύριον	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	ἀργύριον
+0540	017	2	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	2	19	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	017	2	20	-	-	τοσοῦτόν	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	τοσοῦτος
+0540	017	2	21	-	-	γε	-	ADV	Df	-		γε
+0540	017	2	22	-	-	ἐδεήθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	δέω
+0540	017	2	23	-	-	δανείσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	δανείσαμι
+0540	017	2	24	-	-	,	-	PUNCT	Z	-		,
+0540	017	2	25	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	2	26	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	2	27	-	-	del.	-	PUNCT	Z	-		del.
+0540	017	2	28	-	-	Hude.	-	PUNCT	Z	-		Hude.
+0540	017	2	29	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	2	30	-	-	ἐναντίον	-	ADP	R-	-		ἐναντίον
+0540	017	2	31	-	-	ἐδόθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	δίδωμι
+0540	017	2	32	-	-	,	-	PUNCT	Z	-		,
+0540	017	2	33	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	2	34	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	2	35	-	-	παρέξομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	παρέχω
+0540	017	2	36	-	-	·	-	PUNCT	Z	-		·
+0540	017	2	37	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	2	38	-	-	δʼ	-	ADV	Df	-		δέ
+0540	017	2	39	-	-	ἐχρήσατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	χράω
+0540	017	2	40	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	017	2	41	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	2	42	-	-	ὅσα	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0540	017	2	43	-	-	ὠφελήθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ὠφελέω
+0540	017	2	44	-	-	,	-	PUNCT	Z	-		,
+0540	017	2	45	-	-	οἱ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ
+0540	017	2	46	-	-	μᾶλλόν	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	017	2	47	-	-	τε	-	CCONJ	C-	-		τε
+0540	017	2	48	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	017	2	49	-	-	εἰδότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	οἶδα
+0540	017	2	50	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	2	51	-	-	παραγεγενημένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	παραγίγνομαι
+0540	017	2	52	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	2	53	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	017	2	54	-	-	ἔπραττε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πράσσω
+0540	017	2	55	-	-	διηγήσονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	διηγήσομαι
+0540	017	2	56	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	2	57	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	2	58	-	-	μαρτυρήσουσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	μαρτυρήσω
+0540	017	2	59	-	-	.	-	PUNCT	Z	-		.
+0540	017	2	60	-	-	καί	-	CCONJ	C-	-		καί
+0540	017	2	61	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	2	62	-	-	κάλει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	καλέω
+0540	017	2	63	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	2	64	-	-	.	-	PUNCT	Z	-		.
+0540	017	3	0	-	-	Μάρτυρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	3	1	-	-	ἕως	-	SCONJ	G-	-		ἕως
+0540	017	3	2	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	017	3	3	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	3	4	-	-	Ἐράτων	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Ἐράτων
+0540	017	3	5	-	-	ἔζη	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ζήω
+0540	017	3	6	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	7	-	-	τούς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	3	8	-	-	τε	-	CCONJ	C-	-		τε
+0540	017	3	9	-	-	τόκους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	τόκος
+0540	017	3	10	-	-	ἀπελαμβάνομεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀπελαμβάνο
+0540	017	3	11	-	-	ἀπελαμβάνομεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀπαλαμβάνω
+0540	017	3	12	-	-	Hertlein	-	ADV	Df	-		Hertlein
+0540	017	3	13	-	-	:	-	CCONJ	C-	-		:
+0540	017	3	14	-	-	ἀπελάμβανον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀπολαμβάνω
+0540	017	3	15	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	3	16	-	-	.	-	PUNCT	Z	-		.
+0540	017	3	17	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	3	18	-	-	τἆ	-	DET	Px	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	τἆ
+0540	017	3	19	-	-	λλα	-	DET	Px	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	λλος
+0540	017	3	20	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	3	21	-	-	συγκείμενα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	σύγκειμαι
+0540	017	3	22	-	-	·	-	PUNCT	Z	-		·
+0540	017	3	23	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	017	3	24	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	3	25	-	-	ἐτελεύτησε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	τελευτάω
+0540	017	3	26	-	-	καταλιπὼν	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	καταλείπω
+0540	017	3	27	-	-	ὑοὺς	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ὑός
+0540	017	3	28	-	-	τρεῖς	-	NUM	Ma	-	Case=Acc|Gender=Masc|Number=Plur	τρεῖς
+0540	017	3	29	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	30	-	-	Ἐρασιφῶντα	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἐρασιφῶς
+0540	017	3	31	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	3	32	-	-	Ἐράτωνα	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἐράτων
+0540	017	3	33	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	3	34	-	-	Ἐρασίστρατον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἐρασίστρατος
+0540	017	3	35	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	36	-	-	οὗτοι	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	οὗτος
+0540	017	3	37	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	017	3	38	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	017	3	39	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	017	3	40	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	3	41	-	-	δικαίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	δίκαιος
+0540	017	3	42	-	-	ἐποίουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω
+0540	017	3	43	-	-	.	-	PUNCT	Z	-		.
+0540	017	3	44	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	017	3	45	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	3	46	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	3	47	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	3	48	-	-	πολέμῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	πόλεμος
+0540	017	3	49	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	50	-	-	διότι	-	SCONJ	G-	-		διότι
+0540	017	3	51	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	017	3	52	-	-	ἦσαν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	3	53	-	-	δίκαι	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	δίκη
+0540	017	3	54	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	55	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	017	3	56	-	-	δυνατοὶ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	δυνατός
+0540	017	3	57	-	-	ἦμεν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	3	58	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	017	3	59	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	017	3	60	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	3	61	-	-	ὤφειλον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ὀφείλω
+0540	017	3	62	-	-	πράξασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	πράξασθαι
+0540	017	3	63	-	-	·	-	PUNCT	Z	-		·
+0540	017	3	64	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	017	3	65	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	3	66	-	-	εἰρήνη	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	εἰρήνη
+0540	017	3	67	-	-	ἐγένετο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0540	017	3	68	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	69	-	-	ὅτε	-	SCONJ	G-	-		ὅτε
+0540	017	3	70	-	-	περ	-	ADV	Df	-		πέρ
+0540	017	3	71	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	017	3	72	-	-	αἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	017	3	73	-	-	ἀστικαὶ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	ἀστικός
+0540	017	3	74	-	-	δίκαι	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	δίκη
+0540	017	3	75	-	-	ἐδικάζοντο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	δικάζω
+0540	017	3	76	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	77	-	-	λαχὼν	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	λαγχάνω
+0540	017	3	78	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	3	79	-	-	πατὴρ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	πατήρ
+0540	017	3	80	-	-	παντὸς	-	DET	Px	-	Case=Gen|Gender=Neut|Number=Sing	πᾶς
+0540	017	3	81	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	3	82	-	-	συμβολαίου	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	συμβολαίον
+0540	017	3	83	-	-	Ἐρασιστράτῳ	-	PROPN	Ne	-	Case=Dat|Gender=Masc|Number=Sing	Ἐρασιστράτῳ
+0540	017	3	84	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	85	-	-	ὅσπερ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0540	017	3	86	-	-	μόνος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μόνος
+0540	017	3	87	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	3	88	-	-	ἀδελφῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ἀδελφός
+0540	017	3	89	-	-	ἐπεδήμει	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπεδήμω
+0540	017	3	90	-	-	,	-	PUNCT	Z	-		,
+0540	017	3	91	-	-	κατεδικάσατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	κατεδικάομαι
+0540	017	3	92	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	017	3	93	-	-	Ξεναινέτου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ξεναινέτης
+0540	017	3	94	-	-	ἄρχοντος	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	ἄρχων
+0540	017	3	95	-	-	.	-	PUNCT	Z	-		.
+0540	017	3	96	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	3	97	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	3	98	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	3	99	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	017	3	100	-	-	παρέξομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	παρέχω
+0540	017	3	101	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	3	102	-	-	.	-	PUNCT	Z	-		.
+0540	017	3	103	-	-	καί	-	CCONJ	C-	-		καί
+0540	017	3	104	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	3	105	-	-	κάλει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	καλέω
+0540	017	3	106	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	3	107	-	-	.	-	PUNCT	Z	-		.
+0540	017	4	0	-	-	Μάρτυρες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	μάρτυς
+0540	017	4	1	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	4	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	4	3	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	4	4	-	-	Ἐράτωνος	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐράτων
+0540	017	4	5	-	-	δικαίως	-	ADV	Df	-	Degree=Pos	δικαίως
+0540	017	4	6	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	017	4	7	-	-	ἡμέτερα	-	ADJ	Ps	-	Case=Nom|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἡμέτερος
+0540	017	4	8	-	-	εἴη	-	AUX	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	4	9	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	10	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	017	4	11	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	017	4	12	-	-	ῥᾴδιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ῥᾴδιος
+0540	017	4	13	-	-	εἰδέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	οἶδα
+0540	017	4	14	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	15	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	4	16	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	4	17	-	-	πάντα	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Plur	πᾶς
+0540	017	4	18	-	-	δημεύεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	δημεύεμαι
+0540	017	4	19	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	20	-	-	ἐξ	-	ADP	R-	-		ἐκ
+0540	017	4	21	-	-	αὐτῶν	-	DET	Pd	-	Case=Gen|Number=Plur	αὐτός
+0540	017	4	22	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	4	23	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	4	24	-	-	add.	-	PUNCT	Z	-		add.
+0540	017	4	25	-	-	Reiske.	-	PUNCT	Z	-		Reiske.
+0540	017	4	26	-	-	ἀπογραφῶν	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Plur	ἀπογραφέω
+0540	017	4	27	-	-	·	-	PUNCT	Z	-		·
+0540	017	4	28	-	-	τρεῖς	-	NUM	Ma	-	Case=Nom|Gender=Masc|Number=Plur	τρεῖς
+0540	017	4	29	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	017	4	30	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	4	31	-	-	τέτταρες	-	NUM	Ma	-	Case=Nom|Gender=Masc|Number=Plur	τέσσαρες
+0540	017	4	32	-	-	ἕκαστα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἕκαστος
+0540	017	4	33	-	-	ἀπογεγράφασι	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀπογεγράφασι
+0540	017	4	34	-	-	.	-	PUNCT	Z	-		.
+0540	017	4	35	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	017	4	36	-	-	τοῦτό	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	οὗτος
+0540	017	4	37	-	-	γε	-	ADV	Df	-		γε
+0540	017	4	38	-	-	παντὶ	-	ADJ	Px	-	Case=Dat|Gender=Masc|Number=Sing	πᾶς
+0540	017	4	39	-	-	εὔγνωστον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὔγνωστος
+0540	017	4	40	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	41	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	4	42	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	017	4	43	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	017	4	44	-	-	παρέλιπον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	παραλείπω
+0540	017	4	45	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	46	-	-	εἴ	-	SCONJ	G-	-		εἰ
+0540	017	4	47	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	017	4	48	-	-	ἄλλο	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Sing	ἄλλος
+0540	017	4	49	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	4	50	-	-	Ἐράτωνος	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐράτων
+0540	017	4	51	-	-	οἷόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	οἷος
+0540	017	4	52	-	-	τε	-	ADV	Df	-		τε
+0540	017	4	53	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	4	54	-	-	δημεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δημεύω
+0540	017	4	55	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	56	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	4	57	-	-	πάντα	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	017	4	58	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	4	59	-	-	Ἐράτωνος	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐράτων
+0540	017	4	60	-	-	ἀπογράφοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀπογράφω
+0540	017	4	61	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	4	62	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	4	63	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	4	64	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	4	65	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	4	66	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	4	67	-	-	Reiske	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	Reiske
+0540	017	4	68	-	-	:	-	CCONJ	Nb	-		:
+0540	017	4	69	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	4	70	-	-	λέγω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	017	4	71	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	72	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	4	73	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	4	74	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	017	4	75	-	-	πολὺν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	πολύς
+0540	017	4	76	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	017	4	77	-	-	χρόνον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	χρόνος
+0540	017	4	78	-	-	κέκτημαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	κτέομαι
+0540	017	4	79	-	-	.	-	PUNCT	Z	-		.
+0540	017	4	80	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	017	4	81	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	4	82	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	4	83	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	017	4	84	-	-	οὐδʼ	-	ADV	Df	-	Polarity=Neg	οὐδέ
+0540	017	4	85	-	-	ἑτέρωθεν	-	ADV	Df	-		ἑτέρωθεν
+0540	017	4	86	-	-	εἰσπράξασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	εἰσπράξασθαι
+0540	017	4	87	-	-	οἷόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	οἷος
+0540	017	4	88	-	-	τε	-	ADV	Df	-		τε
+0540	017	4	89	-	-	,	-	PUNCT	Z	-		,
+0540	017	4	90	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	017	4	91	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	4	92	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	017	4	93	-	-	δημεύσητε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	δημεύδω
+0540	017	4	94	-	-	,	-	PUNCT	Z	-		,
+0540	017	5	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	5	1	-	-	εὔγνωστόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	εὔγνωστον
+0540	017	5	2	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	5	3	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0540	017	5	4	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	5	5	-	-	·	-	PUNCT	Z	-		·
+0540	017	5	6	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	017	5	7	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	5	8	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	5	9	-	-	ἀμφισβήτησιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀμφισβήτησις
+0540	017	5	10	-	-	ἐποιησάμην	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ποιέω
+0540	017	5	11	-	-	πρός	-	ADP	R-	-		πρός
+0540	017	5	12	-	-	τε	-	CCONJ	C-	-		τε
+0540	017	5	13	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	5	14	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	5	15	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	5	16	-	-	ἰδιώτας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἰδιώτης
+0540	017	5	17	-	-	,	-	PUNCT	Z	-		,
+0540	017	5	18	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	017	5	19	-	-	ἀκούσατε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀκούω
+0540	017	5	20	-	-	.	-	PUNCT	Z	-		.
+0540	017	5	21	-	-	ἕως	-	SCONJ	G-	-		ἕως
+0540	017	5	22	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	5	23	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	017	5	24	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	017	5	25	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	5	26	-	-	Ἐρασιφῶντος	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐρασιφῶντος
+0540	017	5	27	-	-	οἰκεῖοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	οἰκεῖος
+0540	017	5	28	-	-	τούτων	-	DET	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	017	5	29	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	5	30	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0540	017	5	31	-	-	ἠμφεσβήτουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐμφεσβήετω
+0540	017	5	32	-	-	,	-	PUNCT	Z	-		,
+0540	017	5	33	-	-	ἅπαντα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0540	017	5	34	-	-	ἠξίουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	017	5	35	-	-	ἐμὰ	-	ADJ	Ps	-	Case=Nom|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἐμός
+0540	017	5	36	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	5	37	-	-	,	-	PUNCT	Z	-		,
+0540	017	5	38	-	-	διότι	-	SCONJ	G-	-		διότι
+0540	017	5	39	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	017	5	40	-	-	ἅπαντος	-	DET	Px	-	Case=Gen|Gender=Neut|Number=Sing	ἅπας
+0540	017	5	41	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	5	42	-	-	χρέως	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	χρέως
+0540	017	5	43	-	-	ἀντιδικῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀντιδικός
+0540	017	5	44	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	017	5	45	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	5	46	-	-	πατέρα	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πατήρ
+0540	017	5	47	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	5	48	-	-	Ἐρασίστρατος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Ἐρασίστρατος
+0540	017	5	49	-	-	ἡττήθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἡσσάομαι
+0540	017	5	50	-	-	·	-	PUNCT	Z	-		·
+0540	017	5	51	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	5	52	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	5	53	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	5	54	-	-	Σφηττοῖ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	Σφηττέω
+0540	017	5	55	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	017	5	56	-	-	τρία	-	NUM	Ma	-	Case=Acc|Gender=Neut|Number=Plur	τρεῖς
+0540	017	5	57	-	-	ἔτη	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	ἔτος
+0540	017	5	58	-	-	μεμίσθωκα	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	μεμίσθωκα
+0540	017	5	59	-	-	,	-	PUNCT	Z	-		,
+0540	017	5	60	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	5	61	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	5	62	-	-	Κικυννοῖ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	Κικυννώ
+0540	017	5	63	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	5	64	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	5	65	-	-	οἰκίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	οἰκία
+0540	017	5	66	-	-	ἐδικαζόμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἐδικαζόμην
+0540	017	5	67	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	5	68	-	-	ἔχουσι	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0540	017	5	69	-	-	.	-	PUNCT	Z	-		.
+0540	017	5	70	-	-	πέρυσι	-	ADV	Df	-		πέρυσι
+0540	017	5	71	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	5	72	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	5	73	-	-	διεγράψαντό	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	διεγράψαμαι
+0540	017	5	74	-	-	μου	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	5	75	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	017	5	76	-	-	δίκας	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	δίκη
+0540	017	5	77	-	-	,	-	PUNCT	Z	-		,
+0540	017	5	78	-	-	ἔμποροι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	ἔμπορος
+0540	017	5	79	-	-	φάσκοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	φάσκω
+0540	017	5	80	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	5	81	-	-	·	-	PUNCT	Z	-		·
+0540	017	5	82	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	017	5	83	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	5	84	-	-	λαχόντος	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	λαχόντος
+0540	017	5	85	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	017	5	86	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	5	87	-	-	Γαμηλιῶνι	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	Γαμηλιῶν
+0540	017	5	88	-	-	μηνὶ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	μείς
+0540	017	5	89	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	5	90	-	-	ναυτοδίκαι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	ναυτοδίκη
+0540	017	5	91	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	017	5	92	-	-	ἐξεδίκασαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐξεδίκασαν
+0540	017	5	93	-	-	.	-	PUNCT	Z	-		.
+0540	017	6	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	6	1	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	017	6	2	-	-	δʼ	-	ADV	Df	-		δέ
+0540	017	6	3	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	6	4	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	6	5	-	-	Ἐρασιφῶντος	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐρασιφῶνς
+0540	017	6	6	-	-	δημεύειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δημεύω
+0540	017	6	7	-	-	ἔδοξεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δοκέω
+0540	017	6	8	-	-	,	-	PUNCT	Z	-		,
+0540	017	6	9	-	-	ἀφεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀφίημι
+0540	017	6	10	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	6	11	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	017	6	12	-	-	τὼ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	6	13	-	-	δύο	-	NUM	Ma	-		δύο
+0540	017	6	14	-	-	μέρει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	μέρος
+0540	017	6	15	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	6	16	-	-	Ἐρασιστράτου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Ἐρασίστρατος
+0540	017	6	17	-	-	ἀξιῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	017	6	18	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	6	19	-	-	ψηφισθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ψηφισθῆνη
+0540	017	6	20	-	-	,	-	PUNCT	Z	-		,
+0540	017	6	21	-	-	διότι	-	SCONJ	G-	-		διότι
+0540	017	6	22	-	-	ταῦτά	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	017	6	23	-	-	γε	-	ADV	Df	-		γε
+0540	017	6	24	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	017	6	25	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	6	26	-	-	πρότερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πρότερος
+0540	017	6	27	-	-	ἐγνώκατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	γιγνώσκω
+0540	017	6	28	-	-	ἡμέτερα	-	ADJ	Ps	-	Case=Nom|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἡμέτερος
+0540	017	6	29	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	6	30	-	-	.	-	PUNCT	Z	-		.
+0540	017	6	31	-	-	ὡρισάμην	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ὁρίζω
+0540	017	6	32	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	6	33	-	-	ἐμαυτῷ	-	PRON	Pk	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	ἐμαυτοῦ
+0540	017	6	34	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	6	35	-	-	τρίτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	τρίτος
+0540	017	6	36	-	-	μέρος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	μέρος
+0540	017	6	37	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	6	38	-	-	ἐκείνων	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	017	6	39	-	-	οὐσίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	οὐσία
+0540	017	6	40	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	017	6	41	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	6	42	-	-	ἀκρίβειαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀκρίβεια
+0540	017	6	43	-	-	ἐπισκεψάμενος	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	ἐπισκοπέω
+0540	017	6	44	-	-	,	-	PUNCT	Z	-		,
+0540	017	6	45	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	017	6	46	-	-	πολλῷ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	017	6	47	-	-	πλέον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	πολύς
+0540	017	6	48	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	017	6	49	-	-	τὼ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	6	50	-	-	δύο	-	NUM	Ma	-		δύο
+0540	017	6	51	-	-	μέρει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	μέρος
+0540	017	6	52	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	6	53	-	-	δημοσίῳ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	δημόσιος
+0540	017	6	54	-	-	ὑπολιπών	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ὑπολείπω
+0540	017	6	55	-	-	.	-	PUNCT	Z	-		.
+0540	017	7	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	7	1	-	-	ῥᾴδιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ῥᾴδιος
+0540	017	7	2	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	7	3	-	-	γνῶναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	γιγνώσκω
+0540	017	7	4	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	017	7	5	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	7	6	-	-	τιμήματος	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	τίμημα
+0540	017	7	7	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	7	8	-	-	ἐπιγεγραμμένου	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἐπιγεγραάμ
+0540	017	7	9	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	7	10	-	-	χρήμασιν	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	χρῆμα
+0540	017	7	11	-	-	.	-	PUNCT	Z	-		.
+0540	017	7	12	-	-	ἅπαντα	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0540	017	7	13	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	7	14	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	017	7	15	-	-	πλείονος	-	ADJ	A-	-	Case=Gen|Degree=Cmp|Gender=Fem|Number=Sing	πολύς
+0540	017	7	16	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	017	7	17	-	-	ταλάντου	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	τάλαντον
+0540	017	7	18	-	-	τετίμηνται	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	τιμάω
+0540	017	7	19	-	-	,	-	PUNCT	Z	-		,
+0540	017	7	20	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	017	7	21	-	-	δʼ	-	ADV	Df	-		δέ
+0540	017	7	22	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	7	23	-	-	ἀμφισβητῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀμφισβητέω
+0540	017	7	24	-	-	τῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ὁ
+0540	017	7	25	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	7	26	-	-	πέντε	-	NUM	Ma	-		πέντε
+0540	017	7	27	-	-	μνᾶς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	μνᾶ
+0540	017	7	28	-	-	τῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ὁ
+0540	017	7	29	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	7	30	-	-	χιλίας	-	NUM	Ma	-	Case=Acc|Gender=Fem|Number=Plur	χίλιοι
+0540	017	7	31	-	-	δραχμὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	δραχμή
+0540	017	7	32	-	-	ἐπεγραψάμην	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἐπεγραψάμην
+0540	017	7	33	-	-	·	-	PUNCT	Z	-		·
+0540	017	7	34	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	7	35	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	017	7	36	-	-	πλείονος	-	ADJ	A-	-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing	πολύς
+0540	017	7	37	-	-	ἄξιά	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ἄξιος
+0540	017	7	38	-	-	ἐστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	7	39	-	-	ἢ	-	DET	Df	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ἤ
+0540	017	7	40	-	-	τοσούτου	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Sing	τοσοῦτος
+0540	017	7	41	-	-	,	-	PUNCT	Z	-		,
+0540	017	7	42	-	-	ἀποκηρυχθέντων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἀποκηρυχθέντων
+0540	017	7	43	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	7	44	-	-	περιττὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	περισσός
+0540	017	7	45	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	7	46	-	-	πόλις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	πόλις
+0540	017	7	47	-	-	λήψεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	λαμβάνω
+0540	017	7	48	-	-	.	-	PUNCT	Z	-		.
+0540	017	8	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	8	1	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0540	017	8	2	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	017	8	3	-	-	εἰδῆτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	οἶδα
+0540	017	8	4	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	8	5	-	-	ταῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0540	017	8	6	-	-	ἀληθῆ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἀληθής
+0540	017	8	7	-	-	ἐστι	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	017	8	8	-	-	,	-	PUNCT	Z	-		,
+0540	017	8	9	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	8	10	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	8	11	-	-	παρέξομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	παρέχω
+0540	017	8	12	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	017	8	13	-	-	μὲν	-	ADV	Df	-		μέν
+0540	017	8	14	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	8	15	-	-	μεμισθωμένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	μισθόω
+0540	017	8	16	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	017	8	17	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	017	8	18	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	8	19	-	-	Σφηττοῖ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	Σφηττέω
+0540	017	8	20	-	-	χωρίον	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	χωρίον
+0540	017	8	21	-	-	,	-	PUNCT	Z	-		,
+0540	017	8	22	-	-	ἔπειτα	-	ADV	Df	-		ἔπειτα
+0540	017	8	23	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	8	24	-	-	Κικυννοῖ	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Κικυννώ
+0540	017	8	25	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	8	26	-	-	γείτονας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	γείτων
+0540	017	8	27	-	-	,	-	PUNCT	Z	-		,
+0540	017	8	28	-	-	οἳ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ
+0540	017	8	29	-	-	ἴσασιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	οἶδα
+0540	017	8	30	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	017	8	31	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	017	8	32	-	-	τρία	-	NUM	Ma	-	Case=Acc|Gender=Neut|Number=Plur	τρεῖς
+0540	017	8	33	-	-	ἔτη	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	ἔτος
+0540	017	8	34	-	-	ἀμφισβητοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀμφισβητέω
+0540	017	8	35	-	-	,	-	PUNCT	Z	-		,
+0540	017	8	36	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	017	8	37	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	8	38	-	-	τούς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	8	39	-	-	τε	-	CCONJ	C-	-		τε
+0540	017	8	40	-	-	πέρυσιν	-	ADV	Df	-		πέρυμι
+0540	017	8	41	-	-	ἄρξαντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἄρχω
+0540	017	8	42	-	-	,	-	PUNCT	Z	-		,
+0540	017	8	43	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	017	8	44	-	-	οὓς	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	017	8	45	-	-	αἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	017	8	46	-	-	δίκαι	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	δίκη
+0540	017	8	47	-	-	ἐλήχθησαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἐλήχθησαν
+0540	017	8	48	-	-	,	-	PUNCT	Z	-		,
+0540	017	8	49	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	8	50	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	8	51	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	017	8	52	-	-	ναυτοδίκας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ναυτοδίκη
+0540	017	8	53	-	-	.	-	PUNCT	Z	-		.
+0540	017	9	0	-	-	 	-	CCONJ	V-	-		 
+0540	017	9	1	-	-	ἀναγνωσθήσονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	ἀναγνωσθήσω
+0540	017	9	2	-	-	δὲ	-	ADV	Df	-		δέ
+0540	017	9	3	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	9	4	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	9	5	-	-	αὗται	-	DET	Pd	-	Case=Nom|Gender=Fem|Number=Plur	οὗτος
+0540	017	9	6	-	-	αἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	017	9	7	-	-	ἀπογραφαί	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	ἀπογραφή
+0540	017	9	8	-	-	·	-	PUNCT	Z	-		·
+0540	017	9	9	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	017	9	10	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	017	9	11	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	017	9	12	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0540	017	9	13	-	-	γνώσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	γιγνώσκω
+0540	017	9	14	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	9	15	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	017	9	16	-	-	νεωστὶ	-	ADV	Df	-		νεωστί
+0540	017	9	17	-	-	ταῦτα	-	DET	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	017	9	18	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	9	19	-	-	χρήματα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	χρῆμα
+0540	017	9	20	-	-	ἀξιοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	017	9	21	-	-	ἡμέτερα	-	ADJ	Ps	-	Case=Nom|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἡμέτερος
+0540	017	9	22	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	9	23	-	-	,	-	PUNCT	Z	-		,
+0540	017	9	24	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	017	9	25	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	017	9	26	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	9	27	-	-	δημοσίῳ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	δημόσιος
+0540	017	9	28	-	-	πλειόνων	-	ADJ	A-	-	Case=Gen|Degree=Cmp|Gender=Neut|Number=Plur	πολύς
+0540	017	9	29	-	-	ἀμφισβητοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀμφισβητέω
+0540	017	9	30	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	017	9	31	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	017	9	32	-	-	ἔμπροσθεν	-	ADV	Df	-		ἔμπροσθεν
+0540	017	9	33	-	-	χρόνῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	χρόνος
+0540	017	9	34	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	9	35	-	-	ἰδιώταις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	ἰδιώτης
+0540	017	9	36	-	-	.	-	PUNCT	Z	-		.
+0540	017	9	37	-	-	καί	-	CCONJ	C-	-		καί
+0540	017	9	38	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	9	39	-	-	κάλει	-	VERB	V-	-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	καλέω
+0540	017	9	40	-	-	μάρτυρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	μάρτυς
+0540	017	9	41	-	-	.	-	PUNCT	Z	-		.
+0540	017	10	0	-	-	Μάρτυρες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	μάρτυς
+0540	017	10	1	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	017	10	2	-	-	μέν	-	ADV	Df	-		μέν
+0540	017	10	3	-	-	,	-	PUNCT	Z	-		,
+0540	017	10	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	017	10	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	017	10	6	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	017	10	7	-	-	,	-	PUNCT	Z	-		,
+0540	017	10	8	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	017	10	9	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	017	10	10	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	10	11	-	-	δίκαιον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	δίκαιος
+0540	017	10	12	-	-	ἀξιῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	017	10	13	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	10	14	-	-	ψηφίσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	ψηφίζω
+0540	017	10	15	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	017	10	16	-	-	διαδίκασμα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	διαδίκασμα
+0540	017	10	17	-	-	,	-	PUNCT	Z	-		,
+0540	017	10	18	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	017	10	19	-	-	αὐτὸς	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	αὐτός
+0540	017	10	20	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	017	10	21	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	017	10	22	-	-	πολλὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0540	017	10	23	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	017	10	24	-	-	ἐμαυτοῦ	-	PRON	Pk	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	ἐμαυτοῦ
+0540	017	10	25	-	-	ἀφεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀφίημι
+0540	017	10	26	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	017	10	27	-	-	ἀξιῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	017	10	28	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	10	29	-	-	ἀποδοθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ἀποδίδωμι
+0540	017	10	30	-	-	,	-	PUNCT	Z	-		,
+0540	017	10	31	-	-	ἀποδέδεικται	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἀποδείκνυμι
+0540	017	10	32	-	-	.	-	PUNCT	Z	-		.
+0540	017	10	33	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	017	10	34	-	-	δέ	-	ADV	Df	-		δέ
+0540	017	10	35	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	017	10	36	-	-	δοκεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0540	017	10	37	-	-	δίκαιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δίκαιος
+0540	017	10	38	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	017	10	39	-	-	καὶ	-	ADV	Df	-		καί
+0540	017	10	40	-	-	δεηθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	δέω
+0540	017	10	41	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	10	42	-	-	τε	-	CCONJ	C-	-		τε
+0540	017	10	43	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	017	10	44	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	017	10	45	-	-	συνδίκων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	συνδίκος
+0540	017	10	46	-	-	ἐναντίον	-	ADP	R-	-		ἐναντίον
+0540	017	10	47	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	017	10	48	-	-	.	-	PUNCT	Z	-		.

@@ -1,0 +1,1391 @@
+0540	008	1	0	-	-	ἐπιτήδειόν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἐπιτήδειος
+0540	008	1	1	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	1	2	-	-	δοκῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0540	008	1	3	-	-	καιρὸν	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	καιρός
+0540	008	1	4	-	-	εἰληφέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λαμβάνω
+0540	008	1	5	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	1	6	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	1	7	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	008	1	8	-	-	ἐβουλόμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	008	1	9	-	-	πάλαι	-	ADV	Df	-		πάλαι
+0540	008	1	10	-	-	·	-	PUNCT	Z	-		·
+0540	008	1	11	-	-	πάρεισι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πάρειμι
+0540	008	1	12	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	1	13	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	1	14	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	008	1	15	-	-	ἐπεγκαλῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπεγκαλέω
+0540	008	1	16	-	-	,	-	PUNCT	Z	-		,
+0540	008	1	17	-	-	πάρεισι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	πάρειμι
+0540	008	1	18	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	1	19	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	1	20	-	-	ἐναντίον	-	ADP	R-	-		ἐναντίον
+0540	008	1	21	-	-	ἐπιθυμῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπιθυμέω
+0540	008	1	22	-	-	μέμψασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	μέμφομαι
+0540	008	1	23	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	1	24	-	-	ἀδικοῦσιν	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀδικέω
+0540	008	1	25	-	-	ἐμέ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	1	26	-	-	.	-	PUNCT	Z	-		.
+0540	008	1	27	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	008	1	28	-	-	πολλῷ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	008	1	29	-	-	πλείων	-	ADJ	A-	-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	πολύς
+0540	008	1	30	-	-	ἐστὶ	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	1	31	-	-	σπουδὴ	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	σπουδή
+0540	008	1	32	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	1	33	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	1	34	-	-	παρόντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0540	008	1	35	-	-	·	-	PUNCT	Z	-		·
+0540	008	1	36	-	-	τοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	008	1	37	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	1	38	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	1	39	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	008	1	40	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	008	1	41	-	-	add.	-	PUNCT	Z	-		add.
+0540	008	1	42	-	-	Emperius	-	CCONJ	C-	-		Emperius
+0540	008	1	43	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	008	1	44	-	-	οἶμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0540	008	1	45	-	-	τιμήσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	τιμάω
+0540	008	1	46	-	-	,	-	PUNCT	Z	-		,
+0540	008	1	47	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	1	48	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	1	49	-	-	ἐπιτηδείοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἐπιτήδειος
+0540	008	1	50	-	-	ἀνεπιτήδειοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἀνεπιτήδειος
+0540	008	1	51	-	-	δόξουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	δοκέω
+0540	008	1	52	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	008	1	53	-	-	(	-	PUNCT	Z	-		(
+0540	008	1	54	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	1	55	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	1	56	-	-	ἀρχὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀρχή
+0540	008	1	57	-	-	οὐδʼ	-	ADV	Df	-	Polarity=Neg	οὐδέ
+0540	008	1	58	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	1	59	-	-	ἐπεχείρουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιχειρέω
+0540	008	1	60	-	-	ἐξαμαρτάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐξαμαρτάνω
+0540	008	1	61	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	008	1	62	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	1	63	-	-	)	-	SCONJ	Z	-		)
+0540	008	1	64	-	-	,	-	PUNCT	Z	-		,
+0540	008	2	0	-	-	τοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	008	2	1	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	2	2	-	-	βουλοίμην	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	βούλομαι
+0540	008	2	3	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	2	4	-	-	δόξαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	δοκέω
+0540	008	2	5	-	-	μηδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	μηδείς
+0540	008	2	6	-	-	ἀδικῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀδικέω
+0540	008	2	7	-	-	τούτους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	008	2	8	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	008	2	9	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	008	2	10	-	-	ἀδικεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἀδικέω
+0540	008	2	11	-	-	πρότερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πρότερος
+0540	008	2	12	-	-	.	-	PUNCT	Z	-		.
+0540	008	2	13	-	-	ἀνιαρὸν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἀνιαρός
+0540	008	2	14	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	2	15	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	2	16	-	-	ἀναγκάζεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἀναγκάζω
+0540	008	2	17	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	2	18	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	2	19	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	008	2	20	-	-	,	-	PUNCT	Z	-		,
+0540	008	2	21	-	-	ἀδύνατον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἀδύνατος
+0540	008	2	22	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	2	23	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	2	24	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	2	25	-	-	,	-	PUNCT	Z	-		,
+0540	008	2	26	-	-	ὅταν	-	ADV	Dq	-	PronType=Rel	ὅταν
+0540	008	2	27	-	-	ἐναντίον	-	ADP	R-	-		ἐναντίον
+0540	008	2	28	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	2	29	-	-	ἐλπίδος	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἐλπίς
+0540	008	2	30	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	2	31	-	-	πάσχω	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	πάσχω
+0540	008	2	32	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	2	33	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	2	34	-	-	δοκοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	δοκέω
+0540	008	2	35	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	008	2	36	-	-	φίλους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	φίλος
+0540	008	2	37	-	-	ἀδικοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀδικέω
+0540	008	2	38	-	-	εὑρίσκω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	εὑρίσκω
+0540	008	2	39	-	-	.	-	PUNCT	Z	-		.
+0540	008	3	0	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	008	3	1	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	3	2	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	3	3	-	-	,	-	PUNCT	Z	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	,
+0540	008	3	4	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0540	008	3	5	-	-	μή	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	3	6	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0540	008	3	7	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	3	8	-	-	τάχα	-	ADV	Df	-		τάχα
+0540	008	3	9	-	-	δὴ	-	ADV	Df	-		δή
+0540	008	3	10	-	-	βοηθῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	βοηθέω
+0540	008	3	11	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	3	12	-	-	ἐξημάρτηκε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐξαμαρτάνω
+0540	008	3	13	-	-	πρόφασιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πρόφασις
+0540	008	3	14	-	-	πορίσηται	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	πορίζω
+0540	008	3	15	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	3	16	-	-	ἁμαρτίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἁμαρτία
+0540	008	3	17	-	-	,	-	PUNCT	Z	-		,
+0540	008	3	18	-	-	εἰπάτω	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	3	19	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	3	20	-	-	τίς	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0540	008	3	21	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	3	22	-	-	ὑπʼ	-	ADP	R-	-		ὑπό
+0540	008	3	23	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	3	24	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	3	25	-	-	ἀκήκοεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀκούω
+0540	008	3	26	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	3	27	-	-	πέπονθεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πάσχω
+0540	008	3	28	-	-	,	-	PUNCT	Z	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	,
+0540	008	3	29	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	3	30	-	-	τίς	-	PRON	Pi	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	τίς
+0540	008	3	31	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	3	32	-	-	δεηθεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	δέω
+0540	008	3	33	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	3	34	-	-	ἔτυχεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	τυγχάνω
+0540	008	3	35	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	3	36	-	-	ἐγώ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	3	37	-	-	τε	-	CCONJ	C-	-		τε
+0540	008	3	38	-	-	δυνατὸς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	δυνατός
+0540	008	3	39	-	-	ἦ	-	AUX	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἦ
+0540	008	3	40	-	-	κἀκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	3	41	-	-	ἐπήγγειλε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπαγγέλλω
+0540	008	3	42	-	-	.	-	PUNCT	Z	-		.
+0540	008	3	43	-	-	—	-	ADV	Df	-		—
+0540	008	3	44	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0540	008	3	45	-	-	δῆτά	-	ADV	Df	-		δῆτα
+0540	008	3	46	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	3	47	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	3	48	-	-	τὰ	-	PRON	Pp	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	008	3	49	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	3	50	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	3	51	-	-	τὰ	-	PRON	Pp	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	008	3	52	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	3	53	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	008	3	54	-	-	χειρεῖτε	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	χειρέω
+0540	008	3	55	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	4	1	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	4	2	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	4	3	-	-	τούτους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	008	4	4	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	008	4	5	-	-	διαβάλλειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	διαβάλλω
+0540	008	4	6	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	7	-	-	οὓς	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	008	4	8	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	4	9	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	008	4	10	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	008	4	11	-	-	διεβάλλετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	διαβάλλω
+0540	008	4	12	-	-	;	-	PUNCT	Z	-		;
+0540	008	4	13	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	008	4	14	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0540	008	4	15	-	-	ἠνωχλεῖτε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐνοχλέω
+0540	008	4	16	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	17	-	-	ἠνωχλεῖτε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐνοχλέω
+0540	008	4	18	-	-	Kayser	-	CCONJ	Df	-		Kayserς
+0540	008	4	19	-	-	:	-	CCONJ	C-	-		:
+0540	008	4	20	-	-	ἐνοχλεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐνοχλέω
+0540	008	4	21	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	4	22	-	-	ὥστε	-	ADV	Df	-		ὥστε
+0540	008	4	23	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	4	24	-	-	πλείονος	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	008	4	25	-	-	ἐποιήσατό	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ποιέω
+0540	008	4	26	-	-	τις	-	PRON	Pi	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	τίς
+0540	008	4	27	-	-	τις	-	PRON	Pi	-	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	τίς
+0540	008	4	28	-	-	add.	-	PUNCT	Z	-		add.
+0540	008	4	29	-	-	Thalheim	-	CCONJ	Df	-		Thalheim
+0540	008	4	30	-	-	δοκεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δοκέω
+0540	008	4	31	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	4	32	-	-	κήδεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	κήδω
+0540	008	4	33	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	34	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	4	35	-	-	ἄλλον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἄλλος
+0540	008	4	36	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	4	37	-	-	ἄλλον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἄλλος
+0540	008	4	38	-	-	Gerknet	-	NOUN	V-	-	Case=Acc|Gender=Masc|Number=Sing	Gerknet
+0540	008	4	39	-	-	et	-	CCONJ	V-	-		et
+0540	008	4	40	-	-	Bizos	-	ADV	V-	-		Bizos
+0540	008	4	41	-	-	:	-	CCONJ	C-	-		:
+0540	008	4	42	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	4	43	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	008	4	44	-	-	.	-	PUNCT	Z	-		.
+0540	008	4	45	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	4	46	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	4	47	-	-	Emperius	-	ADV	V-	-		Emperius
+0540	008	4	48	-	-	:	-	CCONJ	C-	-		:
+0540	008	4	49	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	4	50	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	4	51	-	-	κατειπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	καταλέγω
+0540	008	4	52	-	-	.	-	PUNCT	Z	-		.
+0540	008	4	53	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	4	54	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	4	55	-	-	ἔλεγε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	4	56	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	57	-	-	πάντα	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	008	4	58	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	4	59	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	4	60	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	4	61	-	-	εἴποιμι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	4	62	-	-	(	-	PUNCT	Z	-		(
+0540	008	4	63	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	4	64	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	4	65	-	-	ἀκούων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀκούω
+0540	008	4	66	-	-	ἠχθόμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἄχθομαι
+0540	008	4	67	-	-	)	-	CCONJ	Z	-		)
+0540	008	4	68	-	-	οὐδʼ	-	ADV	C-	-	Polarity=Neg	οὐδέ
+0540	008	4	69	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	4	70	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	4	71	-	-	ἐπικαλῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἐπικαλέω
+0540	008	4	72	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	73	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	4	74	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	4	75	-	-	κατʼ	-	ADP	R-	-		κατά
+0540	008	4	76	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	4	77	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	78	-	-	ταὐτὰ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	αὐτός
+0540	008	4	79	-	-	λέξαιμι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	4	80	-	-	ταὐτὰ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	αὐτός
+0540	008	4	81	-	-	λέξαιμι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	4	82	-	-	Markland	-	CCONJ	C-	-		Markland
+0540	008	4	83	-	-	:	-	CCONJ	C-	-		:
+0540	008	4	84	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	4	85	-	-	δόξαιμι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	δοκέω
+0540	008	4	86	-	-	.	-	PUNCT	Z	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	.
+0540	008	4	87	-	-	.	-	PUNCT	Z	-		.
+0540	008	4	88	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	4	89	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	4	90	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	4	91	-	-	ἀπολύοιμι	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀπολύω
+0540	008	4	92	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	4	93	-	-	αἰτίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	αἰτία
+0540	008	4	94	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	4	95	-	-	,	-	PUNCT	Z	-		,
+0540	008	4	96	-	-	εἴπερ	-	SCONJ	G-	-		εἴπερ
+0540	008	4	97	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	4	98	-	-	ταὐτὰ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	αὐτός
+0540	008	4	99	-	-	λέγοιμι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	4	100	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	4	101	-	-	ἐμαυτοῦ	-	PRON	Pk	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	ἐμαυτοῦ
+0540	008	4	102	-	-	·	-	PUNCT	Z	-		·
+0540	008	5	0	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	5	1	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	5	2	-	-	ὑβρίζειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ὑβρίζω
+0540	008	5	3	-	-	οἰόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	οἴομαι
+0540	008	5	4	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	5	5	-	-	καταγελάστους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	καταγέλαστος
+0540	008	5	6	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	5	7	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	008	5	8	-	-	ἐποιεῖτε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω
+0540	008	5	9	-	-	,	-	PUNCT	Z	-		,
+0540	008	5	10	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	5	11	-	-	λέξω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	λέγω
+0540	008	5	12	-	-	.	-	PUNCT	Z	-		.
+0540	008	5	13	-	-	βίᾳ	-	ADV	Df	-		βία
+0540	008	5	14	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	5	15	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	5	16	-	-	ἐφάσκετέ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	φάσκω
+0540	008	5	17	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	5	18	-	-	ξυνεῖναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συνίημι
+0540	008	5	19	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	5	20	-	-	διαλέγεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	διαλέγω
+0540	008	5	21	-	-	,	-	PUNCT	Z	-		,
+0540	008	5	22	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	5	23	-	-	πάντα	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	008	5	24	-	-	ποιοῦντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω
+0540	008	5	25	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	5	26	-	-	ἔχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω
+0540	008	5	27	-	-	ὅπως	-	SCONJ	G-	-		ὅπως
+0540	008	5	28	-	-	ἀπαλλαγῆτέ	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἀπαλλάσσω
+0540	008	5	29	-	-	μου	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	5	30	-	-	,	-	PUNCT	Z	-		,
+0540	008	5	31	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	5	32	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	5	33	-	-	τελευταῖον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	τελευταῖος
+0540	008	5	34	-	-	ἀκόντων	-	VERB	A-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἄκων
+0540	008	5	35	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	5	36	-	-	Ἐλευσῖνάδε	-	ADV	Df	-		Ἐλευσίς
+0540	008	5	37	-	-	ξυνθεωρεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	συνθεωρέω
+0540	008	5	38	-	-	.	-	PUNCT	Z	-		.
+0540	008	5	39	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	5	40	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	5	41	-	-	λέγοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	008	5	42	-	-	οἴεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0540	008	5	43	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	5	44	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	5	45	-	-	κακολογεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κακολογέω
+0540	008	5	46	-	-	,	-	PUNCT	Z	-		,
+0540	008	5	47	-	-	ἀποφαίνετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀποφαίνω
+0540	008	5	48	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	5	49	-	-	σκαιοτάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	σκαιοτάτους
+0540	008	5	50	-	-	ἑαυτούς	-	PRON	Pk	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	ἑαυτοῦ
+0540	008	5	51	-	-	,	-	PUNCT	Z	-		,
+0540	008	5	52	-	-	οἵτινες	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὅστις
+0540	008	5	53	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	5	54	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	5	55	-	-	del.	-	PUNCT	Z	-		del.
+0540	008	5	56	-	-	Bekker	-	CCONJ	C-	-		Bekker
+0540	008	5	57	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	008	5	58	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	5	59	-	-	αὐτὸν	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	αὐτός
+0540	008	5	60	-	-	χρόνον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	χρόνος
+0540	008	5	61	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	5	62	-	-	αὐτὸν	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	αὐτός
+0540	008	5	63	-	-	ἄνδρα	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	ἀνήρ
+0540	008	5	64	-	-	λάθρᾳ	-	ADV	Df	-		λάθρᾳ
+0540	008	5	65	-	-	ἄνδρα	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	ἀνήρ
+0540	008	5	66	-	-	λάθρᾳ	-	ADV	Df	-		λάθρᾳ
+0540	008	5	67	-	-	Reiske	-	ADV	V-	-		Reiske
+0540	008	5	68	-	-	:	-	CCONJ	G-	-		:
+0540	008	5	69	-	-	λάθρᾳ	-	ADV	Df	-		λάθρᾳ
+0540	008	5	70	-	-	ἄνδρα	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	ἀνήρ
+0540	008	5	71	-	-	.	-	PUNCT	Z	-		.
+0540	008	5	72	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	5	73	-	-	ἐλοιδορεῖτε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λοιδορέω
+0540	008	5	74	-	-	,	-	PUNCT	Z	-		,
+0540	008	5	75	-	-	φανερῶς	-	ADV	Df	-	Degree=Pos	φανερῶς
+0540	008	5	76	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	5	77	-	-	φίλον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	φίλος
+0540	008	5	78	-	-	ἐνομίζετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	νομίζω
+0540	008	5	79	-	-	.	-	PUNCT	Z	-		.
+0540	008	6	0	-	-	χρῆν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	χρή
+0540	008	6	1	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	6	2	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	6	3	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	6	4	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	6	5	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	6	6	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	6	7	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	6	8	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	6	9	-	-	ξυνεῖναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	συνίημι
+0540	008	6	10	-	-	,	-	PUNCT	Z	-		,
+0540	008	6	11	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	6	12	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	6	13	-	-	φανερῶς	-	ADV	Df	-	Degree=Pos	φανερῶς
+0540	008	6	14	-	-	ἀπειπόντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἀπαγορεύω
+0540	008	6	15	-	-	ὁμιλίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ὁμιλία
+0540	008	6	16	-	-	.	-	PUNCT	Z	-		.
+0540	008	6	17	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	6	18	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	6	19	-	-	αἰσχρὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	αἰσχρός
+0540	008	6	20	-	-	ἡγεῖσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	008	6	21	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	008	6	22	-	-	,	-	PUNCT	Z	-		,
+0540	008	6	23	-	-	πῶς	-	ADV	Du	-	PronType=Int	πῶς
+0540	008	6	24	-	-	αἰσχρὸν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	αἰσχρός
+0540	008	6	25	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	6	26	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	6	27	-	-	ξυνεῖναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	συνίημι
+0540	008	6	28	-	-	,	-	PUNCT	Z	-		,
+0540	008	6	29	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	6	30	-	-	οὓ	-	PRON	Pr	-	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	οὓ
+0540	008	6	31	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0540	008	6	32	-	-	ἀπειπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀπαγορεύω
+0540	008	6	33	-	-	καλὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	καλός
+0540	008	6	34	-	-	ἡγεῖσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἡγέομαι
+0540	008	6	35	-	-	;	-	PUNCT	Z	-		;
+0540	008	7	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	7	1	-	-	μὴν	-	ADV	Df	-		μείς
+0540	008	7	2	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	008	7	3	-	-	αὐτὸς	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	αὐτός
+0540	008	7	4	-	-	ἐξηῦρον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐξευρίσκω
+0540	008	7	5	-	-	αὐτὸς	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	αὐτός
+0540	008	7	6	-	-	ἐξηῦρον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐξευρίσκω
+0540	008	7	7	-	-	Schott	-	PROPN	V-	-		Schott
+0540	008	7	8	-	-	:	-	PUNCT	Z	-		:
+0540	008	7	9	-	-	οὖτος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0540	008	7	10	-	-	ἐξεῦρεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐξευρίσκω
+0540	008	7	11	-	-	.	-	PUNCT	Z	-		.
+0540	008	7	12	-	-	ὁπόθεν	-	ADV	Dq	-	PronType=Rel	ὁπόθεν
+0540	008	7	13	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	7	14	-	-	εἰκότως	-	ADV	Df	-	Degree=Pos	εἰκός
+0540	008	7	15	-	-	ὑπερείδετε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ὑπεροράω
+0540	008	7	16	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	7	17	-	-	ἐμὴν	-	ADJ	Ps	-	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	008	7	18	-	-	ὁμιλίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ὁμιλία
+0540	008	7	19	-	-	.	-	PUNCT	Z	-		.
+0540	008	7	20	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	008	7	21	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	7	22	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	7	23	-	-	σοφωτάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	σοφός
+0540	008	7	24	-	-	ἑώρων	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ὁράω
+0540	008	7	25	-	-	ὄντας	-	AUX	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	008	7	26	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	27	-	-	ἐμαυτὸν	-	PRON	Pk	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	ἐμαυτοῦ
+0540	008	7	28	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	7	29	-	-	ἀμαθέστατον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	ἀμαθέστατος
+0540	008	7	30	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	31	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	7	32	-	-	μὴν	-	ADV	Df	-		μείς
+0540	008	7	33	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0540	008	7	34	-	-	πολυφίλους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	πολύφιλος
+0540	008	7	35	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	7	36	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	37	-	-	ἐμαυτὸν	-	PRON	Pk	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	ἐμαυτοῦ
+0540	008	7	38	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	7	39	-	-	ἔρημον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἔρημος
+0540	008	7	40	-	-	φίλων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	φίλος
+0540	008	7	41	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	42	-	-	οὐδʼ	-	CCONJ	C-	-		οὐδέ
+0540	008	7	43	-	-	αὖ	-	ADV	Df	-		αὗ
+0540	008	7	44	-	-	πλουτοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πλουτόω
+0540	008	7	45	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	46	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	7	47	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	7	48	-	-	πενόμενον	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	πένομαι
+0540	008	7	49	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	50	-	-	οὐδʼ	-	CCONJ	C-	-		οὐδέ
+0540	008	7	51	-	-	αὖ	-	ADV	Df	-		αὗ
+0540	008	7	52	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	7	53	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	7	54	-	-	ὑπερευδοκιμοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑπερευδοκιμοῦντης
+0540	008	7	55	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	56	-	-	ἐμαυτὸν	-	PRON	Pk	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	ἐμαυτοῦ
+0540	008	7	57	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	7	58	-	-	διαβεβλημένον	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	διαβάλλω
+0540	008	7	59	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	60	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0540	008	7	61	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	7	62	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	7	63	-	-	ἐμὰ	-	ADJ	Ps	-	Case=Acc|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἐμός
+0540	008	7	64	-	-	πράγματα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	πρᾶγμα
+0540	008	7	65	-	-	κινδυνεύοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κινδυνεύω
+0540	008	7	66	-	-	,	-	PUNCT	Z	-		,
+0540	008	7	67	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	7	68	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	7	69	-	-	ὑμέτερα	-	ADJ	Ps	-	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes	ὑμέτερος
+0540	008	7	70	-	-	ἀσφαλῶς	-	ADV	Df	-	Degree=Pos	ἀσφαλῶς
+0540	008	7	71	-	-	ἔχοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0540	008	7	72	-	-	.	-	PUNCT	Z	-		.
+0540	008	7	73	-	-	πόθεν	-	ADV	Du	-	PronType=Int	πόθεν
+0540	008	7	74	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	7	75	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	7	76	-	-	εἰκότως	-	ADV	Df	-	Degree=Pos	εἰκός
+0540	008	7	77	-	-	ὑπώπτευον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ὑποπτεύω
+0540	008	7	78	-	-	ἄχθεσθαί	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἄχθομαι
+0540	008	7	79	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	7	80	-	-	συνόντι	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	σύνειμι
+0540	008	7	81	-	-	;	-	PUNCT	Z	-		;
+0540	008	8	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	8	1	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	8	2	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	8	3	-	-	ὅτε	-	SCONJ	G-	-		ὅτε
+0540	008	8	4	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	8	5	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	8	6	-	-	τελευταίους	-	ADJ	A-	-	Case=Acc|Gender=Masc|Number=Plur	τελευταῖος
+0540	008	8	7	-	-	ἐλέγετʼ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	8	8	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	8	9	-	-	ὅτε	-	SCONJ	G-	-		ὅτε
+0540	008	8	10	-	-	ἐλέγετʼ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	8	11	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	8	12	-	-	Sauppe	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Sauppe
+0540	008	8	13	-	-	:	-	SCONJ	G-	-		:
+0540	008	8	14	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	8	15	-	-	ἔλεγεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	8	16	-	-	,	-	PUNCT	Z	-		,
+0540	008	8	17	-	-	οὕς	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	008	8	18	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	8	19	-	-	ᾤεσθε	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	οἴομαι
+0540	008	8	20	-	-	ἀπαγγελεῖν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἀπαγγελέω
+0540	008	8	21	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	008	8	22	-	-	,	-	PUNCT	Z	-		,
+0540	008	8	23	-	-	κἀνταῦθα	-	ADV	Df	-		ἐνταῦθα
+0540	008	8	24	-	-	σόφισμα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	σόφισμα
+0540	008	8	25	-	-	καλὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	καλός
+0540	008	8	26	-	-	ἡγούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	008	8	27	-	-	ἡγούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	008	8	28	-	-	Dobree	-	ADV	Df	-		Dobree
+0540	008	8	29	-	-	:	-	ADV	Df	-		:
+0540	008	8	30	-	-	εῖναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ίημι
+0540	008	8	31	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	8	32	-	-	.	-	PUNCT	Z	-		.
+0540	008	8	33	-	-	περιήλθετε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	περιήλθω
+0540	008	8	34	-	-	πάντας	-	DET	Px	-	Case=Acc|Gender=Masc|Number=Plur	πᾶς
+0540	008	8	35	-	-	πάντας	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Plur	πᾶς
+0540	008	8	36	-	-	Sauppe	-	NOUN	V-	-	Case=Acc|Gender=Masc|Number=Plur	Sauppe
+0540	008	8	37	-	-	:	-	CCONJ	C-	-		:
+0540	008	8	38	-	-	πάντες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	πᾶς
+0540	008	8	39	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	8	40	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	8	41	-	-	αὐτῶν	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	αὐτός
+0540	008	8	42	-	-	κατηγοροῦντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κατηγορέω
+0540	008	8	43	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	8	44	-	-	πονηροῖς	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	πονηρός
+0540	008	8	45	-	-	ἑκόντες	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ἑκών
+0540	008	8	46	-	-	ὁμιλεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ὁμιλέω
+0540	008	8	47	-	-	.	-	PUNCT	Z	-		.
+0540	008	8	48	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	8	49	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	8	50	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	8	51	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	8	52	-	-	λέγοντος	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	008	8	53	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	008	8	54	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	8	55	-	-	περαίνοιτε	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	περαίνοειμι
+0540	008	8	56	-	-	πυνθανόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	πυνθάνομαι
+0540	008	8	57	-	-	.	-	PUNCT	Z	-		.
+0540	008	8	58	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	008	8	59	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	8	60	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	8	61	-	-	εἰδότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	οἶδα
+0540	008	8	62	-	-	εισότες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	εισότες
+0540	008	8	63	-	-	Reiske	-	ADV	V-	-		Reiske
+0540	008	8	64	-	-	:	-	CCONJ	C-	-		:
+0540	008	8	65	-	-	εἰπόντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	λέγω
+0540	008	8	66	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	8	67	-	-	ἐρήσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	ἔρομαι
+0540	008	8	68	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	8	69	-	-	εἰπόντα	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	λέγω
+0540	008	8	70	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	8	71	-	-	·	-	PUNCT	Z	-		·
+0540	008	8	72	-	-	πῶς	-	ADV	Du	-	PronType=Int	πῶς
+0540	008	8	73	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	8	74	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	8	75	-	-	ἴστε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	οἶδα
+0540	008	8	76	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	8	77	-	-	ὃν	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0540	008	8	78	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	8	79	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	8	80	-	-	λόγον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	λόγος
+0540	008	8	81	-	-	;	-	PUNCT	Z	-		;
+0540	008	9	0	-	-	ἔπειτα	-	ADV	Df	-		ἔπειτα
+0540	008	9	1	-	-	κακὸς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	κακός
+0540	008	9	2	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	9	3	-	-	εἴην	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	εἰμί
+0540	008	9	4	-	-	,	-	PUNCT	Z	-		,
+0540	008	9	5	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	9	6	-	-	ταὐτὰ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	αὐτός
+0540	008	9	7	-	-	ταὐτὰ	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	αὐτός
+0540	008	9	8	-	-	Scaliger	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	Scaliger
+0540	008	9	9	-	-	:	-	SCONJ	V-	-		:
+0540	008	9	10	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	9	11	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	9	12	-	-	ποιήσαιμι	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ποιέω
+0540	008	9	13	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	008	9	14	-	-	ἅπερ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	9	15	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	9	16	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	9	17	-	-	.	-	PUNCT	Z	-		.
+0540	008	9	18	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	9	19	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	9	20	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	008	9	21	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	9	22	-	-	αὐτοῖς	-	ADJ	Pd	-	Case=Dat|Gender=Neut|Number=Plur	αὐτός
+0540	008	9	23	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	9	24	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	008	9	25	-	-	ἀπήγγελλεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀπαγγέλλω
+0540	008	9	26	-	-	,	-	PUNCT	Z	-		,
+0540	008	9	27	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0540	008	9	28	-	-	οἷσπερ	-	PRON	Pr	-	Case=Dat|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	9	29	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	9	30	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	9	31	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	9	32	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	9	33	-	-	.	-	PUNCT	Z	-		.
+0540	008	9	34	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	9	35	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	9	36	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	9	37	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	9	38	-	-	χαριζόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	χαρίζω
+0540	008	9	39	-	-	ἀπήγγειλε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀπαγγέλλω
+0540	008	9	40	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	9	41	-	-	ἐμοῖς	-	ADJ	Ps	-	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἐμός
+0540	008	9	42	-	-	ἀναγκαίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	ἀναγκαῖος
+0540	008	9	43	-	-	,	-	PUNCT	Z	-		,
+0540	008	9	44	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	9	45	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	9	46	-	-	βλάπτειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	βλάπτω
+0540	008	9	47	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	9	48	-	-	βουλόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	βούλομαι
+0540	008	9	49	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	9	50	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	9	51	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	9	52	-	-	.	-	PUNCT	Z	-		.
+0540	008	9	53	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	9	54	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	9	55	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	9	56	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	9	57	-	-	ἠπίστουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀπιστέω
+0540	008	9	58	-	-	,	-	PUNCT	Z	-		,
+0540	008	9	59	-	-	ἐξελέγχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐξελέγχω
+0540	008	9	60	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	9	61	-	-	ἐζήτουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ζητέω
+0540	008	9	62	-	-	·	-	PUNCT	Z	-		·
+0540	008	9	63	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	9	64	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	9	65	-	-	(	-	PUNCT	Pp	-		(
+0540	008	9	66	-	-	ξυμβαίνει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συμβαίνω
+0540	008	9	67	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	9	68	-	-	καὶ	-	ADV	Df	-		καί
+0540	008	9	69	-	-	ταῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0540	008	9	70	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	9	71	-	-	πρὸ	-	ADP	R-	-		πρό
+0540	008	9	72	-	-	τοῦ	-	PRON	Pp	-	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	ὁ
+0540	008	9	73	-	-	,	-	PUNCT	Z	-		,
+0540	008	9	74	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	9	75	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	9	76	-	-	σημεῖα	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Plur	σημεῖον
+0540	008	9	77	-	-	ταῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0540	008	9	78	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	9	79	-	-	ἐκείνων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	008	9	80	-	-	ἐστίν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	9	81	-	-	,	-	PUNCT	Z	-		,
+0540	008	10	0	-	-	ἐκεῖνα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	ἐκεῖνος
+0540	008	10	1	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	10	2	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	008	10	3	-	-	ἱκανά	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἱκανός
+0540	008	10	4	-	-	)	-	ADV	Z	-		)
+0540	008	10	5	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	008	10	6	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	10	7	-	-	ἅπαντα	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0540	008	10	8	-	-	διʼ	-	ADP	R-	-		διά
+0540	008	10	9	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	10	10	-	-	πράξαντά	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	πράσσω
+0540	008	10	11	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	10	12	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	10	13	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	10	14	-	-	θέσεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	θέσις
+0540	008	10	15	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	10	16	-	-	ἵππου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	ἵππος
+0540	008	10	17	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	10	18	-	-	Ἡγέμαχον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἡγέμαχος
+0540	008	10	19	-	-	,	-	PUNCT	Z	-		,
+0540	008	10	20	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	10	21	-	-	Ἡγέμαχον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Ἡγέμαχος
+0540	008	10	22	-	-	Dobree	-	PROPN	V-	-	Case=Acc|Gender=Masc|Number=Sing	Dobree
+0540	008	10	23	-	-	:	-	INTJ	I-	-		:
+0540	008	10	24	-	-	προσῆγε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	προσάγω
+0540	008	10	25	-	-	μαχόμενον	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	μάχομαι
+0540	008	10	26	-	-	.	-	PUNCT	Z	-		.
+0540	008	10	27	-	-	κάμνοντα	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κάμνω
+0540	008	10	28	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	10	29	-	-	ἵππον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	ἵππος
+0540	008	10	30	-	-	ἀνάγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀνάγω
+0540	008	10	31	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	10	32	-	-	βουλόμενον	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	βούλομαι
+0540	008	10	33	-	-	Διόδωρος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Διόδωρος
+0540	008	10	34	-	-	οὑτοσὶ	-	PROPN	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0540	008	10	35	-	-	ἀποτρέπειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀποτρέπω
+0540	008	10	36	-	-	ἐπειρᾶτο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	πειράω
+0540	008	10	37	-	-	,	-	PUNCT	Z	-		,
+0540	008	10	38	-	-	φάσκων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	φάσκω
+0540	008	10	39	-	-	οὐδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	008	10	40	-	-	ἀντιλέξειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἀντιλέξω
+0540	008	10	41	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	10	42	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	008	10	43	-	-	δώδεκα	-	NUM	Ma	-		δώδεκα
+0540	008	10	44	-	-	μνῶν	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Plur	μνᾶ
+0540	008	10	45	-	-	Πολυκλέα	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Πολυκλῆς
+0540	008	10	46	-	-	,	-	PUNCT	Z	-		,
+0540	008	10	47	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	008	10	48	-	-	ἀποδώσειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἀποδίδωμι
+0540	008	10	49	-	-	.	-	PUNCT	Z	-		.
+0540	008	10	50	-	-	τότε	-	ADV	Df	-		τότε
+0540	008	10	51	-	-	λέγων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	008	10	52	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	10	53	-	-	,	-	PUNCT	Z	-		,
+0540	008	10	54	-	-	μετὰ	-	ADP	R-	-		μετά
+0540	008	10	55	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	10	56	-	-	θάνατον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	θάνατος
+0540	008	10	57	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	10	58	-	-	ἵππου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	ἵππος
+0540	008	10	59	-	-	κατέστη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	καθίστημι
+0540	008	10	60	-	-	τελευτῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	τελευτάω
+0540	008	10	61	-	-	ἀντίδικος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	ἀντίδικος
+0540	008	10	62	-	-	μετὰ	-	ADP	R-	-		μετά
+0540	008	10	63	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	008	10	64	-	-	,	-	PUNCT	Z	-		,
+0540	008	10	65	-	-	λέγων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	008	10	66	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	008	10	67	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	10	68	-	-	δίκαιόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δίκαιος
+0540	008	10	69	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	10	70	-	-	εἴη	-	AUX	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	10	71	-	-	κομίσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	κομίζω
+0540	008	10	72	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	10	73	-	-	ἀργύριον	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	ἀργύριον
+0540	008	10	74	-	-	.	-	PUNCT	Z	-		.
+0540	008	11	0	-	-	καίτοιγε	-	ADV	Df	-		καίτοιγε
+0540	008	11	1	-	-	σφῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	σφεῖς
+0540	008	11	2	-	-	σφῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	σφεῖς
+0540	008	11	3	-	-	Dobree	-	ADV	V-	-		Dobree
+0540	008	11	4	-	-	:	-	CCONJ	C-	-		:
+0540	008	11	5	-	-	ἐφʼ	-	ADP	R-	-		ἐπί
+0540	008	11	6	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	008	11	7	-	-	.	-	PUNCT	Z	-		.
+0540	008	11	8	-	-	γε	-	ADV	Df	-		γε
+0540	008	11	9	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	008	11	10	-	-	κατηγόρουν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατηγορέω
+0540	008	11	11	-	-	.	-	PUNCT	Z	-		.
+0540	008	11	12	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	11	13	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	11	14	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	11	15	-	-	μετὰ	-	ADP	R-	-		μετά
+0540	008	11	16	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	008	11	17	-	-	ἔπραττον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πράσσω
+0540	008	11	18	-	-	ἔπραττον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πράσσω
+0540	008	11	19	-	-	add.	-	PUNCT	Z	-		add.
+0540	008	11	20	-	-	anon.	-	PUNCT	Z	-		anon.
+0540	008	11	21	-	-	Fritzschii	-	CCONJ	C-	-		Fritzschii
+0540	008	11	22	-	-	ἀδικουμένῳ	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	ἀδικέω
+0540	008	11	23	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	11	24	-	-	μηδὲν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	μηδείς
+0540	008	11	25	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	11	26	-	-	δίκαιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δίκαιος
+0540	008	11	27	-	-	εἰπεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	008	11	28	-	-	,	-	PUNCT	Z	-		,
+0540	008	11	29	-	-	ἦ	-	CCONJ	C-	-		ἦ
+0540	008	11	30	-	-	που	-	ADV	Df	-		ποῦ
+0540	008	11	31	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	11	32	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	11	33	-	-	Gerknet	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Gerknet
+0540	008	11	34	-	-	et	-	ADV	V-	-		et
+0540	008	11	35	-	-	Bizos	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Bizos
+0540	008	11	36	-	-	:	-	CCONJ	C-	-		:
+0540	008	11	37	-	-	καλῶς	-	ADV	Df	-	Degree=Pos	καλῶς
+0540	008	11	38	-	-	MSS.	-	PUNCT	V-	-		MSS.
+0540	008	11	39	-	-	συνέπραττον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συμπράσσω
+0540	008	11	40	-	-	.	-	PUNCT	Z	-		.
+0540	008	11	41	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	11	42	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	11	43	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	11	44	-	-	ᾤμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	οἴομαι
+0540	008	11	45	-	-	φιλοσοφοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	φιλοσοφέω
+0540	008	11	46	-	-	αὐτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	008	11	47	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	11	48	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	11	49	-	-	πράγματος	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Sing	πρᾶγμα
+0540	008	11	50	-	-	ἀντιλέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀντιλέγω
+0540	008	11	51	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	11	52	-	-	ἐναντίον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἐναντίον
+0540	008	11	53	-	-	λόγον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	λόγος
+0540	008	11	54	-	-	·	-	PUNCT	Z	-		·
+0540	008	11	55	-	-	οἱ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	008	11	56	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	11	57	-	-	ἄρα	-	ADV	Df	-		ἆρα
+0540	008	11	58	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	11	59	-	-	ἀντέλεγον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀντιλέγω
+0540	008	11	60	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	008	11	61	-	-	ἀντέπραττον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀντιπράσσω
+0540	008	11	62	-	-	,	-	PUNCT	Z	-		,
+0540	008	12	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	12	1	-	-	διὰ	-	ADP	R-	-		διά
+0540	008	12	2	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	008	12	3	-	-	ἀντέλεγον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀντιλέγω
+0540	008	12	4	-	-	,	-	PUNCT	Z	-		,
+0540	008	12	5	-	-	ἀντέγον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀντέγος
+0540	008	12	6	-	-	Emperius	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Emperius
+0540	008	12	7	-	-	:	-	CCONJ	C-	-		:
+0540	008	12	8	-	-	ἀντέπραττον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀντιπράσσω
+0540	008	12	9	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	12	10	-	-	ἵνα	-	SCONJ	G-	-		ἵνα
+0540	008	12	11	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	12	12	-	-	ἐμὸν	-	ADJ	Ps	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	008	12	13	-	-	λόγον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	λόγος
+0540	008	12	14	-	-	εἰδείη	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	οἶδα
+0540	008	12	15	-	-	Πολυκλῆς	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Πολυκλῆς
+0540	008	12	16	-	-	·	-	PUNCT	Z	-		·
+0540	008	12	17	-	-	ἐδηλώθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	δηλόω
+0540	008	12	18	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	12	19	-	-	ταῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0540	008	12	20	-	-	.	-	PUNCT	Z	-		.
+0540	008	12	21	-	-	παρόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0540	008	12	22	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	12	23	-	-	διαιτητῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	διαιτητός
+0540	008	12	24	-	-	ὀργιζόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ὀργίζω
+0540	008	12	25	-	-	ὀργιζόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ὀργίζω
+0540	008	12	26	-	-	Markland	-	ADV	V-	-		Markland
+0540	008	12	27	-	-	:	-	CCONJ	C-	-		:
+0540	008	12	28	-	-	ὁριζόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	ὁρίζω
+0540	008	12	29	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	12	30	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	12	31	-	-	Πολυκλῆς	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Πολυκλῆς
+0540	008	12	32	-	-	εἶπεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	12	33	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	12	34	-	-	καὶ	-	ADV	Df	-		καί
+0540	008	12	35	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	12	36	-	-	ἐμοῖς	-	ADJ	Ps	-	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἐμός
+0540	008	12	37	-	-	ἐπιτηδείοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἐπιτήδειος
+0540	008	12	38	-	-	ἀδικεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀδικέω
+0540	008	12	39	-	-	δοκοίην	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	δοκέω
+0540	008	12	40	-	-	,	-	PUNCT	Z	-		,
+0540	008	12	41	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	008	12	42	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	12	43	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	12	44	-	-	λέγοιεν	-	VERB	V-	-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	008	12	45	-	-	.	-	PUNCT	Z	-		.
+0540	008	12	46	-	-	ἆρά	-	ADV	Df	-		ἆρα
+0540	008	12	47	-	-	γε	-	ADV	Df	-		γε
+0540	008	12	48	-	-	ταῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	οὗτος
+0540	008	12	49	-	-	ξυμβαίνει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	συμβαίνω
+0540	008	12	50	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	12	51	-	-	ἀπαγγελλομένοις	-	VERB	V-	-	Case=Dat|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	ἀπαγγέλλω
+0540	008	12	52	-	-	;	-	PUNCT	Z	-		;
+0540	008	12	53	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	12	54	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	12	55	-	-	αὐτὸς	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	αὐτός
+0540	008	12	56	-	-	ἀπήγγειλεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀπαγγέλλω
+0540	008	12	57	-	-	ὡς	-	SCONJ	G-	-		ὡς
+0540	008	12	58	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	12	59	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	008	12	60	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	12	61	-	-	μέλλοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	μέλλω
+0540	008	12	62	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	12	63	-	-	ἀποτρέψειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἀποτρέπω
+0540	008	12	64	-	-	ἀποτρέψειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἀποτρέπω
+0540	008	12	65	-	-	Contius	-	VERB	Ne	-	Tense=Pres|VerbForm=Inf|Voice=Act	Contius
+0540	008	12	66	-	-	:	-	CCONJ	C-	-		:
+0540	008	12	67	-	-	ἀποτρέπειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀποτρέπω
+0540	008	12	68	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	12	69	-	-	φάσκοιτε	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	φάσκοειμι
+0540	008	12	70	-	-	,	-	PUNCT	Z	-		,
+0540	008	12	71	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	12	72	-	-	δέ	-	ADV	Df	-		δέ
+0540	008	12	73	-	-	τινας	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Plur	τίς
+0540	008	12	74	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	008	12	75	-	-	κωλύσαιτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ωλύσαιτε
+0540	008	12	76	-	-	.	-	PUNCT	Z	-		.
+0540	008	12	77	-	-	κωλύσαιτε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ωλύσαιτε
+0540	008	12	78	-	-	Reiske	-	ADV	Df	-		Reiske
+0540	008	12	79	-	-	:	-	CCONJ	C-	-		:
+0540	008	12	80	-	-	κωλύσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	κωλύσω
+0540	008	12	81	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	12	82	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	12	83	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	12	84	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0540	008	12	85	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	12	86	-	-	δεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ
+0540	008	12	87	-	-	φανερώτερον	-	ADV	Df	-	Degree=Cmp	φανερός
+0540	008	12	88	-	-	ἐξελέγχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐξελέγχω
+0540	008	12	89	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	008	12	90	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	008	12	91	-	-	Reiske	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	Reiske
+0540	008	12	92	-	-	:	-	CCONJ	C-	-		:
+0540	008	12	93	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	12	94	-	-	MSS.	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	MSS.
+0540	008	12	95	-	-	;	-	PUNCT	Z	-		;
+0540	008	12	96	-	-	φέρε	-	VERB	V-	-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	φέρω
+0540	008	12	97	-	-	γάρ	-	ADV	Df	-		γάρ
+0540	008	12	98	-	-	,	-	PUNCT	Z	-		,
+0540	008	12	99	-	-	ᾔδει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	οἶδα
+0540	008	12	100	-	-	ποτʼ	-	ADV	Df	-		πρός
+0540	008	12	101	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	12	102	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	12	103	-	-	Κλειτοδίκου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Κλειτοδίκος
+0540	008	12	104	-	-	δεηθεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	δέω
+0540	008	12	105	-	-	ἐπιλέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιλέγω
+0540	008	12	106	-	-	ἐπιλέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπιλέγω
+0540	008	12	107	-	-	Emperius10	-	CCONJ	C-	-		Emperius10
+0540	008	12	108	-	-	ἐκλέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ἐκλέγω
+0540	008	12	109	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	12	110	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	12	111	-	-	ἔτυχον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	τυγχάνω
+0540	008	12	112	-	-	;	-	PUNCT	Z	-		;
+0540	008	13	0	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	13	1	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	13	2	-	-	δὴ	-	ADV	Df	-		δή
+0540	008	13	3	-	-	παρῆν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πάρειμι
+0540	008	13	4	-	-	τούτοις	-	ADJ	Pd	-	Case=Dat|Gender=Neut|Number=Plur	οὗτος
+0540	008	13	5	-	-	·	-	PUNCT	Z	-		·
+0540	008	13	6	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	13	7	-	-	τί	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Sing	τίς
+0540	008	13	8	-	-	ἢ	-	CCONJ	C-	-		ἤ
+0540	008	13	9	-	-	τί	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Sing	τίς
+0540	008	13	10	-	-	Emperius	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Emperius
+0540	008	13	11	-	-	:	-	CCONJ	Nb	-		:
+0540	008	13	12	-	-	ἐπεὶ	-	ADV	G-	-		ἐπεί
+0540	008	13	13	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	13	14	-	-	κέρδος	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Sing	κέρδος
+0540	008	13	15	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	13	16	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	008	13	17	-	-	διαβάλλειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	διαβάλλω
+0540	008	13	18	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	13	19	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	13	20	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	13	21	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	008	13	22	-	-	προθύμως	-	ADV	Df	-	Degree=Pos	προθύμως
+0540	008	13	23	-	-	,	-	PUNCT	Z	-		,
+0540	008	13	24	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	008	13	25	-	-	σπουδάσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	σπουδάζω
+0540	008	13	26	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	13	27	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	13	28	-	-	ἐμοὺς	-	ADJ	Ps	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|Poss=Yes	ἐμός
+0540	008	13	29	-	-	ἀναγκαίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἀναγκαῖος
+0540	008	13	30	-	-	πλάσασθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	πλάσσω
+0540	008	13	31	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	13	32	-	-	;	-	PUNCT	Z	-		;
+0540	008	14	0	-	-	γιγνώσκω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	γιγνώσκω
+0540	008	14	1	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	14	2	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	14	3	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	008	14	4	-	-	καὶ	-	ADV	Df	-		καί
+0540	008	14	5	-	-	πάλαι	-	ADV	Df	-		πάλαι
+0540	008	14	6	-	-	ζητοῦντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ζητέω
+0540	008	14	7	-	-	πρόφασιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πρόφασις
+0540	008	14	8	-	-	,	-	PUNCT	Z	-		,
+0540	008	14	9	-	-	ἡνίκα	-	SCONJ	G-	-		ἡνίκα
+0540	008	14	10	-	-	Θρασύμαχον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Θρασύμαχος
+0540	008	14	11	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	14	12	-	-	ἐφάσκετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	φάσκω
+0540	008	14	13	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	14	14	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	14	15	-	-	διʼ	-	ADP	R-	-		διά
+0540	008	14	16	-	-	ἐμέ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	14	17	-	-	.	-	PUNCT	Z	-		.
+0540	008	14	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	14	19	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	14	20	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	14	21	-	-	ἠρώτων	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐρωτάω
+0540	008	14	22	-	-	αὐτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	008	14	23	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	008	14	24	-	-	διʼ	-	ADP	R-	-		διά
+0540	008	14	25	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	14	26	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	14	27	-	-	λέγοι	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	008	14	28	-	-	Διόδωρον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Διόδωρος
+0540	008	14	29	-	-	·	-	PUNCT	Z	-		·
+0540	008	14	30	-	-	ὁ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ὁ
+0540	008	14	31	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	14	32	-	-	τοσοῦτον	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	τοσοῦτος
+0540	008	14	33	-	-	ὑπερεῖδε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ὑπεροράω
+0540	008	14	34	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	14	35	-	-	διʼ	-	ADP	R-	-		διά
+0540	008	14	36	-	-	ἐμέ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	14	37	-	-	·	-	PUNCT	Z	-		·
+0540	008	14	38	-	-	πολλοῦ	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	008	14	39	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	14	40	-	-	δεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δεῖ
+0540	008	14	41	-	-	ἔφη	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	φημί
+0540	008	14	42	-	-	διʼ	-	ADP	R-	-		διά
+0540	008	14	43	-	-	ὁντινοῦν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ὁστισοῦν
+0540	008	14	44	-	-	εἰρηκέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λέγω
+0540	008	14	45	-	-	Διόδωρον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Διόδωρος
+0540	008	14	46	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	14	47	-	-	.	-	PUNCT	Z	-		.
+0540	008	14	48	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	14	49	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	14	50	-	-	προσάγοντος	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	προσάγω
+0540	008	14	51	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	14	52	-	-	πρόθυμος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	πρόθυμος
+0540	008	14	53	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	14	54	-	-	Θρασύμαχος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Θρασύμαχος
+0540	008	14	55	-	-	ἦν	-	AUX	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	14	56	-	-	ἐξελέγχεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἐξελέγχομαι
+0540	008	14	57	-	-	,	-	PUNCT	Z	-		,
+0540	008	15	0	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	15	1	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	008	15	2	-	-	οὗτος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0540	008	15	3	-	-	ἔλεγεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	15	4	-	-	·	-	PUNCT	Z	-		·
+0540	008	15	5	-	-	οὗτος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	οὗτος
+0540	008	15	6	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	15	7	-	-	πάντʼ	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	008	15	8	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	15	9	-	-	πάντʼ	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	008	15	10	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	008	15	11	-	-	Markland	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Markland
+0540	008	15	12	-	-	:	-	CCONJ	S-	-		:
+0540	008	15	13	-	-	πάντων	-	ADJ	Px	-	Case=Gen|Gender=Neut|Number=Plur	πᾶς
+0540	008	15	14	-	-	,	-	PUNCT	Z	-		,
+0540	008	15	15	-	-	πάντα	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	008	15	16	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	15	17	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	008	15	18	-	-	διεπράττετο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	διαπράσσω
+0540	008	15	19	-	-	.	-	PUNCT	Z	-		.
+0540	008	15	20	-	-	μετὰ	-	ADP	R-	-		μετά
+0540	008	15	21	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	008	15	22	-	-	Αὐτοκράτης	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Αὐτοκράτης
+0540	008	15	23	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	15	24	-	-	παρόντος	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0540	008	15	25	-	-	Θρασυμάχω	-	PROPN	Ne	-	Case=Dat|Gender=Masc|Number=Sing	Θρασύμαχος
+0540	008	15	26	-	-	ἔλεγεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	15	27	-	-	Εὐρυπτόλεμον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Εὐρυπτόλεμος
+0540	008	15	28	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	008	15	29	-	-	μέμφεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	μέμφομαι
+0540	008	15	30	-	-	,	-	PUNCT	Z	-		,
+0540	008	15	31	-	-	φάσκοντα	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	φάσκω
+0540	008	15	32	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	15	33	-	-	ἀκούειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἀκούω
+0540	008	15	34	-	-	ὑπʼ	-	ADP	R-	-		ὑπό
+0540	008	15	35	-	-	αὐτοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	008	15	36	-	-	·	-	PUNCT	Z	-		·
+0540	008	15	37	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	15	38	-	-	ἀπαγγέλλοντα	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀπαγγέλλω
+0540	008	15	39	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	15	40	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	008	15	41	-	-	Μηνόφιλον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Μηνόφιλος
+0540	008	15	42	-	-	.	-	PUNCT	Z	-		.
+0540	008	15	43	-	-	εὐθὺς	-	ADV	Df	-		εὐθύς
+0540	008	15	44	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	15	45	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	15	46	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	008	15	47	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	15	48	-	-	Μηνόφιλον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Μηνόφιλος
+0540	008	15	49	-	-	ἐβάδιξε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	βαδίζω
+0540	008	15	50	-	-	μετʼ	-	ADP	R-	-		μετά
+0540	008	15	51	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	15	52	-	-	·	-	PUNCT	Z	-		·
+0540	008	15	53	-	-	κἀκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	008	15	54	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	008	15	55	-	-	ἀκοῦσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀκούω
+0540	008	15	56	-	-	πώποτε	-	ADV	Df	-		πώποτε
+0540	008	15	57	-	-	ἔφασκεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	φάσκω
+0540	008	15	58	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	008	15	59	-	-	ἀπαγγεῖλαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀπαγγέλλω
+0540	008	15	60	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	15	61	-	-	Εὐρυπτόλεμον	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Εὐρυπτόλεμος
+0540	008	15	62	-	-	,	-	PUNCT	Z	-		,
+0540	008	15	63	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	15	64	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	15	65	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	15	66	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0540	008	15	67	-	-	,	-	PUNCT	Z	-		,
+0540	008	15	68	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	008	15	69	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0540	008	15	70	-	-	διειλέχθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	λέγω
+0540	008	15	71	-	-	πολλοῦ	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	πολύς
+0540	008	15	72	-	-	χρόνου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	χρόνος
+0540	008	15	73	-	-	.	-	PUNCT	Z	-		.
+0540	008	16	0	-	-	τοιαύτας	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Plur	τοιοῦτος
+0540	008	16	1	-	-	προφάσεις	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	πρόφασις
+0540	008	16	2	-	-	προφασιζόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	προφασιζόμενοι
+0540	008	16	3	-	-	τότε	-	ADV	Df	-		τότε
+0540	008	16	4	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	16	5	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	008	16	6	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	16	7	-	-	ἐμῆς	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	008	16	8	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	16	9	-	-	Θρασυμάχου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Θρασύμαχος
+0540	008	16	10	-	-	συνουσίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	συνουσία
+0540	008	16	11	-	-	ἐστὲ	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	16	12	-	-	φανεροί	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	φανερός
+0540	008	16	13	-	-	,	-	PUNCT	Z	-		,
+0540	008	16	14	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	16	15	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	16	16	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	008	16	17	-	-	ἐκλελοίπασιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐκλείπω
+0540	008	16	18	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	16	19	-	-	αἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	008	16	20	-	-	προφάσεις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	πρόφασις
+0540	008	16	21	-	-	,	-	PUNCT	Z	-		,
+0540	008	16	22	-	-	ἐλευθεριώτερόν	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	ἐλευθέριος
+0540	008	16	23	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	16	24	-	-	κακῶσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	κακόω
+0540	008	16	25	-	-	λείπετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λείπω
+0540	008	16	26	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	008	16	27	-	-	λείπετε	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λείπω
+0540	008	16	28	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	008	16	29	-	-	Scheibe	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Scheibe
+0540	008	16	30	-	-	:	-	PUNCT	Z	-		:
+0540	008	16	31	-	-	λείπετε	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λείπω
+0540	008	16	32	-	-	,	-	PUNCT	Z	-		,
+0540	008	16	33	-	-	λέπτίδι	-	PROPN	Ne	-	Case=Dat|Gender=Fem|Number=Sing	λέπτίς
+0540	008	16	34	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	16	35	-	-	οὐδέν	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Sing	οὐδείς
+0540	008	16	36	-	-	.	-	PUNCT	Z	-		.
+0540	008	16	37	-	-	χρῆν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	χρή
+0540	008	16	38	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	16	39	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	16	40	-	-	τότε	-	ADV	Df	-		τότε
+0540	008	16	41	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	16	42	-	-	γιγνώσκειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	γιγνώσκω
+0540	008	16	43	-	-	ὀφειλόμενόν	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	ὀφείλω
+0540	008	16	44	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	16	45	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	16	46	-	-	παθεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	πάσχω
+0540	008	16	47	-	-	,	-	PUNCT	Z	-		,
+0540	008	16	48	-	-	ὅτε	-	SCONJ	G-	-		ὅτε
+0540	008	16	49	-	-	καὶ	-	ADV	Df	-		καί
+0540	008	16	50	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	16	51	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	16	52	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	16	53	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	16	54	-	-	αὐτῶν	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Plur	αὐτός
+0540	008	16	55	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	16	56	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	16	57	-	-	Contius	-	NUM	Nb	-		Contius
+0540	008	16	58	-	-	:	-	CCONJ	C-	-		:
+0540	008	16	59	-	-	ἔλεγε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	16	60	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	16	61	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	16	62	-	-	·	-	PUNCT	Z	-		·
+0540	008	16	63	-	-	ἔπειτα	-	ADV	Df	-		ἔπειτα
+0540	008	16	64	-	-	καὶ	-	ADV	Df	-		καί
+0540	008	16	65	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	16	66	-	-	Πολυκλέους	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Πολυκλῆς
+0540	008	16	67	-	-	,	-	PUNCT	Z	-		,
+0540	008	16	68	-	-	ᾧ	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0540	008	16	69	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	008	16	70	-	-	βοηθεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	βοηθέω
+0540	008	16	71	-	-	,	-	PUNCT	Z	-		,
+0540	008	17	0	-	-	πάντʼ	-	ADJ	Px	-	Case=Acc|Gender=Neut|Number=Plur	πᾶς
+0540	008	17	1	-	-	εἴρηκα	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	17	2	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	17	3	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	17	4	-	-	.	-	PUNCT	Z	-		.
+0540	008	17	5	-	-	κατὰ	-	ADP	R-	-		κατά
+0540	008	17	6	-	-	τί	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς
+0540	008	17	7	-	-	δὴ	-	ADV	Df	-		δή
+0540	008	17	8	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	008	17	9	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	17	10	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	17	11	-	-	add.	-	PUNCT	Z	-		add.
+0540	008	17	12	-	-	Reiske	-	CCONJ	C-	-		Reiske
+0540	008	17	13	-	-	ἐφυλαττόμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	φυλάσσω
+0540	008	17	14	-	-	;	-	PUNCT	Z	-		;
+0540	008	17	15	-	-	εὔηθές	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	εὐήθης
+0540	008	17	16	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	008	17	17	-	-	ἔπαθον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	πάσχω
+0540	008	17	18	-	-	.	-	PUNCT	Z	-		.
+0540	008	17	19	-	-	ᾤμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	οἴομαι
+0540	008	17	20	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	17	21	-	-	ἀπόθετος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἀπόθετος
+0540	008	17	22	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	17	23	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	008	17	24	-	-	φίλος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	φίλος
+0540	008	17	25	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	17	26	-	-	μηδὲν	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	μηδείς
+0540	008	17	27	-	-	ἀκοῦσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀκούω
+0540	008	17	28	-	-	κακὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	κακός
+0540	008	17	29	-	-	διʼ	-	ADP	R-	-		διά
+0540	008	17	30	-	-	αὐτὸ	-	DET	Pd	-	Case=Acc|Gender=Neut|Number=Sing	αὐτός
+0540	008	17	31	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	008	17	32	-	-	,	-	PUNCT	Z	-		,
+0540	008	17	33	-	-	διότι	-	SCONJ	G-	-		διότι
+0540	008	17	34	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	17	35	-	-	ἐμὲ	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	17	36	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	17	37	-	-	ἄλλους	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Plur	ἄλλος
+0540	008	17	38	-	-	ἐλέγετε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	008	17	39	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	17	40	-	-	,	-	PUNCT	Z	-		,
+0540	008	17	41	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	17	42	-	-	Foertsch	-	ADV	V-	-		Foertsch
+0540	008	17	43	-	-	:	-	CCONJ	Nb	-		:
+0540	008	17	44	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	17	45	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	17	46	-	-	παρακαταθήκην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	παρακαταθήκη
+0540	008	17	47	-	-	ἔχων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω
+0540	008	17	48	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	17	49	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	008	17	50	-	-	ἑκάστου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος
+0540	008	17	51	-	-	λόγους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	λόγος
+0540	008	17	52	-	-	πονηροὺς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	πονηρός
+0540	008	17	53	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	17	54	-	-	ἀλλήλων	-	PRON	Pc	-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rcp	ἀλλήλων
+0540	008	17	55	-	-	.	-	PUNCT	Z	-		.
+0540	008	18	0	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	18	1	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	008	18	2	-	-	ἑκὼν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἑκών
+0540	008	18	3	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	18	4	-	-	ἐξίσταμαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐξίστημι
+0540	008	18	5	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	008	18	6	-	-	φιλίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	φιλία
+0540	008	18	7	-	-	,	-	PUNCT	Z	-		,
+0540	008	18	8	-	-	ἐπεί	-	SCONJ	G-	-		ἐπεί
+0540	008	18	9	-	-	τοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ
+0540	008	18	10	-	-	μὰ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	μά
+0540	008	18	11	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	18	12	-	-	θεοὺς	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	θεός
+0540	008	18	13	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	18	14	-	-	οἶδʼ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἶδα
+0540	008	18	15	-	-	ὅ	-	PRON	Pi	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	ὅς
+0540	008	18	16	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	008	18	17	-	-	ζημιωθήσομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	ζημιόω
+0540	008	18	18	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	18	19	-	-	ξυνὼν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	σύνειμι
+0540	008	18	20	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	18	21	-	-	·	-	PUNCT	Z	-		·
+0540	008	18	22	-	-	οὐδὲ	-	CCONJ	C-	-		οὐδέ
+0540	008	18	23	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	18	24	-	-	ὠφελούμην	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ὠφελέω
+0540	008	18	25	-	-	ξυνών	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	σύνειμι
+0540	008	18	26	-	-	.	-	PUNCT	Z	-		.
+0540	008	18	27	-	-	πότερον	-	ADV	Du	-	PronType=Int	πότερον
+0540	008	18	28	-	-	γάρ	-	ADV	Df	-		γάρ
+0540	008	18	29	-	-	,	-	PUNCT	Z	-		,
+0540	008	18	30	-	-	ὅταν	-	ADV	Dq	-	PronType=Rel	ὅταν
+0540	008	18	31	-	-	ᾖ	-	AUX	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	18	32	-	-	τί	-	DET	Px	-	Case=Nom|Gender=Neut|Number=Sing	τίς
+0540	008	18	33	-	-	μοι	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	18	34	-	-	πρᾶγμα	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Sing	πρᾶγμα
+0540	008	18	35	-	-	,	-	PUNCT	Z	-		,
+0540	008	18	36	-	-	τότε	-	ADV	Df	-		τότε
+0540	008	18	37	-	-	ποθέσομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	ποθέω
+0540	008	18	38	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	18	39	-	-	ἐροῦντα	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	λέγω
+0540	008	18	40	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	18	41	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	18	42	-	-	μαρτυρήσοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	μαρτυρήσω
+0540	008	18	43	-	-	;	-	PUNCT	Z	-		;
+0540	008	18	44	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	18	45	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	18	46	-	-	ἀντὶ	-	ADP	R-	-		ἀντί
+0540	008	18	47	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	18	48	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	18	49	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	18	50	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	008	18	51	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	18	52	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	18	53	-	-	λέγοντα	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	008	18	54	-	-	πειρᾶσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	πειράω
+0540	008	18	55	-	-	ἀντὶ	-	ADP	R-	-		ἀντί
+0540	008	18	56	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	18	57	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	18	58	-	-	βοηθεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	βοηθέω
+0540	008	18	59	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	18	60	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	18	61	-	-	μαρτυρεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	μαρτυρέω
+0540	008	18	62	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	18	63	-	-	δίκαια	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	δίκαιος
+0540	008	18	64	-	-	ξύνεστε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	σύνειμι
+0540	008	18	65	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	18	66	-	-	ἐμοῖς	-	ADJ	Ps	-	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἐμός
+0540	008	18	67	-	-	ἀντιδίκοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἀντίδικος
+0540	008	18	68	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	18	69	-	-	μαρτυρεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	μαρτυρέω
+0540	008	18	70	-	-	.	-	PUNCT	Z	-		.
+0540	008	19	0	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	008	19	1	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	008	19	2	-	-	εὖνοι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	εὔνοος
+0540	008	19	3	-	-	εὖνοι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	εὔνοος
+0540	008	19	4	-	-	Reiske	-	NOUN	V-	-	Case=Nom|Gender=Masc|Number=Plur	Reiske
+0540	008	19	5	-	-	:	-	ADV	Df	-		:
+0540	008	19	6	-	-	εὔνους	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	εὔνοος
+0540	008	19	7	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	19	8	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	008	19	9	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	19	10	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	008	19	11	-	-	βέλτιστα	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	βέλτιστος
+0540	008	19	12	-	-	ἐρεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	λέγω
+0540	008	19	13	-	-	περὶ	-	ADP	R-	-		περί
+0540	008	19	14	-	-	ἐμοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός
+0540	008	19	15	-	-	;	-	PUNCT	Z	-		;
+0540	008	19	16	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	008	19	17	-	-	καὶ	-	ADV	Df	-		καί
+0540	008	19	18	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	19	19	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	20	-	-	με	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	19	21	-	-	μόνοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	μόνος
+0540	008	19	22	-	-	μόνοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	μόνος
+0540	008	19	23	-	-	Bekker	-	ADV	V-	-		Bekker
+0540	008	19	24	-	-	:	-	CCONJ	C-	-		:
+0540	008	19	25	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0540	008	19	26	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	19	27	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	19	28	-	-	λέγετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	008	19	29	-	-	.	-	PUNCT	Z	-		.
+0540	008	19	30	-	-	τὸ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	19	31	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	19	32	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	008	19	33	-	-	ἐμὸν	-	ADJ	Ps	-	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	008	19	34	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	008	19	35	-	-	ἐμποδὼν	-	ADV	Df	-		ἐμποδών
+0540	008	19	36	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	37	-	-	ἔσται	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί
+0540	008	19	38	-	-	.	-	PUNCT	Z	-		.
+0540	008	19	39	-	-	τοιοῦτον	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Sing	τοιοῦτος
+0540	008	19	40	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	19	41	-	-	ἄρα	-	ADV	Df	-		ἆρα
+0540	008	19	42	-	-	δʼ	-	ADV	Df	-		δέ
+0540	008	19	43	-	-	ἄρα	-	ADV	Df	-		ἆρα
+0540	008	19	44	-	-	Thalheim	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Thalheim
+0540	008	19	45	-	-	:	-	CCONJ	Nb	-		:
+0540	008	19	46	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	19	47	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	19	48	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	19	49	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	50	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	008	19	51	-	-	πείσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	πείθω
+0540	008	19	52	-	-	,	-	PUNCT	Z	-		,
+0540	008	19	53	-	-	ἐπειδή	-	SCONJ	G-	-		ἐπειδή
+0540	008	19	54	-	-	περ	-	ADV	Df	-		πέρ
+0540	008	19	55	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	56	-	-	ἔθος	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Sing	ἔθος
+0540	008	19	57	-	-	ἐστὶν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	008	19	58	-	-	ἕνα	-	NUM	Ma	-	Case=Acc|Gender=Masc|Number=Sing	εἷς
+0540	008	19	59	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	19	60	-	-	ξυνόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	σύνειμι
+0540	008	19	61	-	-	ἀεὶ	-	ADV	Df	-		ἀεί
+0540	008	19	62	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	19	63	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	008	19	64	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	19	65	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	008	19	66	-	-	·	-	PUNCT	Z	-		·
+0540	008	19	67	-	-	ἐπειδὰν	-	SCONJ	G-	-		ἐπειδάν
+0540	008	19	68	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	69	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	008	19	70	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	19	71	-	-	ξυνῶ	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	σύνειμι
+0540	008	19	72	-	-	,	-	PUNCT	Z	-		,
+0540	008	19	73	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	19	74	-	-	ξυνῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	σύνειμι
+0540	008	19	75	-	-	Markland	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	Markland
+0540	008	19	76	-	-	:	-	CCONJ	C-	-		:
+0540	008	19	77	-	-	μηνύσω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	μηνύω
+0540	008	19	78	-	-	,	-	PUNCT	Z	-		,
+0540	008	19	79	-	-	μηνίσω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	μηνίζω
+0540	008	19	80	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	19	81	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	008	19	82	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	83	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	008	19	84	-	-	τρέψεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	τρέπω
+0540	008	19	85	-	-	,	-	PUNCT	Z	-		,
+0540	008	19	86	-	-	τρέψεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	τρέπω
+0540	008	19	87	-	-	Markland	-	ADV	Df	-		Markland
+0540	008	19	88	-	-	:	-	PUNCT	Z	-		:
+0540	008	19	89	-	-	τρέπεσθε	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	τρέπω
+0540	008	19	90	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	008	19	91	-	-	κἄπειτα	-	ADV	Df	-		ἔπειτα
+0540	008	19	92	-	-	καθʼ	-	ADP	R-	-		κατά
+0540	008	19	93	-	-	ἕνα	-	NUM	Ma	-	Case=Acc|Gender=Masc|Number=Sing	εἷς
+0540	008	19	94	-	-	ἕκαστον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	ἕκαστος
+0540	008	19	95	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	19	96	-	-	αὐτοῖς	-	DET	Pd	-	Case=Dat|Gender=Masc|Number=Plur	αὐτός
+0540	008	19	97	-	-	ἀπεχθήσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Pass	ἀπεχθάνομαι
+0540	008	19	98	-	-	,	-	PUNCT	Z	-		,
+0540	008	19	99	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	008	19	100	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	19	101	-	-	τελευταῖον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	τελευταῖος
+0540	008	19	102	-	-	εἷς	-	NUM	Ma	-	Case=Nom|Gender=Masc|Number=Sing	εἷς
+0540	008	19	103	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	008	19	104	-	-	λειπόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	λείπω
+0540	008	19	105	-	-	αὐτὸς	-	DET	Pd	-	Case=Nom|Gender=Masc|Number=Sing	αὐτός
+0540	008	19	106	-	-	αὑτὸν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	008	19	107	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	19	108	-	-	ἐρεῖ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	λέγω
+0540	008	19	109	-	-	.	-	PUNCT	Z	-		.
+0540	008	20	0	-	-	κερδανῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	κερδαίνω
+0540	008	20	1	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	20	2	-	-	τοσοῦτον	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	τοσοῦτος
+0540	008	20	3	-	-	,	-	PUNCT	Z	-		,
+0540	008	20	4	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	008	20	5	-	-	πρῶτος	-	ADJ	Mo	-	Case=Nom|Gender=Masc|Number=Sing	πρῶτος
+0540	008	20	6	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	20	7	-	-	πρῶτος	-	ADJ	Mo	-	Case=Nom|Gender=Masc|Number=Sing	πρῶτος
+0540	008	20	8	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	008	20	9	-	-	Thalheim	-	ADV	V-	-		Thalheim
+0540	008	20	10	-	-	:	-	CCONJ	C-	-		:
+0540	008	20	11	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	008	20	12	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	20	13	-	-	.	-	PUNCT	Z	-		.
+0540	008	20	14	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	20	15	-	-	ἀπαλλαγεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ἀπαλλάσσω
+0540	008	20	16	-	-	ἐλάχιστα	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	ἐλάχιστος
+0540	008	20	17	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	20	18	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0540	008	20	19	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	20	20	-	-	πείσομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	πείθω
+0540	008	20	21	-	-	·	-	PUNCT	Z	-		·
+0540	008	20	22	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	20	23	-	-	μὲν	-	ADV	Df	-		μέν
+0540	008	20	24	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	008	20	25	-	-	χρωμένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	χράω
+0540	008	20	26	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	008	20	27	-	-	κακῶς	-	ADV	Df	-	Degree=Pos	κακῶς
+0540	008	20	28	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	20	29	-	-	λέγετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	008	20	30	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	008	20	31	-	-	ποιεῖτε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ποιέω
+0540	008	20	32	-	-	,	-	PUNCT	Z	-		,
+0540	008	20	33	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	008	20	34	-	-	δὲ	-	ADV	Df	-		δέ
+0540	008	20	35	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	008	20	36	-	-	χρωμένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	χράω
+0540	008	20	37	-	-	οὐδένα	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Sing	οὐδείς
+0540	008	20	38	-	-	πώποτε	-	ADV	Df	-		πώποτε
+0540	008	20	39	-	-	.	-	PUNCT	Z	-		.

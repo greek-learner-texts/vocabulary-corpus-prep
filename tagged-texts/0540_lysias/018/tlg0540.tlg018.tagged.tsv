@@ -1,0 +1,1638 @@
+0540	018	1	0	-	-	ἐνθυμήθητε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	ἐνθυμέομαι
+0540	018	1	1	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	018	1	2	-	-	,	-	PUNCT	Z	-		,
+0540	018	1	3	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	1	4	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	1	5	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	1	6	-	-	,	-	PUNCT	Z	-		,
+0540	018	1	7	-	-	οἷοί	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	οἷος
+0540	018	1	8	-	-	οῖοί	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	οῖος
+0540	018	1	9	-	-	Bekker	-	AUX	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Bekker
+0540	018	1	10	-	-	:	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	:
+0540	018	1	11	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	1	12	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	1	13	-	-	τινες	-	PRON	Pi	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Int	τίς
+0540	018	1	14	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	1	15	-	-	πολῖται	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	πολίτης
+0540	018	1	16	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	1	17	-	-	αὐτοὶ	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	αὐτός
+0540	018	1	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	1	19	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	018	1	20	-	-	προσήκοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	προσήκω
+0540	018	1	21	-	-	ἀδικούμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	ἀδικέω
+0540	018	1	22	-	-	ἀξιοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	018	1	23	-	-	ἐλεεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἐλεέω
+0540	018	1	24	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0540	018	1	25	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	1	26	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	1	27	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	1	28	-	-	δικαίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	δίκαιος
+0540	018	1	29	-	-	τυγχάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	τυγχάνω
+0540	018	1	30	-	-	·	-	PUNCT	Z	-		·
+0540	018	1	31	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	1	32	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	1	33	-	-	μόνον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	μόνος
+0540	018	1	34	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	1	35	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	1	36	-	-	οὐσίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	οὐσία
+0540	018	1	37	-	-	ἀγωνιζόμεθα	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀγωνίζομαι
+0540	018	1	38	-	-	,	-	PUNCT	Z	-		,
+0540	018	1	39	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	018	1	40	-	-	καὶ	-	ADV	Df	-		καί
+0540	018	1	41	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	1	42	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	1	43	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	1	44	-	-	,	-	PUNCT	Z	-		,
+0540	018	1	45	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	018	1	46	-	-	χρὴ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή
+0540	018	1	47	-	-	δημοκρατουμένης	-	VERB	V-	-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	δημοκρατέομαι
+0540	018	1	48	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	1	49	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	018	1	50	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	1	51	-	-	μετεῖναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	μεθίημι
+0540	018	1	52	-	-	.	-	PUNCT	Z	-		.
+0540	018	1	53	-	-	πρῶτον	-	ADJ	Mo	-	Case=Acc|Gender=Neut|Number=Sing	πρῶτος
+0540	018	1	54	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	1	55	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	018	1	56	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	1	57	-	-	Νικίου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Νικίας
+0540	018	1	58	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	1	59	-	-	ἡμετέρου	-	ADJ	Ps	-	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	ἡμέτερος
+0540	018	1	60	-	-	θείου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	θεῖος
+0540	018	1	61	-	-	ἀναμνήσθητε	-	VERB	V-	-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	ἀναμιμνήσκω
+0540	018	1	62	-	-	.	-	PUNCT	Z	-		.
+0540	018	2	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	2	1	-	-	ἐκεῖνος	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	018	2	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	2	3	-	-	ὅσα	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0540	018	2	4	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	2	5	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	2	6	-	-	ἑαυτοῦ	-	PRON	Pk	-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	ἑαυτοῦ
+0540	018	2	7	-	-	γνώμῃ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	γνώμη
+0540	018	2	8	-	-	χρώμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	χράω
+0540	018	2	9	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	2	10	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	2	11	-	-	ὑμετέρου	-	ADJ	Ps	-	Case=Gen|Gender=Masc|Number=Sing	ὑμέτερος
+0540	018	2	12	-	-	ἔπραξε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	πράσσω
+0540	018	2	13	-	-	,	-	PUNCT	Z	-		,
+0540	018	2	14	-	-	πανταχοῦ	-	ADV	Df	-		πανταχοῦ
+0540	018	2	15	-	-	φανήσεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	φαίνω
+0540	018	2	16	-	-	πολλῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0540	018	2	17	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	2	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	2	19	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	2	20	-	-	Galen	-	NOUN	A-	-	Case=Gen|Gender=Masc|Number=Plur	Galen
+0540	018	2	21	-	-	:	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	:
+0540	018	2	22	-	-	ἰδία	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	ἴδιος
+0540	018	2	23	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	2	24	-	-	ἀγαθῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἀγαθός
+0540	018	2	25	-	-	αἴτιος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	αἴτιος
+0540	018	2	26	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	2	27	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	018	2	28	-	-	γεγενημένος	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	2	29	-	-	,	-	PUNCT	Z	-		,
+0540	018	2	30	-	-	πλεῖστα	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	πολύς
+0540	018	2	31	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	2	32	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	2	33	-	-	μέγιστα	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	μέγας
+0540	018	2	34	-	-	κακὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	κακός
+0540	018	2	35	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	2	36	-	-	πολεμίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	πολέμιος
+0540	018	2	37	-	-	εἰργασμένος	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἐργάζομαι
+0540	018	2	38	-	-	·	-	PUNCT	Z	-		·
+0540	018	2	39	-	-	ὅσα	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0540	018	2	40	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	2	41	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	2	42	-	-	βουλόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	βούλομαι
+0540	018	2	43	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	2	44	-	-	ἄκων	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἄκων
+0540	018	2	45	-	-	ἠναγκάσθη	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	ἀναγκάζω
+0540	018	2	46	-	-	ποιῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ποιέω
+0540	018	2	47	-	-	,	-	PUNCT	Z	-		,
+0540	018	2	48	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	2	49	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	2	50	-	-	κακῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	κακός
+0540	018	2	51	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	2	52	-	-	ἐλάχιστον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	ἐλάχιστος
+0540	018	2	53	-	-	αὐτὸς	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Sing	αὐτός
+0540	018	2	54	-	-	μετέσχε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	μετέχω
+0540	018	2	55	-	-	μέρος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	μέρος
+0540	018	2	56	-	-	,	-	PUNCT	Z	-		,
+0540	018	2	57	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	2	58	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	2	59	-	-	αἰτίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	αἰτία
+0540	018	2	60	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	2	61	-	-	συμφορᾶς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	συμφορά
+0540	018	2	62	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	2	63	-	-	πείσαντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	πείθω
+0540	018	2	64	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	2	65	-	-	δικαίως	-	ADV	Df	-	Degree=Pos	δικαίως
+0540	018	2	66	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	2	67	-	-	ἔχοιεν	-	VERB	V-	-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0540	018	2	68	-	-	,	-	PUNCT	Z	-		,
+0540	018	3	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	3	1	-	-	ἐπεὶ	-	ADV	Df	-		ἐπεί
+0540	018	3	2	-	-	τήν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	3	3	-	-	γε	-	ADV	Df	-		γε
+0540	018	3	4	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	3	5	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	3	6	-	-	εὔνοιαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	εὔνοια
+0540	018	3	7	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	3	8	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	3	9	-	-	ἀρετὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀρετή
+0540	018	3	10	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	3	11	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	3	12	-	-	add.	-	PUNCT	Z	-		add.
+0540	018	3	13	-	-	Sauppe.	-	PUNCT	Z	-		Sauppe.
+0540	018	3	14	-	-	αὑτοῦ	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ἑαυτοῦ
+0540	018	3	15	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	3	16	-	-	ταῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	3	17	-	-	εὐτυχίαις	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	εὐτυχία
+0540	018	3	18	-	-	ταῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	3	19	-	-	ὑμετέραις	-	DET	Ps	-	Case=Dat|Gender=Fem|Number=Plur	ὑμέτερος
+0540	018	3	20	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	3	21	-	-	ταῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	3	22	-	-	δυστυχίαις	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	δυστυχίη
+0540	018	3	23	-	-	ταῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	3	24	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	3	25	-	-	ἐχθρῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἐχθρός
+0540	018	3	26	-	-	ἐπεδείξατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἐπιδείκνυμι
+0540	018	3	27	-	-	ἐπεδείξατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἐπιδείκνυμι
+0540	018	3	28	-	-	Reiske	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	Reiske
+0540	018	3	29	-	-	:	-	SCONJ	G-	-		:
+0540	018	3	30	-	-	ἐπέδειξα	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιδείκνυμι
+0540	018	3	31	-	-	,	-	PUNCT	Z	-		,
+0540	018	3	32	-	-	ἐπέδειξε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐπιδείκνυμι
+0540	018	3	33	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	3	34	-	-	·	-	PUNCT	Z	-		·
+0540	018	3	35	-	-	στρατηγῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	στρατηγός
+0540	018	3	36	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	3	37	-	-	πολλὰς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	πολύς
+0540	018	3	38	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	3	39	-	-	πόλεις	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	πόλις
+0540	018	3	40	-	-	εἷλε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	αἱρέω
+0540	018	3	41	-	-	,	-	PUNCT	Z	-		,
+0540	018	3	42	-	-	πολλὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	πολύς
+0540	018	3	43	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	3	44	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	3	45	-	-	καλὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	καλός
+0540	018	3	46	-	-	κατὰ	-	ADP	R-	-		κατά
+0540	018	3	47	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	3	48	-	-	πολεμίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	πολέμιος
+0540	018	3	49	-	-	ἔστησε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἵστημι
+0540	018	3	50	-	-	τρόπαια	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	τροπαῖος
+0540	018	3	51	-	-	,	-	PUNCT	Z	-		,
+0540	018	3	52	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	018	3	53	-	-	καθʼ	-	ADP	R-	-		κατά
+0540	018	3	54	-	-	ἓν	-	NUM	Ma	-	Case=Acc|Gender=Neut|Number=Sing	εἷς
+0540	018	3	55	-	-	ἕκατον	-	NUM	Ma	-		ἕκατος
+0540	018	3	56	-	-	πολὺ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	018	3	57	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	3	58	-	-	ἔργον	-	NOUN	Nb	-	Case=Nom|Gender=Neut|Number=Sing	ἔργον
+0540	018	3	59	-	-	εἴη	-	AUX	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	018	3	60	-	-	λέγειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω
+0540	018	3	61	-	-	.	-	PUNCT	Z	-		.
+0540	018	4	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	4	1	-	-	Εὐκράτης	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Εὐκράτης
+0540	018	4	2	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	018	4	3	-	-	,	-	PUNCT	Z	-		,
+0540	018	4	4	-	-	ἀδελφὸς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	ἀδελφός
+0540	018	4	5	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	4	6	-	-	ὢν	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	4	7	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	018	4	8	-	-	,	-	PUNCT	Z	-		,
+0540	018	4	9	-	-	πατὴρ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	πατήρ
+0540	018	4	10	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	4	11	-	-	ἐμός	-	ADJ	Ps	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	018	4	12	-	-	,	-	PUNCT	Z	-		,
+0540	018	4	13	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	018	4	14	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	4	15	-	-	τελευταίας	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	τελευταῖος
+0540	018	4	16	-	-	ναυμαχίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ναυμαχία
+0540	018	4	17	-	-	γεγενημένης	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	4	18	-	-	φανερὰν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	φανερός
+0540	018	4	19	-	-	ἐπεδείξατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἐπιδείκνυμι
+0540	018	4	20	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	4	21	-	-	εὔνοιαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	εὔνοια
+0540	018	4	22	-	-	ἣν	-	PRON	Pr	-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0540	018	4	23	-	-	εἶχε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔχω
+0540	018	4	24	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	4	25	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	4	26	-	-	πλῆθος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	πλῆθος
+0540	018	4	27	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	4	28	-	-	ὑμέτερον	-	ADJ	Ps	-	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	4	29	-	-	·	-	PUNCT	Z	-		·
+0540	018	4	30	-	-	ἡττημένων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	ἡσσάομαι
+0540	018	4	31	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	4	32	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	4	33	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	4	34	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	4	35	-	-	add.	-	PUNCT	Z	-		add.
+0540	018	4	36	-	-	Reiske.	-	PUNCT	Z	-		Reiske.ς
+0540	018	4	37	-	-	ναυμαχίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ναυμαχία
+0540	018	4	38	-	-	στρατηγὸς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	στρατηγός
+0540	018	4	39	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0540	018	4	40	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	4	41	-	-	ᾑρημένος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	αἱρέω
+0540	018	4	42	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	4	43	-	-	παρακαλούμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	παρακαλέω
+0540	018	4	44	-	-	μετέχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	μετέχω
+0540	018	4	45	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	4	46	-	-	ὀλιγαρχίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ὀλιγαρχία
+0540	018	4	47	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	4	48	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	4	49	-	-	ἐπιβουλευόντων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἐπιβουλευόντων
+0540	018	4	50	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	4	51	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	4	52	-	-	,	-	PUNCT	Z	-		,
+0540	018	5	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	5	1	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	5	2	-	-	ἠθέλησεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐθέλω
+0540	018	5	3	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	5	4	-	-	πείθεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	πείθω
+0540	018	5	5	-	-	,	-	PUNCT	Z	-		,
+0540	018	5	6	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	5	7	-	-	τοιούτῳ	-	DET	Pd	-	Case=Dat|Gender=Masc|Number=Sing	τοιοῦτος
+0540	018	5	8	-	-	καιρῷ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	καιρός
+0540	018	5	9	-	-	ληφθεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	λαμβάνω
+0540	018	5	10	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	5	11	-	-	ᾧ	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	ὅς
+0540	018	5	12	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	5	13	-	-	πλεῖστοι	-	ADJ	A-	-	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	πολύς
+0540	018	5	14	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	5	15	-	-	ἀνθρώπων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	ἄνθρωπος
+0540	018	5	16	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	5	17	-	-	μεταβάλλονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	μεταβάλλω
+0540	018	5	18	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	5	19	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	5	20	-	-	παρόντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0540	018	5	21	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	5	22	-	-	ταῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	5	23	-	-	τύχαις	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	τύχη
+0540	018	5	24	-	-	ἐίκουσι	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐίκω
+0540	018	5	25	-	-	,	-	PUNCT	Z	-		,
+0540	018	5	26	-	-	δυστυχοῦντος	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	δυστυχέω
+0540	018	5	27	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	5	28	-	-	δήμου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	δῆμος
+0540	018	5	29	-	-	,	-	PUNCT	Z	-		,
+0540	018	5	30	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	5	31	-	-	ἀπελαυνόμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	ἀπελαύνω
+0540	018	5	32	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	5	33	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	5	34	-	-	οὐδʼ	-	CCONJ	C-	-		οὐδέ
+0540	018	5	35	-	-	ἰδίας	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ἴδιος
+0540	018	5	36	-	-	ἔχθρας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἔχθρα
+0540	018	5	37	-	-	ὑπαρχούσης	-	VERB	V-	-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὑπάρχω
+0540	018	5	38	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	5	39	-	-	ἄρξειν	-	VERB	V-	-	Tense=Fut|VerbForm=Inf|Voice=Act	ἄρχω
+0540	018	5	40	-	-	μέλλοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	μέλλω
+0540	018	5	41	-	-	,	-	PUNCT	Z	-		,
+0540	018	5	42	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	5	43	-	-	ἐξὸν	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔξεστι
+0540	018	5	44	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	018	5	45	-	-	καὶ	-	ADV	Df	-		καί
+0540	018	5	46	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	5	47	-	-	τριάκοντα	-	NUM	Ma	-		τριάκοντα
+0540	018	5	48	-	-	γενέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	γίγνομαι
+0540	018	5	49	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	5	50	-	-	μηδενὸς	-	ADJ	Px	-	Case=Gen|Gender=Masc|Number=Sing	μηδείς
+0540	018	5	51	-	-	ἔλαττον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	ἐλάσσων
+0540	018	5	52	-	-	δύνασθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	δύναμαι
+0540	018	5	53	-	-	,	-	PUNCT	Z	-		,
+0540	018	5	54	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	018	5	55	-	-	εἵλετο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	αἱρέω
+0540	018	5	56	-	-	πράττων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	πράσσω
+0540	018	5	57	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	5	58	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	5	59	-	-	ὑμετέρας	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	5	60	-	-	σωτηρίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	σωτηρία
+0540	018	5	61	-	-	ἀπολέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	ἀπόλλυμι
+0540	018	5	62	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	018	5	63	-	-	ἐπιδεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἐπιδέω
+0540	018	5	64	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	5	65	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	5	66	-	-	add.	-	PUNCT	Z	-		add.
+0540	018	5	67	-	-	Markland.	-	PUNCT	Z	-		Markland.
+0540	018	5	68	-	-	τείχη	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	τεῖχος
+0540	018	5	69	-	-	καθαιρούμενα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	καθαιρέω
+0540	018	5	70	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	5	71	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	5	72	-	-	ναῦς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	ναῦς
+0540	018	5	73	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	5	74	-	-	πολεμίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	πολέμιος
+0540	018	5	75	-	-	παραδιδομένας	-	VERB	V-	-	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	παραδιδομένω
+0540	018	5	76	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	5	77	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	5	78	-	-	ὑμέτερον	-	ADJ	Ps	-	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	5	79	-	-	πλῆθος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	πλῆθος
+0540	018	5	80	-	-	καταδεδουλωμένον	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	καταδεδουλωμένος
+0540	018	5	81	-	-	.	-	PUNCT	Z	-		.
+0540	018	6	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	6	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	6	2	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	6	3	-	-	πολλῷ	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	πολύς
+0540	018	6	4	-	-	χρόνῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	χρόνος
+0540	018	6	5	-	-	ὕστερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ὕστερος
+0540	018	6	6	-	-	Νικήρατος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Νικήρατος
+0540	018	6	7	-	-	,	-	PUNCT	Z	-		,
+0540	018	6	8	-	-	ἀνεψιὸς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	ἀνεψιός
+0540	018	6	9	-	-	ὢν	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	6	10	-	-	ἐμὸς	-	ADJ	Ps	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	ἐμός
+0540	018	6	11	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	6	12	-	-	ὑὸς	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	ὗς
+0540	018	6	13	-	-	Νικίου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Νικίας
+0540	018	6	14	-	-	,	-	PUNCT	Z	-		,
+0540	018	6	15	-	-	εὔνους	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	εὔνοος
+0540	018	6	16	-	-	ὢν	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	6	17	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	6	18	-	-	ὑμετέρῳ	-	ADJ	Ps	-	Case=Dat|Gender=Neut|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	6	19	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	6	20	-	-	,	-	PUNCT	Z	-		,
+0540	018	6	21	-	-	συλληφθεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	συλλαμβάνω
+0540	018	6	22	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	6	23	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	6	24	-	-	τριάκοντα	-	NUM	Ma	-		τριάκοντα
+0540	018	6	25	-	-	ἀπέθανεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποθνῄσκω
+0540	018	6	26	-	-	,	-	PUNCT	Z	-		,
+0540	018	6	27	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	018	6	28	-	-	γένει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	γένος
+0540	018	6	29	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	018	6	30	-	-	οὐσίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	οὐσία
+0540	018	6	31	-	-	οὔθʼ	-	CCONJ	C-	-		οὔτε
+0540	018	6	32	-	-	ἡλικίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ἡλικία
+0540	018	6	33	-	-	δοκῶν	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	δοκέω
+0540	018	6	34	-	-	ἀνάξιος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ἀνάξιος
+0540	018	6	35	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	6	36	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	6	37	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	6	38	-	-	μετασχεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	μετέχω
+0540	018	6	39	-	-	·	-	PUNCT	Z	-		·
+0540	018	6	40	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	018	6	41	-	-	τοιαῦτα	-	ADJ	Pd	-	Case=Nom|Gender=Neut|Number=Plur	τοιοῦτος
+0540	018	6	42	-	-	ἐνομίζετο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	νομίζω
+0540	018	6	43	-	-	ἐνομίζετο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	νομίζω
+0540	018	6	44	-	-	Baiter	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Baiter
+0540	018	6	45	-	-	:	-	CCONJ	Df	-		:
+0540	018	6	46	-	-	ἐνόμιζε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	νομίζω
+0540	018	6	47	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	6	48	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	6	49	-	-	ὑπάρχοντα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑπάρχω
+0540	018	6	50	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	018	6	51	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	6	52	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	6	53	-	-	ὑμέτερον	-	ADJ	Ps	-	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	6	54	-	-	πλῆθος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	πλῆθος
+0540	018	6	55	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	6	56	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	6	57	-	-	διὰ	-	ADP	R-	-		διά
+0540	018	6	58	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	6	59	-	-	προγόνους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	πρόγονος
+0540	018	6	60	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	6	61	-	-	αὐτόν	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	018	6	62	-	-	,	-	PUNCT	Z	-		,
+0540	018	6	63	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	018	6	64	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	6	65	-	-	ἄν	-	ADV	Df	-		ἄν
+0540	018	6	66	-	-	ποθʼ	-	ADV	Df	-		πρός
+0540	018	6	67	-	-	ἑτέρας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	ἕτερος
+0540	018	6	68	-	-	ἐπιθυμῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἐπιθυμέω
+0540	018	6	69	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	6	70	-	-	.	-	PUNCT	Z	-		.
+0540	018	7	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	7	1	-	-	συνῄδεσαν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	σύνοιδα
+0540	018	7	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	7	3	-	-	ἅπασιν	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	ἅπας
+0540	018	7	4	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	7	5	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	7	6	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	7	7	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	018	7	8	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	018	7	9	-	-	Dobree	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Dobree
+0540	018	7	10	-	-	:	-	CCONJ	C-	-		:
+0540	018	7	11	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	7	12	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	7	13	-	-	τιμωμένοις	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	τιμωμένος
+0540	018	7	14	-	-	,	-	PUNCT	Z	-		,
+0540	018	7	15	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	7	16	-	-	πολλαχοῦ	-	ADV	Df	-		πολλαχοῦ
+0540	018	7	17	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	7	18	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	7	19	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	7	20	-	-	κεκινδυνευκόσι	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	κεκινδυνευκών
+0540	018	7	21	-	-	,	-	PUNCT	Z	-		,
+0540	018	7	22	-	-	μεγάλας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	μέγας
+0540	018	7	23	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	7	24	-	-	εἰσφορὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	εἰσφορός
+0540	018	7	25	-	-	εἰσενηνοχόσι	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	οἶσενηνοχα
+0540	018	7	26	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	7	27	-	-	λελῃτουργηκόσι	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	λελῃτουργηκών
+0540	018	7	28	-	-	κάλλιστα	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	καλός
+0540	018	7	29	-	-	,	-	PUNCT	Z	-		,
+0540	018	7	30	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	7	31	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	7	32	-	-	ἄλλων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0540	018	7	33	-	-	οὐδενὸς	-	ADJ	Px	-	Case=Gen|Gender=Masc|Number=Sing	οὐδείς
+0540	018	7	34	-	-	πώποτʼ	-	ADV	Df	-		πώποτε
+0540	018	7	35	-	-	ἀποστᾶσιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀφίστημι
+0540	018	7	36	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	018	7	37	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	7	38	-	-	πόλις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	πόλις
+0540	018	7	39	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	7	40	-	-	προσέταξεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	προστάσσω
+0540	018	7	41	-	-	,	-	PUNCT	Z	-		,
+0540	018	7	42	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	018	7	43	-	-	προθύμως	-	ADV	Df	-	Degree=Pos	προθύμως
+0540	018	7	44	-	-	λῃτουργοῦσι	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λῃτουργέω
+0540	018	7	45	-	-	.	-	PUNCT	Z	-		.
+0540	018	8	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	8	1	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	018	8	2	-	-	τίνες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	τίς
+0540	018	8	3	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	8	4	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	8	5	-	-	εἴησαν	-	AUX	V-	-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	018	8	6	-	-	δυστυχέστεροι	-	ADJ	A-	-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	δυστυχέστερος
+0540	018	8	7	-	-	,	-	PUNCT	Z	-		,
+0540	018	8	8	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	018	8	9	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	8	10	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	8	11	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	8	12	-	-	ὀλιγαρχίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ὀλιγαρχία
+0540	018	8	13	-	-	ἀποθνῄσκοιμεν	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	ἀποθνῄσκοι
+0540	018	8	14	-	-	εὖνοι	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	εὔνοος
+0540	018	8	15	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	8	16	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	8	17	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	8	18	-	-	,	-	PUNCT	Z	-		,
+0540	018	8	19	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	8	20	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	8	21	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	8	22	-	-	δημοκρατίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	δημοκρατία
+0540	018	8	23	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	018	8	24	-	-	κακόνοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	κακόνοι
+0540	018	8	25	-	-	κακόνοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	κακόνοι
+0540	018	8	26	-	-	Markland	-	ADV	V-	-		Markland
+0540	018	8	27	-	-	:	-	SCONJ	G-	-		:
+0540	018	8	28	-	-	κακοὶ	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	κακός
+0540	018	8	29	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	8	30	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	8	31	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	8	32	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	8	33	-	-	ἀποστεροίμεθα	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	ἀποστεροίμεθα
+0540	018	8	34	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	8	35	-	-	ὄντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	8	36	-	-	;	-	PUNCT	Z	-		;
+0540	018	9	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	9	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	9	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	9	3	-	-	δή	-	ADV	Df	-		δή
+0540	018	9	4	-	-	,	-	PUNCT	Z	-		,
+0540	018	9	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	9	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	9	7	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	9	8	-	-	,	-	PUNCT	Z	-		,
+0540	018	9	9	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	9	10	-	-	Διόγνητος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Διόγνητος
+0540	018	9	11	-	-	διαβληθεὶς	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	διαβάλλω
+0540	018	9	12	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	9	13	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	9	14	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	9	15	-	-	συκοφαντῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	συκοφάντης
+0540	018	9	16	-	-	φεύγων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	φεύγω
+0540	018	9	17	-	-	ὤχετο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἀχεύω
+0540	018	9	18	-	-	,	-	PUNCT	Z	-		,
+0540	018	9	19	-	-	μετʼ	-	ADP	R-	-		μετά
+0540	018	9	20	-	-	ὀλίγων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ὀλίγος
+0540	018	9	21	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	9	22	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	9	23	-	-	ἐκπεπτωκότων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἐκπίπτω
+0540	018	9	24	-	-	οὔτʼ	-	CCONJ	C-	-		οὔτε
+0540	018	9	25	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	018	9	26	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	9	27	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0540	018	9	28	-	-	ἐστρατεύσατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	στρατεύω
+0540	018	9	29	-	-	οὔτʼ	-	CCONJ	C-	-		οὔτε
+0540	018	9	30	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	9	31	-	-	Δεκέλειαν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Δεκέλεια
+0540	018	9	32	-	-	ἀφίκετο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἀφικνέομαι
+0540	018	9	33	-	-	·	-	PUNCT	Z	-		·
+0540	018	9	34	-	-	οὐδʼ	-	CCONJ	C-	-		οὐδέ
+0540	018	9	35	-	-	ἔστιν	-	AUX	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	018	9	36	-	-	ὅτου	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	ὅστις
+0540	018	9	37	-	-	κακοῦ	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	κακός
+0540	018	9	38	-	-	αἴτιος	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	αἴτιος
+0540	018	9	39	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	018	9	40	-	-	φεύγων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	φεύγω
+0540	018	9	41	-	-	οὔτε	-	CCONJ	C-	-		οὔτε
+0540	018	9	42	-	-	κατελθὼν	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	κατέρχομαι
+0540	018	9	43	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	9	44	-	-	ὑμετέρῳ	-	ADJ	Ps	-	Case=Dat|Gender=Neut|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	9	45	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	9	46	-	-	γεγένηται	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	γίγνομαι
+0540	018	9	47	-	-	,	-	PUNCT	Z	-		,
+0540	018	9	48	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	9	49	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	9	50	-	-	τοῦτʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	018	9	51	-	-	ἀρετῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἀρετή
+0540	018	9	52	-	-	ἦλθεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔρχομαι
+0540	018	9	53	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	018	9	54	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	018	9	55	-	-	ὠργίζετο	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ὀργίζω
+0540	018	9	56	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	9	57	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	9	58	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	9	59	-	-	ἡμαρτηκόσιν	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἡμαρτηκό
+0540	018	9	60	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	018	9	61	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	9	62	-	-	αὐτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	018	9	63	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	9	64	-	-	καθόδου	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	κάθοδος
+0540	018	9	65	-	-	αἰτίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	αἴτιος
+0540	018	9	66	-	-	γεγενημένοις	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	9	67	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0540	018	9	68	-	-	ᾔδει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	οἶδα
+0540	018	9	69	-	-	.	-	PUNCT	Z	-		.
+0540	018	9	70	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0540	018	9	71	-	-	ἤδει	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	ἦδος
+0540	018	9	72	-	-	add.	-	PUNCT	Z	-		add.
+0540	018	9	73	-	-	Cobet.	-	PUNCT	Z	-		Cobet.
+0540	018	10	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	10	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	2	-	-	ἀρχὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀρχή
+0540	018	10	3	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	10	4	-	-	οὐδεμίαν	-	DET	Px	-	Case=Acc|Gender=Fem|Number=Sing	οὐδείς
+0540	018	10	5	-	-	ἦρξεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἄρχω
+0540	018	10	6	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	10	7	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	10	8	-	-	ὀλιγαρχίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ὀλιγαρχία
+0540	018	10	9	-	-	·	-	PUNCT	Z	-		·
+0540	018	10	10	-	-	ἐπειδὴ	-	SCONJ	G-	-		ἐπειδή
+0540	018	10	11	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	10	12	-	-	τάχιστα	-	ADV	A-	-	Degree=Sup	ταχύς
+0540	018	10	13	-	-	ἦλθον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔρχομαι
+0540	018	10	14	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	10	15	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	10	16	-	-	Ἀκαδήμειαν	-	PROPN	Ne	-	Case=Acc|Gender=Fem|Number=Sing	Ἀκαδήμεια
+0540	018	10	17	-	-	Λακεδαιμόνιοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	Λακεδαιμόνιος
+0540	018	10	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	19	-	-	Παυσανίας	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Παυσανίας
+0540	018	10	20	-	-	,	-	PUNCT	Z	-		,
+0540	018	10	21	-	-	λαβὼν	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	λαμβάνω
+0540	018	10	22	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	10	23	-	-	Νικηράτου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Νικήρατος
+0540	018	10	24	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	25	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	10	26	-	-	παῖδας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	παῖς
+0540	018	10	27	-	-	ὄντας	-	AUX	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	10	28	-	-	,	-	PUNCT	Z	-		,
+0540	018	10	29	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	018	10	30	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	10	31	-	-	κατέθηκεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατατίθημι
+0540	018	10	32	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	018	10	33	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	10	34	-	-	γόνασι	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Plur	γόνυ
+0540	018	10	35	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	10	36	-	-	Παυσανίου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Παυσανίας
+0540	018	10	37	-	-	,	-	PUNCT	Z	-		,
+0540	018	10	38	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	10	39	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	10	40	-	-	παραστησάμενος	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παρίστημι
+0540	018	10	41	-	-	ἔλεγε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λέγω
+0540	018	10	42	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	10	43	-	-	ἐκεῖνον	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	018	10	44	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	45	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	10	46	-	-	ἄλλους	-	ADJ	Px	-	Case=Acc|Gender=Masc|Number=Plur	ἄλλος
+0540	018	10	47	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	10	48	-	-	παρόντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πάρειμι
+0540	018	10	49	-	-	ὅσα	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅσος
+0540	018	10	50	-	-	εἴημεν	-	AUX	V-	-	Mood=Opt|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	018	10	51	-	-	πεπονθότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	πάσχω
+0540	018	10	52	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	53	-	-	οἵαις	-	ADJ	Pr	-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	οἷος
+0540	018	10	54	-	-	τύχαις	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	τύχη
+0540	018	10	55	-	-	κεχρημένοι	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	χράομαι
+0540	018	10	56	-	-	,	-	PUNCT	Z	-		,
+0540	018	10	57	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	58	-	-	ἠξίου	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	018	10	59	-	-	Παυσανίαν	-	PROPN	Ne	-	Case=Acc|Gender=Masc|Number=Sing	Παυσανίας
+0540	018	10	60	-	-	βοηθῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	βοηθέω
+0540	018	10	61	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	62	-	-	διὰ	-	ADP	R-	-		διά
+0540	018	10	63	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	10	64	-	-	φιλίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	φιλία
+0540	018	10	65	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	66	-	-	διὰ	-	ADP	R-	-		διά
+0540	018	10	67	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	10	68	-	-	ξενίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ξενία
+0540	018	10	69	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	10	70	-	-	ὑπάρχουσαν	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	ὑπάρχω
+0540	018	10	71	-	-	,	-	PUNCT	Z	-		,
+0540	018	10	72	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	10	73	-	-	τιμωρὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	τιμωρός
+0540	018	10	74	-	-	γενέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	γίγνομαι
+0540	018	10	75	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	10	76	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	10	77	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	10	78	-	-	ἡμαρτηκότων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἁμαρτάνω
+0540	018	10	79	-	-	.	-	PUNCT	Z	-		.
+0540	018	11	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	11	1	-	-	ὅθεν	-	ADV	Dq	-	PronType=Rel	ὅθεν
+0540	018	11	2	-	-	Παυσανίας	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Παυσανίας
+0540	018	11	3	-	-	ἤρξατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ἄρχω
+0540	018	11	4	-	-	εὔνους	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	εὔνοος
+0540	018	11	5	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	11	6	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	11	7	-	-	δήμῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	δῆμος
+0540	018	11	8	-	-	,	-	PUNCT	Z	-		,
+0540	018	11	9	-	-	παράδειγμα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	παράδειγμα
+0540	018	11	10	-	-	ποιούμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ποιέω
+0540	018	11	11	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	11	12	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	11	13	-	-	ἄλλους	-	DET	Px	-	Case=Acc|Gender=Masc|Number=Plur	ἄλλος
+0540	018	11	14	-	-	Λακεδαιμονίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	Λακεδαιμόνιος
+0540	018	11	15	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	11	16	-	-	ἡμετέρας	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἡμέτερος
+0540	018	11	17	-	-	συμφορὰς	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	συμφορά
+0540	018	11	18	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	11	19	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	11	20	-	-	τριάκοντα	-	NUM	Ma	-		τριάκοντα
+0540	018	11	21	-	-	πονηρίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πονηρία
+0540	018	11	22	-	-	·	-	PUNCT	Z	-		·
+0540	018	11	23	-	-	δῆλον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δῆλος
+0540	018	11	24	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	11	25	-	-	ἅπασι	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἅπας
+0540	018	11	26	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	11	27	-	-	ἐλθοῦσι	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἔρχομαι
+0540	018	11	28	-	-	Πελοποννησίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	Πελοποννήσιος
+0540	018	11	29	-	-	ἐγεγένητο	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Pass	γίγνομαι
+0540	018	11	30	-	-	,	-	PUNCT	Z	-		,
+0540	018	11	31	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	018	11	32	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	11	33	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	11	34	-	-	πονηροτάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	πονηρός
+0540	018	11	35	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	11	36	-	-	πολιτῶν	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	πολίτης
+0540	018	11	37	-	-	ἀπέκτεινον	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἀποκτείνω
+0540	018	11	38	-	-	,	-	PUNCT	Z	-		,
+0540	018	11	39	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	11	40	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	018	11	41	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0540	018	11	42	-	-	προσῆκον	-	VERB	V-	-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	προσήκω
+0540	018	11	43	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	11	44	-	-	διὰ	-	ADP	R-	-		διά
+0540	018	11	45	-	-	γένος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	γένος
+0540	018	11	46	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	11	47	-	-	διὰ	-	ADP	R-	-		διά
+0540	018	11	48	-	-	πλοῦτον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	πλοῦτος
+0540	018	11	49	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	11	50	-	-	διὰ	-	ADP	R-	-		διά
+0540	018	11	51	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	11	52	-	-	ἄλλην	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἄλλος
+0540	018	11	53	-	-	ἀρετὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀρετή
+0540	018	11	54	-	-	τιμᾶσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	τιμάω
+0540	018	11	55	-	-	.	-	PUNCT	Z	-		.
+0540	018	12	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	12	1	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	018	12	2	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	12	3	-	-	ἠλεούμεθα	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	ἠλεέω
+0540	018	12	4	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	12	5	-	-	πᾶσι	-	ADJ	Px	-	Case=Dat|Gender=Masc|Number=Plur	πᾶς
+0540	018	12	6	-	-	δεινὰ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	δεῖνα
+0540	018	12	7	-	-	ἐδοκοῦμεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	δοκέω
+0540	018	12	8	-	-	πεπονθέναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	πάσχω
+0540	018	12	9	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	10	-	-	ὥστε	-	SCONJ	G-	-		ὥστε
+0540	018	12	11	-	-	Παυσανίας	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Παυσανίας
+0540	018	12	12	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	12	13	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	12	14	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	018	12	15	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	12	16	-	-	τριάκοντα	-	NUM	Ma	-		τριάκοντα
+0540	018	12	17	-	-	ξένια	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Plur	ξένιος
+0540	018	12	18	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	12	19	-	-	ἠθέλησε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐθέλω
+0540	018	12	20	-	-	λαβεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	λαμβάνω
+0540	018	12	21	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	22	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	12	23	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	12	24	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	018	12	25	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	12	26	-	-	ἐδέξατο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	δέχομαι
+0540	018	12	27	-	-	.	-	PUNCT	Z	-		.
+0540	018	12	28	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	018	12	29	-	-	δεινόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	δεινός
+0540	018	12	30	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	31	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	12	32	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	12	33	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	12	34	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	35	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	12	36	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	12	37	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	12	38	-	-	πολεμίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	πολέμιος
+0540	018	12	39	-	-	παῖδας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	παῖς
+0540	018	12	40	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	12	41	-	-	ὄντας	-	AUX	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	12	42	-	-	ἐλεεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἐλεέω
+0540	018	12	43	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	44	-	-	οἳ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὁ
+0540	018	12	45	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	12	46	-	-	ὀλιγαρχία	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ὀλιγαρχία
+0540	018	12	47	-	-	βοηθήσοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	βοηθέω
+0540	018	12	48	-	-	ἦλθον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἔρχομαι
+0540	018	12	49	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	50	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	12	51	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	12	52	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	12	53	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	54	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	12	55	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	12	56	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	12	57	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	58	-	-	τοιούτους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	τοιοῦτος
+0540	018	12	59	-	-	γεγενημένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	12	60	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	12	61	-	-	ὄντων	-	AUX	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	12	62	-	-	ἀποστερεῖσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἀποστερέω
+0540	018	12	63	-	-	,	-	PUNCT	Z	-		,
+0540	018	12	64	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	018	12	65	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	12	66	-	-	πατέρες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	πατήρ
+0540	018	12	67	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	12	68	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	12	69	-	-	δημοκρατίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	δημοκρατία
+0540	018	12	70	-	-	ἀπέθανον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποθνῄσκω
+0540	018	12	71	-	-	.	-	PUNCT	Z	-		.
+0540	018	13	0	-	-	εὖ	-	ADV	Df	-		εὖ
+0540	018	13	1	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	13	2	-	-	οἶδʼ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	οἶδα
+0540	018	13	3	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	4	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	13	5	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	13	6	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	13	7	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	8	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	018	13	9	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	13	10	-	-	πλείστου	-	ADJ	A-	-	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	πολύς
+0540	018	13	11	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	13	12	-	-	ποιήσαιτο	-	VERB	V-	-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ποιέω
+0540	018	13	13	-	-	Πολίοχος	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	Πολίοχος
+0540	018	13	14	-	-	τοῦτον	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Sing	οὗτος
+0540	018	13	15	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	13	16	-	-	ἀγῶνα	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	ἀγών
+0540	018	13	17	-	-	κατορθῶσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	κατορθόω
+0540	018	13	18	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	19	-	-	ἡγούμενος	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	018	13	20	-	-	αὑτῷ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ἑαυτοῦ
+0540	018	13	21	-	-	καλὴν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	καλός
+0540	018	13	22	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	13	23	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	13	24	-	-	ἐπίδειξιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἐπίδειξις
+0540	018	13	25	-	-	ἐπίδειξιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἐπίδειξις
+0540	018	13	26	-	-	Dobree	-	CCONJ	V-	-		Dobree
+0540	018	13	27	-	-	:	-	CCONJ	C-	-		:
+0540	018	13	28	-	-	ἀπόδειξιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ἀπόδειξις
+0540	018	13	29	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	13	30	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	13	31	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	13	32	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	13	33	-	-	πολίτας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	πολίτης
+0540	018	13	34	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	13	35	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	13	36	-	-	ξένους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ξένος
+0540	018	13	37	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	38	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	018	13	39	-	-	Ἀθήνῃσι	-	PROPN	Ne	-	Case=Dat|Gender=Fem|Number=Plur	Ἀθῆναι
+0540	018	13	40	-	-	τοσοῦτον	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	τοσοῦτος
+0540	018	13	41	-	-	δύναται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	δύναμαι
+0540	018	13	42	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	43	-	-	ὥσθʼ	-	SCONJ	G-	-		ὥστε
+0540	018	13	44	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	13	45	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	13	46	-	-	αὐτούς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	018	13	47	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	48	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	13	49	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	018	13	50	-	-	ὅρκους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ὅρκος
+0540	018	13	51	-	-	ὀμωμόκατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ὄμνυμι
+0540	018	13	52	-	-	,	-	PUNCT	Z	-		,
+0540	018	13	53	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	13	54	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	13	55	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	13	56	-	-	ἐναντία	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἐναντίος
+0540	018	13	57	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	018	13	58	-	-	ψηφίζεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	ψηφίζω
+0540	018	13	59	-	-	.	-	PUNCT	Z	-		.
+0540	018	14	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	14	1	-	-	πάντες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	πᾶς
+0540	018	14	2	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	14	3	-	-	εἴσονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	οἶδα
+0540	018	14	4	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	018	14	5	-	-	τότε	-	ADV	Df	-		τότε
+0540	018	14	6	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	14	7	-	-	χιλίαις	-	NUM	Ma	-	Case=Dat|Gender=Fem|Number=Plur	χίλιοι
+0540	018	14	8	-	-	δραχμαῖς	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Plur	δραχμή
+0540	018	14	9	-	-	ἐζημιώσατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ζημιόω
+0540	018	14	10	-	-	ἐζημιώσατε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ζημιόω
+0540	018	14	11	-	-	Markland	-	ADV	Nb	-		Markland
+0540	018	14	12	-	-	:	-	CCONJ	C-	-		:
+0540	018	14	13	-	-	ἐζημίωσε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ζημιόω
+0540	018	14	14	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	14	15	-	-	τὸν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	14	16	-	-	βουλόμενον	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	βούλομαι
+0540	018	14	17	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	14	18	-	-	ἡμετέραν	-	ADJ	Ps	-	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἡμέτερος
+0540	018	14	19	-	-	γῆν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	γῆ
+0540	018	14	20	-	-	δημοσίαν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	δημόσιος
+0540	018	14	21	-	-	ποιῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ποιέω
+0540	018	14	22	-	-	,	-	PUNCT	Z	-		,
+0540	018	14	23	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	018	14	24	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	14	25	-	-	κελεύων	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κελεύω
+0540	018	14	26	-	-	δημεῦσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	δημεῦζω
+0540	018	14	27	-	-	νενίκηκε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	νικάω
+0540	018	14	28	-	-	,	-	PUNCT	Z	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	,
+0540	018	14	29	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	14	30	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	14	31	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	018	14	32	-	-	δὴ	-	ADV	Df	-		δή
+0540	018	14	33	-	-	ἀμφοτέρων	-	ADJ	Px	-	Case=Gen|Gender=Masc|Number=Plur	ἀμφότερος
+0540	018	14	34	-	-	Ἀθηναῖοι	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	Ἀθηναῖος
+0540	018	14	35	-	-	,	-	PUNCT	Z	-		,
+0540	018	14	36	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	018	14	37	-	-	νόμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	νόμος
+0540	018	14	38	-	-	παρὰ	-	ADP	R-	-		παρά
+0540	018	14	39	-	-	νόμον	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Sing	νόμος
+0540	018	14	40	-	-	Taylor	-	ADV	V-	-		Taylor
+0540	018	14	41	-	-	:	-	ADV	Df	-		:
+0540	018	14	42	-	-	παρανόμων	-	VERB	A-	-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	παράνομος
+0540	018	14	43	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	14	44	-	-	φεύγοντος	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	φεύγω
+0540	018	14	45	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	14	46	-	-	αὐτοῦ	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Sing	αὐτός
+0540	018	14	47	-	-	ἀνδρός	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	ἀνήρ
+0540	018	14	48	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	15	1	-	-	τἀναντία	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ἐναντίος
+0540	018	15	2	-	-	σφίσιν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	σφεῖς
+0540	018	15	3	-	-	αὐτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	15	4	-	-	ἐψηφίσαντο	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ψηφίζω
+0540	018	15	5	-	-	.	-	PUNCT	Z	-		.
+0540	018	15	6	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	15	7	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	018	15	8	-	-	αἰσχρόν	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	αἰσχρός
+0540	018	15	9	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	10	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	018	15	11	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	018	15	12	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	15	13	-	-	Λακεδαιμονίοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	Λακεδαιμόνιος
+0540	018	15	14	-	-	συνέθεσθε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	συντίθημι
+0540	018	15	15	-	-	βεβαιώσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	βεβαιώσω
+0540	018	15	16	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	17	-	-	ἃ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	018	15	18	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	15	19	-	-	αὑτοῖς	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ἑαυτοῦ
+0540	018	15	20	-	-	ἐψηφίσασθε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ψηφίζω
+0540	018	15	21	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	018	15	22	-	-	ῥᾳδίως	-	ADV	Df	-	Degree=Pos	ῥᾴδιος
+0540	018	15	23	-	-	διαλύσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	διαλύσω
+0540	018	15	24	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	25	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	15	26	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	15	27	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	15	28	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	15	29	-	-	ἐκείνους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	018	15	30	-	-	συνθήκας	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	συνθήκη
+0540	018	15	31	-	-	κυρίας	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	κύριος
+0540	018	15	32	-	-	ποιήσετε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	ποιέω
+0540	018	15	33	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	34	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	15	35	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	15	36	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	15	37	-	-	αὑτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ἑαυτοῦ
+0540	018	15	38	-	-	ἀκύρους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	ἄκυρος
+0540	018	15	39	-	-	;	-	PUNCT	Z	-		;
+0540	018	15	40	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	15	41	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	15	42	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	15	43	-	-	ἄλλοις	-	ADJ	A-	-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἄλλος
+0540	018	15	44	-	-	Ἕλλησιν	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	Ἕλλην
+0540	018	15	45	-	-	ὀργίζεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	ὀργίζω
+0540	018	15	46	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	47	-	-	ὀργιζεσθε	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	ὀργιζεμαι
+0540	018	15	48	-	-	Cobet	-	ADV	Df	-		Cobet
+0540	018	15	49	-	-	:	-	ADV	Df	-		:
+0540	018	15	50	-	-	ὀργζοισθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ὀργζοισθεν
+0540	018	15	51	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	15	52	-	-	εἴ	-	SCONJ	G-	-		εἰ
+0540	018	15	53	-	-	τις	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Sing	τίς
+0540	018	15	54	-	-	Λακεδαιμονίους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	Λακεδαιμόνιος
+0540	018	15	55	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	15	56	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	15	57	-	-	πλείονος	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	018	15	58	-	-	ποιεῖται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ποιέω
+0540	018	15	59	-	-	,	-	PUNCT	Z	-		,
+0540	018	15	60	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	15	61	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	15	62	-	-	αὐτοὶ	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	αὐτός
+0540	018	15	63	-	-	φανήσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	φαίνω
+0540	018	15	64	-	-	πιστότερον	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	πιστός
+0540	018	15	65	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	15	66	-	-	ἐκείνους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	018	15	67	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	018	15	68	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	15	69	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	15	70	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	018	15	71	-	-	διακείμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	διάκειμαι
+0540	018	15	72	-	-	;	-	PUNCT	Z	-		;
+0540	018	16	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	16	1	-	-	ἄξιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἄξιος
+0540	018	16	2	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	16	3	-	-	μάλιστʼ	-	ADV	Df	-	Degree=Sup	μάλιστα
+0540	018	16	4	-	-	ἀγανακτῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀγανακτέω
+0540	018	16	5	-	-	μάλιστ	-	ADV	Df	-	Degree=Sup	μάλιστ
+0540	018	16	6	-	-	’	-	CCONJ	C-	-		’
+0540	018	16	7	-	-	ἀγανακτῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀγανακτέω
+0540	018	16	8	-	-	Dobree	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	Dobree
+0540	018	16	9	-	-	:	-	CCONJ	G-	-		:
+0540	018	16	10	-	-	μάλιστα	-	ADV	Df	-	Degree=Sup	μάλα
+0540	018	16	11	-	-	φθονῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	φθονέω
+0540	018	16	12	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	16	13	-	-	ὅτι	-	ADV	Df	-		ὅτι
+0540	018	16	14	-	-	οὕτως	-	ADV	Df	-		οὕτως
+0540	018	16	15	-	-	ἤδη	-	ADV	Df	-		ἤδη
+0540	018	16	16	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	16	17	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	16	18	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	16	19	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	018	16	20	-	-	πράττοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	πράσσω
+0540	018	16	21	-	-	διάκεινται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	διάκειμαι
+0540	018	16	22	-	-	,	-	PUNCT	Z	-		,
+0540	018	16	23	-	-	ὥστʼ	-	CCONJ	C-	-		ὥστε
+0540	018	16	24	-	-	οὐχ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	16	25	-	-	ὅ	-	PRON	Pr	-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς
+0540	018	16	26	-	-	τι	-	DET	Px	-	Case=Acc|Gender=Neut|Number=Sing	τίς
+0540	018	16	27	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	16	28	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	16	29	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	018	16	30	-	-	βέλτιστον	-	ADJ	A-	-	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	βέλτιστος
+0540	018	16	31	-	-	ᾖ	-	AUX	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί
+0540	018	16	32	-	-	,	-	PUNCT	Z	-		,
+0540	018	16	33	-	-	τοῦτο	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Sing	οὗτος
+0540	018	16	34	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	16	35	-	-	ῥήτορες	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	ῥήτωρ
+0540	018	16	36	-	-	λέγουσιν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω
+0540	018	16	37	-	-	,	-	PUNCT	Z	-		,
+0540	018	16	38	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	16	39	-	-	ἀφʼ	-	ADP	R-	-		ἀπό
+0540	018	16	40	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	018	16	41	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	16	42	-	-	αὐτοὶ	-	ADJ	Pd	-	Case=Nom|Gender=Masc|Number=Plur	αὐτός
+0540	018	16	43	-	-	κερδαίνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	κερδαίνω
+0540	018	16	44	-	-	μέλλωσι	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	μέλλω
+0540	018	16	45	-	-	,	-	PUNCT	Z	-		,
+0540	018	16	46	-	-	ταῦτα	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	018	16	47	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	16	48	-	-	ψηφίζεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ψηφίζω
+0540	018	16	49	-	-	.	-	PUNCT	Z	-		.
+0540	018	17	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	17	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	17	2	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	018	17	3	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	17	4	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	17	5	-	-	ὑμετέρῳ	-	ADJ	Ps	-	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	17	6	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	17	7	-	-	συνέφερε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συμφέρω
+0540	018	17	8	-	-	τοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	17	9	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	17	10	-	-	ἔχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω
+0540	018	17	11	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	17	12	-	-	αὑτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	17	13	-	-	,	-	PUNCT	Z	-		,
+0540	018	17	14	-	-	τῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	17	15	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	17	16	-	-	ἀδίκως	-	ADV	Df	-	Degree=Pos	ἀδίκως
+0540	018	17	17	-	-	δεδημεῦσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Pass	δεδημεῦσθαι
+0540	018	17	18	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	17	19	-	-	οὐσίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	οὐσία
+0540	018	17	20	-	-	,	-	PUNCT	Z	-		,
+0540	018	17	21	-	-	εἰκότως	-	ADV	Df	-	Degree=Pos	εἰκός
+0540	018	17	22	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	17	23	-	-	ἠμελεῖτε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἠμελέω
+0540	018	17	24	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	17	25	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0540	018	17	26	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	17	27	-	-	λεγομένων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	λέγω
+0540	018	17	28	-	-	·	-	PUNCT	Z	-		·
+0540	018	17	29	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	018	17	30	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	17	31	-	-	πάντες	-	ADJ	Px	-	Case=Nom|Gender=Masc|Number=Plur	πᾶς
+0540	018	17	32	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	17	33	-	-	ὁμολογήσαιτε	-	VERB	V-	-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ὁμολογέω
+0540	018	17	34	-	-	ὁμόνοιαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ὁμόνοια
+0540	018	17	35	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	17	36	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	17	37	-	-	add.	-	PUNCT	Z	-		add.
+0540	018	17	38	-	-	Bekker.	-	PUNCT	Z	-		Bekker.
+0540	018	17	39	-	-	μέγιστον	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	μέγας
+0540	018	17	40	-	-	ἀγαθὸν	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ἀγαθός
+0540	018	17	41	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	17	42	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	018	17	43	-	-	,	-	PUNCT	Z	-		,
+0540	018	17	44	-	-	στάσιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	στάσις
+0540	018	17	45	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	17	46	-	-	πάντῶν	-	DET	Px	-	Case=Gen|Gender=Masc,Neut|Number=Plur	πᾶς
+0540	018	17	47	-	-	κακῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	κακός
+0540	018	17	48	-	-	αἰτίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	αἰτία
+0540	018	17	49	-	-	,	-	PUNCT	Z	-		,
+0540	018	17	50	-	-	διαφέρεσθαι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Mid	διαφέρω
+0540	018	17	51	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	17	52	-	-	πρὸς	-	ADP	R-	-		πρός
+0540	018	17	53	-	-	ἀλλήλους	-	PRON	Pc	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	ἀλλήλων
+0540	018	17	54	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	018	17	55	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	17	56	-	-	τοιούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	τοιοῦτος
+0540	018	17	57	-	-	μάλιστʼ	-	ADV	Df	-	Degree=Sup	μάλιστα
+0540	018	17	58	-	-	,	-	PUNCT	Z	-		,
+0540	018	17	59	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	018	17	60	-	-	οἱ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	17	61	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	17	62	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	17	63	-	-	ἀλλοτρίων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἀλλότριος
+0540	018	17	64	-	-	ἐπιθυμῶσιν	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐπιθυμῶσις
+0540	018	17	65	-	-	,	-	PUNCT	Z	-		,
+0540	018	17	66	-	-	οἱ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	17	67	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	17	68	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	018	17	69	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	17	70	-	-	ὄντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	17	71	-	-	ἐκπίπτωσι	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐκπίπτω
+0540	018	17	72	-	-	.	-	PUNCT	Z	-		.
+0540	018	18	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	18	1	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	18	2	-	-	ταῦθʼ	-	ADJ	Pd	-	Case=Acc|Gender=Neut|Number=Plur	οὗτος
+0540	018	18	3	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	18	4	-	-	ἔγνωτε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	γιγνώσκω
+0540	018	18	5	-	-	νεωστὶ	-	ADV	Df	-		νεωστί
+0540	018	18	6	-	-	κατελθόντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	κατέρχομαι
+0540	018	18	7	-	-	,	-	PUNCT	Z	-		,
+0540	018	18	8	-	-	ὀρθῶς	-	ADV	Df	-	Degree=Pos	ὀρθῶς
+0540	018	18	9	-	-	βουλευόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	βουλεύω
+0540	018	18	10	-	-	·	-	PUNCT	Z	-		·
+0540	018	18	11	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	018	18	12	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	18	13	-	-	ἐμέμνησθε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	μιμνήσκω
+0540	018	18	14	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	18	15	-	-	γεγενημένων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	18	16	-	-	συμφορῶν	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Plur	συμφορά
+0540	018	18	17	-	-	,	-	PUNCT	Z	-		,
+0540	018	18	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	18	19	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	18	20	-	-	θεοῖς	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	θεός
+0540	018	18	21	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	18	22	-	-	ὁμόνοιαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	ὁμόνοια
+0540	018	18	23	-	-	ηὔχεσθε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ηὔχω
+0540	018	18	24	-	-	καταστῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	καθίστημι
+0540	018	18	25	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	18	26	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0540	018	18	27	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	018	18	28	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	018	18	29	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	018	18	30	-	-	τιμωρίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	τιμωρία
+0540	018	18	31	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	18	32	-	-	παρεληλυθότων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	παρέρχομαι
+0540	018	18	33	-	-	τραπομένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	τραπομέν
+0540	018	18	34	-	-	τραπομένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	τραπομέν
+0540	018	18	35	-	-	Hude	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	Hude
+0540	018	18	36	-	-	:	-	ADV	V-	-		:
+0540	018	18	37	-	-	τραπόμενοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	τρέπω
+0540	018	18	38	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	18	39	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	18	40	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	18	41	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0540	018	18	42	-	-	στασιάσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	στασιάζω
+0540	018	18	43	-	-	,	-	PUNCT	Z	-		,
+0540	018	18	44	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	18	45	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	18	46	-	-	λέγοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	λέγω
+0540	018	18	47	-	-	ταχέως	-	ADV	Df	-	Degree=Pos	ταχέως
+0540	018	18	48	-	-	πλουτῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	πλουτέω
+0540	018	18	49	-	-	.	-	PUNCT	Z	-		.
+0540	018	19	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	19	1	-	-	καίτοι	-	ADV	Df	-		καίτοι
+0540	018	19	2	-	-	πλείων	-	ADJ	A-	-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	πολύς
+0540	018	19	3	-	-	συγγνώμη	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	συγγνώμη
+0540	018	19	4	-	-	μνησικακεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	μνησικακέω
+0540	018	19	5	-	-	νεωστὶ	-	ADV	Df	-		νεωστί
+0540	018	19	6	-	-	κατεληλυθόσιν	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	κατέρχομαι
+0540	018	19	7	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	8	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	018	19	9	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	19	10	-	-	ὀργῆς	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ὀργή
+0540	018	19	11	-	-	οὔσης	-	AUX	V-	-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	19	12	-	-	προσφάτου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	πρόσφατος
+0540	018	19	13	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	14	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	018	19	15	-	-	τοσούτῳ	-	DET	Pd	-	Case=Dat|Gender=Masc|Number=Sing	τοσοῦτος
+0540	018	19	16	-	-	χρόνῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	χρόνος
+0540	018	19	17	-	-	ὕστερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ὕστερος
+0540	018	19	18	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	018	19	19	-	-	τιμωρίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	τιμωρία
+0540	018	19	20	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	19	21	-	-	παρεληλυθότων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	παρέρχομαι
+0540	018	19	22	-	-	τραπέσθαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	τρέπω
+0540	018	19	23	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	24	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	19	25	-	-	τοιούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	τοιοῦτος
+0540	018	19	26	-	-	πεισθέντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	πείθω
+0540	018	19	27	-	-	οἳ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	19	28	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	19	29	-	-	ἄστει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	ἄστυ
+0540	018	19	30	-	-	μείναντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	μένω
+0540	018	19	31	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0540	018	19	32	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0540	018	19	33	-	-	Taylor	-	NOUN	V-	-	Case=Acc|Gender=Fem|Number=Sing	Taylor
+0540	018	19	34	-	-	:	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	:
+0540	018	19	35	-	-	αὐτὴν	-	PRON	Pd	-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	αὐτός
+0540	018	19	36	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	19	37	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	19	38	-	-	οἴονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι
+0540	018	19	39	-	-	διδόναι	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	δίδωμι
+0540	018	19	40	-	-	πίστιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πίστις
+0540	018	19	41	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	19	42	-	-	αὑτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	19	43	-	-	εὐνοίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	εὔνοια
+0540	018	19	44	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	45	-	-	ἑτέρους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἕτερος
+0540	018	19	46	-	-	κακοὺς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	κακός
+0540	018	19	47	-	-	ποιοῦντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω
+0540	018	19	48	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	49	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	19	50	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	19	51	-	-	σφᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	σφεῖς
+0540	018	19	52	-	-	αὐτοὺς	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	αὐτός
+0540	018	19	53	-	-	χρηστοὺς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	χρηστός
+0540	018	19	54	-	-	παρέχοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	παρέχω
+0540	018	19	55	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	56	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	19	57	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	018	19	58	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	19	59	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	19	60	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	018	19	61	-	-	εὐτυχιῶν	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Plur	εὐτυχία
+0540	018	19	62	-	-	ἀπολαύοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀπολαύω
+0540	018	19	63	-	-	,	-	PUNCT	Z	-		,
+0540	018	19	64	-	-	ἀλλʼ	-	CCONJ	C-	-		ἀλλά
+0540	018	19	65	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	19	66	-	-	πρότερον	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πρότερος
+0540	018	19	67	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	19	68	-	-	ὑμετέρων	-	ADJ	Ps	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes	ὑμέτερος
+0540	018	19	69	-	-	κινδύνων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	κίνδυνος
+0540	018	19	70	-	-	μετέχοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	μετέχω
+0540	018	19	71	-	-	.	-	PUNCT	Z	-		.
+0540	018	20	0	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	20	1	-	-	εἰ	-	SCONJ	G-	-		εἰ
+0540	018	20	2	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	20	3	-	-	ἑωρᾶτε	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ὁράω
+0540	018	20	4	-	-	,	-	PUNCT	Z	-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	,
+0540	018	20	5	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	20	6	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	20	7	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	20	8	-	-	,	-	PUNCT	Z	-		,
+0540	018	20	9	-	-	σῳζόμενα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	σῴζω
+0540	018	20	10	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	20	11	-	-	πόλει	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	πόλις
+0540	018	20	12	-	-	τὰ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	20	13	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	20	14	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	018	20	15	-	-	δημευόμενα	-	VERB	V-	-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	δημεύω
+0540	018	20	16	-	-	,	-	PUNCT	Z	-		,
+0540	018	20	17	-	-	συγγνώμην	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	συγγνώμη
+0540	018	20	18	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	20	19	-	-	εἴχομεν	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἔχω
+0540	018	20	20	-	-	·	-	PUNCT	Z	-		·
+0540	018	20	21	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	018	20	22	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	20	23	-	-	ἐπίστασθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	ἐπίσταμαι
+0540	018	20	24	-	-	ὅτι	-	SCONJ	G-	-		ὅτι
+0540	018	20	25	-	-	τὰ	-	PRON	Pp	-	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	20	26	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	20	27	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	20	28	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	20	29	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	οὗτος
+0540	018	20	30	-	-	ἀφανίζεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	ἀφανίζω
+0540	018	20	31	-	-	,	-	PUNCT	Z	-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	,
+0540	018	20	32	-	-	τὰ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	20	33	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	20	34	-	-	πολλοῦ	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	018	20	35	-	-	ἄξια	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	ἄξιος
+0540	018	20	36	-	-	ὄντα	-	AUX	V-	-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	20	37	-	-	ὀλίγου	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	ὀλίγος
+0540	018	20	38	-	-	πιπράσκεται	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	πιπράσκω
+0540	018	20	39	-	-	.	-	PUNCT	Z	-		.
+0540	018	20	40	-	-	ἐὰν	-	SCONJ	G-	-		ἐάν
+0540	018	20	41	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	20	42	-	-	ἐμοὶ	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	018	20	43	-	-	πείθησθε	-	VERB	V-	-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	πείθω
+0540	018	20	44	-	-	,	-	PUNCT	Z	-		,
+0540	018	20	45	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	20	46	-	-	ἐλάττω	-	ADJ	A-	-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	ἐλάσσων
+0540	018	20	47	-	-	ἀπʼ	-	ADP	R-	-		ἀπό
+0540	018	20	48	-	-	αὐτῶν	-	PRON	Pp	-	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs	αὐτός
+0540	018	20	49	-	-	ὑμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	20	50	-	-	ὠφεληθήσεσθε	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Pass	ὠφεληθήσομαι
+0540	018	20	51	-	-	ἢ	-	ADV	Df	-		ἤ
+0540	018	20	52	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	20	53	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	20	54	-	-	κεκτημένοι	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	κτάομαι
+0540	018	20	55	-	-	,	-	PUNCT	Z	-		,
+0540	018	21	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	21	1	-	-	ἐπεὶ	-	SCONJ	G-	-		ἐπεί
+0540	018	21	2	-	-	καὶ	-	ADV	Df	-		καί
+0540	018	21	3	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	018	21	4	-	-	Διόμνηστος	-	PROPN	Ne	-	Case=Nom|Gender=Masc|Number=Sing	Διόμνηστος
+0540	018	21	5	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	21	6	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	018	21	7	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	21	8	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	21	9	-	-	ἀδελφός	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	ἀδελφός
+0540	018	21	10	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	018	21	11	-	-	μιᾶς	-	NUM	Ma	-	Case=Gen|Gender=Fem|Number=Sing	εἷς
+0540	018	21	12	-	-	οἰκίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	οἰκία
+0540	018	21	13	-	-	τρεῖς	-	NUM	Ma	-	Case=Nom|Gender=Masc|Number=Plur	τρεῖς
+0540	018	21	14	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	21	15	-	-	τριηραρχοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	τριηραρχέω
+0540	018	21	16	-	-	,	-	PUNCT	Z	-		,
+0540	018	21	17	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	21	18	-	-	ὅταν	-	ADV	Dq	-	PronType=Rel	ὅταν
+0540	018	21	19	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	21	20	-	-	πόλις	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	πόλις
+0540	018	21	21	-	-	δέηται	-	VERB	V-	-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	δέω
+0540	018	21	22	-	-	χρημάτων	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	χρῆμα
+0540	018	21	23	-	-	,	-	PUNCT	Z	-		,
+0540	018	21	24	-	-	ἀπὸ	-	ADP	R-	-		ἀπό
+0540	018	21	25	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	018	21	26	-	-	ὑμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	21	27	-	-	εἰσφέρομεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	εἰσφέρο
+0540	018	21	28	-	-	.	-	PUNCT	Z	-		.
+0540	018	21	29	-	-	ὡς	-	ADV	Df	-		ὡς
+0540	018	21	30	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	018	21	31	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	21	32	-	-	ταύτῃ	-	DET	Pd	-	Case=Dat|Gender=Fem|Number=Sing	οὗτος
+0540	018	21	33	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	21	34	-	-	γνώμῃ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	γνώμη
+0540	018	21	35	-	-	χρωμένων	-	VERB	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	χράω
+0540	018	21	36	-	-	,	-	PUNCT	Z	-		,
+0540	018	21	37	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	21	38	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	21	39	-	-	προγόνων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	πρόγονος
+0540	018	21	40	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	21	41	-	-	ἡμετέρων	-	ADJ	Ps	-	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes	ἡμέτερος
+0540	018	21	42	-	-	τοιούτων	-	ADJ	Pd	-	Case=Gen|Gender=Masc,Neut|Number=Plur	τοιοῦτος
+0540	018	21	43	-	-	γεγενημένων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	21	44	-	-	,	-	PUNCT	Z	-		,
+0540	018	22	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	22	1	-	-	φείδεσθε	-	VERB	V-	-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	φείδομαι
+0540	018	22	2	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	22	3	-	-	.	-	PUNCT	Z	-		.
+0540	018	22	4	-	-	οὐδὲν	-	ADJ	Px	-	Case=Nom|Gender=Neut|Number=Sing	οὐδείς
+0540	018	22	5	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	22	6	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	22	7	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	22	8	-	-	κωλύοι	-	VERB	V-	-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	κωλύω
+0540	018	22	9	-	-	,	-	PUNCT	Z	-		,
+0540	018	22	10	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	22	11	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	22	12	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	22	13	-	-	,	-	PUNCT	Z	-		,
+0540	018	22	14	-	-	ἀθλιωτάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	ἄθλιος
+0540	018	22	15	-	-	ἀθλιωτάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	ἄθλιος
+0540	018	22	16	-	-	Stephanus	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	Stephanus
+0540	018	22	17	-	-	:	-	CCONJ	C-	-		:
+0540	018	22	18	-	-	ἀθλιοθεάτους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	ἀθλιοθεάτος
+0540	018	22	19	-	-	MSS.	-	PUNCT	Z	-		MSS.
+0540	018	22	20	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	22	21	-	-	,	-	PUNCT	Z	-		,
+0540	018	22	22	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	018	22	23	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	22	24	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	22	25	-	-	τριάκοντα	-	NUM	Ma	-		τριάκοντα
+0540	018	22	26	-	-	ὀρφανοὺς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ὀρφανός
+0540	018	22	27	-	-	καταλειφθέντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	καταλείπω
+0540	018	22	28	-	-	,	-	PUNCT	Z	-		,
+0540	018	22	29	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	22	30	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	22	31	-	-	τῇ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	22	32	-	-	δημοκρατίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	δημοκρατία
+0540	018	22	33	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	22	34	-	-	ὄντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	22	35	-	-	ἐστερημένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	στερέω
+0540	018	22	36	-	-	,	-	PUNCT	Z	-		,
+0540	018	22	37	-	-	οἷς	-	PRON	Pr	-	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	018	22	38	-	-	ἡ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	22	39	-	-	τύχη	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Sing	τύχη
+0540	018	22	40	-	-	παρέδωκεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	παραδίδωμι
+0540	018	22	41	-	-	ὥστʼ	-	SCONJ	G-	-		ὥστε
+0540	018	22	42	-	-	ἔτι	-	ADV	Df	-		ἔτι
+0540	018	22	43	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	22	44	-	-	παῖδας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	παῖς
+0540	018	22	45	-	-	ὄντας	-	AUX	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	22	46	-	-	ἐπὶ	-	ADP	R-	-		ἐπί
+0540	018	22	47	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	22	48	-	-	Παυσανίου	-	PROPN	Ne	-	Case=Gen|Gender=Masc|Number=Sing	Παυσανίας
+0540	018	22	49	-	-	σκηνὴν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	σκηνή
+0540	018	22	50	-	-	ἐλθόντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἔρχομαι
+0540	018	22	51	-	-	βοηθῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	βοηθέω
+0540	018	22	52	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	22	53	-	-	πλήθει	-	NOUN	Nb	-	Case=Dat|Gender=Neut|Number=Sing	πλῆθος
+0540	018	22	54	-	-	.	-	PUNCT	Z	-		.
+0540	018	22	55	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	22	56	-	-	τοιούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	τοιοῦτος
+0540	018	22	57	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	22	58	-	-	ὑπαρχόντων	-	VERB	V-	-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ὑπάρχω
+0540	018	22	59	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	22	60	-	-	τίνας	-	PRON	Pi	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Int	τίς
+0540	018	22	61	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	22	62	-	-	ἐβουλήθημεν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	ἐβουλήθη
+0540	018	22	63	-	-	δικαστὰς	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	δικαστής
+0540	018	22	64	-	-	καταφυγεῖν	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	καταφεύγω
+0540	018	22	65	-	-	;	-	PUNCT	Z	-		;
+0540	018	23	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	23	1	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	23	2	-	-	εἰς	-	ADP	R-	-		εἰς
+0540	018	23	3	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	23	4	-	-	οὕτω	-	ADV	Df	-		οὕτως
+0540	018	23	5	-	-	πολιτευομένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	πολιτεύω
+0540	018	23	6	-	-	,	-	PUNCT	Z	-		,
+0540	018	23	7	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	23	8	-	-	ἧς	-	PRON	Pr	-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0540	018	23	9	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	23	10	-	-	ἧς	-	PRON	Pr	-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0540	018	23	11	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	23	12	-	-	Taylor	-	NUM	V-	-		Taylor
+0540	018	23	13	-	-	:	-	ADP	V-	-		:
+0540	018	23	14	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	23	15	-	-	πολιτείας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πολιτεία
+0540	018	23	16	-	-	ἧς	-	PRON	Pr	-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	ὅς
+0540	018	23	17	-	-	MSS	-	ADV	Df	-		MSS
+0540	018	23	18	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	23	19	-	-	ὁ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	23	20	-	-	πατὴρ	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Sing	πατήρ
+0540	018	23	21	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	23	22	-	-	οἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	23	23	-	-	προσήκοντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	προσήκω
+0540	018	23	24	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	23	25	-	-	ἀπέθανον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποθνῄσκω
+0540	018	23	26	-	-	;	-	PUNCT	Z	-		;
+0540	018	23	27	-	-	νῦν	-	ADV	Df	-		νῦν
+0540	018	23	28	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	018	23	29	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0540	018	23	30	-	-	ἀνθʼ	-	ADP	R-	-		ἀντί
+0540	018	23	31	-	-	ἁπάντων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἅπας
+0540	018	23	32	-	-	ἀπαιτοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀπαιτέω
+0540	018	23	33	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	23	34	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	23	35	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0540	018	23	36	-	-	,	-	PUNCT	Z	-		,
+0540	018	23	37	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	018	23	38	-	-	περιιδεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	περιοράω
+0540	018	23	39	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	23	40	-	-	ἀπόρως	-	ADV	Df	-	Degree=Pos	ἄπορος
+0540	018	23	41	-	-	διατεθέντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	διατίθημι
+0540	018	23	42	-	-	μηδʼ	-	CCONJ	C-	-		μηδέ
+0540	018	23	43	-	-	ἐνδεεῖς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἐνδεής
+0540	018	23	44	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	23	45	-	-	ἐπιτηδείων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	ἐπιτήδειος
+0540	018	23	46	-	-	γενομένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι
+0540	018	23	47	-	-	,	-	PUNCT	Z	-		,
+0540	018	23	48	-	-	μηδὲ	-	CCONJ	C-	-		μηδέ
+0540	018	23	49	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	23	50	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	23	51	-	-	προγόνων	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Plur	πρόγονος
+0540	018	23	52	-	-	εὐδαιμονίαν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	εὐδαιμονία
+0540	018	23	53	-	-	καταλῦσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	καταλύω
+0540	018	23	54	-	-	,	-	PUNCT	Z	-		,
+0540	018	23	55	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	018	23	56	-	-	πολὺ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	018	23	57	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	018	23	58	-	-	παράδειγμα	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	παράδειγμα
+0540	018	23	59	-	-	ποιῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ποιέω
+0540	018	23	60	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	23	61	-	-	βουλομένοις	-	VERB	V-	-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	βούλομαι
+0540	018	23	62	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	23	63	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0540	018	23	64	-	-	εὖ	-	ADV	Df	-		εὖ
+0540	018	23	65	-	-	ποιεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	ποιέω
+0540	018	23	66	-	-	,	-	PUNCT	Z	-		,
+0540	018	23	67	-	-	οἴων	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	οἶος
+0540	018	23	68	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	23	69	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	23	70	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ
+0540	018	23	71	-	-	κινδύνοις	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	κίνδυνος
+0540	018	23	72	-	-	τεύξονται	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	τυγχάνω
+0540	018	23	73	-	-	.	-	PUNCT	Z	-		.
+0540	018	24	0	-	-	οὐκ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	24	1	-	-	ἔχω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω
+0540	018	24	2	-	-	,	-	PUNCT	Z	-		,
+0540	018	24	3	-	-	ὦ	-	INTJ	I-	-		ὦ
+0540	018	24	4	-	-	ἄνδρες	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	24	5	-	-	δικασταί	-	NOUN	Nb	-	Case=Voc|Gender=Masc|Number=Plur	δικαστής
+0540	018	24	6	-	-	,	-	PUNCT	Z	-		,
+0540	018	24	7	-	-	οὕστινας	-	PRON	Pr	-	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅστις
+0540	018	24	8	-	-	δεησομένους	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Mid	δέω
+0540	018	24	9	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	24	10	-	-	ἡμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	24	11	-	-	ἀναβιβάσομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀναβιβάσομαι
+0540	018	24	12	-	-	·	-	PUNCT	Z	-		·
+0540	018	24	13	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	24	14	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	24	15	-	-	προσηκόντων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	προσήκω
+0540	018	24	16	-	-	οἱ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	24	17	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	24	18	-	-	ἄνδρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	24	19	-	-	ἀγαθοὺς	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἀγαθός
+0540	018	24	20	-	-	αὑτοὺς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ἑαυτοῦ
+0540	018	24	21	-	-	παρασχόντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	παρέχω
+0540	018	24	22	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	24	23	-	-	μεγάλην	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	μέγας
+0540	018	24	24	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	24	25	-	-	πόλιν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	πόλις
+0540	018	24	26	-	-	ποιοῦντες	-	VERB	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ποιέω
+0540	018	24	27	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	24	28	-	-	τῷ	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	24	29	-	-	πολέμῳ	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Sing	πόλεμος
+0540	018	24	30	-	-	τεθνᾶσιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἀποθνῄσκω
+0540	018	24	31	-	-	,	-	PUNCT	Z	-		,
+0540	018	24	32	-	-	οἱ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ
+0540	018	24	33	-	-	δʼ	-	ADV	Df	-		δέ
+0540	018	24	34	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	24	35	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	24	36	-	-	δημοκρατίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	δημοκρατία
+0540	018	24	37	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	24	38	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	24	39	-	-	ὑμετέρας	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	ὑμέτερος
+0540	018	24	40	-	-	ἐλευθερίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἐλευθερία
+0540	018	24	41	-	-	ὑπὸ	-	ADP	R-	-		ὑπό
+0540	018	24	42	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	24	43	-	-	τριάκοντα	-	NUM	Ma	-		τριάκοντα
+0540	018	24	44	-	-	κώνειον	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	κώνειον
+0540	018	24	45	-	-	πιόντες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	πίνω
+0540	018	24	46	-	-	,	-	PUNCT	Z	-		,
+0540	018	25	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	25	1	-	-	ὥστε	-	ADV	Df	-		ὥστε
+0540	018	25	2	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	25	3	-	-	ἐρημίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἐρημία
+0540	018	25	4	-	-	ἡμετέρας	-	ADJ	Ps	-	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	ἡμέτερος
+0540	018	25	5	-	-	αἴτιαι	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	αἴτιος
+0540	018	25	6	-	-	γεγόνασιν	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	γίγνομαι
+0540	018	25	7	-	-	αἵ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	25	8	-	-	τε	-	CCONJ	C-	-		τε
+0540	018	25	9	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	25	10	-	-	προσηκόντων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	προσήκω
+0540	018	25	11	-	-	ἀρεταὶ	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	ἀρετή
+0540	018	25	12	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	25	13	-	-	αἱ	-	DET	S-	-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	25	14	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	25	15	-	-	πόλεως	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πόλις
+0540	018	25	16	-	-	συμφοραί	-	NOUN	Nb	-	Case=Nom|Gender=Fem|Number=Plur	συμφορά
+0540	018	25	17	-	-	.	-	PUNCT	Z	-		.
+0540	018	25	18	-	-	ὧν	-	PRON	Pr	-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	ὅς
+0540	018	25	19	-	-	ἄξιον	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἄξιος
+0540	018	25	20	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	25	21	-	-	ἐνθυμηθέντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ἐνθυμέομαι
+0540	018	25	22	-	-	προθύμως	-	ADV	Df	-	Degree=Pos	προθύμως
+0540	018	25	23	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	25	24	-	-	βοηθῆσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	βοηθέω
+0540	018	25	25	-	-	,	-	PUNCT	Z	-		,
+0540	018	25	26	-	-	ἡγησαμένους	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	ἡγέομαι
+0540	018	25	27	-	-	τούτους	-	ADJ	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	018	25	28	-	-	ἂν	-	ADV	Df	-		ἄν
+0540	018	25	29	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	25	30	-	-	δημοκρατία	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	δημοκρατία
+0540	018	25	31	-	-	δικαίως	-	ADV	Df	-	Degree=Pos	δικαίως
+0540	018	25	32	-	-	εὖ	-	ADV	Df	-		εὖ
+0540	018	25	33	-	-	πάσχειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	πάσχω
+0540	018	25	34	-	-	ὑφʼ	-	ADP	R-	-		ὑπό
+0540	018	25	35	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	25	36	-	-	,	-	PUNCT	Z	-		,
+0540	018	25	37	-	-	οἵπερ	-	PRON	Pr	-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	ὅς
+0540	018	25	38	-	-	ἐν	-	ADP	R-	-		ἐν
+0540	018	25	39	-	-	ὀλιγαρχίᾳ	-	NOUN	Nb	-	Case=Dat|Gender=Fem|Number=Sing	ὀλιγαρχία
+0540	018	25	40	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	25	41	-	-	συμφορῶν	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Plur	συμφορά
+0540	018	25	42	-	-	μετέσχον	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	μετέχω
+0540	018	25	43	-	-	τὸ	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ
+0540	018	25	44	-	-	μέρος	-	NOUN	Nb	-	Case=Acc|Gender=Neut|Number=Sing	μέρος
+0540	018	25	45	-	-	.	-	PUNCT	Z	-		.
+0540	018	26	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	26	1	-	-	ἀξιῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	018	26	2	-	-	δὲ	-	ADV	Df	-		δέ
+0540	018	26	3	-	-	καὶ	-	ADV	Df	-		καί
+0540	018	26	4	-	-	τούτους	-	DET	Pd	-	Case=Acc|Gender=Masc|Number=Plur	οὗτος
+0540	018	26	5	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	26	6	-	-	συνδίκους	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	συνδίκος
+0540	018	26	7	-	-	εὔνους	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	εὔνοος
+0540	018	26	8	-	-	ἡμῖν	-	PRON	Pp	-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	26	9	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	26	10	-	-	,	-	PUNCT	Z	-		,
+0540	018	26	11	-	-	ἐκείνου	-	DET	Pd	-	Case=Gen|Gender=Masc|Number=Sing	ἐκεῖνος
+0540	018	26	12	-	-	τοῦ	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ
+0540	018	26	13	-	-	χρόνου	-	NOUN	Nb	-	Case=Gen|Gender=Masc|Number=Sing	χρόνος
+0540	018	26	14	-	-	μνησθέντας	-	VERB	V-	-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	μιμνήσκω
+0540	018	26	15	-	-	,	-	PUNCT	Z	-		,
+0540	018	26	16	-	-	ὅτʼ	-	SCONJ	G-	-		ὅτε
+0540	018	26	17	-	-	ἐκ	-	ADP	R-	-		ἐκ
+0540	018	26	18	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	26	19	-	-	πατρίδος	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	πατρίς
+0540	018	26	20	-	-	ἐκπεπτωκότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἐκπίπτω
+0540	018	26	21	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	26	22	-	-	τὰς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ
+0540	018	26	23	-	-	οὐσίας	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Plur	οὐσία
+0540	018	26	24	-	-	ἀπολωλεκότες	-	VERB	V-	-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ἀπόλλυμι
+0540	018	26	25	-	-	ἄνδρας	-	NOUN	Nb	-	Case=Acc|Gender=Masc|Number=Plur	ἀνήρ
+0540	018	26	26	-	-	ἀρίστους	-	ADJ	A-	-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	ἀγαθός
+0540	018	26	27	-	-	ἐνομίζετʼ	-	VERB	V-	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ἐνομίζω
+0540	018	26	28	-	-	εἶναι	-	AUX	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί
+0540	018	26	29	-	-	τοὺς	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	26	30	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	26	31	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	26	32	-	-	ἀποθνῄσκοντας	-	VERB	V-	-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀποθνῄσκω
+0540	018	26	33	-	-	,	-	PUNCT	Z	-		,
+0540	018	26	34	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	26	35	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	26	36	-	-	θεοῖς	-	NOUN	Nb	-	Case=Dat|Gender=Masc|Number=Plur	θεός
+0540	018	26	37	-	-	ηὔχεσθε	-	VERB	V-	-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ηὔχεμαι
+0540	018	26	38	-	-	δυνηθῆναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	δύναμαι
+0540	018	26	39	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0540	018	26	40	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	26	41	-	-	ἐξ	-	ADP	R-	-		ἐκ
+0540	018	26	42	-	-	ἐκείνων	-	ADJ	Pd	-	Case=Gen|Gender=Masc|Number=Plur	ἐκεῖνος
+0540	018	26	43	-	-	ἀποδοῦναι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀποδίδωμι
+0540	018	26	44	-	-	.	-	PUNCT	Z	-		.
+0540	018	27	0	-	-	 	-	CCONJ	V-	-		 
+0540	018	27	1	-	-	ἡμεῖς	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	27	2	-	-	τοίνυν	-	ADV	Df	-		τοίνυν
+0540	018	27	3	-	-	,	-	PUNCT	Z	-		,
+0540	018	27	4	-	-	ὑεῖς	-	NOUN	Nb	-	Case=Nom|Gender=Masc|Number=Plur	ὕω
+0540	018	27	5	-	-	ὄντες	-	AUX	V-	-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	27	6	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	27	7	-	-	συγγενεῖς	-	ADJ	A-	-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	συγγενής
+0540	018	27	8	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	27	9	-	-	ὑπὲρ	-	ADP	R-	-		ὑπέρ
+0540	018	27	10	-	-	τῆς	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	27	11	-	-	ἐλευθερίας	-	NOUN	Nb	-	Case=Gen|Gender=Fem|Number=Sing	ἐλευθερία
+0540	018	27	12	-	-	προκεκινδυνευκότων	-	VERB	V-	-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	προκεκινδυνευκότων
+0540	018	27	13	-	-	,	-	PUNCT	Z	-		,
+0540	018	27	14	-	-	ἀπαιτοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀπαιτέω
+0540	018	27	15	-	-	ὑμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	27	16	-	-	νυνὶ	-	ADV	Df	-		νυνί
+0540	018	27	17	-	-	ταύτην	-	DET	Pd	-	Case=Acc|Gender=Fem|Number=Sing	οὗτος
+0540	018	27	18	-	-	τὴν	-	DET	S-	-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ
+0540	018	27	19	-	-	χάριν	-	NOUN	Nb	-	Case=Acc|Gender=Fem|Number=Sing	χάρις
+0540	018	27	20	-	-	,	-	PUNCT	Z	-		,
+0540	018	27	21	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	27	22	-	-	ἀξιοῦμεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	018	27	23	-	-	μὴ	-	ADV	Df	-	Polarity=Neg	μή
+0540	018	27	24	-	-	ἀδίκως	-	ADV	Df	-	Degree=Pos	ἀδίκως
+0540	018	27	25	-	-	ἡμᾶς	-	PRON	Pp	-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς
+0540	018	27	26	-	-	ἀπολέσαι	-	VERB	V-	-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	ἀπόλλυμι
+0540	018	27	27	-	-	,	-	PUNCT	Z	-		,
+0540	018	27	28	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	018	27	29	-	-	πολὺ	-	ADJ	A-	-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πολύς
+0540	018	27	30	-	-	μᾶλλον	-	ADV	Df	-	Degree=Cmp	μᾶλλον
+0540	018	27	31	-	-	βοηθεῖν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	βοηθέω
+0540	018	27	32	-	-	τοῖς	-	DET	S-	-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	27	33	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ
+0540	018	27	34	-	-	αὐτῶν	-	DET	Pd	-	Case=Gen|Number=Plur	αὐτός
+0540	018	27	35	-	-	μετασχοῦσι	-	VERB	V-	-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	μετέχω
+0540	018	27	36	-	-	συμφορῶν	-	NOUN	Nb	-	Case=Gen|Gender=Neut|Number=Plur	συμφορά
+0540	018	27	37	-	-	.	-	PUNCT	Z	-		.
+0540	018	27	38	-	-	ἐγὼ	-	PRON	Pp	-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ
+0540	018	27	39	-	-	μὲν	-	ADV	Df	-		μέν
+0540	018	27	40	-	-	οὖν	-	ADV	Df	-		οὖν
+0540	018	27	41	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	27	42	-	-	δέομαι	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	δέω
+0540	018	27	43	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	27	44	-	-	ἀντιβολῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀντιβολέω
+0540	018	27	45	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	27	46	-	-	ἱκετεύω	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἱκετεύω
+0540	018	27	47	-	-	,	-	PUNCT	Z	-		,
+0540	018	27	48	-	-	καὶ	-	CCONJ	C-	-		καί
+0540	018	27	49	-	-	τούτων	-	ADJ	Pd	-	Case=Gen|Gender=Neut|Number=Plur	οὗτος
+0540	018	27	50	-	-	παρʼ	-	ADP	R-	-		παρά
+0540	018	27	51	-	-	ὑμῶν	-	PRON	Pp	-	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς
+0540	018	27	52	-	-	τυγχάνειν	-	VERB	V-	-	Tense=Pres|VerbForm=Inf|Voice=Act	τυγχάνω
+0540	018	27	53	-	-	ἀξιῶ	-	VERB	V-	-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἀξιόω
+0540	018	27	54	-	-	·	-	PUNCT	Z	-		·
+0540	018	27	55	-	-	οὐ	-	ADV	Df	-	Polarity=Neg	οὐ
+0540	018	27	56	-	-	γὰρ	-	ADV	Df	-		γάρ
+0540	018	27	57	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	27	58	-	-	μικρῶν	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	μικρός
+0540	018	27	59	-	-	κινδυνεύομεν	-	VERB	V-	-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	κινδυνεύω
+0540	018	27	60	-	-	,	-	PUNCT	Z	-		,
+0540	018	27	61	-	-	ἀλλὰ	-	CCONJ	C-	-		ἀλλά
+0540	018	27	62	-	-	περὶ	-	ADP	R-	-		περί
+0540	018	27	63	-	-	τῶν	-	DET	S-	-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ
+0540	018	27	64	-	-	ὄντων	-	AUX	V-	-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί
+0540	018	27	65	-	-	ἁπάντων	-	ADJ	A-	-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	ἅπας
+0540	018	27	66	-	-	.	-	PUNCT	Z	-		.
