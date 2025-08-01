@@ -2,10 +2,12 @@
 
 Extraction and normalization of an (initially) Attic Prose tagged corpus for the Greek Learner Texts Project.
 
-- `tagged-texts` contains the extracted files.
+- `tagged-texts/` contains the extracted files.
 - `scripts/gather.py` did the initial extraction.
 - `counts.tsv` gives current token counts
 - `scripts/stats.py` produced those counts
+- `base-texts/` contains the chunked base texts.
+- `scripts/extract_base.py` produced those chunked base texts.
 
 ## Works Included
 
