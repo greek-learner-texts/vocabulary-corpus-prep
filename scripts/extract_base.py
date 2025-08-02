@@ -34,7 +34,7 @@ def write_base(text_group, text_id, version="perseus-grc2", refs_filter=None):
                 refs.insert(0, parent.attrib["n"])
                 parent = parent.getparent()
             if refs_filter is None or (refs != [] and refs_filter(refs)):
-                if refs !=[] and xml_str != "<p/>":
+                if refs != [] and xml_str != "<p/>":
                     print(".".join(refs), xml_str, sep="\t", file=g)
 
 
