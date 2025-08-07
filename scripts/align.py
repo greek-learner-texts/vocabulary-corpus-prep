@@ -5,69 +5,101 @@ from itertools import zip_longest
 import unicodedata
 
 
-def norm(w):
+def fold(w):
     return unicodedata.normalize("NFC",
         "".join(ch for ch in unicodedata.normalize("NFD", w.lower())
         if unicodedata.category(ch)[0] != "M")
     )
+
+def norm(s):
+    s = unicodedata.normalize("NFC", s)
+    s = s.replace("\u1FBD", "\u2019")
+    s = s.replace("\u02BC", "\u2019")
+    s = s.replace(":", "\u00B7")
+    return s
+
+
+def split(s):
+    return s.strip().split("\t")
+
+
+def debug_pair(a, b):
+    print(a, b, sep="\t")
+    for c, d in zip_longest(a, b):
+        print(hex(ord(c)), unicodedata.name(c), unicodedata.name(d) if d else "", sep="\t")
+
+
+def empty(x):
+    return x is None or x.strip() == ""
 
 
 if __name__ == "__main__":
 
     makedirs("aligned-tagging", exist_ok=True)
 
-    a = open("tokenized-texts/tlg0003.tlg001.tokens.tsv").readlines()
-    b = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.oga.tsv").readlines()
-    b2 = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv").readlines()
+    base = open("tokenized-texts/tlg0003.tlg001.tokens.tsv").readlines()
+    oga = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.oga.tsv").readlines()
+    gorman = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv").readlines()
 
     with open("aligned-tagging/tlg0003.tlg001.aligned.tsv", "w") as g:
         print("ref", "idx", "token", "oga_id", "oga_postag", "gorman_postag", "oga_lemma", "gorman_lemma", "mismatch", sep="\t", file=g)
 
-        for c, d, d2 in zip_longest(a, b, b2):
-            if c is None or c.strip() == "" or d is None or d.strip() == "":
+        for token_base, token_oga, token_gorman in zip_longest(base, oga, gorman):
+            if empty(token_base) or empty(token_oga):
                 continue
-            try:
-                e = unicodedata.normalize("NFC", c.strip().split("\t")[2])
-            except IndexError:
-                print(c.strip().split("\t")[0])
-                print(d.strip().split("\t")[5])
-                print(d2.strip().split("\t")[5])
-                quit()
-            e = e.replace("\u1FBD", "\u2019")
-            f = unicodedata.normalize("NFC", d.strip().split("\t")[6])
-            f = f.replace("\u02BC", "\u2019")
-            if e != f:
-                print(d.strip().split("\t")[5])
-                print(e, f, sep="\t")
-                for g, h in zip_longest(e, f):
-                    print(hex(ord(g)), unicodedata.name(g), unicodedata.name(h) if h else "", sep="\t")
+            # try:
+            #     e = norm(split(token_base)[2])
+            # except IndexError:
+            #     print(split(token_base)[0])
+            #     print(split(token_oga)[5])
+            #     print(split(token_gorman)[5])
+            #     quit()
+            form_base = norm(split(token_base)[2])
+
+            split_oga = split(token_oga)
+            form_oga = norm(split_oga[6])
+            id_oga = split_oga[5]
+            postag_oga = split_oga[10]
+            lemma_oga = split_oga[12]
+
+            if form_base != form_oga:
+                print(id_oga)
+                debug_pair(form_base, form_oga)
                 break
-            j = d.strip().split("\t")
-            if d2 and d2.strip():
-                f2 = unicodedata.normalize("NFC", d2.strip().split("\t")[6])
-                f2 = f2.replace("\u1FBD", "\u2019")
-                f2 = f2.replace("\u02BC", "\u2019")
-                f2 = f2.replace(":", "\u00B7")
-                if f2 in ["-τε", "-δ’", "-δὲ", "-θ’", "-τ’", "-δέ"]:
-                    f2 = f2[1:]
-                if f2 in ["τ-", "κ-"]:
-                    f2 = f2[:-1]
-                if e != f2:
-                    print(c.strip().split("\t")[0], d2.strip().split("\t")[2])
-                    print(c.strip().split("\t")[1], d2.strip().split("\t")[4])
-                    print(e, f2, sep="\t")
-                    for g, h2 in zip_longest(e, f2):
-                        print(hex(ord(g)), unicodedata.name(g), unicodedata.name(h2) if h2 else "", sep="\t")
+
+            if not empty(token_gorman):
+
+                split_gorman = split(token_gorman) + [""]
+                form_gorman = norm(split_gorman[6])
+                postag_gorman = split_gorman[10]
+                lemma_gorman = split_gorman[12]
+
+                if form_gorman in ["-τε", "-δ’", "-δὲ", "-θ’", "-τ’", "-δέ"]:
+                    form_gorman = form_gorman[1:]
+                if form_gorman in ["τ-", "κ-"]:
+                    form_gorman = form_gorman[:-1]
+
+                if form_base != form_gorman:
+                    print(split(token_base)[0], split(token_gorman)[2])
+                    print(split(token_base)[1], split(token_gorman)[4])
+                    debug_pair(form_base, form_gorman)
                     break
 
-                j2 = d2.strip().split("\t") + [""]
                 match = ""
-                if j2[12] != "punc1":
-                    if j[10] != j2[10] or j[12] != j2[12]:
+
+                if lemma_gorman != "punc1":
+                    if postag_oga != postag_gorman or lemma_oga != lemma_gorman:
                         match = "."
-                    if norm(j[12]) != norm(j2[12]):
+                    if fold(lemma_oga) != fold(lemma_gorman):
                         match = "@"
             else:
-                j2 = [""] * 13
+                postag_gorman = ""
+                lemma_gorman = ""
                 match = ""
-            print(c.strip(), j[5], j[10], j2[10], j[12], j2[12], match, sep="\t", file=g)
+
+            print(
+                token_base.strip(), id_oga,
+                postag_oga, postag_gorman,
+                lemma_oga, lemma_gorman,
+                match, sep="\t", file=g
+            )
