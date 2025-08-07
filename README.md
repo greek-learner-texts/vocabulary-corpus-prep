@@ -2,7 +2,7 @@
 
 Extraction and normalization of an (initially) Attic Prose tagged corpus for the Greek Learner Texts Project.
 
-- `tagged-texts/` contains the extracted files.
+- `tagged-texts/` contains the extracted files (with minor manual corrections)
 - `scripts/gather.py` did the initial extraction.
 - `counts.tsv` gives current token counts
 - `scripts/stats.py` produced those counts
@@ -23,3 +23,4 @@ Extraction and normalization of an (initially) Attic Prose tagged corpus for the
 - https://github.com/OperaGraecaAdnotata/OGA
 - https://github.com/vgorman1/Greek-Dependency-Trees
 - https://github.com/scaife-viewer/tagging-pipeline
+- https://github.com/alekkeersmaekers/glaux
