@@ -8,6 +8,8 @@ Extraction and normalization of an (initially) Attic Prose tagged corpus for the
 - `scripts/stats.py` produced those counts
 - `base-texts/` contains the chunked base texts.
 - `scripts/extract_base.py` produced those chunked base texts.
+- `tokenized-texts/` contains tokenized base texts.
+- `scripts/tokens.py` produced those tokenized base texts.
 
 ## Works Included
 
