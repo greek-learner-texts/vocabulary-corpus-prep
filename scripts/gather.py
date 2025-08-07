@@ -93,85 +93,97 @@ def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
                 postag = gchild.attrib.get("postag")
                 head = gchild.attrib.get("head")
                 relation = gchild.attrib.get("relation")
-                if form == "E":
-                    continue
+                form_original = gchild.attrib.get("form_original")
                 if ref_filter is None or ref_filter(ref):
+                    if form_original:
+                        if form_original.startswith("["):
+                            print(file=g)
+                    if form == "E":
+                        continue
+                    if form == "\"":
+                        print(file=g)
+                        continue
+
                     print(group_id, work_id, ref, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
+
+                    if form_original:
+                        if form_original.endswith("]"):
+                            print(file=g)
 
 
 def process(shard, group_id, group_label, work_ids, ref_filter=None):
     for path, work_id in get_tagging_pipeline_files(f"tagging-shard-{shard}/tlg{group_id}", work_ids):
         write_tagged_file(path, work_id, group_id, group_label, ref_filter)
 
-    for path, work_id in get_oga_files(f"tlg{group_id}", work_ids):
-        write_oga_file(path, work_id, group_id, group_label)
+    # for path, work_id in get_oga_files(f"tlg{group_id}", work_ids):
+    #     write_oga_file(path, work_id, group_id, group_label)
 
     for work_id in work_ids:
         write_glaux_file(GLAUX_DIR / f"{group_id}-{work_id}.xml", work_id, group_id, group_label, ref_filter)
 
 
-process("07", "0059", "plato", [
-        "001", "002", "003", "011", "030"
-    ])
+# process("07", "0059", "plato", [
+#         "001", "002", "003", "011", "030"
+#     ])
 
-work_ids = {"plato apology.xml": "002", "Plato_Crito_Travis_Kahl.xml": "003"}
-for filename in work_ids.keys():
-    write_gorman_file([GORMAN_DIR / filename], work_ids[filename], "0059", "plato")
-
-
-process("12", "0540", "lysias", [
-        "001", "002", "003", "004", "005", "006", "007", "008", "009", "010",
-        "012", "013", "014", "015", "016", "017", "018", "019", "020", "022",
-        "023", "025", "026", "032", "033",
-    ])
-
-work_ids = {"Lysias 1 bu1.xml": "001", "Lysias 12 bu1.xml": "012", "lysias 13 bu1.xml": "013",
-    "Lysias 14 bu1.xml": "014", "lysias 15.xml": "015", "lysias 19 bu1.xml": "019",
-    "Lysias 23 bu1.xml": "023"}
-for filename in work_ids.keys():
-    write_gorman_file([GORMAN_DIR / filename], work_ids[filename], "0540", "lysias")
+# work_ids = {"plato apology.xml": "002", "Plato_Crito_Travis_Kahl.xml": "003"}
+# for filename in work_ids.keys():
+#     write_gorman_file([GORMAN_DIR / filename], work_ids[filename], "0059", "plato")
 
 
-process("10", "0014", "demosthenes", [
-        "001", "004", "005", "006", "018", "020", "021"
-    ])
+# process("12", "0540", "lysias", [
+#         "001", "002", "003", "004", "005", "006", "007", "008", "009", "010",
+#         "012", "013", "014", "015", "016", "017", "018", "019", "020", "022",
+#         "023", "025", "026", "032", "033",
+#     ])
 
-write_gorman_file([GORMAN_DIR / "Demosthenes 1 bu1.xml"], "001", "0014", "demosthenes")
-write_gorman_file([
-    GORMAN_DIR / "demosthenes 18 1-50 bu2.xml",
-    GORMAN_DIR / "demosthenes 18 101-150 bu2.xml",
-    GORMAN_DIR / "demosthenes 18 151-200 bu2.xml",
-    GORMAN_DIR / "demosthenes 18 201-275 bu1.xml",
-    GORMAN_DIR / "demosthenes 18 276-324 bu1.xml",
-    GORMAN_DIR / "demosthenes 18 51-100 bu1.xml",
-], "018", "0014", "demosthenes")
+# work_ids = {"Lysias 1 bu1.xml": "001", "Lysias 12 bu1.xml": "012", "lysias 13 bu1.xml": "013",
+#     "Lysias 14 bu1.xml": "014", "lysias 15.xml": "015", "lysias 19 bu1.xml": "019",
+#     "Lysias 23 bu1.xml": "023"}
+# for filename in work_ids.keys():
+#     write_gorman_file([GORMAN_DIR / filename], work_ids[filename], "0540", "lysias")
 
 
-process("10", "0010", "isocrates", [
-        "007", "008", "009", "011", "019", "021"
-    ])
+# process("10", "0014", "demosthenes", [
+#         "001", "004", "005", "006", "018", "020", "021"
+#     ])
 
-# no Gorman overlap
+# write_gorman_file([GORMAN_DIR / "Demosthenes 1 bu1.xml"], "001", "0014", "demosthenes")
+# write_gorman_file([
+#     GORMAN_DIR / "demosthenes 18 1-50 bu2.xml",
+#     GORMAN_DIR / "demosthenes 18 101-150 bu2.xml",
+#     GORMAN_DIR / "demosthenes 18 151-200 bu2.xml",
+#     GORMAN_DIR / "demosthenes 18 201-275 bu1.xml",
+#     GORMAN_DIR / "demosthenes 18 276-324 bu1.xml",
+#     GORMAN_DIR / "demosthenes 18 51-100 bu1.xml",
+# ], "018", "0014", "demosthenes")
 
-process("10", "0032", "xenophon", [
-        "006"
-    ])
 
-write_gorman_file([
-    GORMAN_DIR / "Xen_Anab_book_1.1-5.xml",
-    GORMAN_DIR / "Xen_Anab_book_1.6-9.xml",
-    GORMAN_DIR / "Xen_Anab_book_3.xml",
-], "006", "0032", "xenophon")
+# process("10", "0010", "isocrates", [
+#         "007", "008", "009", "011", "019", "021"
+#     ])
+
+# # no Gorman overlap
+
+# process("10", "0032", "xenophon", [
+#         "006"
+#     ])
+
+# write_gorman_file([
+#     GORMAN_DIR / "Xen_Anab_book_1.1-5.xml",
+#     GORMAN_DIR / "Xen_Anab_book_1.6-9.xml",
+#     GORMAN_DIR / "Xen_Anab_book_3.xml",
+# ], "006", "0032", "xenophon")
 
 
 process("06", "0003", "thucydides", [
         "001"
     ], lambda ref: ref[0] in ["1", "2", "3"])
 
-write_gorman_file([
-    GORMAN_DIR / "thuc 1 1-20 bu5.xml",
-    GORMAN_DIR / "thuc 1 21-40 bu4.xml",
-    GORMAN_DIR / "thuc 1 41-60 bu3.xml",
-    GORMAN_DIR / "thuc 1 61-80 bu3.xml",
-    GORMAN_DIR / "thuc 3.1-20 bu1.xml",
-], "001", "0003", "thucydides")
+# write_gorman_file([
+#     GORMAN_DIR / "thuc 1 1-20 bu5.xml",
+#     GORMAN_DIR / "thuc 1 21-40 bu4.xml",
+#     GORMAN_DIR / "thuc 1 41-60 bu3.xml",
+#     GORMAN_DIR / "thuc 1 61-80 bu3.xml",
+#     GORMAN_DIR / "thuc 3.1-20 bu1.xml",
+# ], "001", "0003", "thucydides")

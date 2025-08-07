@@ -43,7 +43,9 @@ if __name__ == "__main__":
     gorman = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv").readlines()
 
     with open("aligned-tagging/tlg0003.tlg001.aligned.tsv", "w") as g:
-        print("ref", "idx", "token", "oga_id", "glaux_id", "oga_postag", "glaux_postag", "gorman_postag", "oga_lemma", "glaux_lemma", "gorman_lemma", "mismatch", sep="\t", file=g)
+        print("ref", "idx", "token", "oga_id", "glaux_id", "oga_postag", "glaux_postag", "gorman_postag", "oga_lemma", "glaux_lemma", "gorman_lemma", "mismatch_oga_gorman", "mismatch_glaux_gorman", sep="\t", file=g)
+
+        glaux_crasis = None
 
         for token_base, token_oga, token_glaux, token_gorman in zip_longest(base, oga, glaux, gorman):
             if empty(token_base) or empty(token_oga):
@@ -68,16 +70,36 @@ if __name__ == "__main__":
                 debug_pair(form_base, form_oga)
                 break
 
-            split_glaux = split(token_glaux)
-            form_glaux = norm(split_glaux[6])
-            id_glaux = split_glaux[4]
-            postag_glaux = split_glaux[10]
-            lemma_glaux = split_glaux[12]
+            if not empty(token_glaux):
+                split_glaux = split(token_glaux)
+                form_glaux = norm(split_glaux[6])
+                id_glaux = split_glaux[4]
+                postag_glaux = split_glaux[10]
+                lemma_glaux = split_glaux[12]
 
-            if form_base != form_glaux:
-                print(id_glaux)
-                debug_pair(form_base, form_glaux)
-                break
+                if glaux_crasis:
+                    assert form_glaux.startswith(glaux_crasis), (form_glaux, glaux_crasis)
+                    form_glaux = form_glaux[len(glaux_crasis):]
+                    glaux_crasis = None
+
+                if form_glaux in ["-τε", "-δ’", "-δὲ", "-θ’", "-τ’", "-δέ"]:
+                    form_glaux = form_glaux[1:]
+                if form_glaux in ["το-", "τα-", "κα-"]:
+                    form_glaux = form_glaux[0]
+                    glaux_crasis = form_glaux
+
+                if form_base != form_glaux:
+                    if form_base == "·" and form_glaux == ",":
+                        pass
+                    else:
+                        print(id_glaux)
+                        debug_pair(form_base, form_glaux)
+                        break
+            
+            else:
+                postag_glaux = ""
+                lemma_glaux = ""
+                id_glaux = ""
 
             if not empty(token_gorman):
 
@@ -97,21 +119,33 @@ if __name__ == "__main__":
                     debug_pair(form_base, form_gorman)
                     break
 
-                match = ""
+                match_oga_gorman = ""
 
                 if lemma_gorman != "punc1":
                     if postag_oga != postag_gorman or lemma_oga != lemma_gorman:
-                        match = "."
+                        match_oga_gorman = "."
                     if fold(lemma_oga) != fold(lemma_gorman):
-                        match = "@"
+                        match_oga_gorman = "@"
+
+                match_glaux_gorman = ""
+
+                if not empty(token_glaux):
+                    if lemma_gorman != "punc1":
+                        if postag_glaux != postag_gorman or lemma_glaux != lemma_gorman:
+                            match_glaux_gorman = "."
+                        if fold(lemma_glaux) != fold(lemma_gorman):
+                            match_glaux_gorman = "@"
+
             else:
                 postag_gorman = ""
                 lemma_gorman = ""
-                match = ""
+                match_oga_gorman = ""
+                match_glaux_gorman = ""
 
             print(
-                token_base.strip(), id_oga,
-                postag_oga, postag_gorman,
-                lemma_oga, lemma_gorman,
-                match, sep="\t", file=g
+                token_base.strip(), id_oga, id_glaux,
+                postag_oga, postag_glaux, postag_gorman,
+                lemma_oga, lemma_glaux, lemma_gorman,
+                match_oga_gorman, match_glaux_gorman,
+                sep="\t", file=g
             )
