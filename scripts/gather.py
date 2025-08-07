@@ -93,8 +93,8 @@ def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
                 postag = gchild.attrib.get("postag")
                 head = gchild.attrib.get("head")
                 relation = gchild.attrib.get("relation")
-                # if re.match(r"\[\d\]", form):
-                #     continue
+                if form == "E":
+                    continue
                 if ref_filter is None or ref_filter(ref):
                     print(group_id, work_id, ref, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
 

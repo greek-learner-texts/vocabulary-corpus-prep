@@ -39,12 +39,13 @@ if __name__ == "__main__":
 
     base = open("tokenized-texts/tlg0003.tlg001.tokens.tsv").readlines()
     oga = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.oga.tsv").readlines()
+    glaux = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.glaux.tsv").readlines()
     gorman = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv").readlines()
 
     with open("aligned-tagging/tlg0003.tlg001.aligned.tsv", "w") as g:
-        print("ref", "idx", "token", "oga_id", "oga_postag", "gorman_postag", "oga_lemma", "gorman_lemma", "mismatch", sep="\t", file=g)
+        print("ref", "idx", "token", "oga_id", "glaux_id", "oga_postag", "glaux_postag", "gorman_postag", "oga_lemma", "glaux_lemma", "gorman_lemma", "mismatch", sep="\t", file=g)
 
-        for token_base, token_oga, token_gorman in zip_longest(base, oga, gorman):
+        for token_base, token_oga, token_glaux, token_gorman in zip_longest(base, oga, glaux, gorman):
             if empty(token_base) or empty(token_oga):
                 continue
             # try:
@@ -65,6 +66,17 @@ if __name__ == "__main__":
             if form_base != form_oga:
                 print(id_oga)
                 debug_pair(form_base, form_oga)
+                break
+
+            split_glaux = split(token_glaux)
+            form_glaux = norm(split_glaux[6])
+            id_glaux = split_glaux[4]
+            postag_glaux = split_glaux[10]
+            lemma_glaux = split_glaux[12]
+
+            if form_base != form_glaux:
+                print(id_glaux)
+                debug_pair(form_base, form_glaux)
                 break
 
             if not empty(token_gorman):
