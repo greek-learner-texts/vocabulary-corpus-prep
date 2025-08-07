@@ -12,6 +12,7 @@ REPO_DIR = Path(__file__).parent.parent
 TAGGING_PIPELINE_DATA_DIR = (REPO_DIR / "../../Scaife/tagging-pipeline" / "data").resolve()
 GRC_CONLLU_DIR = (REPO_DIR / "../../Scaife/giuseppe" / "downloads/opera_graeca_adnotata_v0.2.0/workspace/conllu").resolve()
 GORMAN_DIR = (REPO_DIR / "../Greek-Dependency-Trees" / "xml versions").resolve()
+GLAUX_DIR = (REPO_DIR / "../glaux/xml").resolve()
 
 
 def get_tagging_pipeline_files(directory, work_ids):
@@ -73,12 +74,40 @@ def write_gorman_file(paths, work_id, group_id, group_label):
                         print(group_id, work_id, subdoc, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
 
 
+def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
+    makedirs(f"tagged-texts/{group_id}_{group_label}/{work_id}", exist_ok=True)
+    with open(f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.glaux.tsv", "w") as g:
+        root = etree.parse(path).getroot()
+        assert root.tag == "treebank", root.tag
+        for child in root:
+            assert child.tag in ["sentence"], child.tag
+            struct_id = child.attrib.get("struct_id")
+            document_id = child.attrib.get("document_id")
+            assert document_id == f"{group_id}-{work_id}", (document_id, group_id, work_id)
+            for gchild in child:
+                assert gchild.tag in ["word"], gchild.tag
+                word_id = gchild.attrib.get("id")
+                form = gchild.attrib.get("form")
+                ref = gchild.attrib.get("div_section")
+                lemma = gchild.attrib.get("lemma")
+                postag = gchild.attrib.get("postag")
+                head = gchild.attrib.get("head")
+                relation = gchild.attrib.get("relation")
+                # if re.match(r"\[\d\]", form):
+                #     continue
+                if ref_filter is None or ref_filter(ref):
+                    print(group_id, work_id, ref, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
+
+
 def process(shard, group_id, group_label, work_ids, ref_filter=None):
     for path, work_id in get_tagging_pipeline_files(f"tagging-shard-{shard}/tlg{group_id}", work_ids):
         write_tagged_file(path, work_id, group_id, group_label, ref_filter)
 
     for path, work_id in get_oga_files(f"tlg{group_id}", work_ids):
         write_oga_file(path, work_id, group_id, group_label)
+
+    for work_id in work_ids:
+        write_glaux_file(GLAUX_DIR / f"{group_id}-{work_id}.xml", work_id, group_id, group_label, ref_filter)
 
 
 process("07", "0059", "plato", [
