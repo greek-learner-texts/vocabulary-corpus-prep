@@ -6,6 +6,8 @@ import unicodedata
 
 
 def fold(w):
+    if w != "" and w[-1].isdigit():
+        w = w[:-1]
     return unicodedata.normalize("NFC",
         "".join(ch for ch in unicodedata.normalize("NFD", w.lower())
         if unicodedata.category(ch)[0] != "M")
@@ -43,20 +45,21 @@ if __name__ == "__main__":
     gorman = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv").readlines()
 
     with open("aligned-tagging/tlg0003.tlg001.aligned.tsv", "w") as g:
-        print("ref", "idx", "token", "oga_id", "glaux_id", "oga_postag", "glaux_postag", "gorman_postag", "oga_lemma", "glaux_lemma", "gorman_lemma", "mismatch_oga_gorman", "mismatch_glaux_gorman", sep="\t", file=g)
+        print(
+            "ref", "idx", "token",
+            "oga_id", "glaux_id",
+            "oga_postag", "glaux_postag", "gorman_postag",
+            "oga_lemma", "glaux_lemma", "gorman_lemma",
+            "mismatch_oga_gorman|mismatch_glaux_gorman|mismatch_oga_glaux",
+            sep="\t", file=g
+        )
 
         glaux_crasis = None
 
         for token_base, token_oga, token_glaux, token_gorman in zip_longest(base, oga, glaux, gorman):
-            if empty(token_base) or empty(token_oga):
+            if empty(token_base):
                 continue
-            # try:
-            #     e = norm(split(token_base)[2])
-            # except IndexError:
-            #     print(split(token_base)[0])
-            #     print(split(token_oga)[5])
-            #     print(split(token_gorman)[5])
-            #     quit()
+
             form_base = norm(split(token_base)[2])
 
             split_oga = split(token_oga)
@@ -96,10 +99,18 @@ if __name__ == "__main__":
                         debug_pair(form_base, form_glaux)
                         break
             
+                match_oga_glaux = ""
+
+                if postag_oga != postag_glaux or lemma_oga != lemma_glaux:
+                    pass  # match_oga_glaux = "."
+                if fold(lemma_oga) != fold(lemma_glaux):
+                    match_oga_glaux = "@"
+
             else:
                 postag_glaux = ""
                 lemma_glaux = ""
                 id_glaux = ""
+                match_oga_glaux = "m"
 
             if not empty(token_gorman):
 
@@ -107,6 +118,8 @@ if __name__ == "__main__":
                 form_gorman = norm(split_gorman[6])
                 postag_gorman = split_gorman[10]
                 lemma_gorman = split_gorman[12]
+                if lemma_gorman == "punc1":
+                    lemma_gorman = form_gorman
 
                 if form_gorman in ["-τε", "-δ’", "-δὲ", "-θ’", "-τ’", "-δέ"]:
                     form_gorman = form_gorman[1:]
@@ -121,31 +134,32 @@ if __name__ == "__main__":
 
                 match_oga_gorman = ""
 
-                if lemma_gorman != "punc1":
-                    if postag_oga != postag_gorman or lemma_oga != lemma_gorman:
-                        match_oga_gorman = "."
-                    if fold(lemma_oga) != fold(lemma_gorman):
-                        match_oga_gorman = "@"
+                if postag_oga != postag_gorman or lemma_oga != lemma_gorman:
+                    pass  # match_oga_gorman = "."
+                if fold(lemma_oga) != fold(lemma_gorman):
+                    match_oga_gorman = "@"
 
                 match_glaux_gorman = ""
 
                 if not empty(token_glaux):
-                    if lemma_gorman != "punc1":
-                        if postag_glaux != postag_gorman or lemma_glaux != lemma_gorman:
-                            match_glaux_gorman = "."
-                        if fold(lemma_glaux) != fold(lemma_gorman):
-                            match_glaux_gorman = "@"
+                    if postag_glaux != postag_gorman or lemma_glaux != lemma_gorman:
+                        pass  # match_glaux_gorman = "."
+                    if fold(lemma_glaux) != fold(lemma_gorman):
+                        match_glaux_gorman = "@"
+                else:
+                    match_glaux_forman = "m"
 
             else:
                 postag_gorman = ""
                 lemma_gorman = ""
-                match_oga_gorman = ""
-                match_glaux_gorman = ""
+                match_oga_gorman = "m"
+                match_glaux_gorman = "m"
 
             print(
                 token_base.strip(), id_oga, id_glaux,
                 postag_oga, postag_glaux, postag_gorman,
                 lemma_oga, lemma_glaux, lemma_gorman,
-                match_oga_gorman, match_glaux_gorman,
+                # match_oga_gorman + "|" + match_glaux_gorman + "|" + match_oga_glaux,
+                match_oga_glaux,
                 sep="\t", file=g
             )
