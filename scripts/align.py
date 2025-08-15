@@ -35,16 +35,16 @@ def empty(x):
     return x is None or x.strip() == ""
 
 
-if __name__ == "__main__":
+def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename):
 
     makedirs("aligned-tagging", exist_ok=True)
 
-    base = open("tokenized-texts/tlg0003.tlg001.tokens.tsv").readlines()
-    oga = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.oga.tsv").readlines()
-    glaux = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.glaux.tsv").readlines()
-    gorman = open("tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv").readlines()
+    base = open(base_path).readlines()
+    oga = open(oga_path).readlines()
+    glaux = open(glaux_path).readlines()
+    gorman = open(gorman_path).readlines()
 
-    with open("aligned-tagging/tlg0003.tlg001.aligned.tsv", "w") as g:
+    with open(f"aligned-tagging/{output_filename}", "w") as g:
         print(
             "ref", "idx", "token",
             "oga_id", "glaux_id",
@@ -147,7 +147,7 @@ if __name__ == "__main__":
                     if fold(lemma_glaux) != fold(lemma_gorman):
                         match_glaux_gorman = "@"
                 else:
-                    match_glaux_forman = "m"
+                    match_glaux_gorman = "m"
 
             else:
                 postag_gorman = ""
@@ -159,7 +159,15 @@ if __name__ == "__main__":
                 token_base.strip(), id_oga, id_glaux,
                 postag_oga, postag_glaux, postag_gorman,
                 lemma_oga, lemma_glaux, lemma_gorman,
-                # match_oga_gorman + "|" + match_glaux_gorman + "|" + match_oga_glaux,
-                match_oga_glaux,
+                match_oga_gorman + "|" + match_glaux_gorman + "|" + match_oga_glaux,
                 sep="\t", file=g
             )
+
+if __name__ == "__main__":
+    align_tagging(
+        "tokenized-texts/tlg0003.tlg001.tokens.tsv",
+        "tagged-texts/0003_thucydides/001/tlg0003.tlg001.oga.tsv",
+        "tagged-texts/0003_thucydides/001/tlg0003.tlg001.glaux.tsv",
+        "tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv",
+        "tlg0003.tlg001.aligned.tsv"
+    )
