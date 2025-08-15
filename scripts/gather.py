@@ -89,6 +89,8 @@ def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
                 word_id = gchild.attrib.get("id")
                 form = gchild.attrib.get("form")
                 ref = gchild.attrib.get("div_section")
+                if ref is None:
+                    ref = gchild.attrib.get("div_stephanus_section")
                 lemma = gchild.attrib.get("lemma")
                 postag = gchild.attrib.get("postag")
                 head = gchild.attrib.get("head")
@@ -122,9 +124,9 @@ def process(shard, group_id, group_label, work_ids, ref_filter=None):
         write_glaux_file(GLAUX_DIR / f"{group_id}-{work_id}.xml", work_id, group_id, group_label, ref_filter)
 
 
-# process("07", "0059", "plato", [
-#         "001", "002", "003", "011", "030"
-#     ])
+process("07", "0059", "plato", [
+        "001", "002", "003", "011", "030"
+    ])
 
 # work_ids = {"plato apology.xml": "002", "Plato_Crito_Travis_Kahl.xml": "003"}
 # for filename in work_ids.keys():
@@ -176,9 +178,9 @@ def process(shard, group_id, group_label, work_ids, ref_filter=None):
 # ], "006", "0032", "xenophon")
 
 
-process("06", "0003", "thucydides", [
-        "001"
-    ], lambda ref: ref[0] in ["1", "2", "3"])
+# process("06", "0003", "thucydides", [
+#         "001"
+#     ], lambda ref: ref[0] in ["1", "2", "3"])
 
 # write_gorman_file([
 #     GORMAN_DIR / "thuc 1 1-20 bu5.xml",
