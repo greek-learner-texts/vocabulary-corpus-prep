@@ -8,9 +8,8 @@ from lxml import etree  # type: ignore
 
 BASE_TEXTS_DIR = Path(__file__).parent.parent / "base-texts"
 
-path = BASE_TEXTS_DIR / "tlg0003" / "tlg0003.tlg001.perseus-grc2.base.tsv"
 
-def get_tokens():
+def get_tokens(path):
     for line in open(path):
         ref, text = line.strip().split("\t")
         text = re.sub(r'<bibl[^<]+</bibl>', '', text)
@@ -62,8 +61,13 @@ def get_tokens():
                 idx += 1
 
 
-makedirs("tokenized-texts")
-with open("tokenized-texts/tlg0003.tlg001.tokens.tsv", "w") as g:
-    for ref, idx, token in get_tokens():
-        print(ref, idx, token, sep="\t", file=g)
+def tokenize(input_path, output_filename):
+    makedirs("tokenized-texts", exist_ok=True)
+    with open(f"tokenized-texts/{output_filename}", "w") as g:
+        for ref, idx, token in get_tokens(input_path):
+            print(ref, idx, token, sep="\t", file=g)
 
+
+if __name__ == "__main__":
+    tokenize(BASE_TEXTS_DIR / "tlg0003" / "tlg0003.tlg001.perseus-grc2.base.tsv", "tlg0003.tlg001.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0032" / "tlg0032.tlg006.perseus-grc2.base.tsv", "tlg0032.tlg006.tokens.tsv")
