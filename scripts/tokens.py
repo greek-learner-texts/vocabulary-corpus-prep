@@ -116,4 +116,8 @@ if __name__ == "__main__":
     tokenize(BASE_TEXTS_DIR / "tlg0540" / "tlg0540.tlg032.perseus-grc2.base.tsv", "tlg0540.tlg032.tokens.tsv")
     tokenize(BASE_TEXTS_DIR / "tlg0540" / "tlg0540.tlg033.perseus-grc2.base.tsv", "tlg0540.tlg033.tokens.tsv")
 
-
+    tokenize(BASE_TEXTS_DIR / "tlg0059" / "tlg0059.tlg001.perseus-grc1.base.tsv", "tlg0059.tlg001.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0059" / "tlg0059.tlg002.perseus-grc2.base.tsv", "tlg0059.tlg002.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0059" / "tlg0059.tlg003.perseus-grc2.base.tsv", "tlg0059.tlg003.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0059" / "tlg0059.tlg011.perseus-grc2.base.tsv", "tlg0059.tlg011.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0059" / "tlg0059.tlg030.perseus-grc2.base.tsv", "tlg0059.tlg030.tokens.tsv")
