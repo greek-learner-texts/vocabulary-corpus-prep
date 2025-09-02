@@ -22,7 +22,7 @@ def norm(s):
 
 
 def split(s):
-    return s.strip().split("\t")
+    return s.rstrip("\n").split("\t")
 
 
 def debug_pair(a, b):
@@ -33,6 +33,9 @@ def debug_pair(a, b):
 
 def empty(x):
     return x is None or x.strip() == ""
+
+
+BREAK = False
 
 
 def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename):
@@ -77,7 +80,8 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                     print("[OGA]")
                     print(split(token_base)[0], split(token_base)[1], id_oga)
                     debug_pair(form_base, form_oga)
-                    break
+                    if BREAK:
+                        break
 
             if not empty(token_glaux):
                 split_glaux = split(token_glaux)
@@ -87,7 +91,8 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                 lemma_glaux = split_glaux[12]
 
                 if glaux_crasis:
-                    assert form_glaux.startswith(glaux_crasis), (form_glaux, glaux_crasis)
+                    if BREAK:
+                        assert form_glaux.startswith(glaux_crasis), (form_glaux, glaux_crasis)
                     form_glaux = form_glaux[len(glaux_crasis):]
                     glaux_crasis = None
 
@@ -104,8 +109,9 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                         print("[GLAUX]")
                         print(split(token_base)[0], split(token_base)[1], id_glaux)
                         debug_pair(form_base, form_glaux)
-                        break
-            
+                        if BREAK:
+                            break
+
                 match_oga_glaux = ""
 
                 if postag_oga != postag_glaux or lemma_oga != lemma_glaux:
@@ -138,7 +144,8 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                     print(split(token_base)[0], split(token_gorman)[2])
                     print(split(token_base)[1], split(token_gorman)[4])
                     debug_pair(form_base, form_gorman)
-                    break
+                    if BREAK:
+                        break
 
                 match_oga_gorman = ""
 
