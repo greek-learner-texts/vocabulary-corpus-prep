@@ -27,7 +27,7 @@ def split(s):
 
 def debug_pair(a, b):
     print(a, b, sep="\t")
-    for c, d in zip_longest(a, b):
+    for c, d in zip(a, b):
         print(hex(ord(c)), unicodedata.name(c), unicodedata.name(d) if d else "", sep="\t")
 
 
@@ -62,16 +62,18 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
 
             form_base = norm(split(token_base)[2])
 
-            split_oga = split(token_oga)
-            form_oga = norm(split_oga[6])
-            id_oga = split_oga[5]
-            postag_oga = split_oga[10]
-            lemma_oga = split_oga[12]
+            if not empty(token_oga):
+                split_oga = split(token_oga)
+                form_oga = norm(split_oga[6])
+                id_oga = split_oga[5]
+                postag_oga = split_oga[10]
+                lemma_oga = split_oga[12]
 
-            if form_base != form_oga:
-                print(id_oga)
-                debug_pair(form_base, form_oga)
-                break
+                if form_base != form_oga:
+                    print("[OGA]")
+                    print(split(token_base)[0], split(token_base)[1], id_oga)
+                    debug_pair(form_base, form_oga)
+                    break
 
             if not empty(token_glaux):
                 split_glaux = split(token_glaux)
@@ -95,7 +97,8 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                     if form_base == "·" and form_glaux == ",":
                         pass
                     else:
-                        print(id_glaux)
+                        print("[GLAUX]")
+                        print(split(token_base)[0], split(token_base)[1], id_glaux)
                         debug_pair(form_base, form_glaux)
                         break
             
@@ -127,6 +130,7 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                     form_gorman = form_gorman[:-1]
 
                 if form_base != form_gorman:
+                    print("[GORMAN]")
                     print(split(token_base)[0], split(token_gorman)[2])
                     print(split(token_base)[1], split(token_gorman)[4])
                     debug_pair(form_base, form_gorman)
@@ -170,4 +174,11 @@ if __name__ == "__main__":
         "tagged-texts/0003_thucydides/001/tlg0003.tlg001.glaux.tsv",
         "tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv",
         "tlg0003.tlg001.aligned.tsv"
+    )
+    align_tagging(
+        "tokenized-texts/tlg0032.tlg006.tokens.tsv",
+        "tagged-texts/0032_xenophon/006/tlg0032.tlg006.oga.tsv",
+        "tagged-texts/0032_xenophon/006/tlg0032.tlg006.glaux.tsv",
+        "tagged-texts/0032_xenophon/006/tlg0032.tlg006.gorman.tsv",
+        "tlg0032.tlg006.aligned.tsv"
     )

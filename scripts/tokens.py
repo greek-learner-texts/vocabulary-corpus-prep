@@ -16,7 +16,9 @@ def get_tokens(path):
         text = etree.fromstring(text)
         text = etree.tostring(text, encoding="unicode", method="text")
 
+        text = text.replace("οὔτʼ", "οὔτ’")
         text = text.replace("οὔτ᾽", "οὔτ’")
+        text = text.replace("οὐδʼ", "οὐδ’")
         text = text.replace("οὐδ᾽", "οὐδ’")
 
         text = re.sub(r" \]", r"]", text)
