@@ -42,7 +42,11 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
     base = open(base_path).readlines()
     oga = open(oga_path).readlines()
     glaux = open(glaux_path).readlines()
-    gorman = open(gorman_path).readlines()
+
+    if gorman_path is None:
+        gorman = []
+    else:
+        gorman = open(gorman_path).readlines()
 
     with open(f"aligned-tagging/{output_filename}", "w") as g:
         print(
@@ -167,18 +171,41 @@ def align_tagging(base_path, oga_path, glaux_path, gorman_path, output_filename)
                 sep="\t", file=g
             )
 
+
+def align(group_label, group_id, work_id, no_gorman=False):
+    align_tagging(
+        f"tokenized-texts/tlg{group_id}.tlg{work_id}.tokens.tsv",
+        f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.oga.tsv",
+        f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.glaux.tsv",
+        None if no_gorman else f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.gorman.tsv",
+        f"tlg{group_id}.tlg{work_id}.aligned.tsv"
+    )
+
+
 if __name__ == "__main__":
-    align_tagging(
-        "tokenized-texts/tlg0003.tlg001.tokens.tsv",
-        "tagged-texts/0003_thucydides/001/tlg0003.tlg001.oga.tsv",
-        "tagged-texts/0003_thucydides/001/tlg0003.tlg001.glaux.tsv",
-        "tagged-texts/0003_thucydides/001/tlg0003.tlg001.gorman.tsv",
-        "tlg0003.tlg001.aligned.tsv"
-    )
-    align_tagging(
-        "tokenized-texts/tlg0032.tlg006.tokens.tsv",
-        "tagged-texts/0032_xenophon/006/tlg0032.tlg006.oga.tsv",
-        "tagged-texts/0032_xenophon/006/tlg0032.tlg006.glaux.tsv",
-        "tagged-texts/0032_xenophon/006/tlg0032.tlg006.gorman.tsv",
-        "tlg0032.tlg006.aligned.tsv"
-    )
+
+    align("thucydides", "0003", "001")
+    align("xenophon", "0032", "006")
+
+    for work in ["007", "008", "009", "011", "019", "021"]:
+        align("isocrates", "0010", work, no_gorman=True)
+
+    for work in ["001", "018"]:
+        align("demosthenes", "0014", work)
+
+    for work in ["004", "005", "006", "020", "021"]:
+        align("demosthenes", "0014", work, no_gorman=True)
+
+    for work in ["002", "003"]:
+        align("plato", "0059", work)
+
+    for work in ["001", "011", "030"]:
+        align("plato", "0059", work, no_gorman=True)
+
+    for work in ["001", "012", "013", "014", "015", "019", "023"]:
+        align("lysias", "0540", work)
+
+    for work in ["002", "003", "004", "005", "006", "007", "008", "009",
+      "010", "016", "019", "023", 
+    ]:
+        align("lysias", "0540", work, no_gorman=True)
