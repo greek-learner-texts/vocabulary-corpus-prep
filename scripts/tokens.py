@@ -72,4 +72,12 @@ def tokenize(input_path, output_filename):
 
 if __name__ == "__main__":
     tokenize(BASE_TEXTS_DIR / "tlg0003" / "tlg0003.tlg001.perseus-grc2.base.tsv", "tlg0003.tlg001.tokens.tsv")
+
     tokenize(BASE_TEXTS_DIR / "tlg0032" / "tlg0032.tlg006.perseus-grc2.base.tsv", "tlg0032.tlg006.tokens.tsv")
+
+    tokenize(BASE_TEXTS_DIR / "tlg0010" / "tlg0010.tlg007.perseus-grc2.base.tsv", "tlg0010.tlg007.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0010" / "tlg0010.tlg008.perseus-grc2.base.tsv", "tlg0010.tlg008.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0010" / "tlg0010.tlg009.perseus-grc2.base.tsv", "tlg0010.tlg009.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0010" / "tlg0010.tlg011.perseus-grc2.base.tsv", "tlg0010.tlg011.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0010" / "tlg0010.tlg019.perseus-grc2.base.tsv", "tlg0010.tlg019.tokens.tsv")
+    tokenize(BASE_TEXTS_DIR / "tlg0010" / "tlg0010.tlg021.perseus-grc2.base.tsv", "tlg0010.tlg021.tokens.tsv")
