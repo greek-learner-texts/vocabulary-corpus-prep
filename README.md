@@ -4,12 +4,14 @@ Extraction and normalization of an (initially) Attic Prose tagged corpus for the
 
 - `tagged-texts/` contains the extracted files (with minor manual corrections)
 - `scripts/gather.py` did the initial extraction.
-- `counts.tsv` gives current token counts
-- `scripts/stats.py` produced those counts
+- `counts.tsv` gives current token counts.
+- `scripts/stats.py` produced those counts.
 - `base-texts/` contains the chunked base texts.
 - `scripts/extract_base.py` produced those chunked base texts.
 - `tokenized-texts/` contains tokenized base texts.
 - `scripts/tokens.py` produced those tokenized base texts.
+- `aligned-tagging/` contains initial alignment of different taggings of each text.
+- `scripts/align.py` produced those alignments,
 
 ## Works Included
 
