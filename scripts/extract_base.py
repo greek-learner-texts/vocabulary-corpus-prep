@@ -29,23 +29,37 @@ def write_base(text_group, text_id, version="perseus-grc2", refs_filter=None):
             "/tei:TEI/tei:text/tei:body//tei:p",
             namespaces={"tei": "http://www.tei-c.org/ns/1.0"},
         ):
-            # Remove editorial apparatus (<note>, <bibl>) before extracting text
-            # These contain scholar names and textual variants that pollute the base text
-            for tag_name in ["note", "bibl"]:
+            # Remove editorial apparatus before extracting text
+            # <note>, <bibl>: contain scholar names and textual variants
+            # <del>: editorial deletions (text the editor considers spurious)
+            for tag_name in ["note", "bibl", "del"]:
                 for elem in para.xpath(f".//tei:{tag_name}", namespaces={"tei": "http://www.tei-c.org/ns/1.0"}):
-                    # Preserve any tail text (text after the closing tag)
+                    # Preserve any tail text (text after the closing tag),
+                    # ensuring a space so words don't concatenate
                     if elem.tail:
+                        tail = " " + elem.tail.lstrip()
                         prev = elem.getprevious()
                         if prev is not None:
-                            prev.tail = (prev.tail or "") + elem.tail
+                            prev.tail = (prev.tail or "") + tail
                         else:
-                            elem.getparent().text = (elem.getparent().text or "") + elem.tail
+                            elem.getparent().text = (elem.getparent().text or "") + tail
                     elem.getparent().remove(elem)
+
+            # Ensure space at <l> (verse line) boundaries to prevent
+            # word concatenation when tags are stripped (e.g. κακοῖσι</l><l>συμμίσγῃς)
+            for elem in para.xpath(".//tei:l", namespaces={"tei": "http://www.tei-c.org/ns/1.0"}):
+                if elem.text and not elem.text.startswith(" "):
+                    elem.text = " " + elem.text
 
             xml_str = etree.tostring(
                 para, encoding="unicode", method="xml", exclusive=True
             ).strip()
             xml_str = re.sub(r'\s*xmlns[^=]*="[^"]*"', "", xml_str)
+            # Remove inline editorial sigla:
+            # [;word]; (variant notation) and [word] (editorial brackets)
+            xml_str = re.sub(r"\[;", "", xml_str)
+            xml_str = re.sub(r"\];", "", xml_str)
+            xml_str = re.sub(r"[\[\]]", "", xml_str)
             xml_str = re.sub(r"\s+", " ", xml_str)
             xml_str = re.sub(r"<p>\s+", "<p>", xml_str)
             xml_str = re.sub(r"\s+</p>", "</p>", xml_str)
