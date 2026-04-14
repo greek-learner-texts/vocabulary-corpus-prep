@@ -54,15 +54,18 @@ def write_base(text_group, text_id, version="perseus-grc2", refs_filter=None):
             xml_str = etree.tostring(
                 para, encoding="unicode", method="xml", exclusive=True
             ).strip()
-            xml_str = re.sub(r'\s*xmlns[^=]*="[^"]*"', "", xml_str)
+            xml_str = re.sub(r'\s+xmlns(?::\w+)?="[^"]*"', "", xml_str)
+            # Exclusive canonicalisation drops non-namespace attributes
+            # (like rend="indent") from tags into text content — strip them
+            xml_str = re.sub(r'\s*rend="[^"]*"', "", xml_str)
             # Remove inline editorial sigla:
             # [;word]; (variant notation) and [word] (editorial brackets)
             xml_str = re.sub(r"\[;", "", xml_str)
             xml_str = re.sub(r"\];", "", xml_str)
             xml_str = re.sub(r"[\[\]]", "", xml_str)
             xml_str = re.sub(r"\s+", " ", xml_str)
-            xml_str = re.sub(r"<p>\s+", "<p>", xml_str)
-            xml_str = re.sub(r"\s+</p>", "</p>", xml_str)
+            xml_str = re.sub(r"<p[^>]*>\s*", "<p>", xml_str)
+            xml_str = re.sub(r"\s*</p>", "</p>", xml_str)
             parent = para.getparent()
             refs = []
             while parent.tag == tei("div") and parent.attrib.get("type") == "textpart":
