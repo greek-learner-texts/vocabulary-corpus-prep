@@ -1,30 +1,23 @@
 # Greek Learner Texts Vocabulary Corpus Prep
 
-Extraction and normalization of an (initially) Attic Prose tagged corpus for the Greek Learner Texts Project.
+Extraction and normalization of a balanced Attic Prose tagged corpus for the Greek Learner Texts Project.
 
-- `tagged-texts/` contains the extracted files (with minor manual corrections)
-- `scripts/gather.py` did the initial extraction.
-- `counts.tsv` gives current token counts.
-- `scripts/stats.py` produced those counts.
-- `base-texts/` contains the chunked base texts.
-- `scripts/extract_base.py` produced those chunked base texts.
-- `tokenized-texts/` contains tokenized base texts.
-- `scripts/tokens.py` produced those tokenized base texts.
-- `aligned-tagging/` contains initial alignment of different taggings of each text.
-- `scripts/align.py` produced those alignments,
+See [CORPUS.md](CORPUS.md) for the definitive corpus composition (texts, genres, token counts).
 
-## Works Included
+## Directory Structure
 
-- Thucydides (`0003`) `001` (Books 1–3)
-- Isocrates (`0010`) `007 008 009 011 019 021`
-- Demosthenes (`0014`) `001 004 005 006 018 020 021`
-- Xenophon (`0032`) Anabasis (`006`)
-- Plato (`0059`) Euthyphro (`001`) Apology (`002`) Crito (`003`) Symposium (`011`) Republic (`030`)
-- Lysias (`0540`) `001 002 003 004 005 006 007 008 009 010 012 013 014 015 016 017 018 019 020 022 023 025 026 032 033`
+- `base-texts/` — chunked base texts extracted from Perseus TEI XML
+- `tokenized-texts/` — tokenized base texts
+- `tagged-texts/` — extracted taggings from multiple sources (with minor manual corrections)
+- `aligned-tagging/` — aligned taggings across sources for comparison
+- `counts.tsv` — token counts per work per source
+- `reports/` — greek-check validation reports (not committed)
 
-## Datasets Included
+## Scripts
 
-- https://github.com/OperaGraecaAdnotata/OGA
-- https://github.com/vgorman1/Greek-Dependency-Trees
-- https://github.com/scaife-viewer/tagging-pipeline
-- https://github.com/alekkeersmaekers/glaux
+- `scripts/extract_base.py` — extract base texts from Perseus canonical-greekLit
+- `scripts/tokens.py` — tokenize base texts (handles crasis, negation compounds, punctuation)
+- `scripts/gather.py` — extract tagged texts from OGA, Glaux, Gorman, and Tagging Pipeline
+- `scripts/align.py` — align tokenized base text with multiple taggings
+- `scripts/stats.py` — produce token counts
+- `scripts/check_texts.py` — run greek-check validation (levels 1–3) on all base texts
