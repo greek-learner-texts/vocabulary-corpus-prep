@@ -68,6 +68,13 @@ FIXES = [
         replacement="ᾄσαιμεν",
         description="Wrong breathing on ᾄδω optative: rough→smooth, accent missing (Xenophon Oec. 7.1)"
     ),
+
+    # plato-texts editorial markers
+    Fix(
+        pattern=r"\+",
+        replacement="",
+        description="Strip + editorial variant markers from plato-texts source"
+    ),
 ]
 
 
