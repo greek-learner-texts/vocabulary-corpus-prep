@@ -26,5 +26,7 @@ with open(REPO_DIR / "counts.tsv", "w") as counts_file:
                     gorman = len(tokens)
                 elif version == "glaux":
                     glaux = len(tokens)
-            print(f"{author_dir.name.split("_")[0]}\t{work_dir.name}\t{tagged}\t{oga}\t{gorman}\t{glaux}", file=counts_file)
-
+            print(
+                f"{author_dir.name.split('_')[0]}\t{work_dir.name}\t{tagged}\t{oga}\t{gorman}\t{glaux}",
+                file=counts_file,
+            )

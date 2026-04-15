@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
 
-from os import makedirs 
+from os import makedirs
 from pathlib import Path
 import re
 
-from lxml import etree # type: ignore
-
+from lxml import etree  # type: ignore
 
 
 REPO_DIR = Path(__file__).parent.parent
-TAGGING_PIPELINE_DATA_DIR = (REPO_DIR / "../../Scaife/tagging-pipeline" / "data").resolve()
-GRC_CONLLU_DIR = (REPO_DIR / "../../Scaife/giuseppe" / "downloads/opera_graeca_adnotata_v0.2.0/workspace/conllu").resolve()
+TAGGING_PIPELINE_DATA_DIR = (
+    REPO_DIR / "../../Scaife/tagging-pipeline" / "data"
+).resolve()
+GRC_CONLLU_DIR = (
+    REPO_DIR
+    / "../../Scaife/giuseppe"
+    / "downloads/opera_graeca_adnotata_v0.2.0/workspace/conllu"
+).resolve()
 GORMAN_DIR = (REPO_DIR / "../Greek-Dependency-Trees" / "xml versions").resolve()
 GLAUX_DIR = (REPO_DIR / "../glaux/xml").resolve()
 
@@ -24,11 +29,32 @@ def get_tagging_pipeline_files(directory, work_ids):
 
 def write_tagged_file(path, work_id, group_id, group_label, ref_filter=None):
     makedirs(f"tagged-texts/{group_id}_{group_label}/{work_id}", exist_ok=True)
-    with open(f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.tagged.tsv", "w") as g:
+    with open(
+        f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.tagged.tsv",
+        "w",
+    ) as g:
         for line in path.open():
-            ref, word_id, word, pos1, pos2, features, lemma, _, _ = line.strip().split("\t")
+            ref, word_id, word, pos1, pos2, features, lemma, _, _ = line.strip().split(
+                "\t"
+            )
             if ref_filter is None or ref_filter(ref):
-                print(group_id, work_id, ref, word_id, "-", "-", word, "-", pos1, pos2, "-", features, lemma, sep="\t", file=g)
+                print(
+                    group_id,
+                    work_id,
+                    ref,
+                    word_id,
+                    "-",
+                    "-",
+                    word,
+                    "-",
+                    pos1,
+                    pos2,
+                    "-",
+                    features,
+                    lemma,
+                    sep="\t",
+                    file=g,
+                )
 
 
 def get_oga_files(group_id, work_ids):
@@ -37,20 +63,45 @@ def get_oga_files(group_id, work_ids):
         for path in (GRC_CONLLU_DIR).glob(file_glob):
             yield path, work_id
 
+
 def write_oga_file(path, work_id, group_id, group_label):
     makedirs(f"tagged-texts/{group_id}_{group_label}/{work_id}", exist_ok=True)
-    with open(f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.oga.tsv", "w") as g:
+    with open(
+        f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.oga.tsv",
+        "w",
+    ) as g:
         for line in path.open():
             if line.strip():
-                word_id, word, lemma, pos, tag, features, head, deprel, _, token_id = line.strip().split("\t")
+                word_id, word, lemma, pos, tag, features, head, deprel, _, token_id = (
+                    line.strip().split("\t")
+                )
                 if re.match(r"\[\d\]", word):
                     continue
-                print(group_id, work_id, "-", "-", word_id, token_id, word, pos, "-", "-", tag, features, lemma, sep="\t", file=g)
+                print(
+                    group_id,
+                    work_id,
+                    "-",
+                    "-",
+                    word_id,
+                    token_id,
+                    word,
+                    pos,
+                    "-",
+                    "-",
+                    tag,
+                    features,
+                    lemma,
+                    sep="\t",
+                    file=g,
+                )
 
 
 def write_gorman_file(paths, work_id, group_id, group_label):
     makedirs(f"tagged-texts/{group_id}_{group_label}/{work_id}", exist_ok=True)
-    with open(f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.gorman.tsv", "w") as g:
+    with open(
+        f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.gorman.tsv",
+        "w",
+    ) as g:
         for path in paths:
             root = etree.parse(path).getroot()
             assert root.tag == "treebank", root.tag
@@ -71,19 +122,42 @@ def write_gorman_file(paths, work_id, group_id, group_label):
                             continue
                         if gchild.attrib.get("artificial"):
                             continue
-                        print(group_id, work_id, subdoc, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
+                        print(
+                            group_id,
+                            work_id,
+                            subdoc,
+                            "-",
+                            word_id,
+                            "-",
+                            form,
+                            "-",
+                            "-",
+                            "-",
+                            postag,
+                            "-",
+                            lemma,
+                            sep="\t",
+                            file=g,
+                        )
 
 
 def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
     makedirs(f"tagged-texts/{group_id}_{group_label}/{work_id}", exist_ok=True)
-    with open(f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.glaux.tsv", "w") as g:
+    with open(
+        f"tagged-texts/{group_id}_{group_label}/{work_id}/tlg{group_id}.tlg{work_id}.glaux.tsv",
+        "w",
+    ) as g:
         root = etree.parse(path).getroot()
         assert root.tag == "treebank", root.tag
         for child in root:
             assert child.tag in ["sentence"], child.tag
             struct_id = child.attrib.get("struct_id")
             document_id = child.attrib.get("document_id")
-            assert document_id == f"{group_id}-{work_id}", (document_id, group_id, work_id)
+            assert document_id == f"{group_id}-{work_id}", (
+                document_id,
+                group_id,
+                work_id,
+            )
             for gchild in child:
                 assert gchild.tag in ["word"], gchild.tag
                 word_id = gchild.attrib.get("id")
@@ -102,11 +176,27 @@ def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
                             print(file=g)
                     if form == "E":
                         continue
-                    if form == "\"":
+                    if form == '"':
                         print(file=g)
                         continue
 
-                    print(group_id, work_id, ref, "-", word_id, "-", form, "-", "-", "-", postag, "-", lemma, sep="\t", file=g)
+                    print(
+                        group_id,
+                        work_id,
+                        ref,
+                        "-",
+                        word_id,
+                        "-",
+                        form,
+                        "-",
+                        "-",
+                        "-",
+                        postag,
+                        "-",
+                        lemma,
+                        sep="\t",
+                        file=g,
+                    )
 
                     if form_original:
                         if form_original.endswith("]"):
@@ -114,19 +204,25 @@ def write_glaux_file(path, work_id, group_id, group_label, ref_filter=None):
 
 
 def process(shard, group_id, group_label, work_ids, ref_filter=None):
-    for path, work_id in get_tagging_pipeline_files(f"tagging-shard-{shard}/tlg{group_id}", work_ids):
+    for path, work_id in get_tagging_pipeline_files(
+        f"tagging-shard-{shard}/tlg{group_id}", work_ids
+    ):
         write_tagged_file(path, work_id, group_id, group_label, ref_filter)
 
     # for path, work_id in get_oga_files(f"tlg{group_id}", work_ids):
     #     write_oga_file(path, work_id, group_id, group_label)
 
     for work_id in work_ids:
-        write_glaux_file(GLAUX_DIR / f"{group_id}-{work_id}.xml", work_id, group_id, group_label, ref_filter)
+        write_glaux_file(
+            GLAUX_DIR / f"{group_id}-{work_id}.xml",
+            work_id,
+            group_id,
+            group_label,
+            ref_filter,
+        )
 
 
-process("07", "0059", "plato", [
-        "001", "002", "003", "011", "030"
-    ])
+process("07", "0059", "plato", ["001", "002", "003", "011", "030"])
 
 # work_ids = {"plato apology.xml": "002", "Plato_Crito_Travis_Kahl.xml": "003"}
 # for filename in work_ids.keys():
