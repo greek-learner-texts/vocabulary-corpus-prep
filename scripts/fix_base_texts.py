@@ -138,6 +138,13 @@ FIXES = [
         description="Grave on wrong syllable: διά (Lysias 4.5)"
     ),
 
+    # Iota adscript → subscript normalization
+    Fix(
+        pattern=r"ἦιμεν",
+        replacement="ᾖμεν",
+        description="Iota adscript → subscript: ἦιμεν → ᾖμεν (Plato Rep. 328b)"
+    ),
+
     # Smooshed words in plato-texts
     Fix(
         pattern=r"δἄν",
