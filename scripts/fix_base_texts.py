@@ -83,6 +83,11 @@ FIXES = [
         replacement="ᾄδομεν",
         description="Wrong breathing on ᾄδω 1pl (Plato Symp. 214b)"
     ),
+    Fix(
+        pattern=r"ἦπου",
+        replacement="ἦ που",
+        description="Smooshed words: ἦ που (Isocrates Areopag. 70)"
+    ),
 
     # plato-texts editorial markers
     Fix(
@@ -154,6 +159,24 @@ FIXES = [
         replacement="τί γὰρ δεῖ μακρολογεῖν;",
         description="Strip quotation marks used as quote delimiters (Isocrates Antid. 270)"
     ),
+
+    # Missing breathing in plato-texts Apology
+    Fix(
+        pattern=r"(?<=\. )ὴ(?= )",
+        replacement="ἢ",
+        description="Missing breathing: ὴ → ἢ (Plato Apol. 28d)"
+    ),
+    Fix(
+        pattern=r"(?<=; )τ τί",
+        replacement="τί τί",
+        description="Corrupt token: bare τ → τί (Plato Apol. 36b)"
+    ),
+    Fix(
+        pattern=r"(?<= )ῷ ὄντι",
+        replacement="ᾧ ὄντι",
+        description="Missing breathing: ῷ → ᾧ (Plato Apol. 36c)"
+    ),
+
 
     # Smooshed words in plato-texts
     Fix(
