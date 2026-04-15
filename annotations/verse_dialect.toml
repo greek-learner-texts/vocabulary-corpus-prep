@@ -3,117 +3,292 @@
 # These sections contain material that is NOT Attic prose:
 # - verse: quoted poetry (Homer, Hesiod, tragedy, etc.)
 # - dialect: non-Attic dialect passages (Doric, Ionic, etc.)
+# - oracle: oracular pronouncements (often hexameter)
+# - inscription: inscribed texts (may be verse or dialect)
+# - document: formal documents (decrees, treaties, letters)
 #
 # Used by:
 # - greek-check: skip accentuation rules that assume Attic prose
 # - lemmatisation: tag tokens with register context
 # - vocabulary analysis: distinguish Attic prose vocabulary from verse/dialect
 #
-# Auto-seeded by find_verse.py, then manually reviewed and extended.
+# Sources: structural markers ({quote}, <l>, <quote type="verse">),
+# cross-referenced with scholarly editions and secondary literature.
 
-# === Thucydides ===
+# ============================================================
+# THUCYDIDES — Books 1–5
+# ============================================================
 
-[tlg0003.tlg001.perseus-grc2]
-# Doric dialect passages (treaties, inscriptions)
+["tlg0003.tlg001.perseus-grc2"]
+
 dialect = [
-    "5.77",   # Spartan-Argive treaty (Doric)
-    "5.79",   # Spartan-Argive treaty (Doric)
-]
-# Verse quotations
-verse = [
-    "1.9.4",    # Agamemnon (quoted verse)
-    "1.132.2",  # Oracle at Delphi
-    "2.54.2",   # Oracle verse (plague)
-    "3.104.4",  # Homeric Hymn to Apollo
-    "3.104.5",  # Homeric Hymn to Apollo
+    "5.77",   # Spartan-Argive treaty proposal (full Doric: καττάδε, τᾷ, ποττὼς, αἰ δέ κα)
+    "5.79",   # Spartan-Argive alliance (full Doric: τᾶν πολίων, ἅντινα, τὼς δὲ ἔτας)
 ]
 
-# === Demosthenes ===
-
-[tlg0014.tlg018.perseus-grc2]
 verse = [
-    "267",   # verse quotation
-    "289",   # verse quotation (epigram)
+    "1.9.4",    # Homer, Iliad 2.108: πολλῇσι νήσοισι καὶ Ἄργεϊ παντὶ ἀνάσσειν
+    "1.132.2",  # Pausanias inscription (elegiac couplet): Ἑλλήνων ἀρχηγὸς ἐπεὶ στρατὸν ὤλεσε Μήδων
 ]
 
-[tlg0014.tlg021.perseus-grc2]
-verse = [
-    "52",    # verse quotation
+oracle = [
+    "2.54.2",   # Plague oracle (hexameter): ἥξει Δωριακὸς πόλεμος καὶ λοιμὸς ἅμ' αὐτῷ
+    "3.104.4",  # Homeric Hymn to Apollo: ἀλλ' ὅτε Δήλῳ, Φοῖβε, μάλιστά γε θυμὸν ἐτέρφθης
+    "3.104.5",  # Homeric Hymn to Apollo: blind man of Chios passage (8 lines)
 ]
 
-# === Xenophon ===
+# Note: 5.18 (Peace of Nicias) is formal treaty language but in Attic, not tagged
 
-[tlg0032.tlg002.perseus-grc2]
+# ============================================================
+# DEMOSTHENES
+# ============================================================
+
+["tlg0014.tlg018.perseus-grc2"]
+# On the Crown — verse quotations and documentary insertions
+
 verse = [
-    "1.2.20",  # verse quotation
-    "1.2.56",  # Hesiod/Theognis
-    "1.2.57",  # verse
-    "1.2.58",  # verse
-    "1.3.3",   # verse
-    "2.6.11",  # verse
-    "2.6.33",  # verse
-    "4.3.34",  # verse
+    "267",   # Tragic verse (Aeschylus?): ἥκω νεκρῶν κευθμῶνα καὶ σκότου πύλας
+    "289",   # Public epitaph for war dead (10-line elegiac epigram): οἵδε πάτρας ἕνεκα σφετέρας
 ]
 
-[tlg0032.tlg004.perseus-grc2]
-verse = [
-    "2.4",    # Theognis quotation
-    "4.6",    # verse
-    "4.45",   # verse (Homer)
-    "8.30",   # verse
+dialect = [
+    "90",    # Byzantine decree honouring Athens (Doric: δᾶμος, βωλᾶ, Ἀθαναίων)
+    "91",    # Byzantine decree continued
 ]
 
-# === Plato ===
+# Documentary insertions (decrees, letters — formal register, still Attic)
+# Not tagged as dialect/verse but noted for register awareness:
+# 29, 37-38, 39, 73-75, 77-78, 84, 92, 105-106, 115-116, 118, 120,
+# 137, 154-155, 157, 164-165, 166-167, 181-187
 
-[tlg0059.tlg001.plato-texts]
-verse = [
-    "12a",   # verse
-    "12b",   # verse
+["tlg0014.tlg021.perseus-grc2"]
+# Against Meidias
+
+oracle = [
+    "52",    # Oracle from Dodona (dactylic hexameter): αὐδῶ Ἐρεχθείδῃσιν, ὅσοι Πανδίονος ἄστυ ναίετε
 ]
 
-[tlg0059.tlg003.plato-texts]
+# ============================================================
+# LYSIAS
+# ============================================================
+
+# No verse quotations or dialect passages identified.
+# All 8 speeches are pure Attic prose.
+
+# ============================================================
+# ISOCRATES
+# ============================================================
+
+# No verse quotations identified.
+# References to Homer/poets are prose paraphrases, not direct quotation.
+
+# ============================================================
+# XENOPHON — Memorabilia
+# ============================================================
+
+["tlg0032.tlg002.perseus-grc2"]
+
 verse = [
-    "44b",   # verse
+    "1.2.20",  # Theognis 35-36 (elegiac): ἐσθλῶν μὲν γὰρ ἀπ' ἐσθλὰ διδάξεαι
+    #            Also Homer: αὐτὰρ ἀνὴρ ἀγαθὸς τοτὲ μὲν κακός
+    "1.2.56",  # Hesiod, Works and Days 311: ἔργον δ' οὐδὲν ὄνειδος, ἀεργίη δέ τ' ὄνειδος
+    "1.2.57",  # Hesiod, Works and Days (further quotation)
+    "1.2.58",  # Homer, Iliad 2.188-197 (9 lines, Odysseus at assembly)
+    "1.3.3",   # Homer: καδδύναμιν δ' ἔρδειν ἱέρ' ἀθανάτοισι θεοῖσι
+    "2.1.20",  # Hesiod, Works and Days 287-292 (6 lines, path of virtue)
+    #            Also Epicharmus: τῶν πόνων πωλοῦσιν ἡμῖν πάντα τἀγάθ' οἱ θεοί
+    #            Also Epicharmus: ὦ πονηρέ, μὴ τὰ μαλακὰ μῶσο
+    "2.6.11",  # Homer, Odyssey 12.184 (Sirens): δεῦρ' ἄγε δή, πολύαιν' Ὀδυσεῦ
+    "2.6.33",  # Verse quotation
+    "3.2.2",   # Homer, Iliad 3.179: ἀμφότερον, βασιλεύς τ' ἀγαθὸς κρατερός τ' αἰχμητής
+    "4.3.34",  # Verse quotation
 ]
 
-[tlg0059.tlg011.plato-texts]
+# ============================================================
+# XENOPHON — Symposium
+# ============================================================
+
+# [tlg0032.tlg003.perseus-grc2"]
+# No marked verse quotations. Homer mentioned at 3.9 but prose paraphrase.
+
+# ============================================================
+# XENOPHON — Oeconomicus
+# ============================================================
+
+["tlg0032.tlg004.perseus-grc2"]
+
 verse = [
-    "174b", "174c",           # verse quotations
-    "178b", "179b",           # verse
-    "195d", "196a", "196d",   # verse
-    "196e", "197a", "197b",   # verse
-    "197c", "197e",           # verse
-    "209d", "209e",           # verse
-    "215c", "215e",           # verse
-    "218d",                   # verse
+    "2.4",    # Theognis 35-36 (elegiac): ἐσθλῶν μὲν γὰρ ἀπ' ἐσθλὰ διδάξεαι
+    "4.6",    # Homer, Iliad 5.244-246 (Nestor's chariot advice, 3 lines)
+    "4.45",   # Homer, Iliad 9.122-123 (prizes for Achilles): ἕπτ' ἀπύρους τρίποδα
+    "8.30",   # Homer (etymology of Ganymede): γάνυται δέ τ' ἀκούων
 ]
 
-# Republic has extensive verse quotations (57 sections)
-# These are seeded from {quote} markers in plato-texts
-[tlg0059.tlg030.plato-texts]
+# ============================================================
+# XENOPHON — Apology
+# ============================================================
+
+# [tlg0032.tlg005.perseus-grc2"]
+# Not yet in corpus (file not extracted)
+
+# ============================================================
+# XENOPHON — Anabasis
+# ============================================================
+
+# [tlg0032.tlg006.perseus-grc2"]
+# No verse quotations identified. Pure military narrative prose.
+
+# ============================================================
+# PLATO — Euthyphro
+# ============================================================
+
+["tlg0059.tlg001.plato-texts"]
+
 verse = [
-    "328e", "331a", "334b",
-    "362a", "362b", "362c", "363b", "363c",
-    "364c", "364d", "364e", "365a",
-    "368a",
-    "379d", "381d",
-    "386c", "386d", "387a", "387b", "388a", "388b", "388c", "388d",
-    "389e", "390a", "390b", "390c", "390d", "390e",
-    "391a", "391b", "391c", "391d", "391e",
-    "393a", "393b",
-    "396e",
-    "404b", "404c",
-    "405c",
-    "411a",
-    "441b",
-    "457b",
-    "468d", "468e",
-    "516c",
-    "538d",
-    "549e", "550a",
-    "563c",
-    "568a", "568b", "568c",
-    "586c",
-    "607a", "607b",
-    "612b",
+    "12a",   # Hesiodic: Ζῆνα δὲ τὸν θ' ἔρξαντα...ἵνα γὰρ δέος ἔνθα καὶ αἰδώς
+    "12b",   # Continuation
+]
+
+# ============================================================
+# PLATO — Apology
+# ============================================================
+
+# [tlg0059.tlg002.plato-texts"]
+# Homeric allusion at 28c-d (Achilles' choice) but prose paraphrase, not direct verse.
+
+# ============================================================
+# PLATO — Phaedo
+# ============================================================
+
+["tlg0059.tlg003.plato-texts"]
+
+verse = [
+    "44b",   # Homer, Iliad 9.363: ἤματί κεν τριτάτῳ Φθίην ἐρίβωλον ἵκοιο
+]
+
+# ============================================================
+# PLATO — Symposium
+# ============================================================
+
+["tlg0059.tlg011.plato-texts"]
+
+verse = [
+    # Phaedrus's speech
+    "174a",           # Homer parody: Ἀγάθων' ἐπὶ δαῖτας ἴασιν αὐτόματοι ἀγαθοί
+    #                   Also Homer, Iliad 17.590: μαλθακὸν αἰχμητήν
+    "174b", "174c",   # Verse quotations (continuation)
+    "178b",           # Hesiod, Theogony 116-120: Γαῖ' εὐρύστερνος...ἠδ' Ἔρος
+    #                   Also Parmenides fr. 13: πρώτιστον μὲν ἔρωτα θεῶν μητίσατο πάντων
+    "179b",           # Homer: μένος ἐμπνεῦσαι
+
+    # Agathon's speech (highly poetic, verse parody)
+    "195c", "195d",   # Homer, Iliad 19.92-93 (Ate): τῆς μένθ' ἁπαλοὶ πόδες
+    "196a", "196d",   # Homer, Iliad 5.385: οὐδ' Ἄρης ἀνθίσταται
+    "196e",           # Traditional: κἂν ἄμουσος ᾖ τὸ πρίν
+    "197a", "197b",   # Homeric formula: Ζεὺς κυβερνᾶν θεῶν τε καὶ ἀνθρώπων
+    "197c", "197e",   # Poetic composition: εἰρήνην μὲν ἐν ἀνθρώποις, πελάγει δὲ γαλήνην
+
+    # Diotima's speech
+    "209d", "209e",   # Verse allusion
+
+    # Alcibiades' speech
+    "215c", "215e",   # Verse quotation
+    "218d",           # Verse quotation
+    "221b",           # Homer, Iliad 17.366: βρενθυόμενος καὶ τὠφθαλμὼ παραβάλλων
+]
+
+# ============================================================
+# PLATO — Republic (Books 1–10)
+# ============================================================
+
+# The Republic quotes more poetry than any other Plato dialogue,
+# concentrated in Books 2–3 (critique of poetry for education)
+# and Book 10 (critique of mimesis).
+
+["tlg0059.tlg030.plato-texts"]
+
+verse = [
+    # Book 1
+    "328e",           # Poets on old age (general)
+    "331a",           # Pindar: γλυκεῖά οἱ καρδίαν ἀτάλλοισα γηροτρόφος (Doric forms!)
+    "334b",           # Homer, Odyssey 19.392: Autolycus (κεκάσθαι κλεπτοσύνῃ)
+
+    # Book 2 — dense poetry discussion
+    "362a",           # Aeschylus: βαθεῖαν ἄλοκα διὰ φρενὸς καρπούμενον
+    "362b",           # Aeschylus: ἐξ ἧς τὰ κεδνὰ βλαστάνει βουλεύματα
+    "362c",           # Continuation
+    "363b",           # Hesiod, Works and Days: βαλάνους...μελίσσας
+    "363c",           # Hesiod, Works and Days 232-234: πυροὺς καὶ κριθάς
+    "364c", "364d",   # Hesiod, Works and Days 287-292: τὴν μὲν κακότητα...ῥηιδίως
+    "364e",           # Homer, Iliad 9.497-501: λιστοὶ δέ τε καὶ θεοὶ αὐτοί
+    "365a",           # Continuation (Musaeus, Orphic verses)
+    "365b",           # Pindar fr. 61(?): πότερον δίκᾳ τεῖχος ὕψιον (Doric!)
+    "365e",           # Homer, Iliad 9.502-503
+    "368a",           # Elegiac: παῖδες Ἀρίστωνος, κλεινοῦ θεῖον γένος ἀνδρός
+
+    # Book 3 — poetry in education (heaviest quotation)
+    "379d",           # Homer, Iliad 24.527-530: δοιοί τε πίθοι (two jars of Zeus)
+    "380a",           # Aeschylus: θεὸς μὲν αἰτίαν φύει βροτοῖς
+    "381d",           # Homer, Odyssey 17.485-486: θεοὶ ξείνοισιν ἐοικότες
+    "383b",           # Sophocles(?): tragic verse
+    "386c",           # Homer, Odyssey 11.489-491: βουλοίμην κ' ἐπάρουρος (Achilles in Hades)
+    "386d",           # Homer, Iliad 20.64-65: οἰκία θνητοῖσι...σμερδαλέα
+    #                   Homer, Odyssey 10.495: εἰν Ἀΐδαο δόμοισιν
+    #                   Homer, Iliad 16.856-857: ψυχὴ δ' ἐκ ῥεθέων...Ἄϊδόσδε
+    "387a",           # Homer, Iliad 23.100: ψυχὴ δὲ κατὰ χθονός, ἠΰτε καπνός
+    #                   Homer, Odyssey 24.6-9: ὡς δ' ὅτε νυκτερίδες (bats simile)
+    "387b",           # Continuation
+    "388a", "388b",   # Homer, Iliad 24.3-12 (Achilles lamenting); 22.414-415 (Priam)
+    "388c",           # Homer, Iliad 18.54/6.430 (Thetis); 22.168-169 (Zeus on Hector)
+    "388d",           # Homer, Iliad 16.433-435 (Zeus on Sarpedon)
+    "389a",           # Homer, Iliad 1.599-600 (gods laughing)
+    "389d",           # Homer, Odyssey 17.383 (craftsmen)
+    "389e",           # Homer, Iliad 4.412 (τέττα, σιωπῇ ἧσο); 3.8 (μένεα πνείοντες)
+    "390a",           # Homer, Iliad 1.225 (οἰνοβαρές, κυνὸς ὄμματ')
+    "390b",           # Homer, Odyssey 9.8-10 (tables); 12.342 (death by hunger)
+    "390c",           # Homer, Iliad 14.296 (Zeus and Hera)
+    "390d",           # Homer, Odyssey 20.17-18 (στῆθος δὲ πλήξας, τέτλαθι δή κραδίη)
+    "390e",           # Proverb: δῶρα θεοὺς πείθει
+    "391a",           # Homer, Iliad 22.15-20 (Achilles to Apollo)
+    "391b",           # Homer, Iliad 23.151 (Achilles' hair)
+    "391c", "391d",   # Continuation
+    "391e",           # Homer, Iliad 20.231-235 (those near to gods)
+    "393a", "393b",   # Homer, Iliad 1.15-16 (Chryses/plague — narration vs mimesis example)
+    "396e",           # Verse
+    "397b",           # Verse (musical modes)
+    "400c",           # Verse (rhythm)
+    "404b", "404c",   # Homer (Homeric feasting)
+    "405c",           # Verse
+    "408a",           # Homer, Iliad 4.218-219 (Machaon healing Menelaus)
+    "411a",           # Verse
+
+    # Book 4
+    "424b",           # Unknown poet: ἀοιδὴν μᾶλλον ἐπιφρονέουσ' ἄνθρωποι
+    "441b",           # Homer, Odyssey 20.17 (repeat of στῆθος δὲ πλήξας)
+
+    # Book 5
+    "457b",           # Proverbial verse
+    "466c",           # Hesiod, Works and Days 40: πλέον ἥμισυ παντός (half > whole)
+    "468d", "468e",   # Homer, Iliad 7.89-91/23.739-741; 7.321 (heroic honours)
+    "469a",           # Hesiod, Works and Days 122-123 (daemons as guardians)
+
+    # Book 7
+    "516c",           # Homer, Odyssey 11.489-491 (repeat of βουλοίμην κ' ἐπάρουρος)
+
+    # Book 8
+    "538d",           # Verse
+    "545e",           # Homer (Muses invocation): ὅπως δὴ πρῶτον στάσις ἔμπεσε
+    "547a",           # Hesiod adaptation: ταύτης τοι γενεῆς
+    "549e", "550a",   # Aeschylus (Seven against Thebes?)
+    "563c",           # Verse
+
+    # Book 9
+    "566c",           # Oracle: πολυψήφιδα παρ' Ἕρμον
+    "568a", "568b", "568c",  # Euripides: tyranny/wisdom quotations
+    "586c",           # Verse
+
+    # Book 10
+    "607a", "607b",   # Multiple poets: λακέρυζα πρὸς δεσπόταν κύων; μέγας ἐν ἀφρόνων; τῶν διασόφων ὄχλος
+    "612b",           # Verse
+    "616c",           # Eschatological passage (cosmological)
 ]
