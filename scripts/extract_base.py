@@ -94,7 +94,7 @@ for work in ["tlg001", "tlg004", "tlg005", "tlg006", "tlg018", "tlg020", "tlg021
 write_base("tlg0032", "tlg006")
 
 # Xenophon Socratic works
-for work in ["tlg002", "tlg003", "tlg004", "tlg014"]:
+for work in ["tlg002", "tlg003", "tlg004", "tlg005"]:
     write_base("tlg0032", work)
 
 # All Plato works sourced from plato-texts (higher quality than Perseus)
