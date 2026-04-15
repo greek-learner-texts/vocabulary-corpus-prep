@@ -3,3 +3,4 @@ fix-logs/
 .letta/
 .DS_Store
 sample_*.tsv
+__pycache__/
