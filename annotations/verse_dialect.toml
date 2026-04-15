@@ -150,6 +150,7 @@ verse = [
 # ============================================================
 
 ["tlg0059.tlg001.plato-texts"]
+emdash_pause = true
 
 verse = [
     "12a",   # Hesiodic: Ζῆνα δὲ τὸν θ' ἔρξαντα...ἵνα γὰρ δέος ἔνθα καὶ αἰδώς
@@ -160,7 +161,8 @@ verse = [
 # PLATO — Apology
 # ============================================================
 
-# [tlg0059.tlg002.plato-texts"]
+["tlg0059.tlg002.plato-texts"]
+emdash_pause = true
 # Homeric allusion at 28c-d (Achilles' choice) but prose paraphrase, not direct verse.
 
 # ============================================================
@@ -168,6 +170,7 @@ verse = [
 # ============================================================
 
 ["tlg0059.tlg003.plato-texts"]
+emdash_pause = true
 
 verse = [
     "44b",   # Homer, Iliad 9.363: ἤματί κεν τριτάτῳ Φθίην ἐρίβωλον ἵκοιο
@@ -178,6 +181,7 @@ verse = [
 # ============================================================
 
 ["tlg0059.tlg011.plato-texts"]
+emdash_pause = true
 
 verse = [
     # Phaedrus's speech
@@ -213,6 +217,9 @@ verse = [
 # and Book 10 (critique of mimesis).
 
 ["tlg0059.tlg030.plato-texts"]
+
+# plato-texts uses em dashes for clause breaks / interruptions
+emdash_pause = true
 
 verse = [
     # Book 1
