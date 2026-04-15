@@ -63,6 +63,12 @@ def write_base(text_group, text_id, version="perseus-grc2", refs_filter=None):
             xml_str = re.sub(r"\[;", "", xml_str)
             xml_str = re.sub(r"\];", "", xml_str)
             xml_str = re.sub(r"[\[\]]", "", xml_str)
+            # Normalize all apostrophe variants to U+2019 (RIGHT SINGLE QUOTATION MARK)
+            xml_str = xml_str.replace("\u02BC", "\u2019")  # MODIFIER LETTER APOSTROPHE
+            xml_str = xml_str.replace("\u02BD", "\u2019")  # MODIFIER LETTER REVERSED COMMA
+            xml_str = xml_str.replace("\u1FBD", "\u2019")  # GREEK KORONIS
+            xml_str = xml_str.replace("\u2018", "\u2019")  # LEFT SINGLE QUOTATION MARK
+            xml_str = xml_str.replace("\u0027", "\u2019")  # ASCII APOSTROPHE
             xml_str = re.sub(r"\s+", " ", xml_str)
             xml_str = re.sub(r"<p[^>]*>\s*", "<p>", xml_str)
             xml_str = re.sub(r"\s*</p>", "</p>", xml_str)

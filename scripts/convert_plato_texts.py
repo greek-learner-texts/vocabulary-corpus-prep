@@ -68,9 +68,12 @@ def convert(input_path: Path, output_path: Path) -> None:
 
 
 def clean_text(text: str) -> str:
-    """Strip editorial markup from text."""
+    """Strip editorial markup from text and normalize apostrophes."""
     # Remove {del}...{/del}, {q}, {/q} and other editorial tags
     text = re.sub(r"\{/?(?:del|q|add)\}", "", text)
+    # Normalize all apostrophe variants to U+2019 (RIGHT SINGLE QUOTATION MARK)
+    for apos in ("\u02BC", "\u02BD", "\u1FBD", "\u2018", "\u0027"):
+        text = text.replace(apos, "\u2019")
     # Collapse whitespace
     text = re.sub(r"\s+", " ", text).strip()
     return text

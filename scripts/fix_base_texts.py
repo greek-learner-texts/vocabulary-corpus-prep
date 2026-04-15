@@ -62,11 +62,26 @@ FIXES = [
         description="Missing accent on φημί 2pl enclitic φατέ (Xenophon Oec. 4.10)"
     ),
 
-    # Encoding errors in Perseus source
+    # ᾄδω breathing errors in plato-texts (rough→smooth on all forms)
     Fix(
         pattern=r"ᾁσαιμεν",
         replacement="ᾄσαιμεν",
-        description="Wrong breathing on ᾄδω optative: rough→smooth, accent missing (Xenophon Oec. 7.1)"
+        description="Wrong breathing on ᾄδω optative (Xenophon Oec. 7.1)"
+    ),
+    Fix(
+        pattern=r"ᾁσαντας",
+        replacement="ᾄσαντας",
+        description="Wrong breathing on ᾄδω aorist participle (Plato Symp. 176a)"
+    ),
+    Fix(
+        pattern=r"ᾁδειν",
+        replacement="ᾄδειν",
+        description="Wrong breathing on ᾄδω infinitive (Plato Symp. 181a)"
+    ),
+    Fix(
+        pattern=r"ᾁδομεν",
+        replacement="ᾄδομεν",
+        description="Wrong breathing on ᾄδω 1pl (Plato Symp. 214b)"
     ),
 
     # plato-texts editorial markers
@@ -75,7 +90,87 @@ FIXES = [
         replacement="",
         description="Strip + editorial variant markers from plato-texts source"
     ),
+    Fix(
+        pattern=r"\{p\} ?",
+        replacement="",
+        description="Strip {p} paragraph markers from plato-texts source"
+    ),
+    Fix(
+        pattern=r"\{/?quote\} ?",
+        replacement="",
+        description="Strip {quote}/{/quote} verse markers from plato-texts source"
+    ),
+
+    # Grave-on-wrong-syllable errors in Perseus (encoding corruption)
+    Fix(
+        pattern=r"βαρβὰρους",
+        replacement="βαρβάρους",
+        description="Grave on wrong syllable: βαρβάρους (Isocrates Evag. 67)"
+    ),
+    Fix(
+        pattern=r"ἳνα",
+        replacement="ἵνα",
+        description="Grave on wrong syllable: ἵνα (Isocrates Busiris 159)"
+    ),
+    Fix(
+        pattern=r"τοὺτους",
+        replacement="τούτους",
+        description="Grave on wrong syllable: τούτους (Isocrates Areopag. 49)"
+    ),
+    Fix(
+        pattern=r"οὐδὲνα",
+        replacement="οὐδένα",
+        description="Grave on wrong syllable: οὐδένα (Isocrates Areopag. 262)"
+    ),
+    Fix(
+        pattern=r"παιδεὶας",
+        replacement="παιδείας",
+        description="Grave on wrong syllable: παιδείας (Isocrates Antidosis 19)"
+    ),
+    Fix(
+        pattern=r"ἀντιλὲγειν",
+        replacement="ἀντιλέγειν",
+        description="Grave on wrong syllable: ἀντιλέγειν (Isocrates Antidosis 108)"
+    ),
+    Fix(
+        pattern=r"δὶα",
+        replacement="διὰ",
+        description="Grave on wrong syllable: διά (Lysias 4.5)"
+    ),
+
+    # Smooshed words in plato-texts
+    Fix(
+        pattern=r"δἄν",
+        replacement="δ\u2019 ἄν",
+        description="Missing elision/space: δ' ἄν (Plato Symp. 199b)"
+    ),
+
+    # Wrong-accent source errors in Perseus
+    Fix(
+        pattern=r"Λακεδαιμονίῶν",
+        replacement="Λακεδαιμονίων",
+        description="Spurious circumflex: Λακεδαιμονίων (Isocrates Antid. 68)"
+    ),
+    Fix(
+        pattern=r"πάντῶν",
+        replacement="πάντων",
+        description="Spurious circumflex: πάντων (Lysias 18.17)"
+    ),
+    Fix(
+        pattern=r"τούτῷ",
+        replacement="τούτῳ",
+        description="Spurious circumflex: τούτῳ (Lysias 4.20)"
+    ),
 ]
+
+
+_APOSTROPHE_MAP = str.maketrans({
+    "\u02BC": "\u2019",  # MODIFIER LETTER APOSTROPHE
+    "\u02BD": "\u2019",  # MODIFIER LETTER REVERSED COMMA
+    "\u1FBD": "\u2019",  # GREEK KORONIS
+    "\u2018": "\u2019",  # LEFT SINGLE QUOTATION MARK
+    "\u0027": "\u2019",  # ASCII APOSTROPHE
+})
 
 
 def fix_base_text(text: str) -> tuple[str, list[str]]:
@@ -84,7 +179,12 @@ def fix_base_text(text: str) -> tuple[str, list[str]]:
     Returns: (fixed_text, list of fix descriptions applied)
     """
     changes = []
-    fixed = text
+
+    # Normalize apostrophes to U+2019
+    fixed = text.translate(_APOSTROPHE_MAP)
+    if fixed != text:
+        n = sum(1 for a, b in zip(text, fixed) if a != b)
+        changes.append(f"{n}× apostrophe normalized to U+2019")
 
     for fix in FIXES:
         if re.search(fix.pattern, fixed):
