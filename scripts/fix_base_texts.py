@@ -144,6 +144,16 @@ FIXES = [
         replacement="ᾖμεν",
         description="Iota adscript → subscript: ἦιμεν → ᾖμεν (Plato Rep. 328b)"
     ),
+    Fix(
+        pattern=r"λόγουσ\b",
+        replacement="λόγους",
+        description="Medial sigma in final position: λόγουσ → λόγους (Isocrates Antid. 215)"
+    ),
+    Fix(
+        pattern=r"\u2019τί γὰρ δεῖ μακρολογεῖν;\u2019",
+        replacement="τί γὰρ δεῖ μακρολογεῖν;",
+        description="Strip quotation marks used as quote delimiters (Isocrates Antid. 270)"
+    ),
 
     # Smooshed words in plato-texts
     Fix(
