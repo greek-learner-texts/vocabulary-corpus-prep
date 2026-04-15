@@ -1,0 +1,119 @@
+# Verse quotations and dialect passages in the Attic Prose Corpus
+#
+# These sections contain material that is NOT Attic prose:
+# - verse: quoted poetry (Homer, Hesiod, tragedy, etc.)
+# - dialect: non-Attic dialect passages (Doric, Ionic, etc.)
+#
+# Used by:
+# - greek-check: skip accentuation rules that assume Attic prose
+# - lemmatisation: tag tokens with register context
+# - vocabulary analysis: distinguish Attic prose vocabulary from verse/dialect
+#
+# Auto-seeded by find_verse.py, then manually reviewed and extended.
+
+# === Thucydides ===
+
+[tlg0003.tlg001.perseus-grc2]
+# Doric dialect passages (treaties, inscriptions)
+dialect = [
+    "5.77",   # Spartan-Argive treaty (Doric)
+    "5.79",   # Spartan-Argive treaty (Doric)
+]
+# Verse quotations
+verse = [
+    "1.9.4",    # Agamemnon (quoted verse)
+    "1.132.2",  # Oracle at Delphi
+    "2.54.2",   # Oracle verse (plague)
+    "3.104.4",  # Homeric Hymn to Apollo
+    "3.104.5",  # Homeric Hymn to Apollo
+]
+
+# === Demosthenes ===
+
+[tlg0014.tlg018.perseus-grc2]
+verse = [
+    "267",   # verse quotation
+    "289",   # verse quotation (epigram)
+]
+
+[tlg0014.tlg021.perseus-grc2]
+verse = [
+    "52",    # verse quotation
+]
+
+# === Xenophon ===
+
+[tlg0032.tlg002.perseus-grc2]
+verse = [
+    "1.2.20",  # verse quotation
+    "1.2.56",  # Hesiod/Theognis
+    "1.2.57",  # verse
+    "1.2.58",  # verse
+    "1.3.3",   # verse
+    "2.6.11",  # verse
+    "2.6.33",  # verse
+    "4.3.34",  # verse
+]
+
+[tlg0032.tlg004.perseus-grc2]
+verse = [
+    "2.4",    # Theognis quotation
+    "4.6",    # verse
+    "4.45",   # verse (Homer)
+    "8.30",   # verse
+]
+
+# === Plato ===
+
+[tlg0059.tlg001.plato-texts]
+verse = [
+    "12a",   # verse
+    "12b",   # verse
+]
+
+[tlg0059.tlg003.plato-texts]
+verse = [
+    "44b",   # verse
+]
+
+[tlg0059.tlg011.plato-texts]
+verse = [
+    "174b", "174c",           # verse quotations
+    "178b", "179b",           # verse
+    "195d", "196a", "196d",   # verse
+    "196e", "197a", "197b",   # verse
+    "197c", "197e",           # verse
+    "209d", "209e",           # verse
+    "215c", "215e",           # verse
+    "218d",                   # verse
+]
+
+# Republic has extensive verse quotations (57 sections)
+# These are seeded from {quote} markers in plato-texts
+[tlg0059.tlg030.plato-texts]
+verse = [
+    "328e", "331a", "334b",
+    "362a", "362b", "362c", "363b", "363c",
+    "364c", "364d", "364e", "365a",
+    "368a",
+    "379d", "381d",
+    "386c", "386d", "387a", "387b", "388a", "388b", "388c", "388d",
+    "389e", "390a", "390b", "390c", "390d", "390e",
+    "391a", "391b", "391c", "391d", "391e",
+    "393a", "393b",
+    "396e",
+    "404b", "404c",
+    "405c",
+    "411a",
+    "441b",
+    "457b",
+    "468d", "468e",
+    "516c",
+    "538d",
+    "549e", "550a",
+    "563c",
+    "568a", "568b", "568c",
+    "586c",
+    "607a", "607b",
+    "612b",
+]
