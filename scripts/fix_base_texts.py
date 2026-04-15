@@ -168,8 +168,8 @@ _APOSTROPHE_MAP = str.maketrans({
     "\u02BC": "\u2019",  # MODIFIER LETTER APOSTROPHE
     "\u02BD": "\u2019",  # MODIFIER LETTER REVERSED COMMA
     "\u1FBD": "\u2019",  # GREEK KORONIS
-    "\u2018": "\u2019",  # LEFT SINGLE QUOTATION MARK
     "\u0027": "\u2019",  # ASCII APOSTROPHE
+    "\u2018": None,       # LEFT SINGLE QUOTATION MARK — strip (not elision)
 })
 
 
