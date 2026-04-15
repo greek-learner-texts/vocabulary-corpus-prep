@@ -21,12 +21,12 @@
 
 ["tlg0003.tlg001.perseus-grc2"]
 
-# Thucydides uses parentheses for editorial asides mid-clause:
+# Thucydides uses parentheses for editorial asides:
 # (ἦν γὰρ νύξ), (μεῖζον γὰρ ἐγένετο...) etc.
-# The clause continues after the parenthetical, so:
-# - ( is NOT a pause (grave correct before it)
-# - ) IS a pause (acute correct at end of parenthetical)
-paren_pause = "close"
+# Both ( and ) act as clause boundaries:
+# - word before ( keeps acute (clause ends before parenthetical)
+# - word before ) keeps acute (parenthetical clause ends)
+paren_pause = "both"
 
 dialect = [
     "5.77",   # Spartan-Argive treaty proposal (full Doric: καττάδε, τᾷ, ποττὼς, αἰ δέ κα)
