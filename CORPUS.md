@@ -16,14 +16,18 @@ A balanced corpus of Attic prose for vocabulary learning, organised by genre.
 | Symposium | `urn:cts:greekLit:tlg0059.tlg011` | 17,496 |
 | Republic | `urn:cts:greekLit:tlg0059.tlg030` | 88,611 |
 
-#### Xenophon (Socratic works) — ~73,000 tokens
+#### Xenophon (Socratic works + On Hunting) — ~73,000 tokens
 
 | Work | CTS URN | Tokens |
 |------|---------|--------|
 | Memorabilia | `urn:cts:greekLit:tlg0032.tlg002` | ~36,000 |
-| Symposium | `urn:cts:greekLit:tlg0032.tlg003` | ~18,000 |
-| Oeconomicus | `urn:cts:greekLit:tlg0032.tlg004` | ~10,000 |
-| Apology | `urn:cts:greekLit:tlg0032.tlg014` | ~9,000 |
+| Oeconomicus | `urn:cts:greekLit:tlg0032.tlg003` | ~10,000 |
+| Symposium | `urn:cts:greekLit:tlg0032.tlg004` | ~18,000 |
+| On Hunting (Cynegeticus) | `urn:cts:greekLit:tlg0032.tlg014` | ~9,000 |
+
+> **Note**: The corpus currently includes On Hunting (`tlg014`) rather than the
+> Apology (`tlg005`). The original design intended the Apology. TODO: decide
+> whether to swap in the Apology.
 
 ### Oration — ~171,000 tokens
 
