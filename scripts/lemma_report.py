@@ -246,6 +246,7 @@ a:hover {{ text-decoration: underline; }}
 <strong>{total_agree:,}</strong> agree ({total_agree/total_tokens*100:.1f}%) ·
 <strong>{total_disagree:,}</strong> disagree ·
 <strong>{total_unmatched:,}</strong> unmatched ({total_unmatched/total_tokens*100:.1f}%)
+<br><a href="mismatches/index.html">View disagreements by type →</a>
 </div>
 <table>
 <tr><th>Work</th><th>Author</th><th class="num">Tokens</th><th>Coverage</th><th class="num">Disagree</th><th class="num">Unmatched</th></tr>
@@ -275,6 +276,123 @@ a:hover {{ text-decoration: underline; }}
         f.write("</table>\n</body></html>\n")
 
 
+def generate_mismatch_index(all_mismatches: list[dict]) -> None:
+    """Generate mismatch type index and per-type pages."""
+    from collections import defaultdict
+
+    # Group by (oga_lemma, glaux_lemma)
+    by_type: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for m in all_mismatches:
+        key = (m["oga_lemma"], m["glaux_lemma"])
+        by_type[key].append(m)
+
+    # Sort by frequency
+    sorted_types = sorted(by_type.items(), key=lambda x: -len(x[1]))
+
+    MISMATCH_DIR = REPORT_DIR / "mismatches"
+    MISMATCH_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Index page
+    with open(MISMATCH_DIR / "index.html", "w") as f:
+        f.write(f"""<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<title>Lemma Mismatches — By Type</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+body {{ max-width: 900px; margin: 2rem auto; font-family: 'Noto Sans', sans-serif;
+    font-size: 15px; line-height: 1.6; color: #222; background: #fafafa; }}
+h1 {{ font-size: 1.4rem; color: #333; border-bottom: 2px solid #333; padding-bottom: 0.5rem; }}
+.nav {{ font-size: 0.9rem; margin-bottom: 1rem; }}
+table {{ border-collapse: collapse; width: 100%; }}
+th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px; border-bottom: 2px solid #ddd; }}
+td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
+tr:hover {{ background: #fff8e1; }}
+.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
+a {{ color: #1565c0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+@media (prefers-color-scheme: dark) {{
+    body {{ color: #ddd; background: #1a1a1a; }}
+    h1 {{ color: #eee; border-bottom-color: #555; }}
+    th {{ background: #2a2a2a; border-bottom-color: #444; }}
+    td {{ border-bottom-color: #333; }}
+    tr:hover {{ background: #2a2510; }}
+    a {{ color: #7bb8e0; }}
+}}
+</style>
+</head><body>
+<h1>Lemma Mismatches — By Type</h1>
+<div class="nav"><a href="../lemma/index.html">← Lemma Index</a></div>
+<p><strong>{len(sorted_types):,}</strong> mismatch types, <strong>{len(all_mismatches):,}</strong> total tokens</p>
+<table>
+<tr><th class="num">Count</th><th>OGA lemma</th><th>Glaux lemma</th><th>Sample forms</th></tr>
+""")
+        for i, ((oga, glaux), instances) in enumerate(sorted_types):
+            slug = f"m{i:04d}"
+            forms = sorted(set(m["form"] for m in instances))[:5]
+            form_str = ", ".join(forms)
+            f.write(
+                f'<tr>'
+                f'<td class="num"><a href="{slug}.html">{len(instances)}</a></td>'
+                f'<td>{html.escape(oga)}</td>'
+                f'<td>{html.escape(glaux)}</td>'
+                f'<td style="font-size:0.85rem;color:#777">{html.escape(form_str)}</td>'
+                f'</tr>\n'
+            )
+        f.write("</table>\n</body></html>\n")
+
+    # Per-type pages
+    for i, ((oga, glaux), instances) in enumerate(sorted_types):
+        slug = f"m{i:04d}"
+        with open(MISMATCH_DIR / f"{slug}.html", "w") as f:
+            f.write(f"""<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<title>{html.escape(oga)} vs {html.escape(glaux)}</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+body {{ max-width: 900px; margin: 2rem auto; font-family: 'Noto Sans', sans-serif;
+    font-size: 15px; line-height: 1.6; color: #222; background: #fafafa; }}
+h1 {{ font-size: 1.3rem; color: #333; }}
+.nav {{ font-size: 0.9rem; margin-bottom: 1rem; }}
+table {{ border-collapse: collapse; width: 100%; }}
+th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px; border-bottom: 2px solid #ddd; }}
+td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
+.form {{ font-weight: 600; }}
+.ref {{ color: #999; font-size: 0.85rem; }}
+a {{ color: #1565c0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+@media (prefers-color-scheme: dark) {{
+    body {{ color: #ddd; background: #1a1a1a; }}
+    h1 {{ color: #eee; }}
+    th {{ background: #2a2a2a; border-bottom-color: #444; }}
+    td {{ border-bottom-color: #333; }}
+    .ref {{ color: #777; }}
+    a {{ color: #7bb8e0; }}
+}}
+</style>
+</head><body>
+<h1>OGA: <em>{html.escape(oga)}</em> vs Glaux: <em>{html.escape(glaux)}</em></h1>
+<div class="nav"><a href="index.html">← Mismatch Index</a></div>
+<p><strong>{len(instances)}</strong> occurrences</p>
+<table>
+<tr><th>Work</th><th>Section</th><th>Form</th><th>OGA POS</th><th>Glaux POS</th></tr>
+""")
+            for m in instances:
+                f.write(
+                    f'<tr>'
+                    f'<td><a href="../lemma/{m["work_id"]}.html">{html.escape(m["work_id"])}</a></td>'
+                    f'<td class="ref">{html.escape(m["section"])}</td>'
+                    f'<td class="form">{html.escape(m["form"])}</td>'
+                    f'<td>{html.escape(m["oga_postag"])}</td>'
+                    f'<td>{html.escape(m["glaux_postag"])}</td>'
+                    f'</tr>\n'
+                )
+            f.write("</table>\n</body></html>\n")
+
+    print(f"  Generated {len(sorted_types)} mismatch type pages")
+
+
 def main():
     # Load work metadata
     works = []
@@ -291,6 +409,7 @@ def main():
 
     work_ids = [w["work_id"] for w in works]
     work_stats = []
+    all_mismatches = []
 
     for i, w in enumerate(works):
         prev_id = work_ids[i - 1] if i > 0 else None
@@ -299,12 +418,26 @@ def main():
 
         generate_report(w["work_id"], full_title, prev_id=prev_id, next_id=next_id)
 
-        # Collect stats for index
+        # Collect stats and mismatches
+        data = load_work(w["work_id"])
         lemmas = open(ONE_DIR / w["work_id"] / "lemma.tsv").readlines()[1:]
         total = len(lemmas)
         disagree = sum(1 for l in lemmas if "DISAGREE" in l)
         unmatched = sum(1 for l in lemmas if l.rstrip("\n").split("\t")[-1] == "unmatched")
         agree = total - disagree - unmatched - sum(1 for l in lemmas if "only" in l.split("\t")[-1])
+
+        # Collect disagreements for mismatch pages
+        for entry in data["lemmas"]:
+            if entry["notes"] == "DISAGREE":
+                all_mismatches.append({
+                    "work_id": w["work_id"],
+                    "form": entry["form"],
+                    "section": entry["section"],
+                    "oga_lemma": entry["oga_lemma"],
+                    "glaux_lemma": entry["glaux_lemma"],
+                    "oga_postag": entry["oga_postag"],
+                    "glaux_postag": entry["glaux_postag"],
+                })
 
         work_stats.append({
             "work_id": w["work_id"],
@@ -317,7 +450,8 @@ def main():
         })
 
     generate_index(work_stats)
-    print(f"Generated {len(works)} reports + index in {REPORT_DIR}/")
+    generate_mismatch_index(all_mismatches)
+    print(f"Generated {len(works)} reports + index + {len(all_mismatches):,} mismatches in {REPORT_DIR}/")
 
 
 if __name__ == "__main__":
