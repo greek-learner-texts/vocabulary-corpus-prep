@@ -240,7 +240,9 @@ def generate_index(work_stats: list[dict]) -> None:
     total_tokens = sum(s["total"] for s in work_stats)
     total_agree = sum(s["agree"] for s in work_stats)
     total_disagree = sum(s["disagree"] for s in work_stats)
+    total_single = sum(s["single"] for s in work_stats)
     total_unmatched = sum(s["unmatched"] for s in work_stats)
+    total_lemmatised = total_agree + total_disagree + total_single
 
     with open(out_path, "w") as f:
         f.write(f"""<!DOCTYPE html>
@@ -280,9 +282,12 @@ a:hover {{ text-decoration: underline; }}
 <h1>Lemma Alignment — Index</h1>
 <div class="totals">
 <strong>{total_tokens:,}</strong> tokens ·
-<strong>{total_agree:,}</strong> agree ({total_agree/total_tokens*100:.1f}%) ·
-<strong>{total_disagree:,}</strong> disagree ·
+<strong>{total_lemmatised:,}</strong> lemmatised ({total_lemmatised/total_tokens*100:.1f}%) ·
 <strong>{total_unmatched:,}</strong> unmatched ({total_unmatched/total_tokens*100:.1f}%)
+<br>
+Of the lemmatised: <strong>{total_agree:,}</strong> both sources agree ·
+<strong>{total_disagree:,}</strong> disagree ·
+<strong>{total_single:,}</strong> one source only
 <br><a href="mismatches/index.html">View disagreements by type →</a>
 </div>
 <table>
