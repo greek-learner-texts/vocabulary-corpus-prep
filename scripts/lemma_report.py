@@ -57,7 +57,7 @@ def load_work(work_id: str) -> dict:
     return {"tokens": tokens, "lemmas": lemmas}
 
 
-def generate_report(work_id: str, work_title: str) -> None:
+def generate_report(work_id: str, work_title: str, *, prev_id: str | None = None, next_id: str | None = None) -> None:
     """Generate an HTML discrepancy report."""
     data = load_work(work_id)
     lemmas = data["lemmas"]
@@ -175,22 +175,140 @@ table.disc tr:hover {{ background: #fff8e1; }}
                 f.write(f'<tr><td colspan="2">... and {len(unmatched)-100} more</td></tr>\n')
             f.write("</table>\n")
 
+        # Navigation
+        f.write('<div style="margin-top:2rem;padding-top:1rem;border-top:1px solid #ddd;font-size:0.9rem;">')
+        f.write('<a href="index.html">← Index</a>')
+        if prev_id:
+            f.write(f' · <a href="{prev_id}.html">← Prev</a>')
+        if next_id:
+            f.write(f' · <a href="{next_id}.html">Next →</a>')
+        f.write('</div>\n')
+
         f.write("</body></html>\n")
 
 
+def generate_index(work_stats: list[dict]) -> None:
+    """Generate index.html with summary table."""
+    REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = REPORT_DIR / "index.html"
+
+    total_tokens = sum(s["total"] for s in work_stats)
+    total_agree = sum(s["agree"] for s in work_stats)
+    total_disagree = sum(s["disagree"] for s in work_stats)
+    total_unmatched = sum(s["unmatched"] for s in work_stats)
+
+    with open(out_path, "w") as f:
+        f.write(f"""<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<title>Lemma Alignment — Index</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+body {{ max-width: 1100px; margin: 2rem auto; font-family: 'Noto Sans', sans-serif;
+    font-size: 15px; line-height: 1.6; color: #222; background: #fafafa; }}
+h1 {{ font-size: 1.4rem; color: #333; border-bottom: 2px solid #333; padding-bottom: 0.5rem; }}
+.totals {{ background: #fff; border: 1px solid #ddd; padding: 1rem 1.5rem; border-radius: 4px; margin-bottom: 2rem; }}
+table {{ border-collapse: collapse; width: 100%; }}
+th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px; border-bottom: 2px solid #ddd; }}
+td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
+tr:hover {{ background: #fff8e1; }}
+.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
+.pct {{ text-align: right; color: #888; font-size: 0.85rem; }}
+.bar {{ display: inline-block; height: 12px; border-radius: 2px; }}
+.bar-agree {{ background: #4caf50; }}
+.bar-disagree {{ background: #e64a19; }}
+.bar-unmatched {{ background: #bbb; }}
+a {{ color: #1565c0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+@media (prefers-color-scheme: dark) {{
+    body {{ color: #ddd; background: #1a1a1a; }}
+    h1 {{ color: #eee; border-bottom-color: #555; }}
+    .totals {{ background: #252525; border-color: #444; }}
+    th {{ background: #2a2a2a; border-bottom-color: #444; }}
+    td {{ border-bottom-color: #333; }}
+    tr:hover {{ background: #2a2510; }}
+    a {{ color: #7bb8e0; }}
+}}
+</style>
+</head><body>
+<h1>Lemma Alignment — Index</h1>
+<div class="totals">
+<strong>{total_tokens:,}</strong> tokens ·
+<strong>{total_agree:,}</strong> agree ({total_agree/total_tokens*100:.1f}%) ·
+<strong>{total_disagree:,}</strong> disagree ·
+<strong>{total_unmatched:,}</strong> unmatched ({total_unmatched/total_tokens*100:.1f}%)
+</div>
+<table>
+<tr><th>Work</th><th>Author</th><th class="num">Tokens</th><th>Coverage</th><th class="num">Disagree</th><th class="num">Unmatched</th></tr>
+""")
+
+        for s in work_stats:
+            bar_w = 120
+            agree_w = int(s["agree"] / s["total"] * bar_w) if s["total"] else 0
+            disagree_w = int(s["disagree"] / s["total"] * bar_w) if s["total"] else 0
+            unmatched_w = bar_w - agree_w - disagree_w
+
+            f.write(
+                f'<tr>'
+                f'<td><a href="{s["work_id"]}.html">{html.escape(s["title"])}</a></td>'
+                f'<td>{html.escape(s["author"])}</td>'
+                f'<td class="num">{s["total"]:,}</td>'
+                f'<td>'
+                f'<span class="bar bar-agree" style="width:{agree_w}px"></span>'
+                f'<span class="bar bar-disagree" style="width:{disagree_w}px"></span>'
+                f'<span class="bar bar-unmatched" style="width:{unmatched_w}px"></span>'
+                f'</td>'
+                f'<td class="num">{s["disagree"]:,}</td>'
+                f'<td class="num">{s["unmatched"]:,}</td>'
+                f'</tr>\n'
+            )
+
+        f.write("</table>\n</body></html>\n")
+
+
 def main():
-    # Load work titles
-    titles = {}
+    # Load work metadata
+    works = []
     for line in open(ONE_DIR / "works.tsv"):
         if line.startswith("work_id\t"):
             continue
         parts = line.rstrip("\n").split("\t")
-        titles[parts[0]] = f"{parts[1]}, {parts[2]}"
+        works.append({
+            "work_id": parts[0],
+            "author": parts[1],
+            "title": parts[2],
+            "genre": parts[3] if len(parts) > 3 else "",
+        })
 
-    for work_id, title in sorted(titles.items()):
-        generate_report(work_id, title)
+    work_ids = [w["work_id"] for w in works]
+    work_stats = []
 
-    print(f"Generated {len(titles)} reports in {REPORT_DIR}/")
+    for i, w in enumerate(works):
+        prev_id = work_ids[i - 1] if i > 0 else None
+        next_id = work_ids[i + 1] if i < len(works) - 1 else None
+        full_title = f"{w['author']}, {w['title']}"
+
+        generate_report(w["work_id"], full_title, prev_id=prev_id, next_id=next_id)
+
+        # Collect stats for index
+        lemmas = open(ONE_DIR / w["work_id"] / "lemma.tsv").readlines()[1:]
+        total = len(lemmas)
+        disagree = sum(1 for l in lemmas if "DISAGREE" in l)
+        unmatched = sum(1 for l in lemmas if l.rstrip("\n").split("\t")[-1] == "unmatched")
+        agree = total - disagree - unmatched - sum(1 for l in lemmas if "only" in l.split("\t")[-1])
+
+        work_stats.append({
+            "work_id": w["work_id"],
+            "author": w["author"],
+            "title": w["title"],
+            "total": total,
+            "agree": agree,
+            "disagree": disagree,
+            "unmatched": unmatched,
+        })
+
+    generate_index(work_stats)
+    print(f"Generated {len(works)} reports + index in {REPORT_DIR}/")
 
 
 if __name__ == "__main__":
