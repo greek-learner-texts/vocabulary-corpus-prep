@@ -57,12 +57,14 @@ def load_work(work_id: str) -> dict:
     return {"tokens": tokens, "lemmas": lemmas}
 
 
-def generate_report(work_id: str, work_title: str, *, prev_id: str | None = None, next_id: str | None = None, type_slugs: dict | None = None) -> None:
+def generate_report(work_id: str, work_title: str, *, prev_id: str | None = None, next_id: str | None = None, type_slugs: dict | None = None, type_corpus_counts: dict | None = None) -> None:
     """Generate an HTML discrepancy report."""
     data = load_work(work_id)
     lemmas = data["lemmas"]
     if type_slugs is None:
         type_slugs = {}
+    if type_corpus_counts is None:
+        type_corpus_counts = {}
 
     total = len(lemmas)
     disagree = [l for l in lemmas if l["notes"] == "DISAGREE"]
@@ -159,13 +161,23 @@ a:hover {{ text-decoration: underline; }}
 
         # Disagreements table
         if disagree:
+            # Count per-work occurrences of each type
+            work_type_counts = Counter()
+            for d in disagree:
+                work_type_counts[(d["oga_lemma"], d["glaux_lemma"])] += 1
+
             f.write(f"<h2>Disagreements ({len(disagree):,} tokens, {n_types} types)</h2>\n")
             f.write('<table class="disc">\n')
             f.write("<tr><th>Ref</th><th>Form</th><th>OGA lemma</th><th>OGA POS</th><th>Glaux lemma</th><th>Glaux POS</th><th></th></tr>\n")
             for d in disagree:
                 key = (d["oga_lemma"], d["glaux_lemma"])
                 slug = type_slugs.get(key, "")
-                link_cell = f'<a href="mismatches/{slug}.html">all</a>' if slug else ""
+                wc = work_type_counts[key]
+                cc = type_corpus_counts.get(key, 0)
+                if slug:
+                    link_cell = f'<a href="mismatches/{slug}.html">all</a> <span class="ref">({wc} here, {cc} corpus)</span>'
+                else:
+                    link_cell = ""
                 section_id = html.escape(d["section"])
                 f.write(
                     f'<tr id="{section_id}">'
@@ -452,8 +464,10 @@ def main():
         next_id = work_ids[i + 1] if i < len(works) - 1 else None
         full_title = f"{w['author']}, {w['title']}"
 
+        type_corpus_counts = {key: len(vals) for key, vals in by_type.items()}
         generate_report(w["work_id"], full_title,
-                        prev_id=prev_id, next_id=next_id, type_slugs=type_slugs)
+                        prev_id=prev_id, next_id=next_id,
+                        type_slugs=type_slugs, type_corpus_counts=type_corpus_counts)
 
         # Collect stats for index
         lemmas = open(ONE_DIR / w["work_id"] / "lemma.tsv").readlines()[1:]
