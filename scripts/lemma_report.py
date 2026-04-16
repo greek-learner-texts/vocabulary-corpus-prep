@@ -103,6 +103,9 @@ table.disc tr:hover {{ background: #fff8e1; }}
 .form {{ font-weight: 600; }}
 .ref {{ color: #999; font-size: 0.85rem; }}
 .mismatch {{ color: #e64a19; font-weight: 600; }}
+a {{ color: #1565c0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+.nav {{ font-size: 0.9rem; margin-bottom: 1rem; }}
 @media (prefers-color-scheme: dark) {{
     body {{ color: #ddd; background: #1a1a1a; }}
     h1 {{ color: #eee; border-bottom-color: #555; }}
@@ -112,11 +115,21 @@ table.disc tr:hover {{ background: #fff8e1; }}
     table.disc td {{ border-bottom-color: #333; }}
     table.disc tr:hover {{ background: #2a2510; }}
     .ref {{ color: #777; }}
+    a {{ color: #7bb8e0; }}
 }}
 </style>
 </head><body>
 <h1>{html.escape(work_title)} — Lemma Report</h1>
 """)
+
+        # Top navigation
+        nav = '<div class="nav"><a href="index.html">← Index</a>'
+        if prev_id:
+            nav += f' · <a href="{prev_id}.html">← Prev</a>'
+        if next_id:
+            nav += f' · <a href="{next_id}.html">Next →</a>'
+        nav += '</div>\n'
+        f.write(nav)
 
         # Summary bar
         w = 600
@@ -175,13 +188,9 @@ table.disc tr:hover {{ background: #fff8e1; }}
                 f.write(f'<tr><td colspan="2">... and {len(unmatched)-100} more</td></tr>\n')
             f.write("</table>\n")
 
-        # Navigation
-        f.write('<div style="margin-top:2rem;padding-top:1rem;border-top:1px solid #ddd;font-size:0.9rem;">')
-        f.write('<a href="index.html">← Index</a>')
-        if prev_id:
-            f.write(f' · <a href="{prev_id}.html">← Prev</a>')
-        if next_id:
-            f.write(f' · <a href="{next_id}.html">Next →</a>')
+        # Bottom navigation
+        f.write('<div class="nav" style="margin-top:2rem;padding-top:1rem;border-top:1px solid #ddd;">')
+        f.write(nav.replace('<div class="nav">', '').replace('</div>', ''))
         f.write('</div>\n')
 
         f.write("</body></html>\n")
