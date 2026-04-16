@@ -11,6 +11,23 @@ from pathlib import Path
 from collections import Counter
 
 REPO_DIR = Path(__file__).parent.parent
+
+
+def highlight_pos_diff(pos_a: str, pos_b: str) -> tuple[str, str]:
+    """Return HTML for two POS tags with differing positions wrapped in <span class="pos-differ">."""
+    if pos_a == pos_b or not pos_a or not pos_b:
+        return html.escape(pos_a), html.escape(pos_b)
+
+    out_a = []
+    out_b = []
+    for ca, cb in zip(pos_a.ljust(len(pos_b), "-"), pos_b.ljust(len(pos_a), "-")):
+        if ca == cb:
+            out_a.append(html.escape(ca))
+            out_b.append(html.escape(cb))
+        else:
+            out_a.append(f'<span class="pos-differ">{html.escape(ca)}</span>')
+            out_b.append(f'<span class="pos-differ">{html.escape(cb)}</span>')
+    return "".join(out_a), "".join(out_b)
 ONE_DIR = REPO_DIR / "one"
 REPORT_DIR = REPO_DIR / "reports" / "lemma"
 
@@ -181,16 +198,15 @@ a:hover {{ text-decoration: underline; }}
                 else:
                     link_cell = ""
                 section_id = html.escape(d["section"])
-                pos_match = d["oga_postag"] == d["glaux_postag"]
-                pos_cls = "" if pos_match else ' class="pos-differ"'
+                oga_pos_html, glaux_pos_html = highlight_pos_diff(d["oga_postag"], d["glaux_postag"])
                 f.write(
                     f'<tr id="{section_id}">'
                     f'<td class="ref">{section_id}</td>'
                     f'<td class="form">{html.escape(d["form"])}</td>'
                     f'<td class="mismatch">{html.escape(d["oga_lemma"])}</td>'
-                    f'<td{pos_cls}>{html.escape(d["oga_postag"])}</td>'
+                    f'<td>{oga_pos_html}</td>'
                     f'<td class="mismatch">{html.escape(d["glaux_lemma"])}</td>'
-                    f'<td{pos_cls}>{html.escape(d["glaux_postag"])}</td>'
+                    f'<td>{glaux_pos_html}</td>'
                     f'<td>{link_cell}</td>'
                     f'</tr>\n'
                 )
@@ -404,16 +420,15 @@ a:hover {{ text-decoration: underline; }}
 <tr><th>Work</th><th>Section</th><th>Form</th><th>OGA POS</th><th>Glaux POS</th></tr>
 """)
             for m in instances:
-                pos_match = m["oga_postag"] == m["glaux_postag"]
-                pos_cls = "" if pos_match else ' class="pos-differ"'
                 section = html.escape(m["section"])
+                oga_pos_html, glaux_pos_html = highlight_pos_diff(m["oga_postag"], m["glaux_postag"])
                 f.write(
                     f'<tr>'
                     f'<td><a href="../{m["work_id"]}.html#{section}">{html.escape(m["work_id"])}</a></td>'
                     f'<td class="ref"><a href="../{m["work_id"]}.html#{section}">{section}</a></td>'
                     f'<td class="form">{html.escape(m["form"])}</td>'
-                    f'<td{pos_cls}>{html.escape(m["oga_postag"])}</td>'
-                    f'<td{pos_cls}>{html.escape(m["glaux_postag"])}</td>'
+                    f'<td>{oga_pos_html}</td>'
+                    f'<td>{glaux_pos_html}</td>'
                     f'</tr>\n'
                 )
             f.write("</table>\n</body></html>\n")
