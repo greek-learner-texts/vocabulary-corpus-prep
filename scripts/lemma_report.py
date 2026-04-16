@@ -262,6 +262,7 @@ tr:hover {{ background: #fff8e1; }}
 .bar {{ display: inline-block; height: 12px; border-radius: 2px; }}
 .bar-agree {{ background: #4caf50; }}
 .bar-disagree {{ background: #e64a19; }}
+.bar-single {{ background: #2196f3; }}
 .bar-unmatched {{ background: #bbb; }}
 a {{ color: #1565c0; text-decoration: none; }}
 a:hover {{ text-decoration: underline; }}
@@ -292,7 +293,8 @@ a:hover {{ text-decoration: underline; }}
             bar_w = 120
             agree_w = int(s["agree"] / s["total"] * bar_w) if s["total"] else 0
             disagree_w = int(s["disagree"] / s["total"] * bar_w) if s["total"] else 0
-            unmatched_w = bar_w - agree_w - disagree_w
+            single_w = int(s["single"] / s["total"] * bar_w) if s["total"] else 0
+            unmatched_w = bar_w - agree_w - disagree_w - single_w
 
             f.write(
                 f'<tr>'
@@ -302,6 +304,7 @@ a:hover {{ text-decoration: underline; }}
                 f'<td>'
                 f'<span class="bar bar-agree" style="width:{agree_w}px"></span>'
                 f'<span class="bar bar-disagree" style="width:{disagree_w}px"></span>'
+                f'<span class="bar bar-single" style="width:{single_w}px"></span>'
                 f'<span class="bar bar-unmatched" style="width:{unmatched_w}px"></span>'
                 f'</td>'
                 f'<td class="num">{s["disagree"]:,}</td>'
@@ -490,7 +493,8 @@ def main():
         total = len(lemmas)
         disagree = sum(1 for l in lemmas if "DISAGREE" in l)
         unmatched = sum(1 for l in lemmas if l.rstrip("\n").split("\t")[-1] == "unmatched")
-        agree = total - disagree - unmatched - sum(1 for l in lemmas if "only" in l.split("\t")[-1])
+        single = sum(1 for l in lemmas if "only" in l.split("\t")[-1])
+        agree = total - disagree - unmatched - single
 
         work_stats.append({
             "work_id": w["work_id"],
@@ -499,6 +503,7 @@ def main():
             "total": total,
             "agree": agree,
             "disagree": disagree,
+            "single": single,
             "unmatched": unmatched,
         })
 
