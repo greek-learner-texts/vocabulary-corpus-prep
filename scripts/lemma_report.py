@@ -166,9 +166,10 @@ a:hover {{ text-decoration: underline; }}
                 key = (d["oga_lemma"], d["glaux_lemma"])
                 slug = type_slugs.get(key, "")
                 link_cell = f'<a href="mismatches/{slug}.html">all</a>' if slug else ""
+                section_id = html.escape(d["section"])
                 f.write(
-                    f'<tr>'
-                    f'<td class="ref">{html.escape(d["section"])}</td>'
+                    f'<tr id="{section_id}">'
+                    f'<td class="ref">{section_id}</td>'
                     f'<td class="form">{html.escape(d["form"])}</td>'
                     f'<td class="mismatch">{html.escape(d["oga_lemma"])}</td>'
                     f'<td>{html.escape(d["oga_postag"])}</td>'
@@ -366,6 +367,7 @@ th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px
 td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
 .form {{ font-weight: 600; }}
 .ref {{ color: #999; font-size: 0.85rem; }}
+.pos-differ {{ color: #e64a19; }}
 a {{ color: #1565c0; text-decoration: none; }}
 a:hover {{ text-decoration: underline; }}
 @media (prefers-color-scheme: dark) {{
@@ -375,6 +377,7 @@ a:hover {{ text-decoration: underline; }}
     td {{ border-bottom-color: #333; }}
     .ref {{ color: #777; }}
     a {{ color: #7bb8e0; }}
+    .pos-differ {{ color: #ff8a65; }}
 }}
 </style>
 </head><body>
@@ -385,13 +388,16 @@ a:hover {{ text-decoration: underline; }}
 <tr><th>Work</th><th>Section</th><th>Form</th><th>OGA POS</th><th>Glaux POS</th></tr>
 """)
             for m in instances:
+                pos_match = m["oga_postag"] == m["glaux_postag"]
+                pos_cls = "" if pos_match else ' class="pos-differ"'
+                section = html.escape(m["section"])
                 f.write(
                     f'<tr>'
-                    f'<td><a href="../{m["work_id"]}.html">{html.escape(m["work_id"])}</a></td>'
-                    f'<td class="ref">{html.escape(m["section"])}</td>'
+                    f'<td><a href="../{m["work_id"]}.html#{section}">{html.escape(m["work_id"])}</a></td>'
+                    f'<td class="ref"><a href="../{m["work_id"]}.html#{section}">{section}</a></td>'
                     f'<td class="form">{html.escape(m["form"])}</td>'
-                    f'<td>{html.escape(m["oga_postag"])}</td>'
-                    f'<td>{html.escape(m["glaux_postag"])}</td>'
+                    f'<td{pos_cls}>{html.escape(m["oga_postag"])}</td>'
+                    f'<td{pos_cls}>{html.escape(m["glaux_postag"])}</td>'
                     f'</tr>\n'
                 )
             f.write("</table>\n</body></html>\n")
