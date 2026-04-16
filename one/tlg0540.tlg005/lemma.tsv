@@ -112,7 +112,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 111	κακός	a-p---ng-	κακός	κακός	a-p---ng-	a-p---ng-	
 112	αἴτιος	a-p---md-	αἴτιος	αἴτιος	a-p---md-	a-p---md-	
 113	εἰμί	v-pppamd-	εἰμί	εἰμί	v-pppamd-	v-pppamd-	
-114	.	u--------		.		u--------	glaux_only
+114	.	u--------	.	.	u--------	u--------	
 115	σύ	p-p---ca-	σύ	σύ	p-p---ma-	p-p---ca-	
 116	δέ	c--------	δέ	δέ	d--------	c--------	
 117	ἄξιος	a-s---nn-	ἄξιος	ἄξιος	a-s---nn-	a-s---nn-	
@@ -189,11 +189,11 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 188	ποιέω	v3ppie---	ποιέω		v3ppie---		oga_only
 189	ὁ	l-p---ma-	ὁ		l-p---ma-		oga_only
 190	λόγος	n-p---ma-	λόγος		n-p---ma-		oga_only
-191							unmatched
+191	.	u--------	.		u--------		oga_only
 192	καί	d--------	καί		d--------		oga_only
 193	οὐ	d--------	οὐ		d--------		oga_only
-194	θαυμάζω	v1spia---	θαυμάζω		v1spia---		oga_only
-195	·	u--------	·		u--------		oga_only
+194	θαυμάζω	v1spia---	θαυμάζω	θαυμάζω	v1spia---	v1spia---	
+195	·	u--------	·	·	u--------	u--------	
 196	οἶδα	v3pria---	οἶδα	οἶδα	v3ppia---	v3pria---	
 197	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 198	ὅτι	c--------	ὅτι	ὅτι	c--------	c--------	

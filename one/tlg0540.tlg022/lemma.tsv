@@ -235,7 +235,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 234	εἰμί	v2spia---	εἰμί	εἰμί	v2spia---	v2spia---	
 235	;	u--------	;	;	u--------	u--------	
 236	ναί	d--------	ναί	ναί	d--------	d--------	
-237	.	u--------		.		u--------	glaux_only
+237	.	u--------	.	.	u--------	u--------	
 238	μετοικέω	v2spia---	μετοικέω	μετοικέω	v2spia---	v2spia---	
 239	δέ	c--------	δέ	δέ	d--------	c--------	
 240	πότερος	g--------	πότερον	πότερος	d--------	g--------	DISAGREE
@@ -257,7 +257,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 256	;	u--------		;		u--------	glaux_only
 257	ὡς	c--------	ὡς	ὡς	d--------	c--------	
 258	πάσχω	v-sfpmmn-	πάσχω	πάσχω	v-sfpmmn-	v-sfpmmn-	
-259	.	u--------		.		u--------	glaux_only
+259	.	u--------	.	.	u--------	u--------	
 260	ἄλλος	p-s---na-	ἄλλος	ἄλλος	a-s---na-	p-s---na-	
 261	τις	p-s---na-	τις	τις	p-s---na-	p-s---na-	
 262	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -338,7 +338,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 337	δίκαιος	a-s---nn-	δίκαιος	δίκαιος	a-s---nn-	a-s---nn-	
 338	σύ	p-p---ca-	σύ	σύ	p-p---ma-	p-p---ca-	
 339	καταψηφίζομαι	v--anm---	καταψηφίζομαι	καταψηφίζομαι	v--ane---	v--anm---	
-340	.	u--------		.		u--------	glaux_only
+340	.	u--------	.	.	u--------	u--------	
 341	ἐγώ	p-p---cn-	ἐγώ	ἐγώ	p1p---mn-	p-p---cn-	
 342	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 343	σύ	p-p---cd-	σύ	σύ	p-p---md-	p-p---cd-	
@@ -410,7 +410,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 409	λέγω	v--ana---	εἶπον	λέγω	v--ana---	v--ana---	DISAGREE
 410	περί	r--------	περί	περί	r--------	r--------	
 411	αὐτός	p-p---mg-	αὐτός	αὐτός	p-p---mg-	p-p---mg-	
-412	.	u--------		.		u--------	glaux_only
+412	.	u--------	.	.	u--------	u--------	
 413	ἐπειδή	c--------	ἐπεί	ἐπειδή	c--------	c--------	DISAGREE
 414	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 415	οὗτος	p-p---mn-	οὗτος	οὗτος	p-p---mn-	p-p---mn-	
@@ -481,7 +481,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 480	μόνος	a-s---ma-	μόνος	μόνος	a-s---na-	a-s---ma-	
 481	πωλέω	v--pna---	πωλέω	πωλέω	v--pna---	v--pna---	
 482	τίμιος	a-s---nac	τίμιος	τίμιος	a-s---nnc	a-s---nac	
-483	.	u--------		.		u--------	glaux_only
+483	.	u--------	.	.	u--------	u--------	
 484	ὡς	c--------	ὡς	ὡς	c--------	c--------	
 485	τοίνυν	g--------	τοίνυν	τοίνυν	d--------	g--------	
 486	οὐ	d--------	οὐ	οὐ	d--------	d--------	
@@ -580,8 +580,8 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 579	οὗτος	p-p---md-	οὗτος	οὗτος	p-p---nd-	p-p---md-	
 580	ὁ	l-s---na-	ὁ		l-s---na-		oga_only
 581	ἐναντίος	a-p---na-	ἐναντίος		a-p---na-		oga_only
-582	πράσσω	v--pna---	πράσσω		v--pna---		oga_only
-583	;	u--------	;		u--------		oga_only
+582	πράσσω	v--pna---	πράσσω	πράσσω	v--pna---	v--pna---	
+583	;	u--------	;	;	u--------	u--------	
 584	ἀλλά	c--------	ἀλλά	ἀλλά	d--------	c--------	
 585	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 586	,	u--------	,	,	u--------	u--------	
@@ -623,7 +623,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 622	ἄξιος	a-s---nas	ἄξιος	ἄξιος	a-s---nas	a-s---nas	
 623	σύ	p-p---cd-	σύ	σύ	p-p---md-	p-p---cd-	
 624	πωλέω	v3ppoa---	πωλέω	πωλέω	v3ppoa---	v3ppoa---	
-625	.	u--------		.		u--------	glaux_only
+625	.	u--------	.	.	u--------	u--------	
 626	μέγας	a-s---nas	μέγας	μέγας	a-s---nas	a-s---nas	
 627	δέ	c--------	δέ	δέ	d--------	c--------	
 628	σύ	p-p---cd-	σύ	σύ	p-p---md-	p-p---cd-	
@@ -672,7 +672,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 671	κατά	r--------	κατά	κατά	r--------	r--------	
 672	μέδιμνος	n-s---ma-	μέδιμνος	μέδιμνος	n-s---na-	n-s---ma-	
 673	συνωνέομαι	v-pppmmn-	συνωνέομαι	συνωνέομαι	v-pppemn-	v-pppmmn-	
-674	.	u--------		.		u--------	glaux_only
+674	.	u--------	.	.	u--------	u--------	
 675	καί	c--------	καί	καί	d--------	c--------	
 676	οὗτος	p-p---ng-	οὗτος	οὗτος	p-p---ng-	p-p---ng-	
 677	σύ	p-p---ca-	σύ	σύ	p-p---ma-	p-p---ca-	
@@ -737,13 +737,13 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 736	.	u--------	.	.	u--------	u--------	
 737	ὁ	l-s---nn-	ὁ		l-s---nn-		oga_only
 738	ἐναντίος	a-p---nn-	ἐναντίος		a-p---nn-		oga_only
-739	γάρ	d--------	γάρ		d--------		oga_only
-740	αὐτός	p-p---md-	αὐτός		p-p---md-		oga_only
-741	καί	c--------	καί		c--------		oga_only
-742	ὁ	l-p---md-	ὁ		l-p---md-		oga_only
-743	ἄλλος	p-p---md-	ἄλλος		p-p---md-		oga_only
-744	συμφέρω	v3spia---	συμφέρω		v3spia---		oga_only
-745	·	u--------	·		u--------		oga_only
+739	γάρ	g--------	γάρ	γάρ	d--------	g--------	
+740	αὐτός	p-p---md-	αὐτός	αὐτός	p-p---md-	p-p---md-	
+741	καί	c--------	καί	καί	c--------	c--------	
+742	ὁ	l-p---md-	ὁ	ὁ	l-p---md-	l-p---md-	
+743	ἄλλος	p-p---md-	ἄλλος	ἄλλος	p-p---md-	p-p---md-	
+744	συμφέρω	v3spia---	συμφέρω	συμφέρω	v3spia---	v3spia---	
+745	·	u--------	·	·	u--------	u--------	
 746	τότε	d--------	τότε	τότε	d--------	d--------	
 747	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 748	πολύς	a-p---nas	πλεῖστος	πολύς	a-p---na-	a-p---nas	DISAGREE
@@ -825,7 +825,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 824	ὅς	p-p---md-	ὅς	ὅς	p-p---md-	p-p---md-	
 825	ὁ	l-p---mn-	ὁ	ὁ	l-p---mn-	l-p---mn-	
 826	πολέμιος	a-p---mn-	πολέμιος	πολέμιος	n-p---mn-	a-p---mn-	
-827	.	u--------		.		u--------	glaux_only
+827	.	u--------	.	.	u--------	u--------	
 828	ὅταν	c--------	ὅταν	ὅταν	c--------	c--------	
 829	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 830	μάλα	d-------s	μάλιστα	μάλα	d-------s	d-------s	DISAGREE
@@ -1306,4 +1306,4 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1305	μή	d--------	μή	μή	d--------	d--------	
 1306	,	u--------	,	,	u--------	u--------	
 1307	τίμιος	a-s---nnc	τίμιος	τίμιος	a-s---nnc	a-s---nnc	
-1308	.	u--------		.		u--------	glaux_only
+1308	.	u--------	.	.	u--------	u--------	

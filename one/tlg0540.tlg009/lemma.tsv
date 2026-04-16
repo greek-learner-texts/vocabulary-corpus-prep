@@ -195,15 +195,15 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 194	.	u--------	.	.	u--------	u--------	
 195	καί	d--------	καί		d--------		oga_only
 196	ἐγώ	p1s---md-	ἐγώ		p1s---md-		oga_only
-197	μέν	d--------	μέν		d--------		oga_only
-198	ὁ	l-p---nn-	ὁ		l-p---nn-		oga_only
-199	προερέω	v-prpenn-	προερέω		v-prpenn-		oga_only
-200	διαλέγω	v3saim---	διαλέγω		v3saim---		oga_only
-201	ἐπί	r--------	ἐπί		r--------		oga_only
-202	ὁ	l-s---fd-	ὁ		l-s---fd-		oga_only
-203	φίλιος	n-s---mg-	φίλιος		n-s---mg-		oga_only
-204	τράπεζα	n-s---fd-	τράπεζα		n-s---fd-		oga_only
-205	·	u--------	·		u--------		oga_only
+197	μέν	g--------	μέν	μέν	d--------	g--------	
+198	ὁ	l-p---na-	ὁ	ὁ	l-p---nn-	l-p---na-	
+199	προλέγω	v-prpmna-	προερέω	προλέγω	v-prpenn-	v-prpmna-	DISAGREE
+200	διαλέγω	v3slim---	διαλέγω	διαλέγω	v3saim---	v3slim---	
+201	ἐπί	r--------	ἐπί	ἐπί	r--------	r--------	
+202	ὁ	l-s---fd-	ὁ	ὁ	l-s---fd-	l-s---fd-	
+203	Φίλιος	n-s---mg-	φίλιος	Φίλιος	n-s---mg-	n-s---mg-	
+204	τράπεζα	n-s---fd-	τράπεζα	τράπεζα	n-s---fd-	n-s---fd-	
+205	·	u--------	·	·	u--------	u--------	
 206	ὁ	l-p---mn-	ὁ	ὁ	l-p---mn-	l-p---mn-	
 207	δέ	c--------	δέ	δέ	d--------	c--------	
 208	μετά	r--------	μετά	μετά	r--------	r--------	
@@ -455,7 +455,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 454	καθίστημι	v3paia---	καθίστημι		v3paia---		oga_only
 455	.	u--------	.		u--------		oga_only
 456	εἰ	c--------	εἰ		c--------		oga_only
-457	δέ	d--------	δέ		d--------		oga_only
+457	δέ	c--------	δέ	δέ	d--------	c--------	
 458	οὖν	d--------	οὖν		d--------		oga_only
 459	ζημιόω	v3paia---	ζημιόω		v3paia---		oga_only
 460	μέν	d--------	μέν		d--------		oga_only
@@ -792,7 +792,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 791	οἰκεῖος	a-p---fa-	οἰκεῖος	οἰκεῖος	a-p---fa-	a-p---fa-	
 792	καί	c--------	καί	καί	c--------	c--------	
 793	συνήθης	a-p---fa-	συνήθης	συνήθης	a-p---fa-	a-p---fa-	
-794	.	u--------		.		u--------	glaux_only
+794	.	u--------	.	.	u--------	u--------	
 795	ὅδε	p-p---mn-	ὅδε	ὅδε	p-p---mn-	p-p---mn-	
 796	μέν	g--------	μέν	μέν	d--------	g--------	
 797	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -898,7 +898,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 897	δέ	c--------	δέ	δέ	d--------	c--------	
 898	ὁ	l-s---fg-	ὁ	ὁ	l-s---fg-	l-s---fg-	
 899	πόλις	n-s---fg-	πόλις	πόλις	n-s---fg-	n-s---fg-	
-900	.	u--------		.		u--------	glaux_only
+900	.	u--------	.	.	u--------	u--------	
 901	λόγος	n-s---md-	λόγος	λόγος	n-s---md-	n-s---md-	
 902	μέν	g--------	μέν	μέν	d--------	g--------	
 903	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -911,7 +911,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 910	δέ	c--------	δέ	δέ	c--------	c--------	
 911	περί	r--------	περί	περί	r--------	r--------	
 912	πολιτεία	n-s---fg-	πολιτεία	πολιτεία	n-s---fg-	n-s---fg-	
-913	.	u--------		.		u--------	glaux_only
+913	.	u--------	.	.	u--------	u--------	
 914	τυγχάνω	v-sapamn-	τυγχάνω	τυγχάνω	v-sapamn-	v-sapamn-	
 915	μέν	g--------	μέν	μέν	d--------	g--------	
 916	γάρ	g--------	γάρ	γάρ	d--------	g--------	

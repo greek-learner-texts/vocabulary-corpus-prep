@@ -25,7 +25,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 24	εὔνοια	n-s---fa-	εὔνοια	εὔνοια	n-s---fa-	n-s---fa-	
 25	ὁ	l-s---fg-	ὁ	ὁ	l-s---fg-	l-s---fg-	
 26	Ἑλλάς	n-s---fg-	ἑλλάς	Ἑλλάς	n-s---fg-	n-s---fg-	
-27	.	u--------		.		u--------	glaux_only
+27	.	u--------	.	.	u--------	u--------	
 28	ἐν	r--------	ἐν	ἐν	r--------	r--------	
 29	μέν	g--------	μέν	μέν	d--------	g--------	
 30	γάρ	g--------	γάρ	γάρ	d--------	g--------	
@@ -126,7 +126,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 125	σοφιστής	n-p---mg-	σοφιστής		n-p---mg-		oga_only
 126	λίαν	d--------	λίαν		d--------		oga_only
 127	ἄχρηστος	a-p---mg-	ἄχρηστος		a-p---mg-		oga_only
-128	καί	c--------	καί		c--------		oga_only
+128	καί	c--------	καί	καί	c--------	c--------	
 129	σφόδρα	d--------	σφόδρα		d--------		oga_only
 130	βίος	n-s---mg-	βίος		n-s---mg-		oga_only
 131	δέω2	v-pppemg-	δέω2		v-pppemg-		oga_only
@@ -267,7 +267,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 266	τύραννος	n-s---mn-	τύραννος	τύραννος	n-s---mn-	n-s---mn-	
 267	ὁ	l-s---fg-	ὁ	ὁ	l-s---fg-	l-s---fg-	
 268	Σικελία	n-s---fg-	σικελία	Σικελία	n-s---fg-	n-s---fg-	
-269	.	u--------		.		u--------	glaux_only
+269	.	u--------	.	.	u--------	u--------	
 270	ὥστε	c--------	ὥστε	ὥστε	c--------	c--------	
 271	ἄξιος	a-s---nn-	ἄξιος	ἄξιος	a-s---nn-	a-s---nn-	
 272	ὁ	l-s---ma-	ὁ	ὁ	l-s---ma-	l-s---ma-	
@@ -327,7 +327,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 326	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 327	ἐλευθερία	n-s---fa-	ἐλευθερία	ἐλευθερία	n-s---fa-	n-s---fa-	
 328	καθίστημι	v3paia---	καθίστημι	καθίστημι	v3paia---	v3paia---	
-329	.	u--------		.		u--------	glaux_only
+329	.	u--------	.	.	u--------	u--------	
 330	θαυμάζω	v1spia---	θαυμάζω	θαυμάζω	v1spia---	v1spia---	
 331	δέ	c--------	δέ	δέ	d--------	c--------	
 332	Λακεδαιμόνιος	a-p---ma-	λακεδαιμόνιος	Λακεδαιμόνιος	n-p---ma-	a-p---ma-	
@@ -402,8 +402,8 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 401	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
 402	μέλλω	v-pppang-	μέλλω	μέλλω	v-pppang-	v-pppang-	
 403	προοράω	v--pnm---	προοράω	προοράω	v--pne---	v--pnm---	
-404	.	u--------		.		u--------	glaux_only
-405	οὐ	d--------	οὐ	οὐ	d--------	d--------	
+404	.	u--------	.	.	u--------	u--------	
+405	οὐ	d--------		οὐ		d--------	glaux_only
 406	τοίνυν	g--------	τοίνυν	τοίνυν	d--------	g--------	
 407	ὁ	l-s---mn-	ὁ	ὁ	l-s---mn-	l-s---mn-	
 408	ἐπέρχομαι	v-sppamn-	ἔπειμι1	ἐπέρχομαι	v-sppamn-	v-sppamn-	DISAGREE
@@ -412,7 +412,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 411	πάρειμι	v-sppamg-	πάρειμι1	πάρειμι	v-sppamg-	v-sppamg-	
 412	ἀγαθός	a-s---mnc	βελτίων	ἀγαθός	a-s---mnc	a-s---mnc	DISAGREE
 413	·	u--------		·		u--------	glaux_only
-414	οὐ	d--------	οὐ	οὐ	d--------	d--------	
+414	οὐ	d--------		οὐ		d--------	glaux_only
 415	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 416	ἀλλότριος	a-p---fa-	ἀλλότριος	ἀλλότριος	a-p---fa-	a-p---fa-	
 417	δέω	v3spia---	δεῖ	δέω	v3spia---	v3spia---	DISAGREE

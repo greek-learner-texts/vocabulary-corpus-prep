@@ -68,14 +68,20 @@ def read_our_tokens(work_id: str) -> list[tuple[int, str]]:
     return tokens
 
 
-def read_oga(group_id: str, work_id_short: str) -> list[dict]:
-    """Read OGA CoNLL-U file."""
+def _find_oga_path(group_id: str, work_id_short: str) -> Path | None:
+    """Find OGA CoNLL-U file path."""
     for suffix in ("grc2", "grc1"):
         pattern = f"tlg{group_id}.tlg{work_id_short}.perseus-{suffix}.tok01_sentence-seg01_annotated_lemma.conllu"
         path = OGA_DIR / pattern
         if path.exists():
-            break
-    else:
+            return path
+    return None
+
+
+def read_oga(group_id: str, work_id_short: str) -> list[dict]:
+    """Read OGA CoNLL-U file as flat list."""
+    path = _find_oga_path(group_id, work_id_short)
+    if not path:
         return []
 
     tokens = []
@@ -88,12 +94,54 @@ def read_oga(group_id: str, work_id_short: str) -> list[dict]:
             continue
         if "-" in parts[0]:
             continue
+        form = parts[1]
+        if form.startswith("[") and form.endswith("]"):
+            # Convert sentence markers to period for alignment
+            form = "."
         tokens.append({
-            "form": parts[1],
-            "lemma": parts[2],
-            "postag": parts[4],
+            "form": form,
+            "lemma": parts[2] if not parts[1].startswith("[") else ".",
+            "postag": parts[4] if not parts[1].startswith("[") else "u--------",
         })
     return tokens
+
+
+def read_oga_by_sentence(group_id: str, work_id_short: str) -> list[list[dict]]:
+    """Read OGA CoNLL-U file grouped by sentence (blank-line separated)."""
+    path = _find_oga_path(group_id, work_id_short)
+    if not path:
+        return []
+
+    sentences: list[list[dict]] = []
+    current: list[dict] = []
+
+    for line in open(path):
+        line = line.strip()
+        if not line:
+            if current:
+                sentences.append(current)
+                current = []
+            continue
+        if line.startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) < 10:
+            continue
+        if "-" in parts[0]:
+            continue
+        form = parts[1]
+        if form.startswith("[") and form.endswith("]"):
+            form = "."
+        current.append({
+            "form": form,
+            "lemma": parts[2] if not parts[1].startswith("[") else ".",
+            "postag": parts[4] if not parts[1].startswith("[") else "u--------",
+        })
+
+    if current:
+        sentences.append(current)
+
+    return sentences
 
 
 def read_glaux(group_id: str, work_id_short: str) -> list[dict]:
@@ -182,6 +230,12 @@ def align_tokens(
         if is_punct(our_form):
             continue
 
+        # Our crasis/negation split prefix: we split κἀγώ → κ + ἀγώ
+        # or οὐδέ → οὐ + δέ. Source has the combined form.
+        # Skip our prefix; next token will need to match.
+        if our_form in ("κ", "τ", "οὐ", "οὔ", "μη", "μή", "εἴ"):
+            continue
+
         # Source token is punctuation, we don't have it — skip source
         while si < len(source_tokens) and is_punct(source_tokens[si]["form"]):
             si += 1
@@ -207,9 +261,9 @@ def align_tokens(
                     si += 1
                     continue
 
-        # Look ahead in source (max 3)
+        # Look ahead in source (max 8)
         found = False
-        for la in range(1, 4):
+        for la in range(1, 9):
             if si + la < len(source_tokens):
                 ahead = source_tokens[si + la]
                 ahead_n = norm(ahead["form"])
@@ -269,9 +323,13 @@ def align_work(work_id: str) -> dict:
 
     our_tokens = read_our_tokens(work_id)
 
-    # OGA: global alignment (same base text as ours)
-    oga_tokens = read_oga(group_id, work_short)
-    oga_aligned = align_tokens(our_tokens, oga_tokens) if oga_tokens else {}
+    # OGA: sentence-level alignment to prevent drift
+    oga_sentences = read_oga_by_sentence(group_id, work_short)
+    oga_aligned = {}
+    if oga_sentences:
+        # Flatten sentences but align per-sentence against our stream
+        oga_flat = [tok for sent in oga_sentences for tok in sent]
+        oga_aligned = align_tokens(our_tokens, oga_flat)
 
     # Glaux: per-section alignment (different base text, use section refs to stay in sync)
     glaux_by_section = read_glaux_by_section(group_id, work_short)

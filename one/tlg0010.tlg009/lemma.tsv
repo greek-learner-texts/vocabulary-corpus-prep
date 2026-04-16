@@ -68,7 +68,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 67	εἰμί	v3spia---	εἰμί		v3spia---		oga_only
 68							unmatched
 69	ἄλλος	p-p---mn-	ἄλλος		p-p---mn-		oga_only
-70	δέ	d--------	δέ		d--------		oga_only
+70	δέ	c--------	δέ	δέ	d--------	c--------	
 71	περί	r--------	περί		r--------		oga_only
 72	ὁ	l-p---fa-	ὁ		l-p---fa-		oga_only
 73	ἔρις	n-p---fa-	ἔρις		n-p---fa-		oga_only
@@ -164,31 +164,31 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 163	ὁ	l-s---ma-	ὁ	ὁ	l-s---ma-	l-s---ma-	
 164	ὁ	l-p---na-	ὁ		l-p---na-		oga_only
 165	αὐτός	p-p---na-	αὐτός		p-p---na-		oga_only
-166	δυνατός	a-p---na-	δυνατός		a-p---na-		oga_only
-167	καί	c--------	καί		c--------		oga_only
-168	πάλιν	d--------	πάλιν		d--------		oga_only
-169	ἀδύνατος	a-p---na-	ἀδύνατος		a-p---na-		oga_only
-170	πειράω	v-sppema-	πειράω		v-sppema-		oga_only
-171	ἀποφαίνω	v--pna---	ἀποφαίνω		v--pna---		oga_only
-172	,	u--------	,		u--------		oga_only
-173	ἤ1	c--------	ἤ1		c--------		oga_only
-174	μέλισσος	n-s---ma-	μέλισσος		n-s---ma-		oga_only
-175	ὅς	p-s---mn-	ὅς		p-s---mn-		oga_only
-176	ἀπείρων	a-s---mnc	ἀπείρων		a-s---mnc		oga_only
-177	ὁ	l-s---na-	ὁ		l-s---na-		oga_only
-178	πλῆθος	n-s---na-	πλῆθος		n-s---na-		oga_only
-179	φύζω	v-prpang-	φύζω		v-prpang-		oga_only
-180	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-181	πρᾶγμα	n-p---ng-	πρᾶγμα		n-p---ng-		oga_only
-182	ὡς	d--------	ὡς		d--------		oga_only
-183	εἷς	a-s---ng-	εἷς		a-s---ng-		oga_only
-184	εἰμί	v-sppamg-	εἰμί		v-sppamg-		oga_only
-185	ὁ	l-s---ng-	ὁ		l-s---ng-		oga_only
-186	πᾶς	a-s---ng-	πᾶς		a-s---ng-		oga_only
-187	ἐπιχειρέω	v3saia---	ἐπιχειρέω		v3saia---		oga_only
-188	ἀπόδειξις	n-p---fa-	ἀπόδειξις		n-p---fa-		oga_only
-189	εὑρίσκω	v--pna---	εὑρίσκω		v--pna---		oga_only
-190							unmatched
+166	δυνατός	a-p---na-	δυνατός	δυνατός	a-p---na-	a-p---na-	
+167	καί	c--------	καί	καί	c--------	c--------	
+168	πάλιν	d--------	πάλιν	πάλιν	d--------	d--------	
+169	ἀδύνατος	a-p---na-	ἀδύνατος	ἀδύνατος	a-p---na-	a-p---na-	
+170	πειράω	v-sppmma-	πειράω	πειράω	v-sppema-	v-sppmma-	
+171	ἀποφαίνω	v--pna---	ἀποφαίνω	ἀποφαίνω	v--pna---	v--pna---	
+172	,	u--------	,	,	u--------	u--------	
+173	ἤ	c--------	ἤ1	ἤ	c--------	c--------	
+174	Μέλισσος	n-s---ma-	μέλισσος	Μέλισσος	n-s---ma-	n-s---ma-	
+175	ὅς	p-s---mn-	ὅς	ὅς	p-s---mn-	p-s---mn-	
+176	ἄπειρος	a-p---ng-	ἀπείρων	ἄπειρος	a-s---mnc	a-p---ng-	DISAGREE
+177	ὁ	l-s---na-	ὁ	ὁ	l-s---na-	l-s---na-	
+178	πλῆθος	n-s---na-	πλῆθος	πλῆθος	n-s---na-	n-s---na-	
+179	φύζω	v-prpang-	φύζω	φύζω	v-prpang-	v-prpang-	
+180	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+181	πρᾶγμα	n-p---ng-	πρᾶγμα	πρᾶγμα	n-p---ng-	n-p---ng-	
+182	ὡς	c--------	ὡς	ὡς	d--------	c--------	
+183	εἷς	m-s---ng-	εἷς	εἷς	a-s---ng-	m-s---ng-	
+184	εἰμί	v-sppang-	εἰμί	εἰμί	v-sppamg-	v-sppang-	
+185	ὁ	l-s---ng-	ὁ	ὁ	l-s---ng-	l-s---ng-	
+186	πᾶς	p-s---ng-	πᾶς	πᾶς	a-s---ng-	p-s---ng-	
+187	ἐπιχειρέω	v3saia---	ἐπιχειρέω	ἐπιχειρέω	v3saia---	v3saia---	
+188	ἀπόδειξις	n-p---fa-	ἀπόδειξις	ἀπόδειξις	n-p---fa-	n-p---fa-	
+189	εὑρίσκω	v--pna---	εὑρίσκω	εὑρίσκω	v--pna---	v--pna---	
+190	;	u--------		;		u--------	glaux_only
 191	ἄλλος	p-p---na-	ἄλλος	ἄλλος	d--------	p-p---na-	
 192	ὅμως	d--------	ὅμως	ὅμως	d--------	d--------	
 193	οὕτως	d--------	οὕτως	οὕτως	d--------	d--------	
@@ -301,7 +301,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 300	ὁ	l-s---ma-	ὁ	ὁ	l-s---ma-	l-s---ma-	
 301	βίος	n-s---ma-	βίος	βίος	n-s---ma-	n-s---ma-	
 302	ὠφελέω	v-pppamd-	ὠφελέω	ὠφελέω	v-pppamd-	v-pppamd-	
-303	.	u--------		.		u--------	glaux_only
+303	.	u--------	.	.	u--------	u--------	
 304	ἀλλά	c--------	ἀλλά	ἀλλά	d--------	c--------	
 305	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 306	οὐδείς	p-s---ng-	οὐδείς	οὐδείς	p-s---ng-	p-s---ng-	
@@ -330,12 +330,12 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 329	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 330	μή	d--------	μή	μή	d--------	d--------	
 331	τε	c--------	τε		c--------		oga_only
-332	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
+332	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
 333	ἴδιος	a-p---ng-	ἴδιος		a-p---ng-		oga_only
 334	πω	d--------	πω		d--------		oga_only
 335	μή	d--------	μή		d--------		oga_only
 336	τε	c--------	τε		c--------		oga_only
-337	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
+337	ὁ	l-p---mg-	ὁ	ὁ	l-p---ng-	l-p---mg-	
 338	κοινός	a-p---ng-	κοινός		a-p---ng-		oga_only
 339	φροντίζω	v-pppamn-	φροντίζω		v-pppamn-		oga_only
 340	οὗτος	p-p---md-	οὗτος		p-p---md-		oga_only
@@ -473,9 +473,9 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 472	καλός	a-p---ng-	καλός	καλός	a-p---ng-	a-p---ng-	
 473	καί	c--------	καί		c--------		oga_only
 474	ἀγαθός	a-p---ng-	ἀγαθός		a-p---ng-		oga_only
-475	ῥᾴδιος	d--------	ῥᾴδιος		d--------		oga_only
-476	εὐπορέω	v3pfia---	εὐπορέω		v3pfia---		oga_only
-477							unmatched
+475	ῥᾴδιος	d--------	ῥᾴδιος	ῥᾴδιος	d--------	d--------	
+476	εὐπορέω	v3pfia---	εὐπορέω	εὐπορέω	v3pfia---	v3pfia---	
+477	.	u--------	.	.	u--------	u--------	
 478	ἐγώ	p-s---cd-	ἐγώ	ἐγώ	p1s---md-	p-s---cd-	
 479	δέ	c--------	δέ	δέ	d--------	c--------	
 480	δοκέω	v3spia---	δοκέω	δοκέω	v3spia---	v3spia---	
@@ -578,7 +578,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 577	ἀσθένεια	n-s---fa-	ἀσθένεια	ἀσθένεια	n-s---fa-	n-s---fa-	
 578	ἐνταῦθα	d--------	ἐνταῦθα	ἐνταῦθα	d--------	d--------	
 579	καταφεύγω	v3ppia---	καταφεύγω	καταφεύγω	v3ppia---	v3ppia---	
-580	.	u--------		.		u--------	glaux_only
+580	.	u--------	.	.	u--------	u--------	
 581	εἰμί	v3spia---	εἰμί	εἰμί	v3spia---	v3spia---	
 582	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 583	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
@@ -601,51 +601,51 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 600	δύσκολος	a-s---nn-	δύσκολος		a-s---nn-		oga_only
 601	εἰμί	v3spia---	εἰμί		v3spia---		oga_only
 602	·	u--------	·		u--------		oga_only
-603	ὁ	l-p---mn-	ὁ		l-p---mn-		oga_only
-604	δέ	d--------	δέ		d--------		oga_only
-605	κοινός	a-p---mn-	κοινός		a-p---mn-		oga_only
-606	πιστός2	a-p---mn-	πιστός2		a-p---mn-		oga_only
-607	καί	c--------	καί		c--------		oga_only
-608	οὗτος	p-p---md-	οὗτος		p-p---md-		oga_only
-609	ὅμοιος	a-p---mn-	ὅμοιος		a-p---mn-		oga_only
-610	ὁ	l-p---mg-	ὁ		l-p---mg-		oga_only
-611	λόγος	n-p---mg-	λόγος		n-p---mg-		oga_only
-612	διά	r--------	διά		r--------		oga_only
-613	πολύς	a-p---mg-	πολύς		a-p---mg-		oga_only
-614	ἰδέα	n-p---fg-	ἰδέα		n-p---fg-		oga_only
-615	καί	c--------	καί		c--------		oga_only
-616	καιρός	n-p---mg-	καιρός		n-p---mg-		oga_only
-617	δυσκαταμαθής	a-p---mg-	δυσκαταμαθής		a-p---mg-		oga_only
-618	εὑρίσκω	v3ppie---	εὑρίσκω		v3ppie---		oga_only
-619	τε	c--------	τε		c--------		oga_only
+603	ὁ	l-p---mn-	ὁ	ὁ	l-p---mn-	l-p---mn-	
+604	δέ	c--------	δέ	δέ	d--------	c--------	
+605	κοινός	a-p---mn-	κοινός	κοινός	a-p---mn-	a-p---mn-	
+606	πιστός	a-p---mn-	πιστός2	πιστός	a-p---mn-	a-p---mn-	
+607	καί	c--------	καί	καί	c--------	c--------	
+608	οὗτος	p-p---md-	οὗτος	οὗτος	p-p---md-	p-p---md-	
+609	ὅμοιος	a-p---mn-	ὅμοιος	ὅμοιος	a-p---mn-	a-p---mn-	
+610	ὁ	l-p---mg-	ὁ	ὁ	l-p---mg-	l-p---mg-	
+611	λόγος	n-p---mg-	λόγος	λόγος	n-p---mg-	n-p---mg-	
+612	διά	r--------	διά	διά	r--------	r--------	
+613	πολύς	a-p---fg-	πολύς	πολύς	a-p---mg-	a-p---fg-	
+614	ἰδέα	n-p---fg-	ἰδέα	ἰδέα	n-p---fg-	n-p---fg-	
+615	καί	c--------	καί	καί	c--------	c--------	
+616	καιρός	n-p---mg-	καιρός	καιρός	n-p---mg-	n-p---mg-	
+617	δυσκαταμάθητος	a-p---mg-	δυσκαταμαθής	δυσκαταμάθητος	a-p---mg-	a-p---mg-	DISAGREE
+618	εὑρίσκω	v3ppim---	εὑρίσκω	εὑρίσκω	v3ppie---	v3ppim---	
+619	τε	c--------	τε	τε	c--------	c--------	
 620	καί	c--------	καί	καί	c--------	c--------	
-621	λέγω3	v3ppie---	λέγω3		v3ppie---		oga_only
-622	,	u--------	,		u--------		oga_only
-623	καί	c--------	καί		c--------		oga_only
-624	τοσοῦτος	p-s---nd-	τοσοῦτος		p-s---nd-		oga_only
-625	χαλεπός	a-s---fac	χαλεπός		a-s---fac		oga_only
-626	ἔχω	v3ppia---	ἔχω		v3ppia---		oga_only
-627	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
-628	σύνθεσις	n-s---fa-	σύνθεσις		n-s---fa-		oga_only
-629	,	u--------	,		u--------		oga_only
-630	ὅσος	p-s---nd-	ὅσος		p-s---nd-		oga_only
-631	πέρ	d--------	πέρ		d--------		oga_only
+621	λέγω	v3ppim---	λέγω3	λέγω	v3ppie---	v3ppim---	
+622	,	u--------	,	,	u--------	u--------	
+623	καί	c--------	καί	καί	c--------	c--------	
+624	τοσοῦτος	p-s---nd-	τοσοῦτος	τοσοῦτος	p-s---nd-	p-s---nd-	
+625	χαλεπός	a-s---fac	χαλεπός	χαλεπός	a-s---fac	a-s---fac	
+626	ἔχω	v3ppia---	ἔχω	ἔχω	v3ppia---	v3ppia---	
+627	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
+628	σύνθεσις	n-s---fa-	σύνθεσις	σύνθεσις	n-s---fa-	n-s---fa-	
+629	,	u--------	,	,	u--------	u--------	
+630	ὅσος	p-s---nd-	ὅσος	ὅσος	p-s---nd-	p-s---nd-	
+631	περ	d--------	πέρ	περ	d--------	d--------	
 632	ὁ	l-s---nn-	ὁ	ὁ	l-s---nn-	l-s---nn-	
-633	σεμνύνω	v--pne---	σεμνύνω		v--pne---		oga_only
+633	σεμνύνω	v--pnm---	σεμνύνω	σεμνύνω	v--pne---	v--pnm---	
 634	ὁ	l-s---ng-	ὁ	ὁ	l-s---ng-	l-s---ng-	
-635	σκώπτω	v--pna---	σκώπτω		v--pna---		oga_only
-636	καί	c--------	καί		c--------		oga_only
-637	ὁ	l-s---nn-	ὁ		l-s---nn-		oga_only
-638	σπουδάζω	v--pna---	σπουδάζω		v--pna---		oga_only
-639	ὁ	l-s---ng-	ὁ		l-s---ng-		oga_only
-640	παίζω	v--pna---	παίζω		v--pna---		oga_only
-641	ἐπίπονος	a-s---nnc	ἐπίπονος		a-s---nnc		oga_only
-642	εἰμί	v3spia---	εἰμί		v3spia---		oga_only
-643	.	u--------	.		u--------		oga_only
-644	σημεῖον	n-s---nn-	σημεῖον		n-s---nn-		oga_only
-645	δέ	d--------	δέ		d--------		oga_only
-646	μέγας	a-s---nns	μέγας		a-s---nns		oga_only
-647							unmatched
+635	σκώπτω	v--pna---	σκώπτω	σκώπτω	v--pna---	v--pna---	
+636	καί	c--------	καί	καί	c--------	c--------	
+637	ὁ	l-s---nn-	ὁ	ὁ	l-s---nn-	l-s---nn-	
+638	σπουδάζω	v--pna---	σπουδάζω	σπουδάζω	v--pna---	v--pna---	
+639	ὁ	l-s---ng-	ὁ	ὁ	l-s---ng-	l-s---ng-	
+640	παίζω	v--pna---	παίζω	παίζω	v--pna---	v--pna---	
+641	ἐπίπονος	a-s---nnc	ἐπίπονος	ἐπίπονος	a-s---nnc	a-s---nnc	
+642	εἰμί	v3spia---	εἰμί	εἰμί	v3spia---	v3spia---	
+643	.	u--------	.	.	u--------	u--------	
+644	σημεῖον	n-s---nn-	σημεῖον	σημεῖον	n-s---nn-	n-s---nn-	
+645	δέ	c--------	δέ	δέ	d--------	c--------	
+646	μέγας	a-s---nns	μέγας	μέγας	a-s---nns	a-s---nns	
+647	·	u--------		·		u--------	glaux_only
 648	ὁ	l-p---mg-	ὁ	ὁ	l-p---mg-	l-p---mg-	
 649	μέν	g--------	μέν	μέν	d--------	g--------	
 650	γάρ	g--------	γάρ	γάρ	d--------	g--------	
@@ -743,7 +743,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 742	ἅπας	p-s---nn-	ἅπας	ἅπας	a-s---nn-	p-s---nn-	
 743	ἴδιος	a-s---nn-	ἴδιος	ἴδιος	a-s---nn-	a-s---nn-	
 744	εἰμί	v3spia---	εἰμί	εἰμί	v3spia---	v3spia---	
-745	.	u--------		.		u--------	glaux_only
+745	.	u--------	.	.	u--------	u--------	
 746	διό	d--------	διό	διό	d--------	d--------	
 747	καί	c--------	καί	καί	d--------	c--------	
 748	ὁ	l-s---ma-	ὁ	ὁ	l-s---ma-	l-s---ma-	
@@ -825,54 +825,54 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 824	ὁ	l-s---nn-	ὁ		l-s---nn-		oga_only
 825	ἐναντίος	a-s---nn-	ἐναντίος		a-s---nn-		oga_only
 826	·	u--------	·		u--------		oga_only
-827	ἀπολογέομαι	v--pne---	ἀπολογέομαι		v--pne---		oga_only
-828	μέν	d--------	μέν		d--------		oga_only
-829	γάρ	d--------	γάρ		d--------		oga_only
-830	προσήκω	v3spia---	προσήκω		v3spia---		oga_only
-831	περί	r--------	περί		r--------		oga_only
-832	ὁ	l-p---mg-	ὁ		l-p---mg-		oga_only
-833	ἀδικέω	v--pna---	ἀδικέω		v--pna---		oga_only
-834	αἰτία	n-s---fa-	αἰτία		n-s---fa-		oga_only
-835	ἔχω	v-pppamg-	ἔχω		v-pppamg-		oga_only
-836	,	u--------	,		u--------		oga_only
-837	ἐπαινέω	v--pna---	ἐπαινέω		v--pna---		oga_only
-838	δέ	c--------	δέ		c--------		oga_only
-839	ὁ	l-p---ma-	ὁ		l-p---ma-		oga_only
-840	ἐπί	r--------	ἐπί		r--------		oga_only
-841	ἀγαθός	a-s---nd-	ἀγαθός		a-s---nd-		oga_only
-842	τις	p-s---nd-	τις		p-s---nd-		oga_only
-843	διαφέρω	v-pppama-	διαφέρω		v-pppama-		oga_only
-844	.	u--------	.		u--------		oga_only
-845	ἵνα	c--------	ἵνα		c--------		oga_only
-846	δέ	d--------	δέ		d--------		oga_only
-847	μή	d--------	μή		d--------		oga_only
-848	δοκέω	v1spsa---	δοκέω		v1spsa---		oga_only
-849	ὁ	l-s---na-	ὁ		l-s---na-		oga_only
-850	ῥᾴδιος	a-s---nas	ῥᾴδιος		a-s---nas		oga_only
-851	ποιέω	v--pna---	ποιέω		v--pna---		oga_only
-852	,	u--------	,		u--------		oga_only
-853	ἐπιτιμάω	v--pna---	ἐπιτιμάω		v--pna---		oga_only
-854	ὁ	l-p---md-	ὁ		l-p---md-		oga_only
-855	ἄλλος	p-p---md-	ἄλλος		p-p---md-		oga_only
-856	μηδείς	p-s---na-	μηδείς		p-s---na-		oga_only
-857	ἐπιδείκνυμι	v-sppamn-	ἐπιδείκνυμι		v-sppamn-		oga_only
-858	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-859	ἐμαυτοῦ	p-s---mg-	ἐμαυτοῦ		p-s---mg-		oga_only
-860	,	u--------	,		u--------		oga_only
-861	πειράω	v1sfim---	πειράω		v1sfim---		oga_only
-862	περί	r--------	περί		r--------		oga_only
-863	ὁ	l-s---fg-	ὁ		l-s---fg-		oga_only
-864	αὐτός	p-s---fg-	αὐτός		p-s---fg-		oga_only
-865	οὗτος	p-s---fg-	οὗτος		p-s---fg-		oga_only
-866	εἶπον	v--ana---	εἶπον		v--ana---		oga_only
-867	,	u--------	,		u--------		oga_only
-868	παραλείπω	v-sapamn-	παραλείπω		v-sapamn-		oga_only
-869	ἅπας	a-p---na-	ἅπας		a-p---na-		oga_only
-870	ὁ	l-p---na-	ὁ		l-p---na-		oga_only
-871	ὁ	l-p---md-	ὁ		l-p---md-		oga_only
-872	ἄλλος	p-p---md-	ἄλλος		p-p---md-		oga_only
-873	ἐρῶ	v-prpena-	ἐρῶ		v-prpena-		oga_only
-874	.	u--------	.		u--------		oga_only
+827	ἀπολογέομαι	v--pnm---	ἀπολογέομαι	ἀπολογέομαι	v--pne---	v--pnm---	
+828	μέν	g--------	μέν	μέν	d--------	g--------	
+829	γάρ	g--------	γάρ	γάρ	d--------	g--------	
+830	προσήκω	v3spia---	προσήκω	προσήκω	v3spia---	v3spia---	
+831	περί	r--------	περί	περί	r--------	r--------	
+832	ὁ	l-p---mg-	ὁ	ὁ	l-p---mg-	l-p---mg-	
+833	ἀδικέω	v--pna---	ἀδικέω	ἀδικέω	v--pna---	v--pna---	
+834	αἰτία	n-s---fa-	αἰτία	αἰτία	n-s---fa-	n-s---fa-	
+835	ἔχω	v-pppamg-	ἔχω	ἔχω	v-pppamg-	v-pppamg-	
+836	,	u--------	,	,	u--------	u--------	
+837	ἐπαινέω	v--pna---	ἐπαινέω	ἐπαινέω	v--pna---	v--pna---	
+838	δέ	c--------	δέ	δέ	c--------	c--------	
+839	ὁ	l-p---ma-	ὁ	ὁ	l-p---ma-	l-p---ma-	
+840	ἐπί	r--------	ἐπί	ἐπί	r--------	r--------	
+841	ἀγαθός	a-s---nd-	ἀγαθός	ἀγαθός	a-s---nd-	a-s---nd-	
+842	τις	p-s---nd-	τις	τις	p-s---nd-	p-s---nd-	
+843	διαφέρω	v-pppama-	διαφέρω	διαφέρω	v-pppama-	v-pppama-	
+844	.	u--------	.	.	u--------	u--------	
+845	ἵνα	c--------	ἵνα	ἵνα	c--------	c--------	
+846	δέ	c--------	δέ	δέ	d--------	c--------	
+847	μή	d--------	μή	μή	d--------	d--------	
+848	δοκέω	v1spsa---	δοκέω	δοκέω	v1spsa---	v1spsa---	
+849	ὁ	l-s---na-	ὁ	ὁ	l-s---na-	l-s---na-	
+850	ῥᾴδιος	a-s---nas	ῥᾴδιος	ῥᾴδιος	a-s---nas	a-s---nas	
+851	ποιέω	v--pna---	ποιέω	ποιέω	v--pna---	v--pna---	
+852	,	u--------	,	,	u--------	u--------	
+853	ἐπιτιμάω	v--pna---	ἐπιτιμάω	ἐπιτιμάω	v--pna---	v--pna---	
+854	ὁ	l-p---md-	ὁ	ὁ	l-p---md-	l-p---md-	
+855	ἄλλος	p-p---md-	ἄλλος	ἄλλος	p-p---md-	p-p---md-	
+856	μηδείς	p-s---na-	μηδείς	μηδείς	p-s---na-	p-s---na-	
+857	ἐπιδείκνυμι	v-sppamn-	ἐπιδείκνυμι	ἐπιδείκνυμι	v-sppamn-	v-sppamn-	
+858	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+859	ἐμαυτοῦ	p-s---mg-	ἐμαυτοῦ	ἐμαυτοῦ	p-s---mg-	p-s---mg-	
+860	,	u--------	,	,	u--------	u--------	
+861	πειράω	v1sfim---	πειράω	πειράω	v1sfim---	v1sfim---	
+862	περί	r--------	περί	περί	r--------	r--------	
+863	ὁ	l-s---fg-	ὁ	ὁ	l-s---fg-	l-s---fg-	
+864	αὐτός	p-s---fg-	αὐτός	αὐτός	p-s---fg-	p-s---fg-	
+865	οὗτος	p-s---fg-	οὗτος	οὗτος	p-s---fg-	p-s---fg-	
+866	λέγω	v--ana---	εἶπον	λέγω	v--ana---	v--ana---	DISAGREE
+867	,	u--------	,	,	u--------	u--------	
+868	παραλείπω	v-sapamn-	παραλείπω	παραλείπω	v-sapamn-	v-sapamn-	
+869	ἅπας	p-p---na-	ἅπας	ἅπας	a-p---na-	p-p---na-	
+870	ὁ	l-p---na-	ὁ	ὁ	l-p---na-	l-p---na-	
+871	ὁ	l-p---md-	ὁ	ὁ	l-p---md-	l-p---md-	
+872	ἄλλος	p-p---md-	ἄλλος	ἄλλος	p-p---md-	p-p---md-	
+873	λέγω	v-prpmna-	ἐρῶ	λέγω	v-prpena-	v-prpmna-	DISAGREE
+874	.	u--------	.	.	u--------	u--------	
 875	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 876	μέν	g--------	μέν	μέν	d--------	g--------	
 877	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -1247,10 +1247,10 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1246	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 1247	ἀρετή	n-s---fa-	ἀρετή	ἀρετή	n-s---fa-	n-s---fa-	
 1248	κτάομαι	v-sapmma-	κτάομαι	κτάομαι	v-sapmma-	v-sapmma-	
-1249	.	u--------		.		u--------	glaux_only
-1250	δοκέω	v3spia---		δοκέω		v3spia---	glaux_only
-1251	δέ	c--------		δέ		c--------	glaux_only
-1252	ἐγώ	p-s---cd-		ἐγώ		p-s---cd-	glaux_only
+1249	.	u--------	.	.	u--------	u--------	
+1250	δοκέω	v3spia---	δοκέω	δοκέω	v3spia---	v3spia---	
+1251	δέ	c--------	δέ	δέ	d--------	c--------	
+1252	ἐγώ	p-s---cd-	ἐγώ	ἐγώ	p1s---md-	p-s---cd-	
 1253	πρέπω	v--pna---	πρέπω	πρέπω	v--pna---	v--pna---	
 1254	περί	r--------	περί	περί	r--------	r--------	
 1255	αὐτός	p-s---mg-	αὐτός	αὐτός	p-s---mg-	p-s---mg-	
@@ -1382,7 +1382,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1381	ὁ	l-p---fa-	ὁ	ὁ	l-p---fa-	l-p---fa-	
 1382	ἐπιθυμία	n-p---fa-	ἐπιθυμία	ἐπιθυμία	n-p---fa-	n-p---fa-	
 1383	ἔχω	v3paia---	ἔχω	ἔχω	v3paia---	v3paia---	
-1384	.	u--------		.		u--------	glaux_only
+1384	.	u--------	.	.	u--------	u--------	
 1385	μόνος	a-p---mn-	μόνος	μόνος	a-p---mn-	a-p---mn-	
 1386	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 1387	οὗτος	p-p---mn-	οὗτος	οὗτος	p-p---mn-	p-p---mn-	
@@ -1415,7 +1415,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1414	ποιέω	v--anm---	ποιέω	ποιέω	v--anm---	v--anm---	
 1415	ὁ	l-p---ma-	ὁ	ὁ	l-p---ma-	l-p---ma-	
 1416	κίνδυνος	n-p---ma-	κίνδυνος	κίνδυνος	n-p---ma-	n-p---ma-	
-1417	.	u--------		.		u--------	glaux_only
+1417	.	u--------	.	.	u--------	u--------	
 1418	ὁ	l-s---md-	ὁ	ὁ	l-s---md-	l-s---md-	
 1419	μέν	g--------	μέν	μέν	d--------	g--------	
 1420	γάρ	g--------	γάρ	γάρ	d--------	g--------	
@@ -1637,7 +1637,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1636	φόρος	n-s---ma-	φόρος	φόρος	n-s---ma-	n-s---ma-	
 1637	ὑποτελέω	v--pna---	ὑποτελέω	ὑποτελέω	v--pna---	v--pna---	
 1638	ἀναγκάζω	v-srpmfg-	ἀναγκάζω	ἀναγκάζω	v-sppefg-	v-srpmfg-	
-1639	.	u--------		.		u--------	glaux_only
+1639	.	u--------	.	.	u--------	u--------	
 1640	σύμπλους	a-s---mn-	σύμπλους	σύμπλους	a-s---mn-	a-s---mn-	
 1641	δέ	c--------	δέ	δέ	d--------	c--------	
 1642	γίγνομαι	v-sapmmn-	γίγνομαι	γίγνομαι	v-sapmmn-	v-sapmmn-	
@@ -1756,7 +1756,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1755	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 1756	ἀρχή	n-s---fa-	ἀρχή	ἀρχή	n-s---fa-	n-s---fa-	
 1757	ὑποτίθημι	v1saim---	ὑποτίθημι	ὑποτίθημι	v1saim---	v1saim---	
-1758	.	u--------		.		u--------	glaux_only
+1758	.	u--------	.	.	u--------	u--------	
 1759	ἐκ	r--------	ἐκ	ἐκ	r--------	r--------	
 1760	ἀμφότερος	a-p---ng-	ἀμφότερος	ἀμφότερος	a-p---ng-	a-p---ng-	
 1761	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -1803,7 +1803,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1802	λέγω	v-pppmnd-	λέγω3	λέγω	v-pppend-	v-pppmnd-	
 1803	ἅπας	p-p---nd-	ἅπας	ἅπας	a-p---nd-	p-p---nd-	
 1804	ἐπιτιμάω	v--pna---	ἐπιτιμάω	ἐπιτιμάω	v--pna---	v--pna---	
-1805	.	u--------		.		u--------	glaux_only
+1805	.	u--------	.	.	u--------	u--------	
 1806	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 1807	μέν	g--------	μέν	μέν	d--------	g--------	
 1808	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -1896,7 +1896,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1895	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 1896	πόλις	n-s---fa-	πόλις	πόλις	n-s---fa-	n-s---fa-	
 1897	διοικέω	v3saia---	διοικέω	διοικέω	v3saia---	v3saia---	
-1898	.	u--------		.		u--------	glaux_only
+1898	.	u--------	.	.	u--------	u--------	
 1899	ὁράω	v-sppamn-	ὁράω	ὁράω	v-sppamn-	v-sppamn-	
 1900	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 1901	ὁ	l-p---ma-	ὁ	ὁ	l-p---ma-	l-p---ma-	
@@ -1982,9 +1982,9 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 1981	ἄλλος	p-p---mg-	ἄλλος	ἄλλος	p-p---mg-	p-p---mg-	
 1982	λυπέω	v-pppmma-	λυπέω	λυπέω	v-pppema-	v-pppmma-	
 1983	·	u--------		·		u--------	glaux_only
-1984	τίς	p-s---nn-		τίς		p-s---nn-	glaux_only
-1985	γάρ	g--------		γάρ		g--------	glaux_only
-1986	εἰμί	v3spia---		εἰμί		v3spia---	glaux_only
+1984	τίς	p-s---nn-	τίς	τίς	p-s---nn-	p-s---nn-	
+1985	γάρ	g--------	γάρ	γάρ	d--------	g--------	
+1986	εἰμί	v3spia---	εἰμί	εἰμί	v3spia---	v3spia---	
 1987	ἀλγίων	a-s---nnc	ἀλγίων	ἀλγίων	a-s---nnc	a-s---nnc	
 1988	ἤ	c--------	ἤ1	ἤ	c--------	c--------	
 1989	ζάω	v--pna---	ζάω	ζάω	v--pna---	v--pna---	
@@ -2050,22 +2050,22 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2049	εἰς	r--------	εἰς	εἰς	r--------	r--------	
 2050	ὁ	l-s---ma-	ὁ		l-s---ma-		oga_only
 2051	αὐτός	p-s---ma-	αὐτός		p-s---ma-		oga_only
-2052	συνάγω	v-sapamn-	συνάγω		v-sapamn-		oga_only
-2053	τηλικοῦτος	a-s---fa-	τηλικοῦτος		a-s---fa-		oga_only
-2054	ποιέω	v3saia---	ποιέω		v3saia---		oga_only
-2055	ὥστε	c--------	ὥστε		c--------		oga_only
-2056	ἔτι	d--------	ἔτι		d--------		oga_only
-2057	καί	d--------	καί		d--------		oga_only
-2058	νῦν	d--------	νῦν		d--------		oga_only
-2059	ἀπό	r--------	ἀπό		r--------		oga_only
-2060	ἐκεῖνος	a-s---mg-	ἐκεῖνος		a-s---mg-		oga_only
-2061	ὁ	l-s---mg-	ὁ		l-s---mg-		oga_only
-2062	χρόνος	n-s---mg-	χρόνος		n-s---mg-		oga_only
-2063	μέγας	a-s---fa-	μέγας		a-s---fa-		oga_only
-2064	ὁ	l-p---fg-	ὁ		l-p---fg-		oga_only
-2065	ἑλλήνιος	n-p---fg-	ἑλλήνιος		n-p---fg-		oga_only
-2066	εἰμί	v--pna---	εἰμί		v--pna---		oga_only
-2067	·	u--------	·		u--------		oga_only
+2052	συνάγω	v-sapamn-	συνάγω	συνάγω	v-sapamn-	v-sapamn-	
+2053	τηλικοῦτος	p-s---fa-	τηλικοῦτος	τηλικοῦτος	a-s---fa-	p-s---fa-	
+2054	ποιέω	v3saia---	ποιέω	ποιέω	v3saia---	v3saia---	
+2055	ὥστε	c--------	ὥστε	ὥστε	c--------	c--------	
+2056	ἔτι	d--------	ἔτι	ἔτι	d--------	d--------	
+2057	καί	c--------	καί	καί	d--------	c--------	
+2058	νῦν	d--------	νῦν	νῦν	d--------	d--------	
+2059	ἀπό	r--------	ἀπό	ἀπό	r--------	r--------	
+2060	ἐκεῖνος	p-s---mg-	ἐκεῖνος	ἐκεῖνος	a-s---mg-	p-s---mg-	
+2061	ὁ	l-s---mg-	ὁ	ὁ	l-s---mg-	l-s---mg-	
+2062	χρόνος	n-s---mg-	χρόνος	χρόνος	n-s---mg-	n-s---mg-	
+2063	μέγας	a-s---fas	μέγας	μέγας	a-s---fa-	a-s---fas	
+2064	ὁ	l-p---fg-	ὁ	ὁ	l-p---fg-	l-p---fg-	
+2065	Ἑλληνίς	a-p---fg-	ἑλλήνιος	Ἑλληνίς	n-p---fg-	a-p---fg-	DISAGREE
+2066	εἰμί	v--pna---	εἰμί	εἰμί	v--pna---	v--pna---	
+2067	·	u--------	·	·	u--------	u--------	
 2068	μετά	r--------	μετά	μετά	r--------	r--------	
 2069	δέ	c--------	δέ	δέ	d--------	c--------	
 2070	οὗτος	p-p---na-	οὗτος	οὗτος	p-p---na-	p-p---na-	
@@ -2114,7 +2114,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2113	παρά	r--------	παρά	παρά	r--------	r--------	
 2114	ὁ	l-p---mg-	ὁ	ὁ	l-p---mg-	l-p---mg-	
 2115	δουλεύω	v-pppamg-	δουλεύω	δουλεύω	v-pppamg-	v-pppamg-	
-2116	.	u--------		.		u--------	glaux_only
+2116	.	u--------	.	.	u--------	u--------	
 2117	τοσοῦτος	p-s---ng-	τοσοῦτος	τοσοῦτος	a-s---ng-	p-s---ng-	
 2118	δέ	c--------	δέ	δέ	d--------	c--------	
 2119	δέω	v3saia---	δέω	δέω	v3saia---	v3saia---	
@@ -2600,7 +2600,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2599	Ζεύς	n-s---mg-	ζεύς	Ζεύς	n-s---mg-	n-s---mg-	
 2600	εἰμί	v3pfim---	εἰμί	εἰμί	v3pfim---	v3pfim---	
 2601	γίγνομαι	v-prpamn-	γίγνομαι	γίγνομαι	v-prpamn-	v-prpamn-	
-2602	.	u--------		.		u--------	glaux_only
+2602	.	u--------	.	.	u--------	u--------	
 2603	ἐπίσταμαι	v3siim---	ἐπίσταμαι	ἐπίσταμαι	v3siie---	v3siim---	
 2604	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 2605	ὁ	l-p---fa-	ὁ	ὁ	l-p---fa-	l-p---fa-	
@@ -2640,7 +2640,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2639	ὁ	l-s---mg-	ὁ	ὁ	l-s---mg-	l-s---mg-	
 2640	κατά	r--------	κατά	κατά	r--------	r--------	
 2641	ἑαυτοῦ	p-s---ma-	ἑαυτοῦ	ἑαυτοῦ	p-s---ma-	p-s---ma-	
-2642	.	u--------		.		u--------	glaux_only
+2642	.	u--------	.	.	u--------	u--------	
 2643	ὁ	l-p---mg-	ὁ	ὁ	l-p---mg-	l-p---mg-	
 2644	μέν	g--------	μέν	μέν	d--------	g--------	
 2645	οὖν	g--------	οὖν	οὖν	d--------	g--------	
@@ -2681,7 +2681,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2680	ῥᾴδιος	a-s---nn-	ῥᾴδιος	ῥᾴδιος	a-s---nn-	a-s---nn-	
 2681	ἅπας	p-p---md-	ἅπας	ἅπας	a-p---md-	p-p---md-	
 2682	καταμανθάνω	v--ana---	καταμανθάνω	καταμανθάνω	v--ana---	v--ana---	
-2683	.	u--------		.		u--------	glaux_only
+2683	.	u--------	.	.	u--------	u--------	
 2684	πῶς	d--------	πῶς	πῶς	d--------	d--------	
 2685	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 2686	οὐ	d--------	οὐ	οὐ	d--------	d--------	
@@ -2736,7 +2736,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2735	πρᾶγμα	n-s---ng-	πρᾶγμα	πρᾶγμα	n-s---ng-	n-s---ng-	
 2736	ἐπιμέλεια	n-s---fa-	ἐπιμέλεια	ἐπιμέλεια	n-s---fa-	n-s---fa-	
 2737	ποιέω	v3paim---	ποιέω	ποιέω	v3paim---	v3paim---	
-2738	.	u--------		.		u--------	glaux_only
+2738	.	u--------	.	.	u--------	u--------	
 2739	χρή	v3spia---	χρή	χρή	v3spia---	v3spia---	
 2740	δέ	c--------	δέ	δέ	d--------	c--------	
 2741	σκοπέω	v--pna---	σκοπέω	σκοπέω	v--pna---	v--pna---	
@@ -2799,7 +2799,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2798	ὁ	l-s---fd-	ὁ	ὁ	l-s---fd-	l-s---fd-	
 2799	γνώμη	n-s---fd-	γνώμη	γνώμη	n-s---fd-	n-s---fd-	
 2800	διαφέρω	v-sppama-	διαφέρω	διαφέρω	v-sppama-	v-sppama-	
-2801	.	u--------		.		u--------	glaux_only
+2801	.	u--------	.	.	u--------	u--------	
 2802	θαυμάζω	v1spia---	θαυμάζω	θαυμάζω	v1spia---	v1spia---	
 2803	δέ	c--------	δέ	δέ	d--------	c--------	
 2804	εἰ	c--------	εἰ	εἰ	c--------	c--------	
@@ -2852,10 +2852,10 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2851	ὅς	p-s---fg-	ὅς	ὅς	p-s---fg-	p-s---fg-	
 2852	καί	d--------	καί		d--------		oga_only
 2853	ἐκεῖνος	p-p---fa-	ἐκεῖνος		p-p---fa-		oga_only
-2854	ὁράω	v3siia---	ὁράω		v3siia---		oga_only
-2855	μάλιστα	d-------s	μάλιστα		d-------s		oga_only
-2856	σπουδάζω	v-pppafa-	σπουδάζω		v-pppafa-		oga_only
-2857	;	u--------	;		u--------		oga_only
+2854	ὁράω	v3siia---	ὁράω	ὁράω	v3siia---	v3siia---	
+2855	μάλα	d-------s	μάλιστα	μάλα	d-------s	d-------s	DISAGREE
+2856	σπουδάζω	v-pppafa-	σπουδάζω	σπουδάζω	v-pppafa-	v-pppafa-	
+2857	;	u--------	;	;	u--------	u--------	
 2858	τίς	p-s---cn-	τις	τίς	p-s---mn-	p-s---cn-	
 2859	δέ	c--------	δέ	δέ	d--------	c--------	
 2860	ἄν	g--------	ἄν	ἄν	d--------	g--------	
@@ -2891,7 +2891,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 2890	πᾶς	p-p---mg-	πᾶς	πᾶς	a-p---mg-	p-p---mg-	
 2891	ἐγώ	p-p---cg-	ἐγώ	ἐγώ	p-p---mg-	p-p---cg-	
 2892	κρατέω	v3paia---	κρατέω	κρατέω	v3paia---	v3paia---	
-2893	.	u--------		.		u--------	glaux_only
+2893	.	u--------	.	.	u--------	u--------	
 2894	δῆλος	a-s---nn-	δῆλος	δῆλος	a-s---nn-	a-s---nn-	
 2895	δέ	c--------	δέ	δέ	d--------	c--------	
 2896	ὡς	c--------	ὡς	ὡς	c--------	c--------	
@@ -3006,7 +3006,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3005	ἑαυτοῦ	p-p---mg-	ἑαυτοῦ	ἑαυτοῦ	p-p---mg-	p-p---mg-	
 3006	πατρίς	n-p---fa-	πατρίς	πατρίς	n-p---fa-	n-p---fa-	
 3007	ἀπέρχομαι	v--ana---	ἀπέρχομαι	ἀπέρχομαι	v--ana---	v--ana---	
-3008	.	u--------		.		u--------	glaux_only
+3008	.	u--------	.	.	u--------	u--------	
 3009	καί	c--------	καί	καί	d--------	c--------	
 3010	οὗτος	p-p---na-	οὗτος	οὗτος	p-p---na-	p-p---na-	
 3011	ποιέω	v3piia---	ποιέω	ποιέω	v3piia---	v3piia---	
@@ -3038,17 +3038,17 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3037	σῶμα	n-s---nn-	σῶμα	σῶμα	n-s---nn-	n-s---nn-	
 3038	ὁ	l-s---nn-	ὁ		l-s---nn-		oga_only
 3039	ἐκεῖνος	p-s---fg-	ἐκεῖνος		p-s---fg-		oga_only
-3040	κατοικέω	v3saoa---	κατοικέω		v3saoa---		oga_only
-3041	,	u--------	,		u--------		oga_only
-3042	οὗτος	a-s---fa-	οὗτος		a-s---fa-		oga_only
-3043	εὐδαίμων	a-s---fac	εὐδαίμων		a-s---fac		oga_only
-3044	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
-3045	χώρα	n-s---fa-	χώρα		n-s---fa-		oga_only
-3046	εἰμί	v--fnm---	εἰμί		v--fnm---		oga_only
-3047							unmatched
-3048	τοσοῦτος	p-s---mn-		τοσοῦτος		p-s---mn-	glaux_only
-3049	δέ	c--------		δέ		c--------	glaux_only
-3050	ἔρως	n-s---mn-		ἔρως		n-s---mn-	glaux_only
+3040	κατοικέω	v3saoa---	κατοικέω	κατοικέω	v3saoa---	v3saoa---	
+3041	,	u--------	,	,	u--------	u--------	
+3042	οὗτος	p-s---fa-	οὗτος	οὗτος	a-s---fa-	p-s---fa-	
+3043	εὐδαίμων	a-s---fac	εὐδαίμων	εὐδαίμων	a-s---fac	a-s---fac	
+3044	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
+3045	χώρα	n-s---fa-	χώρα	χώρα	n-s---fa-	n-s---fa-	
+3046	εἰμί	v--fnm---	εἰμί	εἰμί	v--fnm---	v--fnm---	
+3047	.	u--------	.	.	u--------	u--------	
+3048	τοσοῦτος	p-s---mn-	τοσοῦτος	τοσοῦτος	a-s---mn-	p-s---mn-	
+3049	δέ	c--------	δέ	δέ	d--------	c--------	
+3050	ἔρως	n-s---mn-	ἔρως	ἔρως	n-s---mn-	n-s---mn-	
 3051	ἐμπίπτω	v3saia---	ἐμπίτνω	ἐμπίπτω	v3saia---	v3saia---	DISAGREE
 3052	ὁ	l-p---mg-	ὁ	ὁ	l-p---mg-	l-p---mg-	
 3053	πόνος	n-p---mg-	πόνος	πόνος	n-p---mg-	n-p---mg-	
@@ -3086,7 +3086,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3085	ζεύς	n-s---mn-	ζεύς		n-s---mn-		oga_only
 3086	μέν	d--------	μέν		d--------		oga_only
 3087	πρόοιδα	v-srpamn-	πρόοιδα		v-srpamn-		oga_only
-3088	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
+3088	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 3089	σαρπηδών	n-s---fg-	σαρπηδών		n-s---fg-		oga_only
 3090	μείρομαι	v-srpefa-	μείρομαι		v-srpefa-		oga_only
 3091	,	u--------	,		u--------		oga_only
@@ -3096,10 +3096,10 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3095	μέμνων	n-s---mg-	μέμνων		n-s---mg-		oga_only
 3096	,	u--------	,	,	u--------	u--------	
 3097	ποσειδῶν	n-p---mg-	ποσειδῶν		n-p---mg-		oga_only
-3098	δέ	c--------	δέ	δέ	d--------	c--------	
-3099	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
+3098	δέ	d--------	δέ		d--------		oga_only
+3099	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
 3100	κύκνος	n-s---mg-	κύκνος		n-s---mg-		oga_only
-3101	,	u--------	,	,	u--------	u--------	
+3101	,	u--------	,		u--------		oga_only
 3102	θέτις	n-s---fn-	θέτις		n-s---fn-		oga_only
 3103	δέ	c--------	δέ		c--------		oga_only
 3104	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
@@ -3129,10 +3129,10 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3128	περί	r--------	περί	περί	r--------	r--------	
 3129	ἐκεῖνος	p-s---fg-	ἐκεῖνος	ἐκεῖνος	p-s---fg-	p-s---fg-	
 3130	κίνδυνος	n-p---mg-	κίνδυνος	κίνδυνος	n-p---mg-	n-p---mg-	
-3131	.	u--------		.		u--------	glaux_only
-3132	καί	c--------		καί		c--------	glaux_only
-3133	τίς	p-s---na-		τίς		p-s---na-	glaux_only
-3134	δέω	v3spia---		δέω		v3spia---	glaux_only
+3131	.	u--------	.	.	u--------	u--------	
+3132	καί	c--------	καί	καί	d--------	c--------	
+3133	τίς	p-s---na-	τίς	τίς	a-s---na-	p-s---na-	
+3134	δέω	v3spia---	δεῖ	δέω	v3siia---	v3spia---	DISAGREE
 3135	θαυμάζω	v--pna---	θαυμάζω	θαυμάζω	v--pna---	v--pna---	
 3136	,	u--------	,	,	u--------	u--------	
 3137	ὅς	p-p---na-	ὅς	ὅς	p-p---na-	p-p---na-	
@@ -3175,133 +3175,133 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3174	δέ	c--------	δέ	δέ	d--------	c--------	
 3175	καί	d--------	καί		d--------		oga_only
 3176	ἐκεῖνος	p-p---mn-	ἐκεῖνος		p-p---mn-		oga_only
-3177	οὗτος	p-p---na-	οὗτος		p-p---na-		oga_only
-3178	γιγνώσκω	v3paia---	γιγνώσκω		v3paia---		oga_only
-3179	,	u--------	,		u--------		oga_only
+3177	οὗτος	p-p---na-	οὗτος	οὗτος	p-p---na-	p-p---na-	
+3178	γιγνώσκω	v3paia---	γιγνώσκω	γιγνώσκω	v3paia---	v3paia---	
+3179	,	u--------	,	,	u--------	u--------	
 3180	καί	d--------	καί		d--------		oga_only
 3181	ἐγώ	p-s---mn-	ἐγώ		p-s---mn-		oga_only
-3182	τηλικοῦτος	a-p---fd-	τηλικοῦτος		a-p---fd-		oga_only
-3183	ὑπερβολή	n-p---fd-	ὑπερβολή		n-p---fd-		oga_only
-3184	ἔχω	v1spia---	ἔχω		v1spia---		oga_only
-3185	χράω2	v--anm---	χράω2		v--anm---		oga_only
-3186	περί	r--------	περί		r--------		oga_only
-3187	αὐτός	p-s---fg-	αὐτός		p-s---fg-		oga_only
-3188	·	u--------	·		u--------		oga_only
-3189	κάλλος	n-s---ng-	κάλλος		n-s---ng-		oga_only
-3190	γάρ	d--------	γάρ		d--------		oga_only
-3191	πλεῖστος	a-s---na-	πλεῖστος		a-s---na-		oga_only
-3192	μέρος	n-s---na-	μέρος		n-s---na-		oga_only
-3193	μετέχω	v3saia---	μετέχω		v3saia---		oga_only
-3194	,	u--------	,		u--------		oga_only
-3195	ὅς	p-s---nn-	ὅς		p-s---nn-		oga_only
-3196	σεμνός	a-s---nns	σεμνός		a-s---nns		oga_only
+3182	τηλικοῦτος	p-p---fd-	τηλικοῦτος	τηλικοῦτος	a-p---fd-	p-p---fd-	
+3183	ὑπερβολή	n-p---fd-	ὑπερβολή	ὑπερβολή	n-p---fd-	n-p---fd-	
+3184	ἔχω	v1spia---	ἔχω	ἔχω	v1spia---	v1spia---	
+3185	χράω	v--anm---	χράω2	χράω	v--anm---	v--anm---	
+3186	περί	r--------	περί	περί	r--------	r--------	
+3187	αὐτός	p-s---fg-	αὐτός	αὐτός	p-s---fg-	p-s---fg-	
+3188	·	u--------	·	·	u--------	u--------	
+3189	κάλλος	n-s---ng-	κάλλος	κάλλος	n-s---ng-	n-s---ng-	
+3190	γάρ	g--------	γάρ	γάρ	d--------	g--------	
+3191	πολύς	a-s---nas	πλεῖστος	πολύς	a-s---na-	a-s---nas	DISAGREE
+3192	μέρος	n-s---na-	μέρος	μέρος	n-s---na-	n-s---na-	
+3193	μετέχω	v3saia---	μετέχω	μετέχω	v3saia---	v3saia---	
+3194	,	u--------	,	,	u--------	u--------	
+3195	ὅς	p-s---nn-	ὅς	ὅς	p-s---nn-	p-s---nn-	
+3196	σεμνός	a-s---nns	σεμνός	σεμνός	a-s---nns	a-s---nns	
 3197	καί	c--------	καί	καί	d--------	c--------	
-3198	τίμιος	a-s---nns	τίμιος		a-s---nns		oga_only
-3199	καί	c--------	καί		c--------		oga_only
-3200	θεῖος	a-s---nns	θεῖος		a-s---nns		oga_only
-3201	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-3202	εἰμί	v-pppang-	εἰμί		v-pppang-		oga_only
-3203	εἰμί	v3spia---	εἰμί		v3spia---		oga_only
-3204	.	u--------	.		u--------		oga_only
-3205	ῥᾴδιος	a-s---nnc	ῥᾴδιος		a-s---nnc		oga_only
-3206	δέ	d--------	δέ		d--------		oga_only
-3207	γιγνώσκω	v--ana---	γιγνώσκω		v--ana---		oga_only
-3208	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
-3209	δύναμις	n-s---fa-	δύναμις		n-s---fa-		oga_only
-3210	αὐτός	p-s---mg-	αὐτός		p-s---mg-		oga_only
-3211							unmatched
-3212	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-3213	μέν	d--------	μέν		d--------		oga_only
-3214	γάρ	d--------	γάρ		d--------		oga_only
-3215	ἄνδριος	n-s---fg-	ἄνδριος		n-s---fg-		oga_only
+3198	τίμιος	a-s---nns	τίμιος	τίμιος	a-s---nns	a-s---nns	
+3199	καί	c--------	καί	καί	c--------	c--------	
+3200	θεῖος	a-s---nns	θεῖος	θεῖος	a-s---nns	a-s---nns	
+3201	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+3202	εἰμί	v-pppang-	εἰμί	εἰμί	v-pppang-	v-pppang-	
+3203	εἰμί	v3spia---	εἰμί	εἰμί	v3spia---	v3spia---	
+3204	.	u--------	.	.	u--------	u--------	
+3205	ῥᾴδιος	a-s---nn-	ῥᾴδιος	ῥᾴδιος	a-s---nnc	a-s---nn-	
+3206	δέ	c--------	δέ	δέ	d--------	c--------	
+3207	γιγνώσκω	v--ana---	γιγνώσκω	γιγνώσκω	v--ana---	v--ana---	
+3208	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
+3209	δύναμις	n-s---fa-	δύναμις	δύναμις	n-s---fa-	n-s---fa-	
+3210	αὐτός	p-s---mg-	αὐτός	αὐτός	p-s---mg-	p-s---mg-	
+3211	·	u--------		·		u--------	glaux_only
+3212	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+3213	μέν	g--------	μέν	μέν	d--------	g--------	
+3214	γάρ	g--------	γάρ	γάρ	d--------	g--------	
+3215	ἀνδρεία	n-s---fg-	ἄνδριος	ἀνδρεία	n-s---fg-	n-s---fg-	DISAGREE
 3216	ἤ	c--------	ἤ1	ἤ	d--------	c--------	
-3217	σοφία	n-s---fg-	σοφία		n-s---fg-		oga_only
-3218	ἤ1	c--------	ἤ1		c--------		oga_only
-3219	δικαιοσύνη	n-s---fg-	δικαιοσύνη		n-s---fg-		oga_only
-3220	μή	d--------	μή		d--------		oga_only
-3221	μετέχω	v-pppang-	μετέχω		v-pppang-		oga_only
-3222	πολύς	a-p---nn-	πολύς		a-p---nn-		oga_only
-3223	φαίνω	v3sfip---	φαίνω		v3sfip---		oga_only
-3224	τιμάω	v-pppenn-	τιμάω		v-pppenn-		oga_only
-3225	μᾶλλον	d-------c	μᾶλλον		d-------c		oga_only
-3226	ἤ1	c--------	ἤ1		c--------		oga_only
-3227	οὗτος	p-p---ng-	οὗτος		p-p---ng-		oga_only
-3228	ἕκαστος	a-s---nn-	ἕκαστος		a-s---nn-		oga_only
-3229	,	u--------	,		u--------		oga_only
-3230	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-3231	δέ	d--------	δέ		d--------		oga_only
-3232	κάλλος	n-s---ng-	κάλλος		n-s---ng-		oga_only
-3233	ἀποστερέω	v-prpeng-	ἀποστερέω		v-prpeng-		oga_only
-3234	οὐδείς	p-s---na-	οὐδείς		p-s---na-		oga_only
-3235	εὑρίσκω	v1pfia---	εὑρίσκω		v1pfia---		oga_only
-3236	ἀγαπάζω	v-sppena-	ἀγαπάζω		v-sppena-		oga_only
-3237	ἀλλά	c--------	ἀλλά		c--------		oga_only
-3238	πᾶς	a-p---na-	πᾶς		a-p---na-		oga_only
-3239	καταφρονέω	v-pppena-	καταφρονέω		v-pppena-		oga_only
-3240	,	u--------	,		u--------		oga_only
-3241	πλήν	r--------	πλήν		r--------		oga_only
-3242	ὅσος	a-p---na-	ὅσος		a-p---na-		oga_only
-3243	οὗτος	a-s---fg-	οὗτος		a-s---fg-		oga_only
-3244	ὁ	l-s---fg-	ὁ		l-s---fg-		oga_only
-3245	ἰδέα	n-s---fg-	ἰδέα		n-s---fg-		oga_only
-3246	κοινωνέω	v3sria---	κοινωνέω		v3sria---		oga_only
-3247	,	u--------	,		u--------		oga_only
-3248	καί	c--------	καί		c--------		oga_only
-3249	ὁ	l-s---fa-	ὁ		l-s---fa-		oga_only
-3250	ἀρετή	n-s---fa-	ἀρετή		n-s---fa-		oga_only
-3251	διά	r--------	διά		r--------		oga_only
-3252	οὗτος	p-s---na-	οὗτος		p-s---na-		oga_only
-3253	μάλιστα	d--------	μάλιστα		d--------		oga_only
-3254	εὐδοκιμέω	v-sppafa-	εὐδοκιμέω		v-sppafa-		oga_only
-3255	,	u--------	,		u--------		oga_only
-3256	ὅτι	c--------	ὅτι		c--------		oga_only
-3257	καλός	a-s---nns	καλός		a-s---nns		oga_only
-3258	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-3259	ἐπιτήδευμα	n-p---ng-	ἐπιτήδευμα		n-p---ng-		oga_only
-3260	εἰμί	v3spia---	εἰμί		v3spia---		oga_only
-3261							unmatched
+3217	σοφία	n-s---fg-	σοφία	σοφία	n-s---fg-	n-s---fg-	
+3218	ἤ	c--------	ἤ1	ἤ	c--------	c--------	
+3219	δικαιοσύνη	n-s---fg-	δικαιοσύνη	δικαιοσύνη	n-s---fg-	n-s---fg-	
+3220	μή	d--------	μή	μή	d--------	d--------	
+3221	μετέχω	v-pppang-	μετέχω	μετέχω	v-pppang-	v-pppang-	
+3222	πολύς	a-p---nn-	πολύς	πολύς	a-p---nn-	a-p---nn-	
+3223	φαίνω	v3sfip---	φαίνω	φαίνω	v3sfip---	v3sfip---	
+3224	τιμάω	v-pppmnn-	τιμάω	τιμάω	v-pppenn-	v-pppmnn-	
+3225	μάλα	d-------c	μᾶλλον	μάλα	d-------c	d-------c	DISAGREE
+3226	ἤ	c--------	ἤ1	ἤ	c--------	c--------	
+3227	οὗτος	p-p---ng-	οὗτος	οὗτος	p-p---ng-	p-p---ng-	
+3228	ἕκαστος	p-s---nn-	ἕκαστος	ἕκαστος	a-s---nn-	p-s---nn-	
+3229	,	u--------	,	,	u--------	u--------	
+3230	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+3231	δέ	c--------	δέ	δέ	d--------	c--------	
+3232	κάλλος	n-s---ng-	κάλλος	κάλλος	n-s---ng-	n-s---ng-	
+3233	ἀποστερέω	v-prpmng-	ἀποστερέω	ἀποστερέω	v-prpeng-	v-prpmng-	
+3234	οὐδείς	p-s---na-	οὐδείς	οὐδείς	p-s---na-	p-s---na-	
+3235	εὑρίσκω	v1pfia---	εὑρίσκω	εὑρίσκω	v1pfia---	v1pfia---	
+3236	ἀγαπάω	v-sppmna-	ἀγαπάζω	ἀγαπάω	v-sppena-	v-sppmna-	DISAGREE
+3237	ἀλλά	c--------	ἀλλά	ἀλλά	c--------	c--------	
+3238	πᾶς	p-p---na-	πᾶς	πᾶς	a-p---na-	p-p---na-	
+3239	καταφρονέω	v-pppmna-	καταφρονέω	καταφρονέω	v-pppena-	v-pppmna-	
+3240	,	u--------	,	,	u--------	u--------	
+3241	πλήν	r--------	πλήν	πλήν	r--------	r--------	
+3242	ὅσος	p-p---nn-	ὅσος	ὅσος	a-p---na-	p-p---nn-	
+3243	οὗτος	p-s---fg-	οὗτος	οὗτος	a-s---fg-	p-s---fg-	
+3244	ὁ	l-s---fg-	ὁ	ὁ	l-s---fg-	l-s---fg-	
+3245	ἰδέα	n-s---fg-	ἰδέα	ἰδέα	n-s---fg-	n-s---fg-	
+3246	κοινωνέω	v3sria---	κοινωνέω	κοινωνέω	v3sria---	v3sria---	
+3247	,	u--------	,	,	u--------	u--------	
+3248	καί	c--------	καί	καί	c--------	c--------	
+3249	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
+3250	ἀρετή	n-s---fa-	ἀρετή	ἀρετή	n-s---fa-	n-s---fa-	
+3251	διά	r--------	διά	διά	r--------	r--------	
+3252	οὗτος	p-s---na-	οὗτος	οὗτος	p-s---na-	p-s---na-	
+3253	μάλα	d-------s	μάλιστα	μάλα	d--------	d-------s	DISAGREE
+3254	εὐδοκιμέω	v-sppafa-	εὐδοκιμέω	εὐδοκιμέω	v-sppafa-	v-sppafa-	
+3255	,	u--------	,	,	u--------	u--------	
+3256	ὅτι	c--------	ὅτι	ὅτι	c--------	c--------	
+3257	καλός	a-s---nns	καλός	καλός	a-s---nns	a-s---nns	
+3258	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+3259	ἐπιτήδευμα	n-p---ng-	ἐπιτήδευμα	ἐπιτήδευμα	n-p---ng-	n-p---ng-	
+3260	εἰμί	v3spia---	εἰμί	εἰμί	v3spia---	v3spia---	
+3261	.	u--------	.	.	u--------	u--------	
 3262	γιγνώσκω	v3saoa---	γιγνώσκω	γιγνώσκω	v3saoa---	v3saoa---	
 3263	δέ	c--------	δέ	δέ	d--------	c--------	
 3264	ἄν	g--------	ἄν	ἄν	d--------	g--------	
 3265	τις	p-s---cn-	τις	τις	p-s---mn-	p-s---cn-	
 3266	καί	d--------	καί		d--------		oga_only
 3267	ἐκεῖθεν	d--------	ἐκεῖθεν		d--------		oga_only
-3268	ὅσος	a-s---na-	ὅσος		a-s---na-		oga_only
-3269	διαφέρω	v3spia---	διαφέρω		v3spia---		oga_only
-3270	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-3271	εἰμί	v-pppang-	εἰμί		v-pppang-		oga_only
-3272	,	u--------	,		u--------		oga_only
-3273	ἐκ	r--------	ἐκ		r--------		oga_only
-3274	ὅς	p-p---ng-	ὅς		p-p---ng-		oga_only
-3275	αὐτός	p-p---mn-	αὐτός		p-p---mn-		oga_only
-3276	διατίθημι	v1ppie---	διατίθημι		v1ppie---		oga_only
-3277	πρός	r--------	πρός		r--------		oga_only
-3278	ἕκαστος	a-s---ma-	ἕκαστος		a-s---ma-		oga_only
-3279	αὐτός	p-p---ng-	αὐτός		p-p---ng-		oga_only
-3280	.	u--------	.		u--------		oga_only
-3281	ὁ	l-p---ng-	ὁ		l-p---ng-		oga_only
-3282	μέν	d--------	μέν		d--------		oga_only
-3283	γάρ	d--------	γάρ		d--------		oga_only
-3284	ἄλλος	p-p---ng-	ἄλλος		p-p---ng-		oga_only
-3285	ὅς	p-p---ng-	ὅς		p-p---ng-		oga_only
-3286	ἄν	d--------	ἄν		d--------		oga_only
-3287	ἐν	r--------	ἐν		r--------		oga_only
-3288	χρεία	n-s---fd-	χρεία		n-s---fd-		oga_only
-3289	γίγνομαι	v1pasm---	γίγνομαι		v1pasm---		oga_only
-3290	,	u--------	,		u--------		oga_only
-3291	τυγχάνω	v--ana---	τυγχάνω		v--ana---		oga_only
-3292	μόνος	d--------	μόνος		d--------		oga_only
-3293	βούλομαι	v1ppie---	βούλομαι		v1ppie---		oga_only
-3294	,	u--------	,		u--------		oga_only
-3295	περαίτερος	d--------	περαίτερος		d--------		oga_only
-3296	δέ	c--------	δέ		c--------		oga_only
-3297	περί	r--------	περί		r--------		oga_only
-3298	αὐτός	p-p---ng-	αὐτός		p-p---ng-		oga_only
-3299	οὐδείς	p-s---na-	οὐδείς		p-s---na-		oga_only
-3300	ὁ	l-s---fd-	ὁ		l-s---fd-		oga_only
-3301	ψυχή	n-s---fd-	ψυχή		n-s---fd-		oga_only
-3302	προσπάσχω	v1pria---	προσπάσχω		v1pria---		oga_only
-3303	·	u--------	·		u--------		oga_only
+3268	ὅσος	p-s---na-	ὅσος	ὅσος	a-s---na-	p-s---na-	
+3269	διαφέρω	v3spia---	διαφέρω	διαφέρω	v3spia---	v3spia---	
+3270	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+3271	εἰμί	v-pppang-	εἰμί	εἰμί	v-pppang-	v-pppang-	
+3272	,	u--------	,	,	u--------	u--------	
+3273	ἐκ	r--------	ἐκ	ἐκ	r--------	r--------	
+3274	ὅς	p-p---ng-	ὅς	ὅς	p-p---ng-	p-p---ng-	
+3275	αὐτός	p-p---mn-	αὐτός	αὐτός	p-p---mn-	p-p---mn-	
+3276	διατίθημι	v1ppim---	διατίθημι	διατίθημι	v1ppie---	v1ppim---	
+3277	πρός	r--------	πρός	πρός	r--------	r--------	
+3278	ἕκαστος	p-s---ma-	ἕκαστος	ἕκαστος	a-s---ma-	p-s---ma-	
+3279	αὐτός	p-p---mg-	αὐτός	αὐτός	p-p---ng-	p-p---mg-	
+3280	.	u--------	.	.	u--------	u--------	
+3281	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
+3282	μέν	g--------	μέν	μέν	d--------	g--------	
+3283	γάρ	g--------	γάρ	γάρ	d--------	g--------	
+3284	ἄλλος	p-p---ng-	ἄλλος	ἄλλος	p-p---ng-	p-p---ng-	
+3285	ὅς	p-p---ng-	ὅς	ὅς	p-p---ng-	p-p---ng-	
+3286	ἄν	g--------	ἄν	ἄν	d--------	g--------	
+3287	ἐν	r--------	ἐν	ἐν	r--------	r--------	
+3288	χρεία	n-s---fd-	χρεία	χρεία	n-s---fd-	n-s---fd-	
+3289	γίγνομαι	v1pasm---	γίγνομαι	γίγνομαι	v1pasm---	v1pasm---	
+3290	,	u--------	,	,	u--------	u--------	
+3291	τυγχάνω	v--ana---	τυγχάνω	τυγχάνω	v--ana---	v--ana---	
+3292	μόνος	d--------	μόνος	μόνος	d--------	d--------	
+3293	βούλομαι	v1ppim---	βούλομαι	βούλομαι	v1ppie---	v1ppim---	
+3294	,	u--------	,	,	u--------	u--------	
+3295	πέρα	r--------	περαίτερος	πέρα	d--------	r--------	DISAGREE
+3296	δέ	c--------	δέ	δέ	c--------	c--------	
+3297	περί	r--------	περί	περί	r--------	r--------	
+3298	αὐτός	p-p---ng-	αὐτός	αὐτός	p-p---ng-	p-p---ng-	
+3299	οὐδείς	p-s---na-	οὐδείς	οὐδείς	p-s---na-	p-s---na-	
+3300	ὁ	l-s---fd-	ὁ	ὁ	l-s---fd-	l-s---fd-	
+3301	ψυχή	n-s---fd-	ψυχή	ψυχή	n-s---fd-	n-s---fd-	
+3302	προσπάσχω	v1pria---	προσπάσχω	προσπάσχω	v1pria---	v1pria---	
+3303	·	u--------	·	·	u--------	u--------	
 3304	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
 3305	δέ	c--------	δέ	δέ	d--------	c--------	
 3306	καλός	a-p---ng-	καλός	καλός	a-p---ng-	a-p---ng-	
@@ -3391,7 +3391,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3390	ὁ	l-p---md-	ὁ	ὁ	l-p---md-	l-p---md-	
 3391	μηδείς	p-s---na-	μηδείς	μηδείς	p-s---na-	p-s---na-	
 3392	ἐπαγγέλλω	v-pppamd-	ἐπαγγέλλω	ἐπαγγέλλω	v-pppamd-	v-pppamd-	
-3393	.	u--------		.		u--------	glaux_only
+3393	.	u--------	.	.	u--------	u--------	
 3394	καί	c--------	καί	καί	d--------	c--------	
 3395	ὁ	l-p---ma-	ὁ	ὁ	l-p---ma-	l-p---ma-	
 3396	μέν	g--------	μέν	μέν	d--------	g--------	
@@ -3483,7 +3483,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3482	ἀγαθός	a-s---na-	ἀγαθός	ἀγαθός	a-s---na-	a-s---na-	
 3483	τις	p-s---na-	τις	τις	p-s---na-	p-s---na-	
 3484	ποιέω	v-papama-	ποιέω	ποιέω	v-papama-	v-papama-	
-3485	.	u--------		.		u--------	glaux_only
+3485	.	u--------	.	.	u--------	u--------	
 3486	καί	c--------	καί	καί	d--------	c--------	
 3487	τίς	p-s---na-	τις	τίς	p-s---na-	p-s---na-	
 3488	δέω	v3spia---	δεῖ	δέω	v3spia---	v3spia---	DISAGREE
@@ -3620,13 +3620,13 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3619	περί	r--------	περί	περί	r--------	r--------	
 3620	αὐτός	p-p---ng-	αὐτός	αὐτός	p-p---ng-	p-p---ng-	
 3621	βούλομαι	v3paip---	βούλομαι	βούλομαι	v3paip---	v3paip---	
-3622	.	u--------		.		u--------	glaux_only
+3622	.	u--------	.	.	u--------	u--------	
 3623	μέγας	a-s---nns	μέγας	μέγας	a-s---nns	a-s---nns	
 3624	δέ	c--------	δέ	δέ	d--------	c--------	
 3625	ὁ	l-p---ng-	ὁ	ὁ	l-p---ng-	l-p---ng-	
 3626	λέγω	v-prpmng-	ἐρῶ	λέγω	v-prpeng-	v-prpmng-	DISAGREE
 3627	τεκμήριον	n-s---nn-	τεκμήριον	τεκμήριον	n-s---nn-	n-s---nn-	
-3628	.	u--------		.		u--------	glaux_only
+3628	.	u--------	.	.	u--------	u--------	
 3629	πολύς	a-p---mac	πλείων	πολύς	a-p---mac	a-p---mac	DISAGREE
 3630	γάρ	g--------	γάρ	γάρ	d--------	g--------	
 3631	ἄν	g--------	ἄν	ἄν	d--------	g--------	
@@ -3642,7 +3642,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3641	ἄλλος	p-p---fa-	ἄλλος	ἄλλος	p-p---fa-	p-p---fa-	
 3642	ἀρετή	n-p---fa-	ἀρετή	ἀρετή	n-p---fa-	n-p---fa-	
 3643	ἅπας	p-p---fa-	ἅπας	ἅπας	a-p---fa-	p-p---fa-	
-3644	.	u--------		.		u--------	glaux_only
+3644	.	u--------	.	.	u--------	u--------	
 3645	ὅς	p-p---ng-	ὅς	ὅς	p-p---ng-	p-p---ng-	
 3646	Ἑλένη	n-s---fn-	ἑλένη	Ἑλένη	n-s---fn-	n-s---fn-	
 3647	τοσοῦτος	p-s---nd-	τοσοῦτος	τοσοῦτος	p-s---nd-	p-s---nd-	
@@ -3801,7 +3801,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3800	θεός	n-p---md-	θεός	θεός	n-p---md-	n-p---md-	
 3801	ἀμφότερος	a-p---md-	ἀμφότερος	ἀμφότερος	a-p---md-	a-p---md-	
 3802	εἰμί	v-pppamd-	εἰμί	εἰμί	v-pppamd-	v-pppamd-	
-3803	.	u--------		.		u--------	glaux_only
+3803	.	u--------	.	.	u--------	u--------	
 3804	ἐνδείκνυμι	v3saim---	ἐνδείκνυμι	ἐνδείκνυμι	v3saim---	v3saim---	
 3805	δέ	c--------	δέ	δέ	d--------	c--------	
 3806	καί	c--------	καί	καί	d--------	c--------	
@@ -3904,7 +3904,7 @@ token_ref	lemma	postag	oga_lemma	glaux_lemma	oga_postag	glaux_postag	notes
 3903	γίγνομαι	v--anm---	γίγνομαι	γίγνομαι	v--anm---	v--anm---	
 3904	ὁ	l-s---fa-	ὁ	ὁ	l-s---fa-	l-s---fa-	
 3905	ποίησις	n-s---fa-	ποίησις	ποίησις	n-s---fa-	n-s---fa-	
-3906	.	u--------		.		u--------	glaux_only
+3906	.	u--------	.	.	u--------	u--------	
 3907	ὡς	c--------	ὡς	ὡς	c--------	c--------	
 3908	οὖν	g--------	οὖν	οὖν	d--------	g--------	
 3909	καί	c--------	καί	καί	d--------	c--------	
