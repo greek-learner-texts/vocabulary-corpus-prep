@@ -107,6 +107,7 @@ table.disc tr:hover {{ background: #fff8e1; }}
 .form {{ font-weight: 600; }}
 .ref {{ color: #999; font-size: 0.85rem; }}
 .mismatch {{ color: #e64a19; font-weight: 600; }}
+.pos-differ {{ color: #e64a19; }}
 a {{ color: #1565c0; text-decoration: none; }}
 a:hover {{ text-decoration: underline; }}
 .nav {{ font-size: 0.9rem; margin-bottom: 1rem; }}
@@ -120,6 +121,7 @@ a:hover {{ text-decoration: underline; }}
     table.disc tr:hover {{ background: #2a2510; }}
     .ref {{ color: #777; }}
     a {{ color: #7bb8e0; }}
+    .pos-differ {{ color: #ff8a65; }}
 }}
 </style>
 </head><body>
@@ -179,14 +181,16 @@ a:hover {{ text-decoration: underline; }}
                 else:
                     link_cell = ""
                 section_id = html.escape(d["section"])
+                pos_match = d["oga_postag"] == d["glaux_postag"]
+                pos_cls = "" if pos_match else ' class="pos-differ"'
                 f.write(
                     f'<tr id="{section_id}">'
                     f'<td class="ref">{section_id}</td>'
                     f'<td class="form">{html.escape(d["form"])}</td>'
                     f'<td class="mismatch">{html.escape(d["oga_lemma"])}</td>'
-                    f'<td>{html.escape(d["oga_postag"])}</td>'
+                    f'<td{pos_cls}>{html.escape(d["oga_postag"])}</td>'
                     f'<td class="mismatch">{html.escape(d["glaux_lemma"])}</td>'
-                    f'<td>{html.escape(d["glaux_postag"])}</td>'
+                    f'<td{pos_cls}>{html.escape(d["glaux_postag"])}</td>'
                     f'<td>{link_cell}</td>'
                     f'</tr>\n'
                 )
