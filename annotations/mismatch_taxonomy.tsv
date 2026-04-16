@@ -59,3 +59,63 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 ἐλάχιστος	ἐλαχύς	27	comparative_lemma	adjective_superlative	TBD	superlative of ἐλαχύς
 προσπίτνω	προσπίπτω	27	variant_lemma	spelling_variant	glaux	poetic/dialectal variant
 ἔπειμι1	ἐπέρχομαι	27	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+χαρίζομαι	χαρίζω	27	voice_lemma	middle_active	glaux	middle deponent: cite under active
+ἄπειμι1	ἀπέρχομαι	27	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+ὁτιοῦν	ὁστισοῦν	27	compound_vs_simple	pronoun	oga	ὁτιοῦν is neuter of ὁστισοῦν — same lemma family
+πρόσειμι1	προσέρχομαι	26	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+προερέω	προλέγω	25	suppletive_verb	future_stem	glaux	suppletive future: compound of ἐρῶ/λέγω
+αὐτός	αὐτοῦ	25	pos_ambiguity	pronoun_adverb	TBD	αὐτοῦ "there" (adverb) vs genitive of αὐτός
+ἀέκων	ἄκων	23	variant_lemma	spelling_variant	glaux	dialectal variant: ἀέκων = ἄκων "unwilling"
+ἐπέξειμι	ἐπεξέρχομαι	22	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+οὗτος	ταύτῃ	22	pos_ambiguity	pronoun_adverb	TBD	ταύτῃ "in this way" (adverb) vs dative of οὗτος
+ὅς	οὗ	19	pos_ambiguity	pronoun_adverb	TBD	οὗ "where" (adverb) vs genitive of ὅς
+εἴσειμι	εἰσέρχομαι	19	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+εἰκός	ἔοικα	18	pos_ambiguity	participle_adjective	glaux	εἰκός (neut. participle used as adj/noun) → ἔοικα
+ἄρχω	ἄρχων	18	pos_ambiguity	verb_noun	TBD	reverse of ἄρχων/ἄρχω — participle or verb?
+μέγαρον	Μέγαρα	18	homographic	noun_proper	TBD	τὸ μέγαρον "hall" vs Μέγαρα (city)
+ἀξία	ἄξιος	18	pos_ambiguity	noun_adjective	glaux	substantivised: ἡ ἀξία "worth" → cite under ἄξιος
+ἄλλῃ	ἄλλος	17	pos_ambiguity	adjective_adverb	glaux	adverb "elsewhere": cite under ἄλλος
+ἐκπίτνω	ἐκπίπτω	17	variant_lemma	spelling_variant	glaux	dialectal present stem variant
+αἰτωλοί	Αἰτωλός	17	capitalisation	proper_noun	glaux	capitalisation difference
+ἐρέω	λέγω	17	suppletive_verb	future_stem	glaux	suppletive future: ἐρέω = future of λέγω
+ἤ1	ἠμί	17	artefact	encoding	SKIP	OGA lemma number suffix
+ἀπαλλαξείω	ἀπαλλάσσω	16	variant_lemma	desiderative	glaux	desiderative form: cite under base verb
+ποιητέος	ποιέω	16	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἑλλήνιος	Ἑλληνίς	15	capitalisation	proper_noun	glaux	capitalisation + gender variant
+ὁ	ἕ	15	homographic	article_pronoun	TBD	article vs reflexive pronoun — context-dependent
+γίνομαι	γίγνομαι	14	variant_lemma	spelling_variant	TBD	Attic γίγνομαι vs Koine γίνομαι
+σκεπτέος	σκοπέω	13	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐμπίτνω	ἐμπίπτω	13	variant_lemma	spelling_variant	glaux	dialectal present stem variant
+δοκέω	δόξα	13	homographic	verb_noun	TBD	verb δοκέω vs noun δόξα — context-dependent
+οὑτωσί	οὕτως	13	compound_vs_simple	adverb	glaux	deictic form: cite under base adverb
+ἔξειμι2	ἐξέρχομαι	13	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+ἴωνες	Ἴων	12	capitalisation	proper_noun	glaux	capitalisation difference
+συμπίτνω	συμπίπτω	12	variant_lemma	spelling_variant	glaux	dialectal present stem variant
+προσδέομαι	προσδέω	11	voice_lemma	middle_active	glaux	middle deponent: cite under active
+ᾗπερ	ᾗ	11	compound_vs_simple	adverb	oga	ᾗπερ is emphatic form of ᾗ — own lemma
+ἄπειμι2	ἀπέρχομαι	11	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+οὐ	ὅς	11	artefact	alignment	SKIP	alignment error — negative matched to relative
+εἰμί	εἶεν	11	artefact	alignment	SKIP	alignment error — εἰμί matched to optative particle
+οἰκέω	οἰκουμένη	10	pos_ambiguity	participle_noun	TBD	ἡ οἰκουμένη "the inhabited world" — lexicalised participle
+δόξα	δοκέω	10	homographic	noun_verb	TBD	noun δόξα vs verb δοκέω (reverse of earlier)
+περίἰδέω	περιοράω	10	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω (garbled OGA lemma)
+νισαῖος	Νίσαια	10	capitalisation	proper_noun	glaux	capitalisation difference
+κατεῖδον	κατοράω	10	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+συρακόσιος	Συρακούσιος	10	capitalisation	proper_noun	glaux	capitalisation + spelling variant
+ἀπεῖπον	ἀπολέγω	10	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶπον/λέγω
+ἄνδριος	ἀνδρεία	10	homographic	adjective_noun	TBD	ethnic Ἄνδριος vs noun ἀνδρεία "courage"?
+ἦ	ὁ	10	artefact	alignment	SKIP	alignment error
+πολεμόω	πολεμέω	9	variant_lemma	spelling_variant	TBD	contract variant: -όω vs -έω
+τύχη	τυγχάνω	9	pos_ambiguity	noun_verb	TBD	noun τύχη "fortune" vs verb τυγχάνω "happen"
+ᾗπερ	ὅς	9	compound_vs_simple	pronoun	oga	ᾗπερ emphatic relative — own lemma or under ὅς
+τροπαῖος	τρόπαιον	9	pos_ambiguity	adjective_noun	TBD	adjective τροπαῖος vs noun τρόπαιον "trophy"
+ὑπέρεἶδον	ὑπεροράω	9	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω (garbled OGA lemma)
+πολύς	πόλις	9	artefact	alignment	SKIP	alignment error — different words entirely
+ἄλλος	ἀλλά	9	artefact	alignment	SKIP	alignment error
+συμμίγνυμι	συμμείγνυμι	8	variant_lemma	spelling_variant	TBD	variant spelling of compound
+ἔχθιστος	ἐχθρός	8	comparative_lemma	adjective_superlative	glaux	suppletive superlative of ἐχθρός
+βιάω	βιάζω	8	variant_lemma	spelling_variant	glaux	variant: βιάω vs βιάζω
+χίλιος	χίλιοι	8	variant_lemma	singular_plural	TBD	singular vs plural citation form
+κάτειμι	κατέρχομαι	8	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+ἔσπλοος	εἴσπλοος	8	variant_lemma	spelling_variant	TBD	variant compound prefix spelling
+μένδης	Μένδη	8	capitalisation	proper_noun	glaux	capitalisation difference
