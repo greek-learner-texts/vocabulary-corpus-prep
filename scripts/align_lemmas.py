@@ -211,6 +211,11 @@ def align_tokens(
     """
     result = {}
     si = 0
+    # Build index for looking up previous token
+    prev_form = {}
+    for i, (tid, form) in enumerate(our_tokens):
+        if i > 0:
+            prev_form[tid] = our_tokens[i - 1][1]
 
     for token_id, our_form in our_tokens:
         if si >= len(source_tokens):
@@ -230,10 +235,16 @@ def align_tokens(
         if is_punct(our_form):
             continue
 
-        # Our crasis/negation split prefix: we split κἀγώ → κ + ἀγώ
+        # Our crasis/negation split: we split κἀγώ → κ + ἀγώ
         # or οὐδέ → οὐ + δέ. Source has the combined form.
-        # Skip our prefix; next token will need to match.
+        # Skip BOTH halves of our split (source already advanced past the combined form).
         if our_form in ("κ", "τ", "οὐ", "οὔ", "μη", "μή", "εἴ"):
+            # First half — don't advance source
+            continue
+        # Check if this is the second half of a split (δέ, τε, δ', etc.)
+        pf = prev_form.get(token_id, "")
+        if pf in ("κ", "τ", "οὐ", "οὔ", "μη", "μή", "εἴ"):
+            # Second half of split — source already advanced, skip
             continue
 
         # Source token is punctuation, we don't have it — skip source
@@ -247,19 +258,36 @@ def align_tokens(
                 si += 1
                 continue
 
-        # Source has hyphenated crasis parts (-τε, κα-, etc.)
-        if si < len(source_tokens) and (
-            source_tokens[si]["form"].startswith("-")
-            or source_tokens[si]["form"].endswith("-")
-        ):
-            si += 1
-            if si < len(source_tokens):
-                src = source_tokens[si]
-                src_n = norm(src["form"])
-                if our_n == src_n or fold(our_n) == fold(src_n):
-                    result[token_id] = {"lemma": src["lemma"], "postag": src["postag"]}
-                    si += 1
-                    continue
+        # Source has hyphenated crasis/enclitic parts (-τε, κα-, etc.)
+        if si < len(source_tokens):
+            sf = source_tokens[si]["form"]
+            if sf.endswith("-"):
+                # Source prefix (κα-, τα-, etc.) — skip it, next source token
+                # should be the main part that matches our combined form
+                si += 1
+                if si < len(source_tokens):
+                    src = source_tokens[si]
+                    src_n = norm(src["form"])
+                    if our_n == src_n or fold(our_n) == fold(src_n):
+                        result[token_id] = {"lemma": src["lemma"], "postag": src["postag"]}
+                        si += 1
+                        continue
+                    # Try stripping leading hyphen/coronis from source
+                    stripped = src["form"].lstrip("-")
+                    if fold(our_n) == fold(stripped):
+                        result[token_id] = {"lemma": src["lemma"], "postag": src["postag"]}
+                        si += 1
+                        continue
+            elif sf.startswith("-"):
+                # Source enclitic (-τε, -δ', etc.) — skip it
+                si += 1
+                if si < len(source_tokens):
+                    src = source_tokens[si]
+                    src_n = norm(src["form"])
+                    if our_n == src_n or fold(our_n) == fold(src_n):
+                        result[token_id] = {"lemma": src["lemma"], "postag": src["postag"]}
+                        si += 1
+                        continue
 
         # Look ahead in source (max 8)
         found = False
