@@ -146,12 +146,9 @@ a:hover {{ text-decoration: underline; }}
 """)
 
         # Top navigation
-        nav = '<div class="nav"><a href="index.html">← Index</a>'
-        if prev_id:
-            nav += f' · <a href="{prev_id}.html">← Prev</a>'
-        if next_id:
-            nav += f' · <a href="{next_id}.html">Next →</a>'
-        nav += '</div>\n'
+        prev_link = f'<a href="{prev_id}.html">← Prev</a>' if prev_id else '<span style="visibility:hidden">← Prev</span>'
+        next_link = f'<a href="{next_id}.html">Next →</a>' if next_id else '<span style="visibility:hidden">Next →</span>'
+        nav = f'<div class="nav">{prev_link} · <a href="index.html">Index</a> · {next_link}</div>\n'
         f.write(nav)
 
         # Summary bar
