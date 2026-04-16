@@ -1,0 +1,197 @@
+#!/usr/bin/env python3
+"""
+Generate HTML discrepancy reports for lemma alignment.
+
+Reads: one/{work_id}/lemma.tsv, token.tsv, token_section.tsv
+Writes: reports/lemma/{work_id}.html
+"""
+
+import html
+from pathlib import Path
+from collections import Counter
+
+REPO_DIR = Path(__file__).parent.parent
+ONE_DIR = REPO_DIR / "one"
+REPORT_DIR = REPO_DIR / "reports" / "lemma"
+
+
+def load_work(work_id: str) -> dict:
+    """Load all data for a work."""
+    # Tokens
+    tokens = {}
+    for line in open(ONE_DIR / work_id / "token.tsv"):
+        if line.startswith("token_id\t"):
+            continue
+        parts = line.rstrip("\n").split("\t")
+        tokens[parts[0]] = parts[1]
+
+    # Token → section mapping
+    token_section = {}
+    for line in open(ONE_DIR / work_id / "token_section.tsv"):
+        if line.startswith("section_ref\t"):
+            continue
+        parts = line.rstrip("\n").split("\t")
+        token_section[parts[1]] = parts[0]
+
+    # Lemmas
+    lemmas = []
+    for line in open(ONE_DIR / work_id / "lemma.tsv"):
+        if line.startswith("token_ref\t"):
+            continue
+        parts = line.rstrip("\n").split("\t")
+        while len(parts) < 8:
+            parts.append("")
+        lemmas.append({
+            "token_id": parts[0],
+            "lemma": parts[1],
+            "postag": parts[2],
+            "oga_lemma": parts[3],
+            "glaux_lemma": parts[4],
+            "oga_postag": parts[5],
+            "glaux_postag": parts[6],
+            "notes": parts[7],
+            "form": tokens.get(parts[0], ""),
+            "section": token_section.get(parts[0], ""),
+        })
+
+    return {"tokens": tokens, "lemmas": lemmas}
+
+
+def generate_report(work_id: str, work_title: str) -> None:
+    """Generate an HTML discrepancy report."""
+    data = load_work(work_id)
+    lemmas = data["lemmas"]
+
+    total = len(lemmas)
+    disagree = [l for l in lemmas if l["notes"] == "DISAGREE"]
+    unmatched = [l for l in lemmas if l["notes"] == "unmatched"]
+    oga_only = [l for l in lemmas if l["notes"] == "oga_only"]
+    glaux_only = [l for l in lemmas if l["notes"] == "glaux_only"]
+    agree = total - len(disagree) - len(unmatched) - len(oga_only) - len(glaux_only)
+
+    # Disagreement analysis
+    disagree_types = Counter()
+    for d in disagree:
+        if d["oga_lemma"] and d["glaux_lemma"]:
+            disagree_types["lemma"] += 1
+
+    REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = REPORT_DIR / f"{work_id}.html"
+
+    with open(out_path, "w") as f:
+        f.write(f"""<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<title>Lemma Report: {html.escape(work_title)}</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+body {{ max-width: 1000px; margin: 2rem auto; font-family: 'Noto Sans', sans-serif;
+    font-size: 15px; line-height: 1.6; color: #222; background: #fafafa; }}
+h1 {{ font-size: 1.4rem; color: #333; border-bottom: 2px solid #333; padding-bottom: 0.5rem; }}
+h2 {{ font-size: 1.1rem; color: #555; margin-top: 2rem; }}
+.summary {{ background: #fff; border: 1px solid #ddd; padding: 1.5rem; border-radius: 4px; margin-bottom: 2rem; }}
+.summary td, .summary th {{ padding: 4px 12px; text-align: left; }}
+.bar {{ display: inline-block; height: 16px; border-radius: 2px; }}
+.bar-agree {{ background: #4caf50; }}
+.bar-disagree {{ background: #e64a19; }}
+.bar-single {{ background: #2196f3; }}
+.bar-unmatched {{ background: #bbb; }}
+table.disc {{ border-collapse: collapse; width: 100%; margin-bottom: 1.5rem; }}
+table.disc th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px; border-bottom: 2px solid #ddd; }}
+table.disc td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
+table.disc tr:hover {{ background: #fff8e1; }}
+.form {{ font-weight: 600; }}
+.ref {{ color: #999; font-size: 0.85rem; }}
+.mismatch {{ color: #e64a19; font-weight: 600; }}
+@media (prefers-color-scheme: dark) {{
+    body {{ color: #ddd; background: #1a1a1a; }}
+    h1 {{ color: #eee; border-bottom-color: #555; }}
+    h2 {{ color: #bbb; }}
+    .summary {{ background: #252525; border-color: #444; }}
+    table.disc th {{ background: #2a2a2a; border-bottom-color: #444; }}
+    table.disc td {{ border-bottom-color: #333; }}
+    table.disc tr:hover {{ background: #2a2510; }}
+    .ref {{ color: #777; }}
+}}
+</style>
+</head><body>
+<h1>{html.escape(work_title)} — Lemma Report</h1>
+""")
+
+        # Summary bar
+        w = 600
+        agree_w = int(agree / total * w) if total else 0
+        disagree_w = int(len(disagree) / total * w) if total else 0
+        single_w = int((len(oga_only) + len(glaux_only)) / total * w) if total else 0
+        unmatched_w = w - agree_w - disagree_w - single_w
+
+        f.write(f"""<div class="summary">
+<p><strong>{total:,}</strong> tokens</p>
+<div>
+<span class="bar bar-agree" style="width:{agree_w}px" title="Agree: {agree:,}"></span><!--
+--><span class="bar bar-disagree" style="width:{disagree_w}px" title="Disagree: {len(disagree):,}"></span><!--
+--><span class="bar bar-single" style="width:{single_w}px" title="One source: {len(oga_only)+len(glaux_only):,}"></span><!--
+--><span class="bar bar-unmatched" style="width:{unmatched_w}px" title="Unmatched: {len(unmatched):,}"></span>
+</div>
+<table>
+<tr><td>🟢 Both agree</td><td><strong>{agree:,}</strong> ({agree/total*100:.1f}%)</td></tr>
+<tr><td>🔴 Disagree</td><td><strong>{len(disagree):,}</strong> ({len(disagree)/total*100:.1f}%)</td></tr>
+<tr><td>🔵 One source only</td><td><strong>{len(oga_only)+len(glaux_only):,}</strong> (OGA: {len(oga_only):,}, Glaux: {len(glaux_only):,})</td></tr>
+<tr><td>⚪ Unmatched</td><td><strong>{len(unmatched):,}</strong> ({len(unmatched)/total*100:.1f}%)</td></tr>
+</table>
+</div>
+""")
+
+        # Disagreements table
+        if disagree:
+            f.write(f"<h2>Disagreements ({len(disagree):,})</h2>\n")
+            f.write('<table class="disc">\n')
+            f.write("<tr><th>Ref</th><th>Form</th><th>OGA lemma</th><th>OGA POS</th><th>Glaux lemma</th><th>Glaux POS</th></tr>\n")
+            for d in disagree:
+                f.write(
+                    f'<tr>'
+                    f'<td class="ref">{html.escape(d["section"])}</td>'
+                    f'<td class="form">{html.escape(d["form"])}</td>'
+                    f'<td class="mismatch">{html.escape(d["oga_lemma"])}</td>'
+                    f'<td>{html.escape(d["oga_postag"])}</td>'
+                    f'<td class="mismatch">{html.escape(d["glaux_lemma"])}</td>'
+                    f'<td>{html.escape(d["glaux_postag"])}</td>'
+                    f'</tr>\n'
+                )
+            f.write("</table>\n")
+
+        # Unmatched tokens (first 100)
+        if unmatched:
+            f.write(f"<h2>Unmatched ({len(unmatched):,})</h2>\n")
+            shown = unmatched[:100]
+            f.write('<table class="disc">\n')
+            f.write("<tr><th>Ref</th><th>Form</th></tr>\n")
+            for u in shown:
+                f.write(
+                    f'<tr><td class="ref">{html.escape(u["section"])}</td>'
+                    f'<td>{html.escape(u["form"])}</td></tr>\n'
+                )
+            if len(unmatched) > 100:
+                f.write(f'<tr><td colspan="2">... and {len(unmatched)-100} more</td></tr>\n')
+            f.write("</table>\n")
+
+        f.write("</body></html>\n")
+
+
+def main():
+    # Load work titles
+    titles = {}
+    for line in open(ONE_DIR / "works.tsv"):
+        if line.startswith("work_id\t"):
+            continue
+        parts = line.rstrip("\n").split("\t")
+        titles[parts[0]] = f"{parts[1]}, {parts[2]}"
+
+    for work_id, title in sorted(titles.items()):
+        generate_report(work_id, title)
+
+    print(f"Generated {len(titles)} reports in {REPORT_DIR}/")
+
+
+if __name__ == "__main__":
+    main()
