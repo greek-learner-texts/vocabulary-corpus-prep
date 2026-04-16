@@ -322,7 +322,7 @@ a:hover {{ text-decoration: underline; }}
 </style>
 </head><body>
 <h1>Lemma Mismatches — By Type</h1>
-<div class="nav"><a href="../lemma/index.html">← Lemma Index</a></div>
+<div class="nav"><a href="../index.html">← Lemma Index</a></div>
 <p><strong>{len(sorted_types):,}</strong> mismatch types, <strong>{len(all_mismatches):,}</strong> total tokens</p>
 <table>
 <tr><th class="num">Count</th><th>OGA lemma</th><th>Glaux lemma</th><th>Sample forms</th></tr>
@@ -381,7 +381,7 @@ a:hover {{ text-decoration: underline; }}
             for m in instances:
                 f.write(
                     f'<tr>'
-                    f'<td><a href="../lemma/{m["work_id"]}.html">{html.escape(m["work_id"])}</a></td>'
+                    f'<td><a href="../{m["work_id"]}.html">{html.escape(m["work_id"])}</a></td>'
                     f'<td class="ref">{html.escape(m["section"])}</td>'
                     f'<td class="form">{html.escape(m["form"])}</td>'
                     f'<td>{html.escape(m["oga_postag"])}</td>'
