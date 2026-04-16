@@ -57,10 +57,12 @@ def load_work(work_id: str) -> dict:
     return {"tokens": tokens, "lemmas": lemmas}
 
 
-def generate_report(work_id: str, work_title: str, *, prev_id: str | None = None, next_id: str | None = None) -> None:
+def generate_report(work_id: str, work_title: str, *, prev_id: str | None = None, next_id: str | None = None, type_slugs: dict | None = None) -> None:
     """Generate an HTML discrepancy report."""
     data = load_work(work_id)
     lemmas = data["lemmas"]
+    if type_slugs is None:
+        type_slugs = {}
 
     total = len(lemmas)
     disagree = [l for l in lemmas if l["notes"] == "DISAGREE"]
@@ -69,11 +71,11 @@ def generate_report(work_id: str, work_title: str, *, prev_id: str | None = None
     glaux_only = [l for l in lemmas if l["notes"] == "glaux_only"]
     agree = total - len(disagree) - len(unmatched) - len(oga_only) - len(glaux_only)
 
-    # Disagreement analysis
-    disagree_types = Counter()
+    # Count distinct mismatch types
+    disagree_type_set = set()
     for d in disagree:
-        if d["oga_lemma"] and d["glaux_lemma"]:
-            disagree_types["lemma"] += 1
+        disagree_type_set.add((d["oga_lemma"], d["glaux_lemma"]))
+    n_types = len(disagree_type_set)
 
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     out_path = REPORT_DIR / f"{work_id}.html"
@@ -148,7 +150,7 @@ a:hover {{ text-decoration: underline; }}
 </div>
 <table>
 <tr><td>🟢 Both agree</td><td><strong>{agree:,}</strong> ({agree/total*100:.1f}%)</td></tr>
-<tr><td>🔴 Disagree</td><td><strong>{len(disagree):,}</strong> ({len(disagree)/total*100:.1f}%)</td></tr>
+<tr><td>🔴 Disagree</td><td><strong>{len(disagree):,}</strong> tokens ({len(disagree)/total*100:.1f}%) — <strong>{n_types}</strong> distinct types</td></tr>
 <tr><td>🔵 One source only</td><td><strong>{len(oga_only)+len(glaux_only):,}</strong> (OGA: {len(oga_only):,}, Glaux: {len(glaux_only):,})</td></tr>
 <tr><td>⚪ Unmatched</td><td><strong>{len(unmatched):,}</strong> ({len(unmatched)/total*100:.1f}%)</td></tr>
 </table>
@@ -157,17 +159,25 @@ a:hover {{ text-decoration: underline; }}
 
         # Disagreements table
         if disagree:
-            f.write(f"<h2>Disagreements ({len(disagree):,})</h2>\n")
+            f.write(f"<h2>Disagreements ({len(disagree):,} tokens, {n_types} types)</h2>\n")
             f.write('<table class="disc">\n')
             f.write("<tr><th>Ref</th><th>Form</th><th>OGA lemma</th><th>OGA POS</th><th>Glaux lemma</th><th>Glaux POS</th></tr>\n")
             for d in disagree:
+                key = (d["oga_lemma"], d["glaux_lemma"])
+                slug = type_slugs.get(key, "")
+                if slug:
+                    oga_cell = f'<a href="mismatches/{slug}.html">{html.escape(d["oga_lemma"])}</a>'
+                    glaux_cell = f'<a href="mismatches/{slug}.html">{html.escape(d["glaux_lemma"])}</a>'
+                else:
+                    oga_cell = html.escape(d["oga_lemma"])
+                    glaux_cell = html.escape(d["glaux_lemma"])
                 f.write(
                     f'<tr>'
                     f'<td class="ref">{html.escape(d["section"])}</td>'
                     f'<td class="form">{html.escape(d["form"])}</td>'
-                    f'<td class="mismatch">{html.escape(d["oga_lemma"])}</td>'
+                    f'<td class="mismatch">{oga_cell}</td>'
                     f'<td>{html.escape(d["oga_postag"])}</td>'
-                    f'<td class="mismatch">{html.escape(d["glaux_lemma"])}</td>'
+                    f'<td class="mismatch">{glaux_cell}</td>'
                     f'<td>{html.escape(d["glaux_postag"])}</td>'
                     f'</tr>\n'
                 )
@@ -408,25 +418,11 @@ def main():
         })
 
     work_ids = [w["work_id"] for w in works]
-    work_stats = []
+
+    # Pass 1: collect all mismatches to build type→slug mapping
     all_mismatches = []
-
-    for i, w in enumerate(works):
-        prev_id = work_ids[i - 1] if i > 0 else None
-        next_id = work_ids[i + 1] if i < len(works) - 1 else None
-        full_title = f"{w['author']}, {w['title']}"
-
-        generate_report(w["work_id"], full_title, prev_id=prev_id, next_id=next_id)
-
-        # Collect stats and mismatches
+    for w in works:
         data = load_work(w["work_id"])
-        lemmas = open(ONE_DIR / w["work_id"] / "lemma.tsv").readlines()[1:]
-        total = len(lemmas)
-        disagree = sum(1 for l in lemmas if "DISAGREE" in l)
-        unmatched = sum(1 for l in lemmas if l.rstrip("\n").split("\t")[-1] == "unmatched")
-        agree = total - disagree - unmatched - sum(1 for l in lemmas if "only" in l.split("\t")[-1])
-
-        # Collect disagreements for mismatch pages
         for entry in data["lemmas"]:
             if entry["notes"] == "DISAGREE":
                 all_mismatches.append({
@@ -438,6 +434,31 @@ def main():
                     "oga_postag": entry["oga_postag"],
                     "glaux_postag": entry["glaux_postag"],
                 })
+
+    # Build type→slug mapping (sorted by frequency)
+    from collections import defaultdict
+    by_type: dict[tuple[str, str], list] = defaultdict(list)
+    for m in all_mismatches:
+        by_type[(m["oga_lemma"], m["glaux_lemma"])].append(m)
+    sorted_types = sorted(by_type.items(), key=lambda x: -len(x[1]))
+    type_slugs = {key: f"m{i:04d}" for i, (key, _) in enumerate(sorted_types)}
+
+    # Pass 2: generate per-work reports (with slug links)
+    work_stats = []
+    for i, w in enumerate(works):
+        prev_id = work_ids[i - 1] if i > 0 else None
+        next_id = work_ids[i + 1] if i < len(works) - 1 else None
+        full_title = f"{w['author']}, {w['title']}"
+
+        generate_report(w["work_id"], full_title,
+                        prev_id=prev_id, next_id=next_id, type_slugs=type_slugs)
+
+        # Collect stats for index
+        lemmas = open(ONE_DIR / w["work_id"] / "lemma.tsv").readlines()[1:]
+        total = len(lemmas)
+        disagree = sum(1 for l in lemmas if "DISAGREE" in l)
+        unmatched = sum(1 for l in lemmas if l.rstrip("\n").split("\t")[-1] == "unmatched")
+        agree = total - disagree - unmatched - sum(1 for l in lemmas if "only" in l.split("\t")[-1])
 
         work_stats.append({
             "work_id": w["work_id"],
