@@ -119,3 +119,97 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 κάτειμι	κατέρχομαι	8	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
 ἔσπλοος	εἴσπλοος	8	variant_lemma	spelling_variant	TBD	variant compound prefix spelling
 μένδης	Μένδη	8	capitalisation	proper_noun	glaux	capitalisation difference
+ὅς	εἰμί	8	artefact	alignment	SKIP	alignment error
+πάρειμι1	παρέρχομαι	7	artefact	encoding	SKIP	OGA lemma number suffix
+ξυνετός	συνετός	7	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+ἐν	ἔνειμι	7	artefact	alignment	SKIP	alignment error
+σύνεἶδον	συνοράω	7	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+εἰμί	ὅς	7	artefact	alignment	SKIP	alignment error
+ἦ	εἰμί	7	artefact	alignment	SKIP	alignment error
+περίειμι1	περιέρχομαι	6	artefact	encoding	SKIP	OGA lemma number suffix
+ὦ	εἰμί	6	artefact	alignment	SKIP	alignment error
+ὦ	ὅς	6	artefact	alignment	SKIP	alignment error
+ἐν	εἷς	6	artefact	alignment	SKIP	alignment error
+σύνειμι1	συνέρχομαι	5	artefact	encoding	SKIP	OGA lemma number suffix
+εἰμί	ἔρχομαι	5	artefact	alignment	SKIP	alignment error
+ἤ1	εἰμί	5	artefact	encoding	SKIP	OGA lemma number suffix
+πρόειμι2	προέρχομαι	4	artefact	encoding	SKIP	OGA lemma number suffix
+ἀξύνετος	ἀσύνετος	4	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+πρόειμι1	προέρχομαι	4	artefact	encoding	SKIP	OGA lemma number suffix
+ὑπεῖπον	ὑπολέγω	3	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶπον/λέγω
+συνεῖπον	συλλέγω	3	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶπον/λέγω
+περίεἶδον	περιοράω	3	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+ἤ1	ὅς	3	artefact	encoding	SKIP	OGA lemma number suffix
+ὅς	ὦ	3	artefact	alignment	SKIP	alignment error
+σύνλέγω1	συλλέγω	2	artefact	encoding	SKIP	OGA lemma number suffix
+ἀξυνεσία	ἀσυνεσία	2	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+σύνειμι1	συνᾴδω	2	artefact	encoding	SKIP	OGA lemma number suffix
+ξυστράτηγος	συστράτηγος	2	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+μέτειμι2	μετέρχομαι	2	artefact	encoding	SKIP	OGA lemma number suffix
+ἀντίἔπειμι2	ἀντέπειμι	2	artefact	encoding	SKIP	OGA lemma number suffix
+ἐν	εἰμί	2	artefact	alignment	SKIP	alignment error
+σύνλέγω2	συλλέγω	2	artefact	encoding	SKIP	OGA lemma number suffix
+κατεῖπον	καταλέγω	2	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶπον/λέγω
+ὁ	εἰμί	2	artefact	alignment	SKIP	alignment error
+πάρειμι1	παρίημι	1	artefact	encoding	SKIP	OGA lemma number suffix
+δέω2	δέον	1	artefact	encoding	SKIP	OGA lemma number suffix
+περίειμι1	περιέννυμι	1	artefact	encoding	SKIP	OGA lemma number suffix
+ξυλλογή	συλλογή	1	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+ξυστασιάζω	συστασιάζω	1	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+σύνλέγω1	λέγω	1	artefact	encoding	SKIP	OGA lemma number suffix
+ὕπειμι1	ὑπέρχομαι	1	artefact	encoding	SKIP	OGA lemma number suffix
+προσεῖπον	προσλέγω	1	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶπον/λέγω
+ἄπειμι2	ἄπιστος	1	artefact	encoding	SKIP	OGA lemma number suffix
+πρόσειμι1	προσᾴδω	1	artefact	encoding	SKIP	OGA lemma number suffix
+ἦ	ὅς	1	artefact	alignment	SKIP	alignment error
+ὁ	ἦ	1	artefact	alignment	SKIP	alignment error
+εἰμί	ὁ	1	artefact	alignment	SKIP	alignment error
+πάρειμι2	παρέρχομαι	1	artefact	encoding	SKIP	OGA lemma number suffix
+ὅς	ἕ	1	artefact	alignment	SKIP	alignment error
+ἀλλά	ἄλλος	8	artefact	alignment	SKIP	alignment error — conjunction vs adjective
+ὑπήκους	ὑπήκοος	7	variant_lemma	spelling_variant	glaux	accusative plural form vs standard lemma
+ψηφίζομαι	ψηφίζω	7	voice_lemma	middle_active	glaux	middle: cite under active
+προεῖδον	προοράω	7	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+πλησίος	πλησίον	7	pos_ambiguity	adjective_adverb	TBD	adjective or adverb
+ξύλλογος	σύλλογος	7	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+τάχος	ταχύς	7	pos_ambiguity	noun_adjective	TBD	noun τάχος vs adjective ταχύς (κατὰ τάχος)
+ἀττική	Ἀττικός	7	capitalisation	proper_noun	glaux	capitalisation difference
+ἐκτείνω	κτείνω	7	variant_lemma	compound_simple	TBD	compound ἐκ- vs simple form
+πάσχω	πείθω	7	artefact	alignment	SKIP	alignment error — different words
+ἄριστον	ἀγαθός	7	comparative_lemma	adjective_superlative	glaux	τὸ ἄριστον or neuter superlative of ἀγαθός
+ἀμφίπολος	Ἀμφίπολις	7	homographic	noun_proper	TBD	noun ἀμφίπολος "servant" vs city Ἀμφίπολις
+τορώνης	Τορώνη	7	capitalisation	proper_noun	glaux	capitalisation difference
+κλεαρίδης	Κλεαρίδας	7	capitalisation	proper_noun	glaux	capitalisation + spelling variant
+σκιρίτης	Σκιρῖται	7	capitalisation	proper_noun	glaux	capitalisation difference
+χάρις	χάριν	7	related_form	noun_adverb	TBD	noun χάρις vs adverbial χάριν "for the sake of"
+χαβρίης	Χαβρίας	7	capitalisation	proper_noun	glaux	capitalisation + dialectal variant
+χίων	Χῖος	6	capitalisation	proper_noun	glaux	capitalisation difference
+δέχομαι	δείκνυμι	6	artefact	alignment	SKIP	alignment error — different words
+φιλονεικία	φιλονικία	6	variant_lemma	spelling_variant	glaux	spelling variant
+κατεῖδον	καθοράω	6	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+ἐπίἐπικουρέω	ἐπικουρέω	6	artefact	encoding	SKIP	garbled OGA compound lemma
+πειράζω	πειράω	6	variant_lemma	spelling_variant	TBD	-άζω vs -άω variant
+βυζάντιοv	Βυζάντιον	6	capitalisation	proper_noun	glaux	capitalisation + encoding (Latin v)
+παιδικόν	παιδικός	6	pos_ambiguity	noun_adjective	TBD	substantivised τὰ παιδικά
+πελληνεύς	Πελλήνη	6	capitalisation	proper_noun	glaux	capitalisation + ethnic vs place
+ἐλασσοῦμαι	ἐλασσόω	6	voice_lemma	middle_active	glaux	middle: cite under active
+προνοοῦμαι	προνοέω	6	voice_lemma	middle_active	glaux	middle: cite under active
+σίφας	Σῖφαι	6	capitalisation	proper_noun	glaux	capitalisation difference
+δήλιος	Δήλιον	6	capitalisation	proper_noun	glaux	ethnic vs place name
+ἀρραβαῖος	Ἀρριβαῖος	6	capitalisation	proper_noun	glaux	capitalisation + spelling variant
+νομίμως	νόμιμος	6	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+βασίλειον	βασίλεια	6	pos_ambiguity	noun_noun	TBD	neuter τὸ βασίλειον vs feminine ἡ βασίλεια
+τετταράκοντα	τεσσαράκοντα	6	variant_lemma	spelling_variant	glaux	Attic ττ vs standard σσ
+σύ	σός	6	homographic	pronoun_adjective	TBD	pronoun σύ vs possessive σός
+καλλίης	Καλλίας	6	capitalisation	proper_noun	glaux	capitalisation + dialectal variant
+ξυνεχές	συνεχής	5	variant_lemma	dialect_prefix	glaux	Attic ξυν- vs standard συν-
+κατάἕζομαι	καθέζομαι	5	artefact	encoding	SKIP	garbled OGA compound lemma
+δέομαι	δέω	5	voice_lemma	middle_active	glaux	middle: cite under active
+πρόσειμι	προσέρχομαι	5	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+γνῶσις	γιγνώσκω	5	pos_ambiguity	noun_verb	TBD	noun γνῶσις vs verb γιγνώσκω
+νέος	νεώτερος	5	comparative_lemma	adjective_comparative	TBD	comparative: cite under positive?
+ἀνθιστάω	ἀνθίστημι	5	variant_lemma	spelling_variant	glaux	variant compound form
+ἠνδραποδίζω	ἀνδραποδίζω	5	variant_lemma	augment_variant	glaux	augmented vs unaugmented citation
+πηγή	Πηγαί	5	homographic	noun_proper	TBD	noun πηγή "spring" vs place Πηγαί
+κατάκαθέζομαι	καθέζομαι	5	artefact	encoding	SKIP	garbled OGA compound lemma
+ὀξέως	ὀξύς	5	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
