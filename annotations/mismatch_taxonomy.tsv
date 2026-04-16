@@ -1,0 +1,61 @@
+oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
+μᾶλλον	μάλα	508	comparative_lemma	adverb_comparative	glaux	comparative adverb: cite under positive μάλα
+εἶπον	λέγω	439	suppletive_verb	aorist_stem	glaux	suppletive aorist: εἶπον is aorist of λέγω
+μάλιστα	μάλα	369	comparative_lemma	adverb_superlative	glaux	superlative adverb: cite under positive μάλα
+δεῖ	δέω	355	homographic	verb_ambiguity	glaux	δεῖ = "it is necessary" → δέω (not δέω "bind")
+ἐπεί	ἐπειδή	314	related_form	conjunction	oga	ἐπεί and ἐπειδή: OGA keeps ἐπεί for both
+̔	(	255	artefact	encoding	SKIP	encoding artefact, not a real lemma disagreement
+ἐρῶ	λέγω	243	suppletive_verb	future_stem	glaux	suppletive future: ἐρῶ is future of λέγω
+πλείων	πολύς	231	comparative_lemma	adjective_comparative	glaux	comparative adj: cite under positive πολύς
+ὅς	ὁ	195	homographic	pronoun_article	TBD	relative pronoun ὅς vs article ὁ — needs form-level check
+πελοποννήσιοι	Πελοποννήσιος	176	capitalisation	proper_noun	glaux	capitalisation difference only
+πλεῖστος	πολύς	176	comparative_lemma	adjective_superlative	glaux	superlative adj: cite under positive πολύς
+ἄν	ἐάν	144	related_form	particle_conjunction	oga	ἄν (modal particle) ≠ ἐάν (conditional conjunction)
+ὅσπερ	ὅς	141	compound_vs_simple	pronoun	oga	ὅσπερ is its own lemma, not ὅς
+ὕστερος	ὕστερον	138	pos_ambiguity	adjective_adverb	TBD	adjective or adverb — context-dependent
+χράομαι	χράω	126	voice_lemma	middle_active	glaux	χράομαι is conventionally middle; cite under χράω
+πρῶτος	πρότερος	123	comparative_lemma	adjective_superlative	TBD	πρῶτος: superlative of πρό or its own lemma?
+ἐλάσσων	ἐλαχύς	118	comparative_lemma	adjective_comparative	TBD	comparative: cite under ἐλαχύς or μικρός?
+εἶμι	ἔρχομαι	115	suppletive_verb	present_stem	glaux	suppletive present: εἶμι = "I will go" → ἔρχομαι
+πλέος	πολύς	115	comparative_lemma	variant_form	glaux	variant/poetic form of πολύς
+εἶδον	ὁράω	102	suppletive_verb	aorist_stem	glaux	suppletive aorist: εἶδον is aorist of ὁράω
+κρείσσων	κρατύς	90	comparative_lemma	adjective_comparative	TBD	comparative: cite under κρατύς or ἀγαθός?
+κερυκυραῖος	Κερκυραῖος	85	capitalisation	proper_noun	glaux	capitalisation + spelling variant
+ἱερόν	ἱερός	79	pos_ambiguity	noun_adjective	TBD	substantivised adjective: τὸ ἱερόν "temple"
+ἄλλως	ἄλλος	76	pos_ambiguity	adjective_adverb	glaux	adverb form: cite under adjective ἄλλος
+βελτίων	ἀγαθός	70	comparative_lemma	adjective_comparative	glaux	suppletive comparative of ἀγαθός
+πότερον	πότερος	65	pos_ambiguity	adjective_adverb	TBD	adverb or pronoun — context-dependent
+εἰκότως	ἔοικα	63	pos_ambiguity	participle_adverb	glaux	adverb from perfect participle: cite under ἔοικα
+βέλτιστος	ἀγαθός	63	comparative_lemma	adjective_superlative	glaux	suppletive superlative of ἀγαθός
+ἀμείνων	ἀγαθός	61	comparative_lemma	adjective_comparative	glaux	suppletive comparative of ἀγαθός
+ἄριστος	ἀγαθός	60	comparative_lemma	adjective_superlative	glaux	suppletive superlative of ἀγαθός
+ἥκιστος	ἦκα	57	comparative_lemma	adverb_superlative	TBD	superlative adverb: ἥκιστα from ἧκα? (rare positive)
+σκέπτομαι	σκοπέω	57	voice_lemma	middle_active	glaux	σκέπτομαι is middle; cite under active σκοπέω
+ναυτικόν	ναυτικός	56	pos_ambiguity	noun_adjective	TBD	substantivised adjective: τὸ ναυτικόν "fleet"
+χείρων	κακός	56	comparative_lemma	adjective_comparative	glaux	suppletive comparative of κακός
+θρᾳκία	Θρᾴκη	55	capitalisation	proper_noun	glaux	capitalisation + variant spelling of Thrace
+ἀφεστήξω	ἀφίστημι	54	variant_lemma	compound_verb	glaux	future form: cite under ἀφίστημι
+ὅτι	ὅστις	51	homographic	pronoun_conjunction	TBD	ὅτι "that/because" vs ὅ τι "whatever"
+μεσσήνιοι	Μεσσήνιος	51	capitalisation	proper_noun	glaux	capitalisation difference
+μυτιληναῖοι	Μυτιληναῖος	48	capitalisation	proper_noun	glaux	capitalisation difference
+καταλιμπάνω	καταλείπω	47	variant_lemma	spelling_variant	glaux	dialectal spelling: -λιμπ- vs -λειπ-
+αἴρω	ἀείρω	40	variant_lemma	spelling_variant	TBD	contracted vs uncontracted form
+ὅς	ᾗ	39	homographic	pronoun_adverb	TBD	relative pronoun ὅς vs adverb ᾗ "where"
+ἔθω	εἴωθα	38	variant_lemma	perfect_stem	TBD	present ἔθω vs perfect εἴωθα as citation
+ἤ1	ὁ	38	artefact	encoding	SKIP	OGA lemma number suffix — encoding artefact
+κράτιστος	κρατύς	37	comparative_lemma	adjective_superlative	TBD	superlative: cite under κρατύς or ἀγαθός?
+διανοέομαι	διανοέω	34	voice_lemma	middle_active	glaux	middle deponent: cite under active
+ὁ	ὅς	33	homographic	article_pronoun	TBD	article vs relative pronoun (reverse of ὅς/ὁ)
+προεῖπον	προλέγω	32	suppletive_verb	aorist_stem	glaux	suppletive aorist: cite under compound λέγω
+ἦ	ἠμί	31	variant_lemma	verb_form	glaux	ἦ = "said" → cite under ἠμί
+ἔπειμι2	ἐπέρχομαι	30	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+ἄρχων	ἄρχω	30	pos_ambiguity	participle_noun	TBD	participle/noun: ὁ ἄρχων "the ruler"
+ὁ	ἤ	30	artefact	alignment	SKIP	alignment error — article matched to disjunction
+ἀπολιμπάνω	ἀπολείπω	29	variant_lemma	spelling_variant	glaux	dialectal spelling variant
+ἀντεῖπον	ἀντιλέγω	29	suppletive_verb	aorist_stem	glaux	suppletive aorist: compound of εἶπον/λέγω
+ἡδέως	ἡδύς	29	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective ἡδύς
+σύ	τοι	28	homographic	pronoun_particle	TBD	dative σοι vs particle τοι
+διέξειμι	διεξέρχομαι	28	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+ἐλάχιστος	ἐλαχύς	27	comparative_lemma	adjective_superlative	TBD	superlative of ἐλαχύς
+προσπίτνω	προσπίπτω	27	variant_lemma	spelling_variant	glaux	poetic/dialectal variant
+ἔπειμι1	ἐπέρχομαι	27	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
