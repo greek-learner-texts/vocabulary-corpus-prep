@@ -13,6 +13,15 @@ from collections import Counter
 REPO_DIR = Path(__file__).parent.parent
 
 
+def _nfc(s: str) -> str:
+    import unicodedata
+    return unicodedata.normalize("NFC", s)
+
+
+def _nfc_key(oga: str, glaux: str) -> tuple[str, str]:
+    return (_nfc(oga), _nfc(glaux))
+
+
 def highlight_pos_diff(pos_a: str, pos_b: str) -> tuple[str, str]:
     """Return HTML for two POS tags with differing positions wrapped in <span class="pos-differ">."""
     if pos_a == pos_b or not pos_a or not pos_b:
@@ -320,9 +329,94 @@ Of the lemmatised: <strong>{total_agree:,}</strong> both sources agree ·
         f.write("</table>\n</body></html>\n")
 
 
+def load_taxonomy() -> dict[tuple[str, str], dict]:
+    """Load mismatch taxonomy TSV."""
+    import unicodedata
+    taxonomy = {}
+    tax_path = REPO_DIR / "annotations" / "mismatch_taxonomy.tsv"
+    if not tax_path.exists():
+        return taxonomy
+    for line in open(tax_path):
+        if line.startswith("oga_lemma\t"):
+            continue
+        parts = line.rstrip("\n").split("\t")
+        while len(parts) < 7:
+            parts.append("")
+        # Normalise to NFC for consistent matching
+        key = (unicodedata.normalize("NFC", parts[0]), unicodedata.normalize("NFC", parts[1]))
+        taxonomy[key] = {
+            "category": parts[3],
+            "subcategory": parts[4],
+            "resolution": parts[5],
+            "notes": parts[6],
+        }
+    return taxonomy
+
+
+# Category descriptions for the category pages
+CATEGORY_DESCRIPTIONS = {
+    "comparative_lemma": (
+        "Comparative/Superlative Lemmatisation",
+        "Whether to cite comparative and superlative forms under the positive degree. "
+        "E.g., should μᾶλλον be lemmatised as μᾶλλον (OGA) or μάλα (Glaux)? "
+        "Standard lexicographic practice (and learner dictionaries) cite under the positive."
+    ),
+    "suppletive_verb": (
+        "Suppletive Verb Stems",
+        "Greek verbs with different stems for different tenses. "
+        "E.g., εἶπον (aorist) → λέγω (present); εἶδον → ὁράω; εἶμι → ἔρχομαι. "
+        "Standard practice cites under the present tense stem."
+    ),
+    "homographic": (
+        "Homographic Ambiguity",
+        "Forms that are genuinely ambiguous — the same string represents different words. "
+        "E.g., ὅς (relative pronoun) vs ὁ (article); δεῖ from δέω 'need' vs δέω 'bind'. "
+        "These require context-level adjudication."
+    ),
+    "pos_ambiguity": (
+        "Part-of-Speech Ambiguity",
+        "Forms where the part of speech is ambiguous. "
+        "E.g., ὕστερον (adjective or adverb?); τὸ ναυτικόν (substantivised adjective or noun?); "
+        "ὁ ἄρχων (participle or lexicalised noun?)."
+    ),
+    "related_form": (
+        "Related Forms",
+        "Cases where two closely related lemmas exist and sources disagree on which to use. "
+        "E.g., ἐπεί vs ἐπειδή; ἄν (modal particle) vs ἐάν (conditional conjunction)."
+    ),
+    "capitalisation": (
+        "Capitalisation Differences",
+        "Proper nouns where the only difference is capitalisation or minor spelling. "
+        "Not a real lemma disagreement — can be auto-resolved."
+    ),
+    "artefact": (
+        "Alignment/Encoding Artefacts",
+        "Not real lemma disagreements. Caused by encoding issues, alignment errors, "
+        "or OGA lemma number suffixes."
+    ),
+    "variant_lemma": (
+        "Variant Lemma Forms",
+        "Different spelling or dialect variants of the same word used as citation form. "
+        "E.g., καταλιμπάνω vs καταλείπω; αἴρω vs ἀείρω."
+    ),
+    "voice_lemma": (
+        "Active/Middle Citation Form",
+        "Whether to cite a deponent or middle-only verb under the active or middle form. "
+        "E.g., χράομαι (middle) vs χράω (active); σκέπτομαι vs σκοπέω."
+    ),
+    "compound_vs_simple": (
+        "Compound vs Simple Lemma",
+        "Whether a compound form gets its own lemma or is cited under the simple form. "
+        "E.g., ὅσπερ as its own lemma or under ὅς."
+    ),
+}
+
+
 def generate_mismatch_index(all_mismatches: list[dict]) -> None:
-    """Generate mismatch type index and per-type pages."""
+    """Generate mismatch type index, per-type pages, and category pages."""
     from collections import defaultdict
+
+    taxonomy = load_taxonomy()
 
     # Group by (oga_lemma, glaux_lemma)
     by_type: dict[tuple[str, str], list[dict]] = defaultdict(list)
@@ -332,6 +426,7 @@ def generate_mismatch_index(all_mismatches: list[dict]) -> None:
 
     # Sort by frequency
     sorted_types = sorted(by_type.items(), key=lambda x: -len(x[1]))
+    type_to_slug = {key: f"m{i:04d}" for i, (key, _) in enumerate(sorted_types)}
 
     MISMATCH_DIR = REPORT_DIR / "mismatches"
     MISMATCH_DIR.mkdir(parents=True, exist_ok=True)
@@ -366,20 +461,27 @@ a:hover {{ text-decoration: underline; }}
 </style>
 </head><body>
 <h1>Lemma Mismatches — By Type</h1>
-<div class="nav"><a href="../index.html">← Lemma Index</a></div>
+<div class="nav"><a href="../index.html">← Lemma Index</a> · <a href="categories.html">By Category</a></div>
 <p><strong>{len(sorted_types):,}</strong> mismatch types, <strong>{len(all_mismatches):,}</strong> total tokens</p>
 <table>
-<tr><th class="num">Count</th><th>OGA lemma</th><th>Glaux lemma</th><th>Sample forms</th></tr>
+<tr><th class="num">Count</th><th>OGA lemma</th><th>Glaux lemma</th><th>Category</th><th>Sample forms</th></tr>
 """)
         for i, ((oga, glaux), instances) in enumerate(sorted_types):
             slug = f"m{i:04d}"
             forms = sorted(set(m["form"] for m in instances))[:5]
             form_str = ", ".join(forms)
+            tax = taxonomy.get(_nfc_key(oga, glaux))
+            if tax:
+                cat = tax["category"]
+                cat_label = f'<a href="cat_{cat}.html">{cat}</a>'
+            else:
+                cat_label = '<span style="color:#bbb">—</span>'
             f.write(
                 f'<tr>'
                 f'<td class="num"><a href="{slug}.html">{len(instances)}</a></td>'
                 f'<td>{html.escape(oga)}</td>'
                 f'<td>{html.escape(glaux)}</td>'
+                f'<td style="font-size:0.85rem">{cat_label}</td>'
                 f'<td style="font-size:0.85rem;color:#777">{html.escape(form_str)}</td>'
                 f'</tr>\n'
             )
@@ -420,7 +522,18 @@ a:hover {{ text-decoration: underline; }}
 </head><body>
 <h1>OGA: <em>{html.escape(oga)}</em> vs Glaux: <em>{html.escape(glaux)}</em></h1>
 <div class="nav"><a href="index.html">← Mismatch Index</a></div>
-<p><strong>{len(instances)}</strong> occurrences</p>
+""")
+            tax = taxonomy.get(_nfc_key(oga, glaux))
+            if tax:
+                cat = tax["category"]
+                cat_title = CATEGORY_DESCRIPTIONS.get(cat, (cat, ""))[0]
+                res = tax["resolution"]
+                notes = tax["notes"]
+                f.write(f'<p>Category: <a href="cat_{cat}.html"><strong>{html.escape(cat_title)}</strong></a>')
+                if res and res not in ("TBD", "SKIP"):
+                    f.write(f' · Resolution: <strong>{html.escape(res)}</strong>')
+                f.write(f'<br><span style="color:#777">{html.escape(notes)}</span></p>\n')
+            f.write(f"""<p><strong>{len(instances)}</strong> occurrences</p>
 <table>
 <tr><th>Work</th><th>Section</th><th>Form</th><th>OGA POS</th><th>Glaux POS</th></tr>
 """)
@@ -438,7 +551,112 @@ a:hover {{ text-decoration: underline; }}
                 )
             f.write("</table>\n</body></html>\n")
 
-    print(f"  Generated {len(sorted_types)} mismatch type pages")
+    # Category pages
+    from collections import defaultdict as dd
+    cats: dict[str, list[tuple[tuple[str, str], str, int]]] = dd(list)
+    for (oga, glaux), instances in sorted_types:
+        tax = taxonomy.get(_nfc_key(oga, glaux))
+        if tax:
+            slug = type_to_slug[(oga, glaux)]
+            cats[tax["category"]].append(((oga, glaux), slug, len(instances)))
+
+    # Category index
+    with open(MISMATCH_DIR / "categories.html", "w") as f:
+        f.write(f"""<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Mismatch Categories</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+body {{ max-width: 900px; margin: 2rem auto; font-family: 'Noto Sans', sans-serif;
+    font-size: 15px; line-height: 1.6; color: #222; background: #fafafa; }}
+h1 {{ font-size: 1.4rem; color: #333; border-bottom: 2px solid #333; padding-bottom: 0.5rem; }}
+.nav {{ font-size: 0.9rem; margin-bottom: 1rem; }}
+table {{ border-collapse: collapse; width: 100%; }}
+th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px; border-bottom: 2px solid #ddd; }}
+td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
+.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
+a {{ color: #1565c0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+@media (prefers-color-scheme: dark) {{
+    body {{ color: #ddd; background: #1a1a1a; }}
+    h1 {{ color: #eee; border-bottom-color: #555; }}
+    th {{ background: #2a2a2a; border-bottom-color: #444; }}
+    td {{ border-bottom-color: #333; }}
+    a {{ color: #7bb8e0; }}
+}}
+</style></head><body>
+<h1>Mismatch Categories</h1>
+<div class="nav"><a href="index.html">← By Type</a> · <a href="../index.html">Lemma Index</a></div>
+<table>
+<tr><th>Category</th><th class="num">Types</th><th class="num">Tokens</th><th>Description</th></tr>
+""")
+        for cat in sorted(cats, key=lambda c: -sum(n for _, _, n in cats[c])):
+            title, desc = CATEGORY_DESCRIPTIONS.get(cat, (cat, ""))
+            n_types = len(cats[cat])
+            n_tokens = sum(n for _, _, n in cats[cat])
+            f.write(
+                f'<tr>'
+                f'<td><a href="cat_{cat}.html">{html.escape(title)}</a></td>'
+                f'<td class="num">{n_types}</td>'
+                f'<td class="num">{n_tokens:,}</td>'
+                f'<td style="font-size:0.85rem">{html.escape(desc[:80])}{"..." if len(desc) > 80 else ""}</td>'
+                f'</tr>\n'
+            )
+        f.write("</table>\n</body></html>\n")
+
+    # Per-category pages
+    for cat, types in cats.items():
+        title, desc = CATEGORY_DESCRIPTIONS.get(cat, (cat, ""))
+        total_tokens = sum(n for _, _, n in types)
+        with open(MISMATCH_DIR / f"cat_{cat}.html", "w") as f:
+            f.write(f"""<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>{html.escape(title)}</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap');
+body {{ max-width: 900px; margin: 2rem auto; font-family: 'Noto Sans', sans-serif;
+    font-size: 15px; line-height: 1.6; color: #222; background: #fafafa; }}
+h1 {{ font-size: 1.3rem; color: #333; }}
+.nav {{ font-size: 0.9rem; margin-bottom: 1rem; }}
+.desc {{ background: #fff; border: 1px solid #ddd; padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; }}
+table {{ border-collapse: collapse; width: 100%; }}
+th {{ background: #f5f5f5; font-weight: 600; text-align: left; padding: 6px 10px; border-bottom: 2px solid #ddd; }}
+td {{ padding: 5px 10px; border-bottom: 1px solid #eee; }}
+.num {{ text-align: right; font-variant-numeric: tabular-nums; }}
+.res {{ font-size: 0.85rem; }}
+a {{ color: #1565c0; text-decoration: none; }}
+a:hover {{ text-decoration: underline; }}
+@media (prefers-color-scheme: dark) {{
+    body {{ color: #ddd; background: #1a1a1a; }}
+    h1 {{ color: #eee; }}
+    .desc {{ background: #252525; border-color: #444; }}
+    th {{ background: #2a2a2a; border-bottom-color: #444; }}
+    td {{ border-bottom-color: #333; }}
+    a {{ color: #7bb8e0; }}
+}}
+</style></head><body>
+<h1>{html.escape(title)}</h1>
+<div class="nav"><a href="categories.html">← Categories</a> · <a href="index.html">By Type</a></div>
+<div class="desc">{html.escape(desc)}</div>
+<p><strong>{len(types)}</strong> types, <strong>{total_tokens:,}</strong> tokens</p>
+<table>
+<tr><th class="num">Count</th><th>OGA lemma</th><th>Glaux lemma</th><th>Resolution</th><th>Notes</th></tr>
+""")
+            for (oga, glaux), slug, n in sorted(types, key=lambda x: -x[2]):
+                tax = taxonomy.get(_nfc_key(oga, glaux), {})
+                res = tax.get("resolution", "")
+                notes = tax.get("notes", "")
+                f.write(
+                    f'<tr>'
+                    f'<td class="num"><a href="{slug}.html">{n}</a></td>'
+                    f'<td>{html.escape(oga)}</td>'
+                    f'<td>{html.escape(glaux)}</td>'
+                    f'<td class="res">{html.escape(res)}</td>'
+                    f'<td class="res" style="color:#777">{html.escape(notes)}</td>'
+                    f'</tr>\n'
+                )
+            f.write("</table>\n</body></html>\n")
+
+    n_categorised = sum(len(v) for v in cats.values())
+    print(f"  Generated {len(sorted_types)} type pages, {len(cats)} category pages ({n_categorised} types categorised)")
 
 
 def main():
