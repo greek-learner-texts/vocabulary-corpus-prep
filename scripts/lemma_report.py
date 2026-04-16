@@ -161,24 +161,20 @@ a:hover {{ text-decoration: underline; }}
         if disagree:
             f.write(f"<h2>Disagreements ({len(disagree):,} tokens, {n_types} types)</h2>\n")
             f.write('<table class="disc">\n')
-            f.write("<tr><th>Ref</th><th>Form</th><th>OGA lemma</th><th>OGA POS</th><th>Glaux lemma</th><th>Glaux POS</th></tr>\n")
+            f.write("<tr><th>Ref</th><th>Form</th><th>OGA lemma</th><th>OGA POS</th><th>Glaux lemma</th><th>Glaux POS</th><th></th></tr>\n")
             for d in disagree:
                 key = (d["oga_lemma"], d["glaux_lemma"])
                 slug = type_slugs.get(key, "")
-                if slug:
-                    oga_cell = f'<a href="mismatches/{slug}.html">{html.escape(d["oga_lemma"])}</a>'
-                    glaux_cell = f'<a href="mismatches/{slug}.html">{html.escape(d["glaux_lemma"])}</a>'
-                else:
-                    oga_cell = html.escape(d["oga_lemma"])
-                    glaux_cell = html.escape(d["glaux_lemma"])
+                link_cell = f'<a href="mismatches/{slug}.html">all</a>' if slug else ""
                 f.write(
                     f'<tr>'
                     f'<td class="ref">{html.escape(d["section"])}</td>'
                     f'<td class="form">{html.escape(d["form"])}</td>'
-                    f'<td class="mismatch">{oga_cell}</td>'
+                    f'<td class="mismatch">{html.escape(d["oga_lemma"])}</td>'
                     f'<td>{html.escape(d["oga_postag"])}</td>'
-                    f'<td class="mismatch">{glaux_cell}</td>'
+                    f'<td class="mismatch">{html.escape(d["glaux_lemma"])}</td>'
                     f'<td>{html.escape(d["glaux_postag"])}</td>'
+                    f'<td>{link_cell}</td>'
                     f'</tr>\n'
                 )
             f.write("</table>\n")
