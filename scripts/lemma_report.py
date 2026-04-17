@@ -401,7 +401,7 @@ CATEGORY_DESCRIPTIONS = {
     ),
     "voice_lemma": (
         "Active/Middle Citation Form",
-        "Whether to cite a deponent or middle-only verb under the active or middle form. "
+        "Whether to cite a middle-only verb under the active or middle form. "
         "E.g., χράομαι (middle) vs χράω (active); σκέπτομαι vs σκοπέω."
     ),
     "compound_vs_simple": (

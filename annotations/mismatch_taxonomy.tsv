@@ -44,7 +44,7 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 ἔθω	εἴωθα	38	variant_lemma	perfect_stem	TBD	present ἔθω vs perfect εἴωθα as citation
 ἤ1	ὁ	38	artefact	encoding	SKIP	OGA lemma number suffix — encoding artefact
 κράτιστος	κρατύς	37	comparative_lemma	adjective_superlative	TBD	superlative: cite under κρατύς or ἀγαθός?
-διανοέομαι	διανοέω	34	voice_lemma	middle_active	glaux	middle deponent: cite under active
+διανοέομαι	διανοέω	34	voice_lemma	middle_active	glaux	middle: cite under active
 ὁ	ὅς	33	homographic	article_pronoun	TBD	article vs relative pronoun (reverse of ὅς/ὁ)
 προεῖπον	προλέγω	32	suppletive_verb	aorist_stem	glaux	suppletive aorist: cite under compound λέγω
 ἦ	ἠμί	31	variant_lemma	verb_form	glaux	ἦ = "said" → cite under ἠμί
@@ -59,7 +59,7 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 ἐλάχιστος	ἐλαχύς	27	comparative_lemma	adjective_superlative	TBD	superlative of ἐλαχύς
 προσπίτνω	προσπίπτω	27	variant_lemma	spelling_variant	glaux	poetic/dialectal variant
 ἔπειμι1	ἐπέρχομαι	27	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
-χαρίζομαι	χαρίζω	27	voice_lemma	middle_active	glaux	middle deponent: cite under active
+χαρίζομαι	χαρίζω	27	voice_lemma	middle_active	glaux	middle: cite under active
 ἄπειμι1	ἀπέρχομαι	27	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
 ὁτιοῦν	ὁστισοῦν	27	compound_vs_simple	pronoun	oga	ὁτιοῦν is neuter of ὁστισοῦν — same lemma family
 πρόσειμι1	προσέρχομαι	26	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
@@ -91,7 +91,7 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 ἔξειμι2	ἐξέρχομαι	13	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
 ἴωνες	Ἴων	12	capitalisation	proper_noun	glaux	capitalisation difference
 συμπίτνω	συμπίπτω	12	variant_lemma	spelling_variant	glaux	dialectal present stem variant
-προσδέομαι	προσδέω	11	voice_lemma	middle_active	glaux	middle deponent: cite under active
+προσδέομαι	προσδέω	11	voice_lemma	middle_active	glaux	middle: cite under active
 ᾗπερ	ᾗ	11	compound_vs_simple	adverb	oga	ᾗπερ is emphatic form of ᾗ — own lemma
 ἄπειμι2	ἀπέρχομαι	11	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
 οὐ	ὅς	11	artefact	alignment	SKIP	alignment error — negative matched to relative
