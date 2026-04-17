@@ -598,7 +598,7 @@ a:hover {{ text-decoration: underline; }}
                 f'<td><a href="cat_{cat}.html">{html.escape(title)}</a></td>'
                 f'<td class="num">{n_types}</td>'
                 f'<td class="num">{n_tokens:,}</td>'
-                f'<td style="font-size:0.85rem">{html.escape(desc[:80])}{"..." if len(desc) > 80 else ""}</td>'
+                f'<td style="font-size:0.85rem">{html.escape(desc)}</td>'
                 f'</tr>\n'
             )
         f.write("</table>\n</body></html>\n")
