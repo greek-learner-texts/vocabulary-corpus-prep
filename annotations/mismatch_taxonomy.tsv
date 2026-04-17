@@ -213,3 +213,183 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 πηγή	Πηγαί	5	homographic	noun_proper	TBD	noun πηγή "spring" vs place Πηγαί
 κατάκαθέζομαι	καθέζομαι	5	artefact	encoding	SKIP	garbled OGA compound lemma
 ὀξέως	ὀξύς	5	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+καί	ἄν	5	artefact	alignment	SKIP	alignment error
+πρακτέος	πράσσω	5	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐράομαι	ἐράω	5	voice_lemma	middle_active	glaux	middle: cite under active
+ὅς	ἤ	5	artefact	alignment	SKIP	alignment error
+αἰφνιδίως	αἰφνίδιος	4	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+ὁ	τῷ	4	artefact	alignment	SKIP	alignment error
+εἰμί	εἰσσέω	4	artefact	alignment	SKIP	alignment error
+ὑπερεῖδον	ὑπεροράω	4	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+εἷς	ἐν	4	artefact	alignment	SKIP	alignment error
+ἐάν	εἰμί	4	artefact	alignment	SKIP	alignment error
+ἀντερῶ	ἀντιλέγω	3	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶπον/λέγω
+τις	ὁ	3	artefact	alignment	SKIP	alignment error
+ἐπιχειρητέον	ἐπιχειρέω	3	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+κατάκάθημαι	κάθημαι	3	artefact	encoding	SKIP	garbled OGA compound lemma
+τῷ	ὁ	3	artefact	alignment	SKIP	alignment error
+ὅς	ἄν	3	artefact	alignment	SKIP	alignment error
+πειρατέος	πειράω	3	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+συστρατεύομαι	συστρατεύω	3	voice_lemma	middle_active	glaux	middle: cite under active
+φυλακτέος	φυλάσσω	3	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ὁ	τις	3	artefact	alignment	SKIP	alignment error
+οὖν	ὅς	3	artefact	alignment	SKIP	alignment error
+εἰμί	ἤ	3	artefact	alignment	SKIP	alignment error
+ἤ	ὁ	3	artefact	alignment	SKIP	alignment error
+εἰμί	ἐάν	3	artefact	alignment	SKIP	alignment error
+εἰμί	ἠμί	3	artefact	alignment	SKIP	alignment error
+ὁ	ἠμί	3	artefact	alignment	SKIP	alignment error
+τυνδάρεως	Τυνδάρεος	2	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+ἀποχράομαι	ἀποχράω	2	voice_lemma	middle_active	glaux	middle: cite under active
+πολεμητέος	πολεμέω	2	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+συνεπιλαμβάνομαι	συνεπιλαμβάνω	2	voice_lemma	middle_active	glaux	middle: cite under active
+ἀντιλαμβάνομαι	ἀντιλαμβάνω	2	voice_lemma	middle_active	glaux	middle: cite under active
+ἐπικατάρχομαι	ἐφέπω	2	artefact	encoding	SKIP	garbled OGA compound lemma
+ὑποκρίνομαι	ὑποκρίνω	2	voice_lemma	middle_active	glaux	middle: cite under active
+φευκτέος	φεύγω	2	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+οὖν	ἐν	2	artefact	alignment	SKIP	alignment error
+ἀποστατέον	ἀφίστημι	2	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+περιστοιχίζομαι	περιστοιχίζω	2	voice_lemma	middle_active	glaux	middle: cite under active
+σέβομαι	σέβω	2	voice_lemma	middle_active	glaux	middle: cite under active
+ἐπιλανθάνομαι	ἐπιλανθάνω	2	voice_lemma	middle_active	glaux	middle: cite under active
+ἀπολογητέον	ἀπολογέω	2	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἀδικητέον	ἀδικέω	2	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+λεπτόγεως	λεπτόγειος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+προκατάρχομαι	προκατάρχω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἀντίκατάἕζομαι	ἀντικαθέζομαι	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐπιχράομαι	ἐπιχράω	1	voice_lemma	middle_active	glaux	middle: cite under active
+παριτητέος	παριτητέα	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+βουλευτέος	βουλεύω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+παραδοτέος	παραδίδωμι	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+διακριτέος	διακρίνω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+τιμωρητέος	τιμωρέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἀνθεκτέος	ἀντέχω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+καθαιρετέος	καθαιρέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+βουλευτέον	συμβουλεύω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ὑπομενετέος	ὑπομενετέον	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐναντιόομαι	ἐναντιόω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐπίκαταφέρω	ἐπικατάγομαι	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἀνταποφαίνομαι	ἀνταποφαίνω	1	voice_lemma	middle_active	glaux	middle: cite under active
+πωλέομαι	πωλέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀφήμως	ἄφημος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+ἱππάρεως	Ἱππάγρετος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+καταβιάζομαι	καταβιάζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+μονόομαι	μονόω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀναδέομαι	ἀναδέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ὀκνητέον	ὀκνέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐναμίλλως	ἐνάμιλλος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+μεταχειρίζομαι	μεταχειρίζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+διαλεκτέον	διαλέγω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐπεῖδον	ἐφοράω	1	suppletive_verb	aorist_stem	glaux	suppletive: compound of εἶδον/ὁράω
+βοηθητέον	βοηθητέος	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἀθυμητέον	ἀθυμέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐνθυμητέον	ἐνθυμέομαι	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+πλευστέος	πλέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+πονέομαι	πονέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+προαιρετέον	προαιρέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+δεικτέος	δείκνυμι	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐξεταστέος	ἐξεταστέον	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+καταισχύνομαι	καταισχύνω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐξιτητέον	ἐξέρχομαι	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἀφεκτέον	ἀπέχω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+αἰκίζομαι	αἰκίζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+συναποδοκιμάζομαι	συναποδοκιμάζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+περιδινέομαι	περιδινέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀθρεπτέον	ἀθρητέον	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ζητητέος	ζητέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+συνδέομαι	συνδέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+πειστέος	πείθω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+γυμναστέος	γυμνάζω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐδεστέον	ἐσθίω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ποτέος	πίνω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+φροντιστέον	φροντίζω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἐξαπατητέον	ἐξαπατάω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ὑπεικτέον	ὑπείκω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+ἀναχωρητέον	ἀναχωρέω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+λειπτέον	λείπω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+μενετέον	μένω	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective in -τέος: cite under verb
+τελέως	τέλειος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+ὅς	ἠμί	1	artefact	alignment	SKIP	alignment error
+καταδιαιτάομαι	καταδιαιτάω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἦρι	ἔαρ	5	variant_lemma	spelling_variant	glaux	poetic/dialectal form of ἔαρ "spring"
+μῆλον	Μῆλος	5	homographic	noun_proper	TBD	μῆλον "apple/sheep" vs Μῆλος (island)
+αὐθήμερος	αὐθημερόν	5	pos_ambiguity	adjective_adverb	TBD	adjective or adverb
+σιτάλκος	Σιτάλκας	5	capitalisation	proper_noun	glaux	capitalisation + dialectal variant
+ἀμφιλοχία	Ἀμφιλοχίη	5	capitalisation	proper_noun	glaux	capitalisation + dialectal variant
+ὀδρυσῶν	Ὀδρύσης	5	capitalisation	proper_noun	glaux	capitalisation difference
+ἠών	Ἠδῶνες	5	capitalisation	proper_noun	glaux	capitalisation + variant
+κακοπαθέω	ταλαιπωρέω	5	artefact	alignment	SKIP	alignment error — different words
+οὗπερ	ὅς	5	compound_vs_simple	pronoun	oga	emphatic relative: own lemma or under ὅς
+μακράν	μακρός	5	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+μινῷος	Μινῴα	5	capitalisation	proper_noun	glaux	capitalisation difference
+εὐεργετέω	εὐεργέτης	5	pos_ambiguity	verb_noun	TBD	verb vs noun — context-dependent
+φιλία	φίλιος	5	pos_ambiguity	noun_adjective	TBD	noun φιλία vs adjective φίλιος
+σικελοί	Σικελός	5	capitalisation	proper_noun	glaux	capitalisation difference
+σύνειμι	συνίημι	5	homographic	verb_verb	TBD	σύνειμι "be with" vs συνίημι "understand"
+κύθηρα	Κύθηρος	5	capitalisation	proper_noun	glaux	capitalisation difference
+σύνειμι	συνέρχομαι	5	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+ἐπίσταμαι	ἐφίστημι	5	homographic	verb_verb	TBD	ἐπίσταμαι "know" vs ἐφίστημι "set over"
+ἑαυτοῦ	αὐτός	5	related_form	pronoun	TBD	reflexive ἑαυτοῦ vs αὐτός
+ἔρομαι	λέγω	5	suppletive_verb	present_stem	glaux	suppletive: ἔρομαι "ask" → λέγω family
+κάλως	καλός	5	pos_ambiguity	noun_adjective	TBD	noun κάλως "cable" vs adjective καλός
+πύλη	Πύλαι	5	homographic	noun_proper	TBD	πύλη "gate" vs Πύλαι (place)
+ἐπισκέπτομαι	ἐπισκοπέω	5	voice_lemma	middle_active	glaux	middle: cite under active
+ἐφίστημι	ἐπίσταμαι	5	homographic	verb_verb	TBD	reverse: ἐφίστημι vs ἐπίσταμαι
+οὗτος	αὐτός	5	artefact	alignment	SKIP	alignment error — demonstrative vs pronoun
+οὐράνιος	Οὐρανία	5	homographic	adjective_proper	TBD	adjective οὐράνιος vs proper Οὐρανία
+κίλισσα	Κίλιξ	5	capitalisation	proper_noun	glaux	ethnic variant
+ἐκτίνω	κτίζω	4	artefact	alignment	SKIP	alignment error — different words
+ἔξεστι	ἐξέρχομαι	4	artefact	alignment	SKIP	alignment error — different words
+ἀφιστάω	ἀφίστημι	4	variant_lemma	spelling_variant	glaux	variant form of compound
+ἐναντίον	ἐναντίος	4	pos_ambiguity	adjective_adverb	glaux	adverb/preposition: cite under adjective
+πρόειμι	προέρχομαι	4	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+κλεινίας	Κλείνιος	4	capitalisation	proper_noun	glaux	capitalisation + variant
+αἴγινα	Αἰγίνη	4	capitalisation	proper_noun	glaux	capitalisation + variant
+τήρης	Τηρεύς	4	capitalisation	proper_noun	glaux	capitalisation + variant
+θρᾷξ	Θρᾴκιος	4	capitalisation	proper_noun	glaux	ethnic variant
+ληιστής	λῃστής	4	variant_lemma	spelling_variant	glaux	dialectal spelling
+κρανίον	Κράνιος	4	capitalisation	proper_noun	glaux	capitalisation difference
+ἐπιέζω	ἐφέζομαι	4	artefact	alignment	SKIP	alignment error — different words
+ναύπάκτου	Ναύπακτος	4	capitalisation	proper_noun	glaux	capitalisation difference
+ἐπισυμβουλεύω	ἐπιβοηθέω	4	artefact	alignment	SKIP	alignment error — different words
+λευκαδίος	Λευκαδία	4	capitalisation	proper_noun	glaux	capitalisation difference
+σεύω	Σεύθης	4	homographic	verb_proper	TBD	verb σεύω "drive" vs proper Σεύθης
+πλαταιός	Πλάταια	4	capitalisation	proper_noun	glaux	ethnic vs place
+δίειμι	διέρχομαι	4	suppletive_verb	present_stem	glaux	suppletive: εἶμι compound → ἔρχομαι compound
+δοκέω	δόκησις	4	pos_ambiguity	verb_noun	TBD	verb vs noun
+πείθω	πάσχω	4	artefact	alignment	SKIP	alignment error — different words
+διειτρέφος	Διειτρέφης	4	capitalisation	proper_noun	glaux	capitalisation + variant
+δικαιόω	δικαίωσις	4	pos_ambiguity	verb_noun	TBD	verb vs noun
+λεοντῖνοι	Λεοντῖνος	4	capitalisation	proper_noun	glaux	capitalisation difference
+πέτομαι	φθάνω	4	artefact	alignment	SKIP	alignment error — different words
+ἀναχωρέω	ἀναχώρησις	4	pos_ambiguity	verb_noun	TBD	verb vs noun
+ὄλπας	Ὄλπη	4	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐγκαταλείπω	ἐγκαταλαμβάνω	4	artefact	alignment	SKIP	alignment error — different compounds
+ἄθω	Ἄθως	4	capitalisation	proper_noun	glaux	capitalisation difference
+φιλοχαρίδης	Φιλοχαρίδας	4	capitalisation	proper_noun	glaux	capitalisation + dialectal variant
+φλειοῦς	Φλιοῦς	4	capitalisation	proper_noun	glaux	capitalisation + variant
+θεάω	θεάομαι	4	voice_lemma	active_middle	TBD	active vs middle citation
+λέπρεος	Λέπρεον	4	capitalisation	proper_noun	glaux	capitalisation difference
+ἐξορκέω	ἐξορκόω	4	variant_lemma	spelling_variant	TBD	-έω vs -όω variant
+κατά	ὁ	4	artefact	alignment	SKIP	alignment error
+τᾶν	ὁ	4	artefact	alignment	SKIP	alignment error — Doric article
+καταγελάω	καταγέλαστος	4	pos_ambiguity	verb_adjective	TBD	verb vs verbal adjective
+τοιγάρ	τοιγαροῦν	4	related_form	particle	TBD	related particle forms
+προαιρέω	προλέγω	4	artefact	alignment	SKIP	alignment error — different words
+καταγνέω	καταγιγνώσκω	4	variant_lemma	spelling_variant	glaux	variant compound form
+ἐλεάω	ἐλεέω	4	variant_lemma	spelling_variant	glaux	contract variant
+παιδιή	παιδιά	4	variant_lemma	spelling_variant	glaux	dialectal variant
+πύλη	Πύλης	4	homographic	noun_proper	TBD	noun πύλη vs proper Πύλης
+αὐτός	ἑαυτοῦ	4	related_form	pronoun	TBD	reflexive vs non-reflexive
+δωρεά	δωρειά	4	variant_lemma	spelling_variant	glaux	spelling variant
+ἐρώμενος	ἐράω	4	pos_ambiguity	participle_noun	glaux	lexicalised participle: cite under verb
+ξενία	Ξενίας	4	homographic	noun_proper	TBD	noun ξενία "hospitality" vs proper Ξενίας
+φαίνω	Κέφαλος	4	artefact	alignment	SKIP	alignment error — different words
+φίλτατος	φίλος	3	comparative_lemma	adjective_superlative	glaux	superlative of φίλος
+πρεσβύτερος	πρέσβυς	3	comparative_lemma	adjective_comparative	TBD	comparative: cite under πρέσβυς?
+ἄττα	τίς	3	variant_lemma	dialect_form	glaux	Attic dialect form of τινα
+ζηλόω	ζηλέω	3	variant_lemma	spelling_variant	TBD	-όω vs -έω variant
+μίγνυμι	μείγνυμι	3	variant_lemma	spelling_variant	TBD	ι vs ει variant
+ᾠδή	ἀοιδή	3	variant_lemma	spelling_variant	TBD	contracted vs uncontracted
+ἄγε	ἄγω	3	related_form	imperative	glaux	imperative used as interjection: cite under verb
+ἡττάω	ἡσσάομαι	3	variant_lemma	spelling_variant	glaux	ττ/σσ Attic vs standard + voice
