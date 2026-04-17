@@ -393,3 +393,1590 @@ oga_lemma	glaux_lemma	count	category	subcategory	resolution	notes
 ᾠδή	ἀοιδή	3	variant_lemma	spelling_variant	TBD	contracted vs uncontracted
 ἄγε	ἄγω	3	related_form	imperative	glaux	imperative used as interjection: cite under verb
 ἡττάω	ἡσσάομαι	3	variant_lemma	spelling_variant	glaux	ττ/σσ Attic vs standard + voice
+ἐπιμίγνυμι	ἐπιμείγνυμι	3	variant_lemma	spelling_variant	TBD	ι vs ει variant
+ἔχθω	ἄχθομαι	3	voice_lemma	active_middle	TBD	active vs middle citation
+ὑπέχω	ὑπισχνέομαι	3	voice_lemma	active_middle	TBD	active vs middle citation
+βασίλειον	βασίλειος	3	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+πωλέω	πωλέομαι	3	voice_lemma	active_middle	TBD	active vs middle citation
+διανοέω	διανοέομαι	3	voice_lemma	active_middle	TBD	active vs middle citation
+αἰτία	αἴτιος	3	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+λίπα	λίπος	2	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἀντίἐπιπλέω	ἀντεπιπλέω	2	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐκτίνω	κτάομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+πάρεργον	πάρεργος	2	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἠλεία	Ἠλεῖος	2	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἀπερισκέπτως	ἀπερίσκεπτος	2	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+ἀπογιγνώσκω	ἀποπειράομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+πλάγιον	πλάγιος	2	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἀφαιρέω	ἐφαιρέομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+ὠρωπία	Ὠρώπιος	2	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἀποπειράομαι	ἀποπειράζω	2	voice_lemma	middle_active	glaux	middle: cite under active
+ἄκανθα	Ἄκανθος	2	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+καταχράω	καταχράομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+ἀκριβόω	ἀπακριβόομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+λυδία	Λύδιος	2	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+μεταπέμπω	μεταπέμπομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+καταλύω	καταλυμαίνομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+ἀπομαραίνω	ἀπομαραίνομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+ἐπεκτάω	ἐπικτάομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+ἀποδίδωμι	ἀποδοτέος	2	pos_ambiguity	verbal_adjective	glaux	verbal adjective -τέος: cite under verb
+πεττευτικός	πεσσευτικός	2	variant_lemma	spelling_variant	glaux	Attic ττ vs standard σσ
+ὑποκατακλίνω	ὑποκατακλίνομαι	2	voice_lemma	active_middle	TBD	active vs middle citation
+βιώσκομαι	βιόω	2	voice_lemma	middle_active	glaux	middle: cite under active
+πλέω	πολύς	2	comparative_lemma	suppletive_degree	glaux	cite under positive πολύς
+ἀπόδειξις	ἀποδείκνυμι	2	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐμπόριον	ἐμπόριος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἀδικέω	εὐνομέομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+κερυκυραία	Κερυκυραῖος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+διπλασιόω	διπλασιόομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀπηχθάνομαι	ἀπαχθέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀντιπαρασκευάζω	ἀντιπαρασκευάζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+διάσια	Διάσιος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἀντίγράφω	ἀντεγγράφω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐκκόλαπτομαι	ἐκκολάπτω	1	voice_lemma	middle_active	glaux	middle: cite under active
+παρασημαίνω	παρασημαίνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+συνδιαιτάω	συνεπαιτιάομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ὑπόκειμαι	ὑπέκκειμαι	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἀντικελεύσομαι	ἀντικελεύω	1	voice_lemma	middle_active	glaux	middle: cite under active
+φείδομαι	μεταποιέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀκηρύκτως	ἀκήρυκτος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+περίορρος	περίορθρος	1	artefact	encoding	SKIP	garbled OGA compound lemma
+σύνἐπιλαμβάνω	συνεπιλαμβάνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+καρία	Κάριος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἐπίσημον	ἐπίσημος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+προπύλαιον	προπύλαιος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἐρῆμα	ἐρῆμος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἀναρέθομαι	ἀνερεθίζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+περίοικος	παραθαλάσσιος	1	artefact	encoding	SKIP	garbled OGA compound lemma
+θρᾳκία	Θρᾴκιος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+οἰάω	οἴομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+μαστιγίζω	μαλακίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ὑπέρυθρον	ὑπέρυθρος	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐπίκατίω	ἐπικατέρχομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἄκρα	ἄκρος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+συνδιαιτάω	συνδιαιτάομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+πλέος	πλέως	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+ἀνδραγαθίζω	ἀνδραγαθίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἐπερίσσεύω	περισσεύω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+λισσύομαι	πλινθεύω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀντιπαρέρχομαι	ἀντιπαραπλέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+εἰσέρχομαι	εἰσπλέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+πρόσταγμα	κέλευθος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+τριτημόριον	τριτημόριος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+προσμεταβάλλω	προσμεταπέμπομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀσφάλεια	ἀσφάλειος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+χειμέριον	χειμέριος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἀντισχυρίζω	ἀντισχυρίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+προβουλεύω	προσκέπτομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀντίπασχα	ἀντιπάσχω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+κατάδουλόω	συγκαταδουλόω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+διηγέομαι	διεγγυάω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ὑπεξανάγω	ὑπεξανάγομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+περικτάομαι	περικομίζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀπόχράομαι	ἀποχράω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+τεκμηρίομαι	τεκμηριόω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἄκρον	ἄκρος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἐγκαθορμίζω	ἐγκαθορμίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+περιέρχομαι	περιρρέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+περίπλεος	περίπλεως	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἀντίἐπανάγω	ἀντεπανάγομαι	1	artefact	encoding	SKIP	garbled OGA compound lemma
+πρόχειρον	πρόχειρος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+συμμαχέω	συμμάχομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+τρυχάομαι	τρυχόω	1	voice_lemma	middle_active	glaux	middle: cite under active
+συνδέχομαι	καταναγκάζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐπίκειμαι	ἔγκειμαι	1	artefact	encoding	SKIP	garbled OGA compound lemma
+προαφικνέομαι	προαποχωρέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀρτέομαι	ἀρτάω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀντίκαθέζομαι	ἀντί-καθέζομαι	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἀντίἀναφέρω	ἀντεπάγω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐπανέρχομαι	ἐπαναστρέφω	1	voice_lemma	middle_active	glaux	middle: cite under active
+φείδομαι	φθάνω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐκκαρπόω	ἐκκαρπόομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἔρομαι	ἀρέσκω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ῥύομαι	ἐρύω	1	voice_lemma	middle_active	glaux	middle: cite under active
+μαινάλια	Μαινάλιος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἐλασσάομαι	ἐλασσόω	1	voice_lemma	middle_active	glaux	middle: cite under active
+προγίγνομαι	προυπάρχω	1	voice_lemma	middle_active	glaux	middle: cite under active
+παράκροος	παράκαιρος	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐπιδέρκομαι	ἐπιβλέπω	1	voice_lemma	middle_active	glaux	middle: cite under active
+βασανίζω	στοχάζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ῥύομαι	ῥέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+δυσπέμπτως	δύσπειστος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+συγκατεργάζομαι	συγκατασκευάζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+διαλύω	διαλυμαίνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἐπίτριπτος	ἐπίσταθμος	1	artefact	encoding	SKIP	garbled OGA compound lemma
+σιωπάω	παρρησιάζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+πραγματεύω	πραγματεύομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+προαναβάλλω	προαναβάλλομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+κατάπείγω	κατεπείγω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+διακολακεύω	διακολακεύομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἡσσάομαι	ἡττάω	1	voice_lemma	middle_active	glaux	middle: cite under active
+φενακίζω	παραλογίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+μέλχω	γλίχομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+προηγέομαι	προάγω	1	voice_lemma	middle_active	glaux	middle: cite under active
+πυλαία	πυλαῖος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἔσσομαι	ἄγω	1	voice_lemma	middle_active	glaux	middle: cite under active
+παρά,ἀνάὀχλέω	παρανοχλέω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+λογιόω	λογίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀντίγραφον	ἀντίγραφος	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἀπέχω	ἀπεύχομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+δαιμόνιον	δαιμόνιος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἄφθονος	ἀφθόνως	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+σπουδάζω	μαίνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+αἰτιάομαι	αἰτέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐπίτευγμα	ἐπιμέλημα	1	artefact	encoding	SKIP	garbled OGA compound lemma
+ἐπιφιλοπονέω	ἐπιφιλοπονέομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἐξαρέσκω	ἐξαρέσκομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+παρακαθέζομαι	παρακαθίζω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἄρχω	ἔρχομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ὀρχέω	ὀρχέομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+θάσσων	ταχύς	1	comparative_lemma	suppletive_degree	glaux	cite under positive ταχύς
+ἐπίψακάζω	ἐπί-ψακάζω	1	artefact	encoding	SKIP	garbled OGA compound lemma
+λογίζω	λογίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+χλαίνω	χλιδαίνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀγάω	ἀγάομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἐθελουσία	ἐθελούσιος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+συναπομαραίνω	συναπομαραίνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ὠνέομαι	ἀπεμπολάω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ὑποτιμάω	ὑποτιμάομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+σήσαμον	σήσαμος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἀγωνιάω	ἀγωνίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἐμφαίνω	αἰνίσσομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+διαπυθέω	διαπυνθάνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀνέρομαι	ἀναίρω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀμελετήτως	ἀμελέτητος	1	pos_ambiguity	adjective_adverb	glaux	adverb: cite under adjective
+μαίνομαι	λυσσάω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐπισυνάγω	ἀναλογίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+πεττός	πεσσός	1	variant_lemma	spelling_variant	glaux	Attic ττ vs standard σσ
+εὐήθιζω	εὐηθίζομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ὑπολογίζομαι	ὑπολογιστέον	1	pos_ambiguity	verbal_adjective	glaux	verbal adjective -τέος: cite under verb
+προσχράω	προσχράομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+διασκεράομαι	διασκοπέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἀπέχω	ἀπέχθομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+πήρα	τέγος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+οἶδα	ἦδος	1	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἀποδιοπομπέω	ἀποδιοπομπέομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+πλουτέω	πένομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ὑπισχνέομαι	ὑπέχω	1	voice_lemma	middle_active	glaux	middle: cite under active
+ἐξέρχομαι	ἐξεθω	1	voice_lemma	middle_active	glaux	middle: cite under active
+καταψεύδω	καταψεύδομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+οἴχομαι	ἀχεύω	1	voice_lemma	middle_active	glaux	middle: cite under active
+προσκυνέω	προσέρχομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+διαμαρτύρομαι	διαμαρτυρέω	1	voice_lemma	middle_active	glaux	middle: cite under active
+παίδιον	παίδιος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+ἐπιλανθάνω	ἐπιλανθάνομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+μικρολογέω	μικρολογέομαι	1	voice_lemma	active_middle	TBD	active vs middle citation
+ἀήττητος	ἀήσσητος	1	variant_lemma	spelling_variant	glaux	Attic ττ vs standard σσ
+ἀντίἴσχω	ἀντίσχω	3	variant_lemma	spelling_variant	TBD	variant form
+ποιέω	ποίησις	3	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+δεξιός	δεξιά	3	variant_lemma	spelling_variant	TBD	variant form
+βοττικός	Βοττική	3	capitalisation	proper_noun	glaux	capitalisation + variant
+καταπλάσσω	καταπλήσσω	3	variant_lemma	spelling_variant	TBD	variant form
+παραινέω	παραίνεσις	3	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ἐθέλω	εἴωθα	3	artefact	alignment	SKIP	alignment error — unrelated words
+θριάσιον	Θριάσιος	3	capitalisation	proper_noun	glaux	capitalisation + variant
+σόλλιος	Σόλλιον	3	capitalisation	proper_noun	glaux	capitalisation + variant
+εὐφαμίς	Εὐφαμίδης	3	capitalisation	proper_noun	glaux	capitalisation + variant
+φασήλιδος	Φάσηλις	3	capitalisation	proper_noun	glaux	capitalisation + variant
+πλαταιίς	Πλαταιικός	3	capitalisation	proper_noun	glaux	capitalisation + variant
+ταράσσω	φοβέω	3	artefact	alignment	SKIP	alignment error — unrelated words
+κνήμων	Κνῆμος	3	capitalisation	proper_noun	glaux	capitalisation + variant
+λαιαῖος	Λαιαῖοι	3	capitalisation	proper_noun	glaux	capitalisation + variant
+περαίτερος	περαιτέρω	3	variant_lemma	spelling_variant	TBD	variant form
+ἴωνες	ἔρχομαι	3	artefact	alignment	SKIP	alignment error — unrelated words
+θουκλέης	Θουκλῆς	3	capitalisation	proper_noun	glaux	capitalisation + variant
+οἰών	Οἰνεών	3	artefact	alignment	SKIP	alignment error — unrelated words
+καταλαμβάνω	προκαταλαμβάνω	3	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπείρων	ἄπειρος	3	variant_lemma	spelling_variant	TBD	variant form
+σοφοκλέης	Σοφοκλῆς	3	capitalisation	proper_noun	glaux	capitalisation + variant
+κρυμαμών	Κρομμυών	3	artefact	alignment	SKIP	alignment error — unrelated words
+ἐξίημι	ἐξέρχομαι	3	suppletive_verb	present_stem	glaux	suppletive: compound verb
+εἰσίημι	εἰσέρχομαι	3	suppletive_verb	present_stem	glaux	suppletive: compound verb
+κυνουρία	Κυνουρίας	3	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀνειπεῖν	ἀναλέγω	3	artefact	alignment	SKIP	alignment error — unrelated words
+χρυσός	χρύσεος	3	variant_lemma	spelling_variant	TBD	variant form
+ἰλλύριος	Ἰλλυριοί	3	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀθήνησιν	Ἀθήνησι	3	capitalisation	proper_noun	glaux	capitalisation + variant
+μαντινικός	Μαντινέη	3	capitalisation	proper_noun	glaux	capitalisation + variant
+πάναγος	Πάνακτον	3	capitalisation	proper_noun	glaux	capitalisation + variant
+περιίστημι	περιειστήκω	3	variant_lemma	spelling_variant	TBD	variant form
+κάρνειον	Κάρνεια	3	capitalisation	proper_noun	glaux	capitalisation + variant
+αἰσχύνη	αἰσχύνω	3	variant_lemma	spelling_variant	TBD	variant form
+καταδικάζω	κατακρίνω	3	variant_lemma	spelling_variant	TBD	variant form
+ἀξίωμα	ἐπάγγελμα	3	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπαύω	παύω	3	artefact	alignment	SKIP	alignment error — unrelated words
+ἄ ταφος	ἄταφος	3	artefact	encoding	SKIP	garbled OGA lemma (contains space)
+εὐαγόρης	Εὐαγόρας	3	capitalisation	proper_noun	glaux	capitalisation + variant
+προσδοκέω	προσδοκάω	3	variant_lemma	spelling_variant	TBD	variant form
+ὁ	τίς	3	artefact	alignment	SKIP	alignment error — short word
+ποτός	ποτόν	3	variant_lemma	spelling_variant	TBD	variant form
+ἐράομαι	ἐρώμενος	3	artefact	alignment	SKIP	alignment error — unrelated words
+πισίδαι	Πισίδης	3	capitalisation	proper_noun	glaux	capitalisation + variant
+μένω	Μένων	3	capitalisation	proper_noun	glaux	capitalisation + variant
+μεταμελέομαι	μεταμέλομαι	3	variant_lemma	spelling_variant	TBD	variant form
+μετανίστημι	μετανάστασις	2	variant_lemma	spelling_variant	TBD	variant form
+κίλιξ	Κυκλάδες	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἄφαρκτος	ἄφρακτος	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἡρακλείδαι	Ἡρακλείδης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+δήλιον	Δήλιος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐρέτρια	Ἐρετριός	2	capitalisation	proper_noun	glaux	capitalisation + variant
+πρέσβυς	πρέσβις	2	variant_lemma	spelling_variant	TBD	variant form
+ἀναχέω	ἀνέχω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπώχατο	ἐπέχω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἐθέλω	ἐθελοντής	2	variant_lemma	spelling_variant	TBD	variant form
+ὁπότερος	ὁποτέρωσε	2	variant_lemma	spelling_variant	TBD	variant form
+ἀναχωρέω	ἐπαναχωρέω	2	artefact	alignment	SKIP	alignment error — unrelated words
+σερμυλία	Σερμυλιός	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κατεπείγω	μέλλησις	2	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+παρίημι	παρέρχομαι	2	suppletive_verb	present_stem	glaux	suppletive: compound verb
+ἔοικα	ἀπεικότως	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπέχθομαι	ἀπεχθάνομαι	2	variant_lemma	spelling_variant	TBD	variant form
+ἐλασσω	ἐλασσόω	2	variant_lemma	spelling_variant	TBD	variant form
+ἄριστος	ἄριστον	2	variant_lemma	spelling_variant	TBD	variant form
+ἐποτρύνω	ἐξοτρύνω	2	artefact	alignment	SKIP	alignment error — unrelated words
+σθένω	σθένος	2	variant_lemma	spelling_variant	TBD	variant form
+συμπέμπω	σύμπρεσβυς	2	variant_lemma	spelling_variant	TBD	variant form
+λίβυον	Λίβυς	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἔκπλοος	ἐκπλέω	2	variant_lemma	spelling_variant	TBD	variant form
+ὀλύμπιος	Ὀλυμπιεῖον	2	capitalisation	proper_noun	glaux	capitalisation + variant
+δείδω	καταδείδω	2	artefact	alignment	SKIP	alignment error — unrelated words
+πλάτη	Πλάταια	2	capitalisation	proper_noun	glaux	capitalisation + variant
+πλαταιαί	Πλάταια	2	capitalisation	proper_noun	glaux	capitalisation + variant
+διαγγέλλω	περιαγγέλλω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ῥείτης	ρηειτυς	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀξιόω	ἀξίωσις	2	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+κοινῇ	κοινός	2	variant_lemma	spelling_variant	TBD	variant form
+ἠμελημένως	ἀμελέω	2	artefact	alignment	SKIP	alignment error — unrelated words
+παραλύω	παραλυπέω	2	variant_lemma	spelling_variant	TBD	variant form
+ἀλυκτικός	Ἀμφιλοχικός	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἔστε	εἰμί	2	artefact	alignment	SKIP	alignment error — unrelated words
+οἰκοδομέω	εἰσοικοδομέω	2	artefact	alignment	SKIP	alignment error — unrelated words
+διάφραγμα	προκάλυμμα	2	artefact	alignment	SKIP	alignment error — unrelated words
+σπάρτος	Σπάρτωλος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+λιμναῖος	Λιμναίη	2	capitalisation	proper_noun	glaux	capitalisation + variant
+στόρεννος	Στράτος	2	artefact	alignment	SKIP	alignment error — unrelated words
+πολιχνίτης	Πολιχνῖται	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἆθλος	ἆθλον	2	variant_lemma	spelling_variant	TBD	variant form
+βούδρος	Βούδορον	2	capitalisation	proper_noun	glaux	capitalisation + variant
+νόμιμος	σύντομος	2	artefact	alignment	SKIP	alignment error — unrelated words
+σιντός	Σιντοί	2	capitalisation	proper_noun	glaux	capitalisation + variant
+δοβήρης	Δόβηρος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κρηστωνία	Κρηστωνίη	2	capitalisation	proper_noun	glaux	capitalisation + variant
+θερμοπυλός	Θερμοπύλαι	2	capitalisation	proper_noun	glaux	capitalisation + variant
+καταδουλόω	καταδούλωσις	2	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+μη	μηδέ	2	artefact	alignment	SKIP	alignment error — short word
+οἴκημα	ἐπιβούλευμα	2	artefact	alignment	SKIP	alignment error — unrelated words
+διόδωρος	Διόδοτος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀνταποαιτέω	ἀνταπαιτέω	2	variant_lemma	spelling_variant	TBD	variant form
+σύμμικτος	σύμμεικτος	2	variant_lemma	spelling_variant	TBD	variant form
+προδίδωμι	καταπροδίδωμι	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπικλάω	ἐπικλάζω	2	variant_lemma	spelling_variant	TBD	variant form
+βούλομαι	βούλησις	2	variant_lemma	spelling_variant	TBD	variant form
+συνόμνυμι	σύγκειμαι	2	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπερβάλλω	ὑπερφέρω	2	variant_lemma	spelling_variant	TBD	variant form
+ἰστώνης	Ἰστώνη	2	capitalisation	proper_noun	glaux	capitalisation + variant
+πιστόν	πιστός	2	variant_lemma	spelling_variant	TBD	variant form
+τραχίνιος	Τραχίς	2	capitalisation	proper_noun	glaux	capitalisation + variant
+συστρατεύω	συμπρεσβεύω	2	artefact	alignment	SKIP	alignment error — unrelated words
+εὐπάλιος	Εὐπάλιον	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κρήνη	Κρῆνος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἰδομενεύς	Ἰδομενή	2	capitalisation	proper_noun	glaux	capitalisation + variant
+λοκροί	Λοκρός	2	capitalisation	proper_noun	glaux	capitalisation + variant
+παραβάλλω	εἰσβάλλω	2	artefact	alignment	SKIP	alignment error — unrelated words
+λογάδης	λογάδην	2	variant_lemma	spelling_variant	TBD	variant form
+μενδαίων	Μένδαῖος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κέλητης	κέλης	2	variant_lemma	spelling_variant	TBD	variant form
+ἐκπλέω	πλέω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ὅτιπερ	ὅστις	2	artefact	alignment	SKIP	alignment error — unrelated words
+φυλακός	φύλαξ	2	variant_lemma	spelling_variant	TBD	variant form
+στύφω	Στύφων	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κεγχρειά	Κεγχρειαί	2	capitalisation	proper_noun	glaux	capitalisation + variant
+φυλάζω	φυλάσσω	2	variant_lemma	spelling_variant	TBD	variant form
+μέθανος	Μέθανα	2	capitalisation	proper_noun	glaux	capitalisation + variant
+νεώτερος	νέος	2	artefact	alignment	SKIP	alignment error — unrelated words
+φιλονικάω	φιλονεικέω	2	variant_lemma	spelling_variant	TBD	variant form
+σῖφα	Σῖφαι	2	capitalisation	proper_noun	glaux	capitalisation + variant
+βοιωταρχέω	Βοιωτάρχης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+θεσπίη	Θεσπιεύς	2	capitalisation	proper_noun	glaux	capitalisation + variant
+πάγωνδος	Παγώνδας	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀμφι πολίτης	Ἀμφιπολίτης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ῥαίδιος	ῥᾴδιος	2	artefact	alignment	SKIP	alignment error — unrelated words
+ποσειδώνιος	Ποσειδώνιον	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐλαφηβολιών	Ἐλαφηβόλιον	2	capitalisation	proper_noun	glaux	capitalisation + variant
+χειροθεσία	ἐκεχειρία	2	artefact	alignment	SKIP	alignment error — unrelated words
+παρακελεύομαι	παρακέλευσις	2	variant_lemma	spelling_variant	TBD	variant form
+πασιτελίδας	Πασιτελίδης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+βρικιννία	Βρικιννίαι	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κερδύλος	Κερδύλιος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κερδύλον	Κερδύλιος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κλεαρίς	Κλεαρίδας	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ὀλυμπιάς	Ὀλυμπία	2	capitalisation	proper_noun	glaux	capitalisation + variant
+χίων	Χίονις	2	artefact	alignment	SKIP	alignment error — unrelated words
+δάιθος	δα&ιυμλ;τηυς	2	artefact	alignment	SKIP	alignment error — unrelated words
+τέλλος	Τέλλις	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀλκινάδαι	Ἀλκινάδας	2	capitalisation	proper_noun	glaux	capitalisation + variant
+θρασυκλῆς	Θρασυκλέης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀνίημι	ἀνέζομαι	2	artefact	alignment	SKIP	alignment error — unrelated words
+ζεύς	Διεύς	2	artefact	alignment	SKIP	alignment error — unrelated words
+ῥαίω	ῥᾴδιος	2	artefact	alignment	SKIP	alignment error — unrelated words
+περαίτερος	πέρα	2	variant_lemma	spelling_variant	TBD	variant form
+ἄω	εἰμί	2	artefact	alignment	SKIP	alignment error — short word
+χαλκοῦς	χάλκεος	2	variant_lemma	spelling_variant	TBD	variant form
+διαβατήριος	διαβατήρια	2	variant_lemma	spelling_variant	TBD	variant form
+βρασιδείος	Βρασίδης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κατατρέω	κασσόδε	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπιδαύριος	Ἐπίδαυρος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+εἰμί	εἴτε	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἐξάγω	ἐξάγνυμι	2	variant_lemma	spelling_variant	TBD	variant form
+ζῆλος	ζηλόω	2	variant_lemma	spelling_variant	TBD	variant form
+πειρίθω	Πειρίθοος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+φιλονικέω	φιλονεικέω	2	variant_lemma	spelling_variant	TBD	variant form
+πρόσωθεν	πορρωτέρωθεν	2	artefact	alignment	SKIP	alignment error — unrelated words
+σπάνιος	σπανιότης	2	variant_lemma	spelling_variant	TBD	variant form
+δεκάδαρχος	δεκαδαρχία	2	variant_lemma	spelling_variant	TBD	variant form
+ἀβροκόμας	Ἀβροκόμης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ψεύδω	διαψεύδω	2	artefact	alignment	SKIP	alignment error — unrelated words
+φαίνω	φανάω	2	artefact	alignment	SKIP	alignment error — unrelated words
+πλάσσω	πλήσσω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀγαπάω	ἀγαπάζω	2	variant_lemma	spelling_variant	TBD	variant form
+μεγαλοφρονής	μεγαλόφρων	2	variant_lemma	spelling_variant	TBD	variant form
+ἐπίτιμέω	ἐπιτιμάω	2	variant_lemma	spelling_variant	TBD	variant form
+βία	βίος	2	pos_ambiguity	noun_adjective	TBD	noun vs adjective
+ἐθέλω	αἱρέω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀρείων	Ἄρειος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀπόλλυμι	ἀπολύω	2	variant_lemma	spelling_variant	TBD	variant form
+μακρηγορέω	μακρολογέω	2	variant_lemma	spelling_variant	TBD	variant form
+μέντοι	ἄν	2	artefact	alignment	SKIP	alignment error — short word
+θεσπίη	Θεσπιαί	2	capitalisation	proper_noun	glaux	capitalisation + variant
+πολεμέω	πολεμόω	2	variant_lemma	spelling_variant	TBD	variant form
+σιτοφύλαξ	σιτοφύλακες	2	variant_lemma	spelling_variant	TBD	variant form
+σίγνη	σίτησις	2	artefact	alignment	SKIP	alignment error — unrelated words
+χέρνιβος	χέρνιψ	2	variant_lemma	spelling_variant	TBD	variant form
+κριτίης	Κριτίας	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐμπίπλημι	ἐμπίμπλημι	2	variant_lemma	spelling_variant	TBD	variant form
+βαναυσικαί	βαναυσικός	2	variant_lemma	spelling_variant	TBD	variant form
+γοργίας	Γοργίης	2	capitalisation	proper_noun	glaux	capitalisation + variant
+ἔλεγχος	ἐλέγχω	2	variant_lemma	spelling_variant	TBD	variant form
+διαπορρήγνυμι	διαπράσσω	2	variant_lemma	spelling_variant	TBD	variant form
+μεταμέλει	μεταμέλομαι	2	variant_lemma	spelling_variant	TBD	variant form
+ἐάω	ἔα	2	artefact	alignment	SKIP	alignment error — short word
+προαπόλλυμι	προαπόλλυμαι	2	variant_lemma	spelling_variant	TBD	variant form
+οἷ	ἕ	2	artefact	alignment	SKIP	alignment error — short word
+ἀπεχθάνομαι	ἀπάχθομαι	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀγείρω	ἐγείρω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἴασις	ἔρχομαι	2	artefact	alignment	SKIP	alignment error — unrelated words
+κατακείω	κατάκειμαι	2	variant_lemma	spelling_variant	TBD	variant form
+φαῖδρας	Φαῖδρος	2	capitalisation	proper_noun	glaux	capitalisation + variant
+παννύχιος	παννυχίς	2	variant_lemma	spelling_variant	TBD	variant form
+γηροτρόφος	γηροβοσκός	2	variant_lemma	spelling_variant	TBD	variant form
+κοινωνίαμα	κοινώνημα	2	variant_lemma	spelling_variant	TBD	variant form
+ὅστις	ἥσσων	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀμέλγω	μοιχεύω	2	artefact	alignment	SKIP	alignment error — unrelated words
+διωμόω	διόμνυμι	2	artefact	alignment	SKIP	alignment error — unrelated words
+κλέπτω	φυλάσσω	2	artefact	alignment	SKIP	alignment error — unrelated words
+προπέμπω	μεταπέμπω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἀσεβής	ἀσεβέω	2	variant_lemma	spelling_variant	TBD	variant form
+λέξις	λέγω	2	artefact	alignment	SKIP	alignment error — unrelated words
+ταμία	τάμιας	2	variant_lemma	spelling_variant	TBD	variant form
+ἀδόκιμος	ἀδοκίμαστος	2	variant_lemma	spelling_variant	TBD	variant form
+σφηττοῖ	Σφηττώ	2	capitalisation	proper_noun	glaux	capitalisation + variant
+κικυνόω	Κικυννοῖ	2	capitalisation	proper_noun	glaux	capitalisation + variant
+στρατηγός	στρατηγέω	2	variant_lemma	spelling_variant	TBD	variant form
+σιτοπωλέω	σιτοπώλης	2	variant_lemma	spelling_variant	TBD	variant form
+συμπιθάνω	συμπρίασθαι	2	variant_lemma	spelling_variant	TBD	variant form
+πρίαμαι	συμπρίασθαι	2	artefact	alignment	SKIP	alignment error — unrelated words
+ἐγγυάω	ἐξεγγυάω	2	artefact	alignment	SKIP	alignment error — unrelated words
+φθιώτης	Φθιῶτις	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δαναοί	Δαναός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀμειξία	ἀμιξία	1	artefact	alignment	SKIP	alignment error — unrelated words
+συνεισέρχομαι	συνεξέρχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+πύστευσις	πύστις	1	variant_lemma	spelling_variant	TBD	variant form
+δασμοφορέω	σιδηροφορέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τεττίγων	τέττιξ	1	variant_lemma	spelling_variant	TBD	variant form
+ποντικός	Ἀσιανός	1	artefact	alignment	SKIP	alignment error — unrelated words
+οἰκεῖος	οἰκέω	1	variant_lemma	spelling_variant	TBD	variant form
+πρόσκορος	πρόσκωπος	1	variant_lemma	spelling_variant	TBD	variant form
+ἴλιος	Ἴλιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τριακόσιοι	διακόσιοι	1	artefact	alignment	SKIP	alignment error — unrelated words
+πλάζω	πλωΐζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+φωκαεύς	Φωκαιεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσδοκίμου	προσδόκιμος	1	variant_lemma	spelling_variant	TBD	variant form
+δωριεύς	Δώριος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+παναθήναια	Παναθηναικός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἡρακλῆς	Ἡρακλέης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+χειμέριος	Χειμέριον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πεῖρα	πείρω	1	variant_lemma	spelling_variant	TBD	variant form
+θεραπείη	θεραπεία	1	variant_lemma	spelling_variant	TBD	variant form
+κατέπειμι	κατεπείγω	1	variant_lemma	spelling_variant	TBD	variant form
+στρέφω	Στρέψα	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀφύτιος	Ἄφυτις	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐφορμάω	ἐφορμέω	1	variant_lemma	spelling_variant	TBD	variant form
+χαλκιδικός	Χαλκιδική	1	capitalisation	proper_noun	glaux	capitalisation + variant
+λέγω	ἐπιλέγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπικαίριος	ἐπίκαιρος	1	variant_lemma	spelling_variant	TBD	variant form
+προαπαντᾶν	προαπαντάω	1	variant_lemma	spelling_variant	TBD	variant form
+κινδυνεύω	κινδυνευτής	1	variant_lemma	spelling_variant	TBD	variant form
+καίνυμαι	καινόω	1	variant_lemma	spelling_variant	TBD	variant form
+διακινδυνεύω	κινδυνεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προτιμάω	προτιμωρέω	1	variant_lemma	spelling_variant	TBD	variant form
+συναιρέω	συσσῴζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+διαστρέφω	καταστρέφω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀνίημι	ἀνέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀμείβω	ἄμεικτος	1	variant_lemma	spelling_variant	TBD	variant form
+σθενελαΐδες	Σθενελαΐδης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προχωρεῖν	προχωρέω	1	variant_lemma	spelling_variant	TBD	variant form
+διεκκομίζω	διακομίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀνεπκλέητος	ἀνεπίκλητος	1	variant_lemma	spelling_variant	TBD	variant form
+ἵστημι	στήλη	1	artefact	alignment	SKIP	alignment error — unrelated words
+σῶμα	σῆμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+κατασκευάζω	συγκατασκευάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+βυζάντιοv	Βυζάντιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δόρκιν	Δόρκις	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἑλληνοταμία	Ἑλληνοταμίαι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+διαχειρίζω	διαχείρισις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ἐκδέω	ἔκδεια	1	variant_lemma	spelling_variant	TBD	variant form
+λιποστράτιος	λιποστράτιον	1	variant_lemma	spelling_variant	TBD	variant form
+ὀπούντιοι	Ὀπούντιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+θράσος	θράσις	1	variant_lemma	spelling_variant	TBD	variant form
+περιέρχομαι	περίειμι	1	variant_lemma	spelling_variant	TBD	variant form
+σφάλλω	πταίω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὀϊστός	φέρω	1	artefact	alignment	SKIP	alignment error — unrelated words
+παραβαίνω	παραβάζω	1	variant_lemma	spelling_variant	TBD	variant form
+ὀλύμπιος	Ὀλυμπία	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐγχειρέω	ἐπιτρέπω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κολωναί	Κολώνη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐπαγγέλλω	εἰσαγγέλλω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πλεῖστος	Πλείσταρχος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ζηλόω	ζήλωσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+σύνκαθαιρέω	συγκαθαιρέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πρόσἀποστέλλω	προσεπιστέλλω	1	variant_lemma	spelling_variant	TBD	variant form
+σκηνόω	σκηνέω	1	variant_lemma	spelling_variant	TBD	variant form
+πρόσταγμα	νεῦμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+καιάδας	Καιάδης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀντεπιστάζω	ἀντεπιτάσσω	1	variant_lemma	spelling_variant	TBD	variant form
+ὁπλίζω	ὀστρακίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+συνδιώκειν	συνδιώκω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποκομίζι	ἀποκομιδή	1	variant_lemma	spelling_variant	TBD	variant form
+γεφυρός	γέφυρα	1	variant_lemma	spelling_variant	TBD	variant form
+αὐτοσχεδιάζειν	αὐτοσχεδιάζω	1	variant_lemma	spelling_variant	TBD	variant form
+φάρμακος	φάρμακον	1	variant_lemma	spelling_variant	TBD	variant form
+διισχυρίζομαι	ἀπισχυρίζομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+μενετοί	μενετός	1	variant_lemma	spelling_variant	TBD	variant form
+ἀντεπιτειχίσω	ἀντεπιτειχίζω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀξυνετός	ἀσύνετος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀποδίδωμι	ἀποδέω	1	variant_lemma	spelling_variant	TBD	variant form
+σύγχρησις	σύγχυσις	1	variant_lemma	spelling_variant	TBD	variant form
+ἀκηρυκεί	ἀκηρυκτεί	1	variant_lemma	spelling_variant	TBD	variant form
+αἰνησίος	Αἰνησίας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κλῄζω	κλείω	1	artefact	alignment	SKIP	alignment error — unrelated words
+συμμαχίδης	συμμαχίς	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνάἴσχω	ἀνίσχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπιχειρέω	ἐπιχείρησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ἀπανάλω	ἀπαναλίσκω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀντικαταστήκω	ἀντικαθίστημι	1	variant_lemma	spelling_variant	TBD	variant form
+σύνοικος	συνοίκια	1	variant_lemma	spelling_variant	TBD	variant form
+οἰκέω	οἴκησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+κλῃστός	κλειστός	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀκροτελεύτιος	ἀκροτελεύτιον	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκοικίζω	ἐξοικέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+αἰγάλεος	Αἰγάλευς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κρωπιά	Κρωπιή	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐνίημι	ἔνειμι	1	artefact	alignment	SKIP	alignment error — unrelated words
+προπηλακίζω	κακίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπέξειμι	ἐπεξᾴδω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀχαρνεύς	Ἀχαρναί	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πάρνηθος	Πάρνης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βριλησσοῦ	Βριλησσός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+νήτης	νηΐτης	1	artefact	alignment	SKIP	alignment error — unrelated words
+θρόνιον	Θρόνιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὀδύσσομαι	Ὀδρύσης	1	artefact	alignment	SKIP	alignment error — unrelated words
+τηρέω	Τηρεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+συνεξελαύνω	συνεξαιρέω	1	variant_lemma	spelling_variant	TBD	variant form
+συγκαταβιβάζω	συμβιβάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+παλαιεύς	Παλαιρεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κράνιον	Κράνιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κιβωτός	λάρνακας	1	artefact	alignment	SKIP	alignment error — unrelated words
+κυπάρισσος	κυπαρίσσινος	1	variant_lemma	spelling_variant	TBD	variant form
+στόρεννυμι	στόρνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+δηλόω	δηλοῦσθαι	1	variant_lemma	spelling_variant	TBD	variant form
+χείρων	χεῖρον	1	variant_lemma	spelling_variant	TBD	variant form
+προσλείπω	προσκαταλείπω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπαυρέω	ἐπαυξάνω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπεωθόω	ἀπωθέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὄφλημα	ὀφείλημα	1	artefact	alignment	SKIP	alignment error — unrelated words
+κατά	καθά	1	artefact	alignment	SKIP	alignment error — unrelated words
+εὔτροπος	εὐτράπελος	1	variant_lemma	spelling_variant	TBD	variant form
+κακοπαθέω	κακοπαθής	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπαίνετος	ἐπαινέτης	1	variant_lemma	spelling_variant	TBD	variant form
+συνοικίζω	συγκατοικίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μηκυνάω	μηκύνω	1	variant_lemma	spelling_variant	TBD	variant form
+διόθεν	διχόθεν	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀναντίβλεπτος	ἀνανταγώνιστος	1	variant_lemma	spelling_variant	TBD	variant form
+εἰσβλέπω	εἰσβάλλω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποκάθαγνος	ἀποκάθαρσις	1	variant_lemma	spelling_variant	TBD	variant form
+πελιτνός	πελιδνός	1	variant_lemma	spelling_variant	TBD	variant form
+ἐξανθηκός	ἐξανθέω	1	variant_lemma	spelling_variant	TBD	variant form
+ψῦχος	καῦμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἕλκω	ἕλκωσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+διαρροή	διάρροια	1	variant_lemma	spelling_variant	TBD	variant form
+κατασκάπτω	κατασκήπτω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀτάφων	ἄταφος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀφειλέω	ἀφειδέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκκάμπτω	ἐκκάμνω	1	variant_lemma	spelling_variant	TBD	variant form
+κάμνω	πονέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μακαριστίζω	μακαρίζω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπαυρέω	ἐπαύρεσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+κωλύω	ἀπείργω	1	artefact	alignment	SKIP	alignment error — unrelated words
+δωριικός	Δωριακός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πρασιά	Πρασιαί	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κακοτυχής	κακοτυχέω	1	variant_lemma	spelling_variant	TBD	variant form
+καταπάτημα	καταφρόνημα	1	variant_lemma	spelling_variant	TBD	variant form
+ἄπραγμος	ἀπράγμων	1	variant_lemma	spelling_variant	TBD	variant form
+συγγιγνώσκω	συνδιαγιγνώσκω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπενδίδωμι	ὑπενδέω	1	variant_lemma	spelling_variant	TBD	variant form
+καταφθίω	καταλείπω	1	variant_lemma	spelling_variant	TBD	variant form
+ἄφθονος	ἄδωρος	1	artefact	alignment	SKIP	alignment error — unrelated words
+καταπίπλημι	καταπλήσσω	1	variant_lemma	spelling_variant	TBD	variant form
+φαρνάκη	Φαρνάκης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+λεάρχης	Λέαρχος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀγωνίζομαι	ἐναγωνίζομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+περισταύρωσις	περισταυρόω	1	pos_ambiguity	verb_noun	TBD	noun vs source verb
+προσεχόω	προσχώννυμι	1	variant_lemma	spelling_variant	TBD	variant form
+ἀντανίημι	ἀντάνειμι	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποκλαίω	ἀποκλείω	1	variant_lemma	spelling_variant	TBD	variant form
+πληρόω	κενόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσεξευρίσκω	προσεπεξευρίσκω	1	variant_lemma	spelling_variant	TBD	variant form
+χόω	χῶσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ἀνακρούω	ἀνακλάω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιπαρένητος	ἐπιπαρανέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκφέρω	ἐκκομίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσπροθυμέομαι	συμπροθυμέομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀτιντᾶνες	Ἀτιντάν	1	capitalisation	proper_noun	glaux	capitalisation + variant
+θάρυπος	Θάρυψ	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὄρις	Ὄροιδος	1	artefact	alignment	SKIP	alignment error — unrelated words
+δεξιά	δεξιός	1	variant_lemma	spelling_variant	TBD	variant form
+ματόω	μονόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἕδρα	ἐνέδρα	1	artefact	alignment	SKIP	alignment error — unrelated words
+συμβοάω	συμβοηθέω	1	variant_lemma	spelling_variant	TBD	variant form
+εὐήνου	Εὔηνος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἡσυχάζω	ἡσυχάω	1	variant_lemma	spelling_variant	TBD	variant form
+συνωθέω	διωθέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+παρακούω	κατακούω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πάτρα	Πάτραι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δύμην	Δύμη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσαποστέλλω	προσεπιστέλλω	1	variant_lemma	spelling_variant	TBD	variant form
+διαχέω	διέχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τέκμαρ	τέκμαρσις	1	variant_lemma	spelling_variant	TBD	variant form
+ἀθυμέω	ἀθυμόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐνχειρέω	ἐγχειρέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπολλώνιος	Ἀπολλώνιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βράχεα	βραχύς	1	variant_lemma	spelling_variant	TBD	variant form
+οἰκέω	ὀκέλλω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἄκλεστος	ἄκλειστος	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπήρειον	ὑπηρέσιον	1	variant_lemma	spelling_variant	TBD	variant form
+κλείω	κλῇσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ὀδύσσομαι	Ὄδρυσος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὀδρυσῶν	Ὀδρύσαι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+αἵμων	Αῖʽμος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀγριάνος	Ἀγριάν	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τραχήρ	Τρήρας	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἄβυδος	Ἄβδηρος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἄβυδος	Ἄβδηρα	1	artefact	alignment	SKIP	alignment error — unrelated words
+βυζάντιος	Βυζάντιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσάττω	προσάγω	1	variant_lemma	spelling_variant	TBD	variant form
+κερκίς	Κερκίνη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δοῦρος	Δόβηρος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὀδύρομαι	Ὀδρύσαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+σύμμεικτος	σύμμικτος	1	variant_lemma	spelling_variant	TBD	variant form
+λυγκηστής	Λυγκησταί	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πίερος	Πίερες	1	capitalisation	proper_noun	glaux	capitalisation + variant
+φάγρα	Φάγρας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πάγγαιος	Πάγγαιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βοττία	Βοττίη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀξιόω	Ἀξιός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐορδία	Ἐορδίη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἔργω	Ἐορδός	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀλμωπία	Ἀλμωπίη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+γορτύνιος	Γορτυνίη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+σημαίνω	θωρακίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+περικλῄζω	περικλείω	1	variant_lemma	spelling_variant	TBD	variant form
+μάγνητες	Μάγνης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὀδόμαντος	Ὀδόμαντοι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δρῶος	Δρῶοι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κόρος	Κόροντα	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀκαρνάν	Ἀκαρνανικός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐχινάδες	Ἐχῖναι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσχώ	προσχόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἤπειρος	ἀπειρόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπειπόντος	ὑπεῖπον	1	variant_lemma	spelling_variant	TBD	variant form
+πρόσχω	πρόσχωσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+προέξειμι	προεξέρχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἁπλός	ἁπλόος	1	variant_lemma	spelling_variant	TBD	variant form
+φυλακή	φυλακεύς	1	variant_lemma	spelling_variant	TBD	variant form
+θεατής	θεατός	1	variant_lemma	spelling_variant	TBD	variant form
+ἀφεστήξω	ἀποστάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὠνητής	ὠνητός	1	variant_lemma	spelling_variant	TBD	variant form
+πολέμιος	πολεμέω	1	variant_lemma	spelling_variant	TBD	variant form
+διαγνώμην	διαγνώμη	1	variant_lemma	spelling_variant	TBD	variant form
+ἀξυνέτος	ἀσύνετος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐλασσοῦμι	ἐλασσόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνυπονόητος	ἀνύποπτος	1	variant_lemma	spelling_variant	TBD	variant form
+συνεξαμάρτω	συνεξαμαρτάνω	1	variant_lemma	spelling_variant	TBD	variant form
+ζημιόω	ζημία	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπέχω	ἐπίσχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀσύμμβατος	ἀσύμβατος	1	variant_lemma	spelling_variant	TBD	variant form
+παραινέω	παρανέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀφανίζω	φυράω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀσωπόδωρος	Ἀσωπόλαος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀείμνηστος	Αἰείμνηστος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἁμαρτάνω	ἁμαρτέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιφέρω	ἐπεισφέρω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀποικία	ἀποικέω	1	variant_lemma	spelling_variant	TBD	variant form
+περιόω	περιωθέω	1	variant_lemma	spelling_variant	TBD	variant form
+ὁμαίμων	ὅμαιχμος	1	variant_lemma	spelling_variant	TBD	variant form
+μέμφις	Θηβαίς	1	artefact	alignment	SKIP	alignment error — unrelated words
+καταλιμπάνω	καταλείβω	1	variant_lemma	spelling_variant	TBD	variant form
+συνεπίημι	συνεφίημι	1	variant_lemma	spelling_variant	TBD	variant form
+συνομολογέω	συνόμνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνεπείκητος	ἀνεπιεικής	1	variant_lemma	spelling_variant	TBD	variant form
+καταγιγνώσκω	καταγνοέω	1	variant_lemma	spelling_variant	TBD	variant form
+συνπολιορκέω	συμπολιορκέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+θυρώματα	θύρωμα	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιδιωχθάνω	ἐπιδιώκω	1	variant_lemma	spelling_variant	TBD	variant form
+προφθάσω	προφθάνω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐθελοφίλος	ἐθελοπρόξενος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀλκίνους	Ἀλκίνοος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+διοσκόρος	Διόσκοροι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐκπέμπω	κομίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσποιέω	προσποίησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+πίστις	πύστις	1	artefact	alignment	SKIP	alignment error — unrelated words
+περιτεχνάομαι	περιτέχνησις	1	variant_lemma	spelling_variant	TBD	variant form
+προπαθέω	προπάσχω	1	variant_lemma	spelling_variant	TBD	variant form
+προτιμάω	προτίμησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+πρόσκοπος	προσκοπέω	1	variant_lemma	spelling_variant	TBD	variant form
+μελάνοψ	Μελάνωπος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἄνυδρος	ἀνυδρία	1	variant_lemma	spelling_variant	TBD	variant form
+κνίδιος	Κνίδιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δίδυμος	Διδύμη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+στρογγύλος	Στρογγύλη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀναδιδάσκω	ἀναδίδωμι	1	variant_lemma	spelling_variant	TBD	variant form
+ὀροβία	Ὀρόβιαι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κατακλύω	κατακλύζω	1	variant_lemma	spelling_variant	TBD	variant form
+παραλύω	παραιρέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀφέλκω	ἀνέλκω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀντιπόλεμος	ἀντιπολέμιος	1	variant_lemma	spelling_variant	TBD	variant form
+ἰριή	ηιερεανς	1	artefact	alignment	SKIP	alignment error — unrelated words
+διάπλοος	διάπλους	1	variant_lemma	spelling_variant	TBD	variant form
+κήναιος	Κήναιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+νεοκαταστάσιος	νεοκατάστατος	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκτρυφάω	ἐκτρυχόω	1	variant_lemma	spelling_variant	TBD	variant form
+λευκός	Λευκάς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κράτησις	κρατέω	1	pos_ambiguity	verb_noun	TBD	noun vs source verb
+καταστράπτω	καταστρέφω	1	variant_lemma	spelling_variant	TBD	variant form
+παρνασός	Παρνασσός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ποτιδανία	Ποτιδανίη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+μηλιικός	Μηλιεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐκδιδάσκω	ἀναδιδάσκω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσσυμβουλεύω	προσβοηθέω	1	variant_lemma	spelling_variant	TBD	variant form
+αἰγίτιος	Αἰγίτιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τοξάρχης	τόξαρχος	1	variant_lemma	spelling_variant	TBD	variant form
+περιπυρόω	περιπίμπρημι	1	variant_lemma	spelling_variant	TBD	variant form
+περιπόλιος	περιπόλιον	1	variant_lemma	spelling_variant	TBD	variant form
+ἀμφισσῆς	Ἀμφισσεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+μυονέη	Μυονεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δυσέσβολος	δυσείσβολος	1	variant_lemma	spelling_variant	TBD	variant form
+ἡδύς	Ἥσσιος	1	artefact	alignment	SKIP	alignment error — unrelated words
+οἰανθέη	Οἰανθεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+αἰολίς	Αἰολεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καλυδῶνα	Καλυδών	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐφοράω	ἐποράω	1	artefact	alignment	SKIP	alignment error — unrelated words
+καθαρεύω	καθαίρω	1	variant_lemma	spelling_variant	TBD	variant form
+συνθήκη	θήκη	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐντικταίνω	ἐντίκτω	1	variant_lemma	spelling_variant	TBD	variant form
+ʼἰάων	Ἰάονες	1	artefact	alignment	SKIP	alignment error — unrelated words
+σφός	σφεῖς	1	artefact	alignment	SKIP	alignment error — unrelated words
+πυγμαχίη	πυγμαχία	1	variant_lemma	spelling_variant	TBD	variant form
+προσχίος	Πρόσχιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+φυτία	Φυτίη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+θύμος	Θύαμος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀγραικός	Ἀγραῖοι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δάφνη	φρύγανον	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπαπίζω	ὑπαπᾴδω	1	variant_lemma	spelling_variant	TBD	variant form
+σύνἐξῇκα	συνεξᾴδω	1	variant_lemma	spelling_variant	TBD	variant form
+ἰδομεναί	Ἰδομενή	1	capitalisation	proper_noun	glaux	capitalisation + variant
+σάλυνθος	Σαλύνθιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐπιβοάω	ἐπιβοηθέω	1	variant_lemma	spelling_variant	TBD	variant form
+συμπήγνυμι	συνεπάγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐγκυλισθάνω	ἐγκύπτω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀξιόμαχος	ἐπίμαχος	1	artefact	alignment	SKIP	alignment error — unrelated words
+οἰκεῖος	οἰκείω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐμφράζω	ἐμφράσσω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐφορμάω	ἐφορμίζω	1	variant_lemma	spelling_variant	TBD	variant form
+προσκυνέω	προσσταυρόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἁλίσκομαι	ἁλώσιμος	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσόρμησις	προσόρμισις	1	variant_lemma	spelling_variant	TBD	variant form
+κρατησικλῆς	Κρατησικλέης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καταγνύναι	κατάγνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιστείχω	ἐπισπέρχω	1	variant_lemma	spelling_variant	TBD	variant form
+ἔοικα	ὀκέλλω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐλιποψύχω	λιποψυχέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπιπλέω	ἐπεισπλέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ναυμαχέω	πεζομαχέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τραυματίας	τραυματίζω	1	variant_lemma	spelling_variant	TBD	variant form
+μάργημι	μάσσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+οἷος	οἵασπηρ	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀποβλέπω	ἀφοράω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀντατερέω	ἀνταιτέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐφορμέω	ἐφορμάω	1	variant_lemma	spelling_variant	TBD	variant form
+τυρσηνός	Τυρσηνικός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ῥηγῖνος	Ῥήγιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀποσιμάω	ἀποσιμόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀκεσίνη	Ἀκεσίνης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δημοκλῆς	δεμοτελες	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπώκελλον	ἐποκέλλω	1	artefact	alignment	SKIP	alignment error — unrelated words
+σεννέω	εἰσνέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μελίτη	μελιτόω	1	variant_lemma	spelling_variant	TBD	variant form
+κρύπτω	λανθάνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+παραδίδωμι	παραδωσείω	1	variant_lemma	spelling_variant	TBD	variant form
+φεύγω	ὑποφεύγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐξαπαλλαγή	ἐξαπαλλάσσω	1	variant_lemma	spelling_variant	TBD	variant form
+ἴμβριοι	Ἴμβριος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+αἴνου	Αἶνος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+εὔδενδρος	ὑλώδης	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσέχω	προσίσχω	1	variant_lemma	spelling_variant	TBD	variant form
+θαλαμίη	θαλαμίτης	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιτάδανος	Ἐπιτάδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀναστρέφω	ὑποστρέφω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ποιέω	πάσχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κατακαίω	καίω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐναποκλείω	ἐναποκλάω	1	variant_lemma	spelling_variant	TBD	variant form
+συγκαλέω	συγκλείω	1	variant_lemma	spelling_variant	TBD	variant form
+περίεἶμι	περιέρχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκπλήσσω	ἐκπλήγνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιτάδος	Ἐπιτάδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐπερωτάω	ἐπερώτησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+μισθοδοτέω	σιτοδοτέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+θηριώδης	μανιώδης	1	artefact	alignment	SKIP	alignment error — unrelated words
+μεσσηνίς	Μεσσήνη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προπυθόμενος	προπυνθάνομαι	1	variant_lemma	spelling_variant	TBD	variant form
+ὄνειος	μουντονευμ	1	artefact	alignment	SKIP	alignment error — unrelated words
+πτυχία	Πτυχίας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κεντέω	κεντάω	1	variant_lemma	spelling_variant	TBD	variant form
+παραίτημα	παραίρημα	1	variant_lemma	spelling_variant	TBD	variant form
+ἀσσύριοι	Ἀσσύριος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+φωκαιεύς	Φώκαια	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἑκασταχόθεν	ἑκασταχόσε	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπρόφυλκτος	ἀπροφύλακτος	1	variant_lemma	spelling_variant	TBD	variant form
+κοτύρτα	ξοτψρτα	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀφροδτία	Ἀφροδισιάς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+λιμηρά	Λιμηρή	1	capitalisation	proper_noun	glaux	capitalisation + variant
+συμτειχίζω	συντειχίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μοργαντίνη	Μοργάντιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+συνδοκέω	σύγκειμαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀλείπω	ἀλείφω	1	variant_lemma	spelling_variant	TBD	variant form
+πλίνθος	πλίνθον	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποσείω	ἀποσταυρόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπορρήσσω	ἀπορρήγνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+καταπλέω	εἰσπλέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἄναια	Ἀνναία	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἡρακλεώτης	Ἡρακλέωτις	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κάλης	ξαλες	1	artefact	alignment	SKIP	alignment error — unrelated words
+βιθυνοί	Βιθυνός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὀρχομενίων	Ὀρχομένιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+φανοτὶς	πηανοτις	1	artefact	alignment	SKIP	alignment error — unrelated words
+ταναγραίη	Ταναγραία	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πλέως	πλέω	1	variant_lemma	spelling_variant	TBD	variant form
+παρασκευάζω	ἑτοιμάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πάναιρος	παναερυς	1	variant_lemma	spelling_variant	TBD	variant form
+ἱππολοχίδης	Ἱππολοχίδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τορύλος	Τορύλαος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+νικονίδης	Νικονίδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἰσνομία	ἰσονομία	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐνέπω	Ἐνιπεύς	1	artefact	alignment	SKIP	alignment error — unrelated words
+φάβιος	Φάκιον	1	artefact	alignment	SKIP	alignment error — unrelated words
+λώβη	λώφησις	1	artefact	alignment	SKIP	alignment error — unrelated words
+τρυγήτης	τρύγητος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποκλείω	ἀπόκλεισις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ἀναθρῴσκω	ἀναθρέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀριανθίδης	αριαντηϊδας	1	variant_lemma	spelling_variant	TBD	variant form
+προμηθεύς	προμηθής	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπερφαίνω	ὑπερφανάω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀναρριπτέω	ἀναρρίπτω	1	variant_lemma	spelling_variant	TBD	variant form
+ποταμός	ῥύαξ	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἔπειμι	ἐφίημι	1	artefact	alignment	SKIP	alignment error — unrelated words
+πάρνηθα	Πάρνης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+χέρνιβις	χέρνιψ	1	variant_lemma	spelling_variant	TBD	variant form
+ὁμωχέτης	ὁμωχέτας	1	variant_lemma	spelling_variant	TBD	variant form
+σύγγνωμός	συγγνώμων	1	variant_lemma	spelling_variant	TBD	variant form
+δημοσιόω	σιδηρόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πειράζω	ἐπιλέγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀρισταγόρα	Ἀρισταγόρας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δαβῆσκος	Δράβησκος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐννέα	Ἐννέη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βορμίσκος	βρομισξυς	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπονέμω	ὑπονίφω	1	variant_lemma	spelling_variant	TBD	variant form
+προκαταλαμβάνω	προκατέχω	1	variant_lemma	spelling_variant	TBD	variant form
+διαδικάζω	διαδικαιόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποκωλύω	ἀποκρούω	1	variant_lemma	spelling_variant	TBD	variant form
+βραυρός	βραυρο	1	variant_lemma	spelling_variant	TBD	variant form
+οἰσύη	Οἰσύμη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἄσκιος	ἀπερίσκεπτος	1	artefact	alignment	SKIP	alignment error — unrelated words
+διάφραγμα	διόρυγμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀκρόθωος	Ἀκρόθωοι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὀλοφύσσω	Ὀλόφυξος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βισαλτικός	Βισαλτία	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἠδών	Ἠδῶνες	1	capitalisation	proper_noun	glaux	capitalisation + variant
+διοσκόρεος	διοσξυρι	1	variant_lemma	spelling_variant	TBD	variant form
+καταδείκνυμι	καταδείδω	1	variant_lemma	spelling_variant	TBD	variant form
+καναστραῖος	Καναστραῖον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσαποστέλλω	προσαφίστημι	1	variant_lemma	spelling_variant	TBD	variant form
+κορυφάσιος	Κορυφάσιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+μηδέτερος	μηδετέρωσε	1	variant_lemma	spelling_variant	TBD	variant form
+ἐχετιμίς	Ἐχετιμίδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κέλλω	Κέκαλος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀνέδην	ἀναδέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ταινίω	ταινιόω	1	variant_lemma	spelling_variant	TBD	variant form
+δικάζω	δικαιόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκπλήγνυμι	ἐκπλήσσω	1	variant_lemma	spelling_variant	TBD	variant form
+προαγώνισμαι	προαγωνίζομαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπανάβασις	ἐπανάσεισις	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκκροῦσαι	ἐκκρούω	1	variant_lemma	spelling_variant	TBD	variant form
+ἄρνισα	Ἀρνισσα	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προαναχωρέω	προαναχώρησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+συνήθης	συνηθέω	1	variant_lemma	spelling_variant	TBD	variant form
+μεθωναῖος	Μεθώνη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τραυματιζόμενος	τραυματίζω	1	variant_lemma	spelling_variant	TBD	variant form
+προσίστημι	πρόσημαι	1	variant_lemma	spelling_variant	TBD	variant form
+φαεινίς	πηαεινις	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀποφεύγω	φεύγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+λαοδοκεῖον	Λαοδίκεια	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὀρεσθίς	Ὄρεσθας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀτραμύττιος	Ἀδραμύττειον	1	artefact	alignment	SKIP	alignment error — unrelated words
+πελοποννήσιον	Πελοποννήσιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀναδάμναμαι	ἀναδατέομαι	1	variant_lemma	spelling_variant	TBD	variant form
+λεοντῖνοι	Λεόντινος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+λεοντίνη	Λεόντινος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἱππωνιά	Ἱππωνιεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+σταγίρριον	Στάγιρος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀλαμβανός	Γαληψός	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὄδομας	Ὀδόμαντες	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καταφρόνησις	καταφρονέω	1	pos_ambiguity	verb_noun	TBD	noun vs source verb
+ὑπαπίημι	ὑπάπειμι	1	variant_lemma	spelling_variant	TBD	variant form
+νέκρωσις	θανάτωσις	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπορρήγνυμι	ἀπαράσσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μυρκίνιον	Μυρκίνιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+μυρκινίος	Μύρκινος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἁγνώνεια	Ἅγνων	1	capitalisation	proper_noun	glaux	capitalisation + variant
+οἰκισμός	οἴκισις	1	variant_lemma	spelling_variant	TBD	variant form
+τριακόσιοι	ἐνακόσιοι	1	artefact	alignment	SKIP	alignment error — unrelated words
+πιερία	Πιέριον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐνδείκνυμι	ἐνδέχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+σφήλας	σφάλλω	1	artefact	alignment	SKIP	alignment error — unrelated words
+εὐλάκας	εὐλάκα	1	variant_lemma	spelling_variant	TBD	variant form
+εὐλαξέω	εὐλάζω	1	variant_lemma	spelling_variant	TBD	variant form
+σιγγαῖος	Σιγγαῖοι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀρτεμίσιον	Ἀρτεμίσιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+διονύσια	Διονύσιον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀριθμός	ἀριθμέω	1	variant_lemma	spelling_variant	TBD	variant form
+μείς	Μηνᾶς	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀμπέλινος	αμπελιδας	1	variant_lemma	spelling_variant	TBD	variant form
+ʼαλκαῖος	Ἀλκαῖος	1	artefact	alignment	SKIP	alignment error — unrelated words
+συγκινέω	διακινέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μῖξις	σύγχυσις	1	artefact	alignment	SKIP	alignment error — unrelated words
+λεπρεύς	Λέπρεος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἥμισυς	ἡμίσεια	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνοδάζω	ὀρρωδέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπισπονδαί	ἐπισπονδή	1	variant_lemma	spelling_variant	TBD	variant form
+βασιλεύς	Βασιλίς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐπιμειξία	ἐπιμιξία	1	variant_lemma	spelling_variant	TBD	variant form
+ξέναρος	χεναρες	1	artefact	alignment	SKIP	alignment error — unrelated words
+δωδέκατος	ἑνδέκατος	1	artefact	alignment	SKIP	alignment error — unrelated words
+αἴσων	Αἴσωνα	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κάτειμι	κελεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ξενάρη	χεναρες	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀρτύνω	ἀρτύνας	1	variant_lemma	spelling_variant	TBD	variant form
+συστρατεύω	συνεπιστρατεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+φύρκος	πηρψξυς	1	artefact	alignment	SKIP	alignment error — unrelated words
+δίκη	καταδίκη	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἁρπίνη	Ἅρπινα	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πατρέες	Πατρεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βοτάμιος	βοτάμια	1	variant_lemma	spelling_variant	TBD	variant form
+ἔργον	εἴσπραξις	1	artefact	alignment	SKIP	alignment error — unrelated words
+λεῦκτρον	Λεῦκτρα	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καρνεῖος	ξαρνευς	1	artefact	alignment	SKIP	alignment error — unrelated words
+σύνκάθημαι	συγκάθημαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+καρύα	Καρύαι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καταβαίνω	καταβάω	1	variant_lemma	spelling_variant	TBD	variant form
+σικυώνιος	Σικυώνια	1	capitalisation	proper_noun	glaux	capitalisation + variant
+θράσυλλος	Θράσυλος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+χαράδρης	Χάραδρος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κέλεύω	λεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κατάγω	καταναγκάζω	1	variant_lemma	spelling_variant	TBD	variant form
+προαπορέω	προαπόλλυμαι	1	variant_lemma	spelling_variant	TBD	variant form
+ὀρέσθειος	Ὀρέσθειον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τεγεάτης	Τεγεᾶτις	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐπιδιώκει	ἐπιδιώκω	1	variant_lemma	spelling_variant	TBD	variant form
+ἡράκλειος	Ἡράκλειον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀναβολή	μέλλησις	1	artefact	alignment	SKIP	alignment error — unrelated words
+πεντηκοντήρις	πεντηκοντήρ	1	variant_lemma	spelling_variant	TBD	variant form
+ἐνωμοτίαρχος	ἐνωμοτάρχης	1	variant_lemma	spelling_variant	TBD	variant form
+παραγγέλλω	παράγγελσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+βρασίδειος	Βρασίδης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+περιέχω	περιίσχω	1	variant_lemma	spelling_variant	TBD	variant form
+σύνκλεισις	σύγκλεισις	1	artefact	alignment	SKIP	alignment error — unrelated words
+εὐσκόπητος	εὐσκέπαστος	1	variant_lemma	spelling_variant	TBD	variant form
+ἱππονοίδης	Ἱππονοίδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἱππονοΐδης	Ἱππονοίδας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσμείγνυμι	πρόσμειξις	1	variant_lemma	spelling_variant	TBD	variant form
+παραδίδωμι	ἐνδίδωμι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀναπαύω	ἐκπαύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐκβαίνω	ἐξεκβάω	1	artefact	alignment	SKIP	alignment error — unrelated words
+σύσσημον	σῦμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἁμόθι	ἀμοθεί	1	variant_lemma	spelling_variant	TBD	variant form
+πελοπόννησος	Πελοποννήσιοι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κοινών	κοινανέω	1	variant_lemma	spelling_variant	TBD	variant form
+αὐτοπόλισις	αὐτόπολις	1	variant_lemma	spelling_variant	TBD	variant form
+διανέμω	κληρονομέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀκήρατος	ἀκίβδηλος	1	artefact	alignment	SKIP	alignment error — unrelated words
+εὐσέβεια	εὐσεβέω	1	variant_lemma	spelling_variant	TBD	variant form
+καταναλίζω	καταναλίσκω	1	variant_lemma	spelling_variant	TBD	variant form
+φιλότιμος	φιλοχρήματος	1	variant_lemma	spelling_variant	TBD	variant form
+εὔθυνα	εὐθύνω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιβλέψκω	ἐπιβλέπω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀμφισβητέω	ἀμφιαμφισβητέω	1	variant_lemma	spelling_variant	TBD	variant form
+μεσεγγυάομαι	μεσεγγυόομαι	1	variant_lemma	spelling_variant	TBD	variant form
+μισθόω	μισθός	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπελαύνω	ἀπολαύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+καταποικίζω	καταποικίλλω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνεπίτιμος	ἀνεπιτίμητος	1	variant_lemma	spelling_variant	TBD	variant form
+σύντομος	πραγματώδης	1	artefact	alignment	SKIP	alignment error — unrelated words
+δυσκαταμαθής	δυσκαταμάθητος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀειμνήστωρ	ἀείμνηστος	1	variant_lemma	spelling_variant	TBD	variant form
+αἴγεος	Αἰγεύς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προκινδυνεύω	συγκινδυνεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+λαπίθαι	Λαπίθης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δημαγωγός	δημαγωγέω	1	variant_lemma	spelling_variant	TBD	variant form
+παραμένουσα	παραμένω	1	variant_lemma	spelling_variant	TBD	variant form
+ὅσος	ὄσηνπερ	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀγαπάζω	ἀγαπάω	1	variant_lemma	spelling_variant	TBD	variant form
+δανάω	Δανάη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐνυμφεύω	νυμφεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+θεράπνα	Θεράπνη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+διοράω	διορόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπολείβω	ἀπολείπω	1	variant_lemma	spelling_variant	TBD	variant form
+τηλικοῦτος	τηλικαυθός	1	variant_lemma	spelling_variant	TBD	variant form
+μυέω	μυάω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μαρτυρέω	συμμαρτυρέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πορίζω	συμπορίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τίμιος	πάτριος	1	artefact	alignment	SKIP	alignment error — unrelated words
+τάλας	Ταλαός	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἡγεμονικῶς	ἡγεμονικός	1	variant_lemma	spelling_variant	TBD	variant form
+αὐτοχθόνιος	αὐτόχθων	1	variant_lemma	spelling_variant	TBD	variant form
+καταπλήσσω	καταχράω	1	variant_lemma	spelling_variant	TBD	variant form
+κλαίω	κήδω	1	artefact	alignment	SKIP	alignment error — unrelated words
+φθέω	φθάνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+χειροτονέω	φιλονεικέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πρόπλοος	πρόπλους	1	variant_lemma	spelling_variant	TBD	variant form
+συστρατεύω	συστραεύω	1	variant_lemma	spelling_variant	TBD	variant form
+δοῦλος	δούλη	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπεῖδον	ἐπιδίδωμι	1	artefact	alignment	SKIP	alignment error — unrelated words
+εὐφυῶς	εὐφυής	1	variant_lemma	spelling_variant	TBD	variant form
+συμπενθάνω	συμπενθέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπαυσάω	παύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+σύνοιδα	συνοράω	1	variant_lemma	spelling_variant	TBD	variant form
+παραναγιγνώσκω	παραναγνέω	1	variant_lemma	spelling_variant	TBD	variant form
+μήδομαι	μάομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+καρπόω	καρπέω	1	variant_lemma	spelling_variant	TBD	variant form
+συμπλεύσσω	συμπλέω	1	variant_lemma	spelling_variant	TBD	variant form
+προδεδαπάνηκα	προδυστυχέω	1	variant_lemma	spelling_variant	TBD	variant form
+κυρεῖον	Κύρειος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προδέδω	προδίδωμι	1	variant_lemma	spelling_variant	TBD	variant form
+παιδεύω	παίδευσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ὑπερέχω	ὑπέρκειμαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἡμίσεια	ἥμισυς	1	variant_lemma	spelling_variant	TBD	variant form
+διορθωσάω	διορθόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐγκώμιος	ἐγκώμιον	1	variant_lemma	spelling_variant	TBD	variant form
+συνδιαοράω	συνδιοράω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκπλήσσω	ἐκταράσσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐγκαταμίγνυμι	ἐγκαταμίγνυμαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνεγκλητί	ἀνεγκλητεί	1	variant_lemma	spelling_variant	TBD	variant form
+βάλλω	βλάπτω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τηλικοῦτος	τηλικουτον́ς	1	variant_lemma	spelling_variant	TBD	variant form
+μουσικός	μουσική	1	variant_lemma	spelling_variant	TBD	variant form
+διαλέγω	διαλέπω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιχείρημα	ἐνθύμημα	1	artefact	alignment	SKIP	alignment error — unrelated words
+παρίσησις	παρίσωσις	1	variant_lemma	spelling_variant	TBD	variant form
+διαδέομαι	διαδίδωμι	1	variant_lemma	spelling_variant	TBD	variant form
+διαλέγω	διαλείπω	1	variant_lemma	spelling_variant	TBD	variant form
+κατατίθημι	καταβάλλω	1	variant_lemma	spelling_variant	TBD	variant form
+συκοφαντία	συκοφαντίας	1	variant_lemma	spelling_variant	TBD	variant form
+προσδοκάω	προσδοκόω	1	variant_lemma	spelling_variant	TBD	variant form
+μεσεγγυήματος	μεσεγγύημα	1	variant_lemma	spelling_variant	TBD	variant form
+λυκείω	Λύκειον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+συγκάμνω	συνταράσσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+εὐπραξία	εὐπραγία	1	variant_lemma	spelling_variant	TBD	variant form
+καταδεέστερος	καταδεής	1	variant_lemma	spelling_variant	TBD	variant form
+παριστάω	παρίστημι	1	variant_lemma	spelling_variant	TBD	variant form
+καταρρυπανέω	καταρρυπαίνω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπορέω	ἀφοράω	1	artefact	alignment	SKIP	alignment error — unrelated words
+εἰσπράσσω	εἴσπραξις	1	variant_lemma	spelling_variant	TBD	variant form
+προσστάζω	προστάσσω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐξαριθμέω	ἀπαριθμέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἔρχομαι	ἐπέρχομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐφίζω	ἐπιδίδωμι	1	artefact	alignment	SKIP	alignment error — unrelated words
+τυφλόω	τύφλωσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+προστάσσω	προσστάζω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκεῖνος	’κεινός	1	artefact	alignment	SKIP	alignment error — unrelated words
+παράλιος	παραλία	1	variant_lemma	spelling_variant	TBD	variant form
+διέξειμι	διεξέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἑκτάσιος	ἑκτακόσιος	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπέρειρα	ληρέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κλωπία	κλωπεία	1	variant_lemma	spelling_variant	TBD	variant form
+διαθέω	διηθέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὅλος	σύνολος	1	artefact	alignment	SKIP	alignment error — unrelated words
+κλώπιος	κλωπεία	1	variant_lemma	spelling_variant	TBD	variant form
+συστρέφω	συστέλλω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπαυρέω	παύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μνημονεύω	μιμνῄσκω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπαινός	ἐπαινέω	1	variant_lemma	spelling_variant	TBD	variant form
+δυσκαταμαθήητος	δυσκαταμάθητος	1	variant_lemma	spelling_variant	TBD	variant form
+τυγχάνω	τεύχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἡμέρα	ἥμισυς	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπειλή	ἀπειλέω	1	variant_lemma	spelling_variant	TBD	variant form
+προσήκω	προσίημι	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπεμένω	ὑπομένω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐν	ἐνίημι	1	artefact	alignment	SKIP	alignment error — short word
+ἔνειμι	ἐνίημι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀσθενής	ἀσθενέω	1	variant_lemma	spelling_variant	TBD	variant form
+ταμία	ταμίας	1	variant_lemma	spelling_variant	TBD	variant form
+προαπόλλυμαι	προαπόλλυμι	1	variant_lemma	spelling_variant	TBD	variant form
+καθειλκύω	καθέλκω	1	variant_lemma	spelling_variant	TBD	variant form
+προάξω	προάγω	1	variant_lemma	spelling_variant	TBD	variant form
+συνεφοπλίζω	συνεπιστρατεύω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀμφικτύων	Ἀμφικτύονες	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πύθιος	Πύθια	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κατεπείγω	μέλλω	1	artefact	alignment	SKIP	alignment error — unrelated words
+παραιρέω	παραλέγω	1	variant_lemma	spelling_variant	TBD	variant form
+παράπαν	παραυτίκα	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπάγω	ὕπειμι	1	artefact	alignment	SKIP	alignment error — unrelated words
+μηκέθʼ	μηκέτι	1	variant_lemma	spelling_variant	TBD	variant form
+πάρειμι	παρέρχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+διαμαρτάνω	παρακρούω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προπηλάκισις	προπηλακισμός	1	variant_lemma	spelling_variant	TBD	variant form
+λεῦκτρα	Λεῦκτρον	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐκδείκνυμι	ἐκδέχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+διαρρήγνυμι	διαράσσω	1	variant_lemma	spelling_variant	TBD	variant form
+κλείω	κλῄζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπάνειμι	ἐπανέρχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐποιάω	ποιέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τοιοῦτος	τοουτον́ς	1	artefact	alignment	SKIP	alignment error — unrelated words
+διονύσιον	Διονύσιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καινός	καινέω	1	variant_lemma	spelling_variant	TBD	variant form
+δῶμα	δίδωμι	1	artefact	alignment	SKIP	alignment error — unrelated words
+μέγαρον	Μέγαρος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+εἰμί	εἰ	1	artefact	alignment	SKIP	alignment error — short word
+συνεράω	συνερέω	1	variant_lemma	spelling_variant	TBD	variant form
+γυμνασιάρχης	γυμνασίαρχος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνάλωσις	ἀναλόω	1	pos_ambiguity	verb_noun	TBD	noun vs source verb
+θευδοσία	Θευδοσίας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πρωπέρυσυς	προπέρυσι	1	artefact	alignment	SKIP	alignment error — unrelated words
+μεταδόξα	μεταδοκέω	1	variant_lemma	spelling_variant	TBD	variant form
+καθίστημι	καθιστάω	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπερδέω	ὑπέρδεινος	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπέρρει	ὑπερρέω	1	variant_lemma	spelling_variant	TBD	variant form
+εἰσφρουρέω	εἰσφρέω	1	variant_lemma	spelling_variant	TBD	variant form
+δέκατος	δεκάτη	1	variant_lemma	spelling_variant	TBD	variant form
+βυζάντιον	Βυζάντιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δεῖγμα	παράδειγμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+στράβακες	Στράβαξ	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ζήτησις	ζητέω	1	pos_ambiguity	verb_noun	TBD	noun vs source verb
+σιτέω	σίτησις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+καταδεικνύω	καταδείκνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+προσδιώρισα	προσδιορίζω	1	variant_lemma	spelling_variant	TBD	variant form
+οὐδείς	οὐδεμιός	1	variant_lemma	spelling_variant	TBD	variant form
+μαστιγίης	μαστιγίας	1	variant_lemma	spelling_variant	TBD	variant form
+σύντομος	πρόσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κεραμεύς	Κεραμεῖς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+γέλαος	Γέλαρχος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+φαῖνος	φαίνω	1	variant_lemma	spelling_variant	TBD	variant form
+συνεράω	συλλέγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+προσοίχομαι	προσέοικα	1	variant_lemma	spelling_variant	TBD	variant form
+δημοφάνης	Δημόφαντος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+τίθημι	θεάομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+διαφυλάσσω	φυλάσσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀνάὀχλέω	ἠνοχλάω	1	artefact	alignment	SKIP	alignment error — unrelated words
+συνοργέομαι	συνοργίζομαι	1	variant_lemma	spelling_variant	TBD	variant form
+πάνδιον	Πάνδια	1	capitalisation	proper_noun	glaux	capitalisation + variant
+χορηγέω	χορηγός	1	variant_lemma	spelling_variant	TBD	variant form
+δεῖνα	δεινός	1	variant_lemma	spelling_variant	TBD	variant form
+ἀθέμιστος	ἄθεμις	1	variant_lemma	spelling_variant	TBD	variant form
+ἔρχομαι	οἶδα	1	artefact	alignment	SKIP	alignment error — unrelated words
+δεικνύω	δείκνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+προσωτέρω	πρόσω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπτόλεμος	ἀπόλεμος	1	artefact	alignment	SKIP	alignment error — unrelated words
+λωποδύτης	λωποδυτέω	1	variant_lemma	spelling_variant	TBD	variant form
+εὐσεβής	εὐσεβῶς	1	variant_lemma	spelling_variant	TBD	variant form
+κύριος	κυρία	1	variant_lemma	spelling_variant	TBD	variant form
+πεινέω	πεινάω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπείπερ	ἐπεί	1	variant_lemma	spelling_variant	TBD	variant form
+εὐπατρίδης	εὐπατριδοῦς	1	variant_lemma	spelling_variant	TBD	variant form
+καταπάσσω	περιπέμπω	1	artefact	alignment	SKIP	alignment error — unrelated words
+διατρίβω	κατατρίβω	1	artefact	alignment	SKIP	alignment error — unrelated words
+οἰνόφλυγος	οἰνοφλυγία	1	variant_lemma	spelling_variant	TBD	variant form
+εἰμί	ἔστε	1	artefact	alignment	SKIP	alignment error — unrelated words
+δεσπόνη	δέσποινα	1	variant_lemma	spelling_variant	TBD	variant form
+ἑκατονταπλασίονα	ἑκατονταπλασίων	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνάλωμα	ταμίευμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+συνωφέλω	συνωφελέω	1	variant_lemma	spelling_variant	TBD	variant form
+ὁπόσος	ὁποσώνπηρ	1	variant_lemma	spelling_variant	TBD	variant form
+καταπλουτέω	καταπλουτίζω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπαγορεύω	ἀποκωλύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐρυσῖβαι	ἐρυσίβη	1	variant_lemma	spelling_variant	TBD	variant form
+καταγνύω	κατάγνυμι	1	variant_lemma	spelling_variant	TBD	variant form
+τιθάω	τιθασεύω	1	variant_lemma	spelling_variant	TBD	variant form
+αἱρέω	ἐκλέγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μελιττώ	μέλισσα	1	variant_lemma	spelling_variant	TBD	variant form
+ἤπερ	ἤ	1	artefact	alignment	SKIP	alignment error — short word
+ξάνθιππος	Ξανθίππη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὄψις	ὁράω	1	artefact	alignment	SKIP	alignment error — unrelated words
+μυκτῆρς	μυκτήρ	1	variant_lemma	spelling_variant	TBD	variant form
+ἀναπέτομαι	ἀναπετάννυμι	1	variant_lemma	spelling_variant	TBD	variant form
+παρεείρω	παρείρω	1	variant_lemma	spelling_variant	TBD	variant form
+δεῖγμα	ἐπίδειγμα	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀείδω	ἁθεͅω	1	artefact	alignment	SKIP	alignment error — unrelated words
+θαυματουργέω	θαυμασιουργέω	1	variant_lemma	spelling_variant	TBD	variant form
+κατασβέννυσι	κατασβέννυμι	1	variant_lemma	spelling_variant	TBD	variant form
+συγκερτομέω	συγκροτέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἰσήλιξ	ἰσήλικος	1	variant_lemma	spelling_variant	TBD	variant form
+κατακαίω	κατατήκω	1	variant_lemma	spelling_variant	TBD	variant form
+ψηλαφημάτιον	ψηλάφημα	1	variant_lemma	spelling_variant	TBD	variant form
+διόσκουρος	Διόσκοροι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+πήγνυμι	ἐπάγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπιθυμέω	ὀρέγω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐφέστιος	ἐράσμιος	1	artefact	alignment	SKIP	alignment error — unrelated words
+σύνεἴσειμι	συνεξέρχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+καθοράω	κατοράω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κρότομος	κροτέω	1	variant_lemma	spelling_variant	TBD	variant form
+φείδομαι	ἐφίημι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑφίημι	ὑφάω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπραγμος	ἀπράγμων	1	variant_lemma	spelling_variant	TBD	variant form
+μέλης	Μέλητος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+εὐδιαῖος	εὐδίαιτος	1	variant_lemma	spelling_variant	TBD	variant form
+γείνομαι	γίγνομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+καταφανής	κατάδηλος	1	variant_lemma	spelling_variant	TBD	variant form
+τοιχωρυγία	τοιχωρυχία	1	variant_lemma	spelling_variant	TBD	variant form
+ἀνδραποδισμός	ἀνδραπόδισις	1	variant_lemma	spelling_variant	TBD	variant form
+ἀξιομακαρίζει	ἀξιομακάριστος	1	variant_lemma	spelling_variant	TBD	variant form
+πισίδης	Πισίδαι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+μαρσύα	Μαρσύας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κεράμων	Κέραμος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ὑπάρχω	ὕπαρχος	1	variant_lemma	spelling_variant	TBD	variant form
+τέμνω	Ταμώς	1	artefact	alignment	SKIP	alignment error — unrelated words
+στρεπτόν	στρεπτός	1	variant_lemma	spelling_variant	TBD	variant form
+οἷος	οἵᾳπερ	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὀπισθοφυλακέω	ὀπισθοφύλαξ	1	variant_lemma	spelling_variant	TBD	variant form
+τετανότριχα	τετανόθριξ	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκχέω	ἐκκεχυμένως	1	artefact	alignment	SKIP	alignment error — unrelated words
+τιτθεύω	θητεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+φαιδριεπής	καλλιεπέομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+θέρω	τρέφω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἱππίας	Ἱππίης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προίξ	προῖκα	1	variant_lemma	spelling_variant	TBD	variant form
+προσεῖδον	πρόσοιδα	1	variant_lemma	spelling_variant	TBD	variant form
+καλλίας	Καλλίης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+λωφάω	πῶλος	1	artefact	alignment	SKIP	alignment error — unrelated words
+φαιδρύνω	καλλύνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀρέσκω	ἁβρύνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπαγείρω	ἐπεγείρω	1	artefact	alignment	SKIP	alignment error — unrelated words
+στερέω	εἰστερέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+.	ἔτι	1	artefact	alignment	SKIP	alignment error — short word
+σκοπάω	σκοπέω	1	variant_lemma	spelling_variant	TBD	variant form
+μουσική	μουσικός	1	variant_lemma	spelling_variant	TBD	variant form
+τροφεύς	τρέφω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἄσχημος	ἀσχήμων	1	variant_lemma	spelling_variant	TBD	variant form
+ἐξαστράπτω	ἐκλάμπω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀριστόβουλος	Ἀριστόδημος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀποφαίνω	ἀπόφημι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπαινέω	ἐγκωμιάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πρώτιστος	πρῶτος	1	variant_lemma	spelling_variant	TBD	variant form
+μήδομαι	μητίομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐραστής	ἐραστός	1	variant_lemma	spelling_variant	TBD	variant form
+ἐγκαταλιπάω	ἐγκαταλείπω	1	variant_lemma	spelling_variant	TBD	variant form
+ὀλίγιστος	εὐαρίθμητος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπεραγαάομαι	ὑπεράγαμαι	1	variant_lemma	spelling_variant	TBD	variant form
+φαίδρω	Φαῖδρος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+γενειάω	γενειάσκω	1	variant_lemma	spelling_variant	TBD	variant form
+συνδιαιτάω	συμβιόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+καλχηδόνιον	Καλχηδόνιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+χαρμαντις	Χαρμαντίδης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προπηλακίζω	προπηλάκισις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ποιέω	πεπονθέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἁσμένιστος	ἀσμενής	1	variant_lemma	spelling_variant	TBD	variant form
+ἐνέγκω	φέρω	1	artefact	alignment	SKIP	alignment error — unrelated words
+διπλόος	διπλός	1	variant_lemma	spelling_variant	TBD	variant form
+χρηματιστής	χρηματίζω	1	variant_lemma	spelling_variant	TBD	variant form
+παρακατατίθεμαι	παρακατατίθημι	1	variant_lemma	spelling_variant	TBD	variant form
+αἰνίσσομαι	αἰνίζομαι	1	variant_lemma	spelling_variant	TBD	variant form
+ποτόν	ποτός	1	variant_lemma	spelling_variant	TBD	variant form
+ἡδύσματα	ἥδυσμα	1	variant_lemma	spelling_variant	TBD	variant form
+σκυτοτομική	σκυτοτομικός	1	variant_lemma	spelling_variant	TBD	variant form
+ἀμπελουργική	ἀμπελουργικός	1	variant_lemma	spelling_variant	TBD	variant form
+ἰσμήνιος	Ἰσμηνίας	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καταπαύω	διαπαύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑποτρέμων	ὑποτρέμω	1	variant_lemma	spelling_variant	TBD	variant form
+ἡρακλέης	Ἡρακλῆς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+μάθως	μανθάνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἅδος	ἅδην	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὅσπερ	οὗπερ	1	artefact	alignment	SKIP	alignment error — unrelated words
+πρόσταξις	προστάσσω	1	variant_lemma	spelling_variant	TBD	variant form
+συμφάω	σύμφημι	1	variant_lemma	spelling_variant	TBD	variant form
+δημιουργός	δημιουργέω	1	variant_lemma	spelling_variant	TBD	variant form
+κορυζών	κορυζάω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐντίθημι	ἐνθάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐξαπάτη	ἐξαπατάω	1	variant_lemma	spelling_variant	TBD	variant form
+ἑστιάσεις	ἑστιάω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποπληρώω	ἀποπληρόω	1	variant_lemma	spelling_variant	TBD	variant form
+θαμβάζω	θηλάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+περιστέλλω	περιστρέφω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀκούω	ἄκων	1	artefact	alignment	SKIP	alignment error — unrelated words
+τολμέω	τολμάω	1	variant_lemma	spelling_variant	TBD	variant form
+συνεξαμαρτέω	συνεξαμαρτάνω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπομαχέομαι	ἀπομάχομαι	1	variant_lemma	spelling_variant	TBD	variant form
+συγκοπή	συγκόπτω	1	variant_lemma	spelling_variant	TBD	variant form
+συγκοπάω	συγκοπόω	1	variant_lemma	spelling_variant	TBD	variant form
+κατάγω	κατάσσω	1	variant_lemma	spelling_variant	TBD	variant form
+πολεμιάζω	φιλονεικέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+θαρσέω	κινδυνεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+συνόρω	διαλύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀπολαχέω	ἀπολαγχάνω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπελαύνω	ἀπολαγχάνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+δύσερις	δύσερως	1	variant_lemma	spelling_variant	TBD	variant form
+ὑπώπιος	ὑπώπιον	1	variant_lemma	spelling_variant	TBD	variant form
+λύω	λύσις	1	pos_ambiguity	verb_noun	TBD	verb vs deverbal noun
+ἐξαμαρτάνω	ἐξαμαρτέω	1	variant_lemma	spelling_variant	TBD	variant form
+οὗτος	τούτός	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀλγίων	ἄλγιστος	1	variant_lemma	spelling_variant	TBD	variant form
+λαγχάνω	κληρόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κακοπαθέω	διοχλέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+διακούω	κολακεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+δέχομαι	καταδέχομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+περιστρέφω	περιτρέπω	1	variant_lemma	spelling_variant	TBD	variant form
+παραδίδωμι	παραδέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀθήνη	Ἀθῆναι	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κιτιάω	Κιτιής	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐξηλάσατε	ἐξελαύνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κηφισιεύς	Κηφίσιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+κηφισσός	Κηφίσιος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+δημοσίᾳ	δημόσιος	1	variant_lemma	spelling_variant	TBD	variant form
+ἐξενοράω	ξενόω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ναυκληρός	ναυκληρέω	1	variant_lemma	spelling_variant	TBD	variant form
+τροφεῖον	τροφεῖα	1	variant_lemma	spelling_variant	TBD	variant form
+καταπλήσσω	καταπλήξ	1	variant_lemma	spelling_variant	TBD	variant form
+κρίνω	διαγιγνώσκω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐξελέγχω	ἀπελέγχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀντικλέης	Ἀντικλῆς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+χειρόω	χειρέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀντοφθαλμέω	ἀνοχλέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὑπερείδης	ὑπεροράω	1	variant_lemma	spelling_variant	TBD	variant form
+ὑποτοπόω	ὑποτοπέω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀφοράω	ἀπορέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐνσχολάζω	σχολάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+δρασείω	δρασκάζω	1	variant_lemma	spelling_variant	TBD	variant form
+νεανίης	νεανίας	1	variant_lemma	spelling_variant	TBD	variant form
+θεομνήσστος	Θεόμνηστος	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἐφόδια	ἐφόδιον	1	variant_lemma	spelling_variant	TBD	variant form
+θεόγνιδις	Θέογνις	1	capitalisation	proper_noun	glaux	capitalisation + variant
+οἰκίον	οἰκία	1	variant_lemma	spelling_variant	TBD	variant form
+εἰμί	οἶδα	1	artefact	alignment	SKIP	alignment error — unrelated words
+λευκός	Λευκή	1	capitalisation	proper_noun	glaux	capitalisation + variant
+καταπιέζω	καταποντίζω	1	variant_lemma	spelling_variant	TBD	variant form
+ὗς	υἱός	1	artefact	alignment	SKIP	alignment error — short word
+μεγακλεής	Μεγακλῆς	1	capitalisation	proper_noun	glaux	capitalisation + variant
+βλασφημέω	δυστυχέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+οἶδα	ἐσθέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+σφόδρα	σφοδρός	1	variant_lemma	spelling_variant	TBD	variant form
+ἀναπληρόω	ἀναπράσσω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀπαλλοτριόω	ἀποχωρίζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐλαύνω	λαγχάνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ναυτοδίκας	ναυτοδίκαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἕκητι	ἕκατος	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐίσκω	ἐικάνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+συκοφαντέω	συκοφάντης	1	variant_lemma	spelling_variant	TBD	variant form
+ἀθήνησι	Ἀθήνη	1	capitalisation	proper_noun	glaux	capitalisation + variant
+διακινδυνεύω	προκινδυνεύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πάππης	πάππος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποκτίνω	ἀποκτείνω	1	variant_lemma	spelling_variant	TBD	variant form
+λόγιον	λογιστήριον	1	variant_lemma	spelling_variant	TBD	variant form
+ἐκπρίω	ἐκπρίασθαι	1	variant_lemma	spelling_variant	TBD	variant form
+ἐξελαύνω	ἐξαιρέω	1	artefact	alignment	SKIP	alignment error — unrelated words
+κτίζω	ἐκτίνω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἐπιτιμάω	ἐπίτιμος	1	variant_lemma	spelling_variant	TBD	variant form
+συνεπριάμην	συμπρίασθαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+καλέω	κλείω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ὁπόστος	ὁπόσος	1	variant_lemma	spelling_variant	TBD	variant form
+κακοβουλία	κακόνοια	1	variant_lemma	spelling_variant	TBD	variant form
+ὠνίον	ὤνιος	1	pos_ambiguity	noun_adjective	TBD	substantivised adjective
+πάγκλειος	Παγκλέων	1	capitalisation	proper_noun	glaux	capitalisation + variant
+προσφοιτῶ	προσφοιτάω	1	variant_lemma	spelling_variant	TBD	variant form
+δεκελειεύς	Δεκέλεια	1	capitalisation	proper_noun	glaux	capitalisation + variant
+ἀναγράφω	ἀντιγράφω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ῥέζω	ἀράσσω	1	artefact	alignment	SKIP	alignment error — unrelated words
+ναυμάχηκε	ναυμαχέω	1	variant_lemma	spelling_variant	TBD	variant form
+δαπανάω	δαπανόω	1	variant_lemma	spelling_variant	TBD	variant form
+ἐπιγέννητος	Ἐπιγένης	1	capitalisation	proper_noun	glaux	capitalisation + variant
+παρακελεύομαι	διακελεύομαι	1	artefact	alignment	SKIP	alignment error — unrelated words
+κατακωλύω	καταγγέλλω	1	variant_lemma	spelling_variant	TBD	variant form
+ἀειμνημόνευτος	ἀείμνηστος	1	variant_lemma	spelling_variant	TBD	variant form
+ἀποδοκιμάω	ἀποδοκιμάζω	1	variant_lemma	spelling_variant	TBD	variant form
+διαλύω	καταλύω	1	artefact	alignment	SKIP	alignment error — unrelated words
+τεσσαρακοστός	πεντακοσιοστός	1	artefact	alignment	SKIP	alignment error — unrelated words
+ἀτιμάζω	ἀποδοκιμάζω	1	artefact	alignment	SKIP	alignment error — unrelated words
+διαίρεσίς	διοίκισις	1	artefact	alignment	SKIP	alignment error — unrelated words
+συγκαλέω	συναγείρω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πράσσω	πάσχω	1	artefact	alignment	SKIP	alignment error — unrelated words
+πρώιος	πρῴην	4	uncategorised		TBD	needs manual review
+συνόχωκα	συνέχω	3	uncategorised		TBD	needs manual review
+ἀναμιμνήσκω	ἀναγιγνώσκω	3	uncategorised		TBD	needs manual review
+καθεστῶτα	καθίστημι	3	uncategorised		TBD	needs manual review
+ὄλπη	Ὄλπαι	3	uncategorised		TBD	needs manual review
+πρᾶξις	πράσσω	3	uncategorised		TBD	needs manual review
+θέρη	θέρος	3	uncategorised		TBD	needs manual review
+ἀπόἐρῶ	ἀπολέγω	3	uncategorised		TBD	needs manual review
+οἰκουμένη	οἰκέω	2	uncategorised		TBD	needs manual review
+ἀπεῖπον	ἀπεράω	2	uncategorised		TBD	needs manual review
+εὐθής	εὐθύς	2	uncategorised		TBD	needs manual review
+ἔξειμι	ἐξέρχομαι	2	uncategorised		TBD	needs manual review
+ἐκλείπω	ἐκλιπής	2	uncategorised		TBD	needs manual review
+ἔσω	εἴσω	2	uncategorised		TBD	needs manual review
+διαλείπω	διαμέλλω	2	uncategorised		TBD	needs manual review
+εἰσπέμπω	εἰσκομίζω	2	uncategorised		TBD	needs manual review
+τήρης	Τήρας	2	uncategorised		TBD	needs manual review
+ἔχω	χάω	2	uncategorised		TBD	needs manual review
+διαιρέω	διαλέγω	2	uncategorised		TBD	needs manual review
+προέχω	προυσσω	2	uncategorised		TBD	needs manual review
+παίων	Παίονες	2	uncategorised		TBD	needs manual review
+εὐθεῖα	εὐθύς	2	uncategorised		TBD	needs manual review
+προειστήκω	προΐστημι	2	uncategorised		TBD	needs manual review
+ἱερός	Ἱερή	2	uncategorised		TBD	needs manual review
+μυλή	Μυλαί	2	uncategorised		TBD	needs manual review
+εὐρυτᾶς	ευρψτανιανς	2	uncategorised		TBD	needs manual review
+ἀπόμοιρα	ἀπολέγω	2	uncategorised		TBD	needs manual review
+ἐνδέω	ἐνδίδωμι	2	uncategorised		TBD	needs manual review
+ἀναπαύω	ἀνασείω	2	uncategorised		TBD	needs manual review
+σολύγειος	σολψγεια	2	uncategorised		TBD	needs manual review
+σολύγεια	σολψγεια	2	uncategorised		TBD	needs manual review
+δῖος	Δῖον	2	uncategorised		TBD	needs manual review
+κάθημαι	καθίημι	2	uncategorised		TBD	needs manual review
+ἔθος	θέω	2	uncategorised		TBD	needs manual review
+μήν	μείς	2	uncategorised		TBD	needs manual review
+ἄθων	Ἄθως	2	uncategorised		TBD	needs manual review
+θρᾳκία	Θρᾷξ	2	uncategorised		TBD	needs manual review
+λῦπαι	λύπη	2	uncategorised		TBD	needs manual review
+κόρη	Κόρα	2	uncategorised		TBD	needs manual review
+προσρέπω	προτρέπω	2	uncategorised		TBD	needs manual review
+δύνομαι	δύναμαι	2	uncategorised		TBD	needs manual review
+διά	Ζεύς	2	uncategorised		TBD	needs manual review
+δεῖ	δέον	2	uncategorised		TBD	needs manual review
+ἀγαθός	ἀγατός	2	uncategorised		TBD	needs manual review
+αὔξω	αὐξάνω	2	uncategorised		TBD	needs manual review
+παραχώννυμι	παρέχω	2	uncategorised		TBD	needs manual review
+πάρειμι	παρίημι	2	uncategorised		TBD	needs manual review
+ἤια	ἔρχομαι	2	uncategorised		TBD	needs manual review
+ἄττα	τις	2	uncategorised		TBD	needs manual review
+ἔρος	ἔρομαι	2	uncategorised		TBD	needs manual review
+μηνφίλος	Μηνόφιλος	2	uncategorised		TBD	needs manual review
+διάκειμαι	διατίθημι	2	uncategorised		TBD	needs manual review
+ἀπονέμω	ἀποφέρω	2	uncategorised		TBD	needs manual review
+λινοῦς	λίνεος	1	uncategorised		TBD	needs manual review
+πάλη	πάλα	1	uncategorised		TBD	needs manual review
+εἰμί	Ἴων	1	uncategorised		TBD	needs manual review
+κώλωμα	κώλυμα	1	uncategorised		TBD	needs manual review
+ἄκρον	ἄκρα	1	uncategorised		TBD	needs manual review
+ἐμπρήθω	ἐμπίμπρημι	1	uncategorised		TBD	needs manual review
+ἐπιτίθημι	ἐπιθέω	1	uncategorised		TBD	needs manual review
+ἀντιλπίζω	ἀντελπίζω	1	uncategorised		TBD	needs manual review
+φράσσω	φράζω	1	uncategorised		TBD	needs manual review
+διώκω	δίωξις	1	uncategorised		TBD	needs manual review
+ἀποκαθίστημι	ἀποικοδομέω	1	uncategorised		TBD	needs manual review
+εἰμί	ἐάω	1	uncategorised		TBD	needs manual review
+ἐγκλείω	ἔγκειμαι	1	uncategorised		TBD	needs manual review
+στυκίον	στυράκιον	1	uncategorised		TBD	needs manual review
+ξύλον	ξύλωσις	1	uncategorised		TBD	needs manual review
+ξένιος	Ξενότιμος	1	uncategorised		TBD	needs manual review
+εἰσβολή	εἰσδρομή	1	uncategorised		TBD	needs manual review
+ἐξάγω	ἐξανάγω	1	uncategorised		TBD	needs manual review
+φεά	Φειά	1	uncategorised		TBD	needs manual review
+πύθων	Πύθης	1	uncategorised		TBD	needs manual review
+παλή	Παλέες	1	uncategorised		TBD	needs manual review
+σάμιος	Σαμαῖος	1	uncategorised		TBD	needs manual review
+ἀλλάσσω	ἀλλοιόω	1	uncategorised		TBD	needs manual review
+συναφίστημι	συνεφίστημι	1	uncategorised		TBD	needs manual review
+δέρσος	δέρρις	1	uncategorised		TBD	needs manual review
+προῦχος	προέχω	1	uncategorised		TBD	needs manual review
+ὄροδος	Ὄροιδος	1	uncategorised		TBD	needs manual review
+μάχομαι	Μαχάων	1	uncategorised		TBD	needs manual review
+καθαιρέω	καθέλκω	1	uncategorised		TBD	needs manual review
+νέσσος	Νέστος	1	uncategorised		TBD	needs manual review
+διέρχομαι	δίειμι	1	uncategorised		TBD	needs manual review
+κορέννυμι	Κόροντα	1	uncategorised		TBD	needs manual review
+σύν	ξύν	1	uncategorised		TBD	needs manual review
+σός	σῶς	1	uncategorised		TBD	needs manual review
+ἕννυμι	ἵζω	1	uncategorised		TBD	needs manual review
+ἐπέρχομαι	ἐπεξέρχομαι	1	uncategorised		TBD	needs manual review
+προτίθημι	προθέω	1	uncategorised		TBD	needs manual review
+ἄγω	ἀγάω	1	uncategorised		TBD	needs manual review
+ἐπιχλύζω	ἐπικλύζω	1	uncategorised		TBD	needs manual review
+ἐλλεμενός	Ἐλλομενός	1	uncategorised		TBD	needs manual review
+συμπράσσω	συμβοηθέω	1	uncategorised		TBD	needs manual review
+βωμιεύς	Βωμοί	1	uncategorised		TBD	needs manual review
+καλός	Καλλιεύς	1	uncategorised		TBD	needs manual review
+καθίστημι	καθέζομαι	1	uncategorised		TBD	needs manual review
+μονώζω	μονόω	1	uncategorised		TBD	needs manual review
+ἀποφεύγω	ἀποδιώκω	1	uncategorised		TBD	needs manual review
+προβαίνω	προαναβαίνω	1	uncategorised		TBD	needs manual review
+ἀποδοκιμάω	ἀποστέλλω	1	uncategorised		TBD	needs manual review
+βύζης	βῦζα	1	uncategorised		TBD	needs manual review
+ἄοπτος	ἄοπλος	1	uncategorised		TBD	needs manual review
+ὀκείλω	ὀκέλλω	1	uncategorised		TBD	needs manual review
+φράζω	φράσσω	1	uncategorised		TBD	needs manual review
+ἀνθίστημι	ἀνθέλκω	1	uncategorised		TBD	needs manual review
+πρόεργος	προὔργου	1	uncategorised		TBD	needs manual review
+ἀνθίστημι	ἀνθησσάομαι	1	uncategorised		TBD	needs manual review
+κάλως	κᾶλον	1	uncategorised		TBD	needs manual review
+ἀήθω	ἀήθης	1	uncategorised		TBD	needs manual review
+δόρυ	δοράτιον	1	uncategorised		TBD	needs manual review
+παρήκω	παρείκω	1	uncategorised		TBD	needs manual review
+διαπρεσβεύομαι	διακηρυκεύομαι	1	uncategorised		TBD	needs manual review
+ἀρχέλαος	Ἄρχιππος	1	uncategorised		TBD	needs manual review
+ἄκτια	Ἀκταίη	1	uncategorised		TBD	needs manual review
+γέλοιος	Γελῷος	1	uncategorised		TBD	needs manual review
+σάμιος	Σάμος	1	uncategorised		TBD	needs manual review
+προπέμπω	προαποστέλλω	1	uncategorised		TBD	needs manual review
+σίφων	Σῖφαι	1	uncategorised		TBD	needs manual review
+μεταμερίζω	μετεωρίζω	1	uncategorised		TBD	needs manual review
+σύμφορος	σύμμορος	1	uncategorised		TBD	needs manual review
+δῆλος	Δήλιον	1	uncategorised		TBD	needs manual review
+κοιμάω	κοιλαίνω	1	uncategorised		TBD	needs manual review
+φύω	φῦσα	1	uncategorised		TBD	needs manual review
+φύω	φυσάω	1	uncategorised		TBD	needs manual review
+ἀρνός	Ἄρνη	1	uncategorised		TBD	needs manual review
+παρίων	Πάρος	1	uncategorised		TBD	needs manual review
+προλαμβάνω	προκαταλαμβάνω	1	uncategorised		TBD	needs manual review
+γοάξιος	γοαχις	1	uncategorised		TBD	needs manual review
+ὀργίζω	ὀργάω	1	uncategorised		TBD	needs manual review
+τυρηηνός	Τυρρηνός	1	uncategorised		TBD	needs manual review
+ὠκύς	Ὤκυτος	1	uncategorised		TBD	needs manual review
+γέλως	Γέλα	1	uncategorised		TBD	needs manual review
+πολύς	πολλες	1	uncategorised		TBD	needs manual review
+ἥσσων	ἧσσα	1	uncategorised		TBD	needs manual review
+προτρέπω	προσρέπω	1	uncategorised		TBD	needs manual review
+προανείζω	προεπανασείω	1	uncategorised		TBD	needs manual review
+συντίθημι	συνθέω	1	uncategorised		TBD	needs manual review
+σαναίος	Σάνη	1	uncategorised		TBD	needs manual review
+λίχας	Λίχης	1	uncategorised		TBD	needs manual review
+δέκατος	δεκέτης	1	uncategorised		TBD	needs manual review
+προγιγνώσκω	προδιαγιγνώσκω	1	uncategorised		TBD	needs manual review
+σάμος	Σάμινθος	1	uncategorised		TBD	needs manual review
+ὀρείσιος	Ὀρεσθεῖον	1	uncategorised		TBD	needs manual review
+ποττός	τώς	1	uncategorised		TBD	needs manual review
+σίω	θεός	1	uncategorised		TBD	needs manual review
+αὐτός	αὔτως	1	uncategorised		TBD	needs manual review
+ἀνεξέλεγκτος	ἀνέλεγκτος	1	uncategorised		TBD	needs manual review
+ἐνδίδωμι	ἐνδέω	1	uncategorised		TBD	needs manual review
+ἐπικρύπτω	ἐπισκοτέω	1	uncategorised		TBD	needs manual review
+συνειδήσεις	συνοράω	1	uncategorised		TBD	needs manual review
+χρῆσις	χρή	1	uncategorised		TBD	needs manual review
+τέρπω	τέρψις	1	uncategorised		TBD	needs manual review
+προῦπτος	πρόοπτος	1	uncategorised		TBD	needs manual review
+λήδας	Λήδη	1	uncategorised		TBD	needs manual review
+τιμάω	τιμέω	1	uncategorised		TBD	needs manual review
+ἱκεσία	ἱκετεία	1	uncategorised		TBD	needs manual review
+ὁρμέω	ὁρμάω	1	uncategorised		TBD	needs manual review
+ἄστη	ἄστυ	1	uncategorised		TBD	needs manual review
+διαέρπω	διαρρίπτω	1	uncategorised		TBD	needs manual review
+ἄγαμαι	ἀγάζω	1	uncategorised		TBD	needs manual review
+παρά	παρό	1	uncategorised		TBD	needs manual review
+προτάσσω	προσάγω	1	uncategorised		TBD	needs manual review
+ἐκδέω	ἐκδίδωμι	1	uncategorised		TBD	needs manual review
+προλέγω	προαπολέγω	1	uncategorised		TBD	needs manual review
+ἄκρατος	ἄκριτος	1	uncategorised		TBD	needs manual review
+κατέλέγω	καταλέγω	1	uncategorised		TBD	needs manual review
+θήβη	Θῆβαι	1	uncategorised		TBD	needs manual review
+πότερος	πός	1	uncategorised		TBD	needs manual review
+ὅσιος	ὁσία	1	uncategorised		TBD	needs manual review
+ἔχω	ἕξις	1	uncategorised		TBD	needs manual review
+ἔχω	ἐχόντως	1	uncategorised		TBD	needs manual review
+δέω	δέον	1	uncategorised		TBD	needs manual review
+κάθημαι	καθέζομαι	1	uncategorised		TBD	needs manual review
+κῶνος	Κῶς	1	uncategorised		TBD	needs manual review
+προίστημι	προάγω	1	uncategorised		TBD	needs manual review
+βόα	βοάω	1	uncategorised		TBD	needs manual review
+παρόω	πάρειμι	1	uncategorised		TBD	needs manual review
+πρίω	πρίαμαι	1	uncategorised		TBD	needs manual review
+λύω	ἐλύω	1	uncategorised		TBD	needs manual review
+ὀφλέω	ὀφλισκάνω	1	uncategorised		TBD	needs manual review
+τοιόσδε	τοιαδίͅς	1	uncategorised		TBD	needs manual review
+ὅδε	ὡδί	1	uncategorised		TBD	needs manual review
+ἐπινίκιος	ἐπιτάφιος	1	uncategorised		TBD	needs manual review
+ἐπισφράγισμα	ἐπίδειγμα	1	uncategorised		TBD	needs manual review
+προαγορεύω	προηγορεύω	1	uncategorised		TBD	needs manual review
+μέγας	μέγιστον	1	uncategorised		TBD	needs manual review
+ἔραμαι	ἐράω	1	uncategorised		TBD	needs manual review
+ὅσοσπερ	ὅσος	1	uncategorised		TBD	needs manual review
+θαρσαλέος	θαρραλής	1	uncategorised		TBD	needs manual review
+ψῦχος	ψυχή	1	uncategorised		TBD	needs manual review
+θεά	θεάομαι	1	uncategorised		TBD	needs manual review
+γερούσιος	γερροφόροι	1	uncategorised		TBD	needs manual review
+ἐξαυχέομαι	ἐξαρέσκομαι	1	uncategorised		TBD	needs manual review
+χρή	χράω	1	uncategorised		TBD	needs manual review
+κελεύω	κέλλω	1	uncategorised		TBD	needs manual review
+ἐγχύνω	ἐγχέω	1	uncategorised		TBD	needs manual review
+πίνω	πίνη	1	uncategorised		TBD	needs manual review
+σύνκαθεύδω	σύν-καθεύδω	1	uncategorised		TBD	needs manual review
+ἀποπνίγω	ἀποδάκνω	1	uncategorised		TBD	needs manual review
+οἷονπερ	οἷος	1	uncategorised		TBD	needs manual review
+συνάχθομαι	συνήδομαι	1	uncategorised		TBD	needs manual review
+συνόω	συνίημι	1	uncategorised		TBD	needs manual review
+ἡδύς	ἡδυσώματος	1	uncategorised		TBD	needs manual review
+συνίστημι	συνανίστημι	1	uncategorised		TBD	needs manual review
+διαμαρτυρέω	διασαφηνίζω	1	uncategorised		TBD	needs manual review
+μελάω	μέλω	1	uncategorised		TBD	needs manual review
+ἀναφαίνω	ἀναποφαίνω	1	uncategorised		TBD	needs manual review
+πηγαί	πηγή	1	uncategorised		TBD	needs manual review
+μέλης	μέλω	1	uncategorised		TBD	needs manual review
+οἶος	οἴομαι	1	uncategorised		TBD	needs manual review
+ἄνειμι	ἀνέρχομαι	1	uncategorised		TBD	needs manual review
+ἀείδω	ᾀζω	1	uncategorised		TBD	needs manual review
+ἀείδω	ᾁδω	1	uncategorised		TBD	needs manual review
+ἄπειμι	ἀπέρχομαι	1	uncategorised		TBD	needs manual review
+ἕως	ἕωσπερ	1	uncategorised		TBD	needs manual review
+ἀνέζομαι	ἄνεσις	1	uncategorised		TBD	needs manual review
+ὅδε	τῇδε	1	uncategorised		TBD	needs manual review
+ζεύς	διά	1	uncategorised		TBD	needs manual review
+διαδιαιτάω	διαιτάω	1	uncategorised		TBD	needs manual review
+δυσθυμέω	δυσκολαίνω	1	uncategorised		TBD	needs manual review
+ἥκω	ἵημι	1	uncategorised		TBD	needs manual review
+κατειπόω	καταλέγω	1	uncategorised		TBD	needs manual review
+εἰσπράσσω	εἰσαρπάζω	1	uncategorised		TBD	needs manual review
+διακρίνω	διαγιγνώσκω	1	uncategorised		TBD	needs manual review
+ἀποθαρσέω	ἀποκινδυνεύω	1	uncategorised		TBD	needs manual review
+μάζης	μᾶζα	1	uncategorised		TBD	needs manual review
+ἀγνοέω	ἀγνώς	1	uncategorised		TBD	needs manual review
+μέτειμι	μεταδίδωμι	1	uncategorised		TBD	needs manual review
+κλεόδικος	Κλειτόδικος	1	uncategorised		TBD	needs manual review
+κακόω	κακάζω	1	uncategorised		TBD	needs manual review
+σύνοιδα	σύνειμι	1	uncategorised		TBD	needs manual review
+ἀπεχθάνομαι	ἄπειμι	1	uncategorised		TBD	needs manual review
+κατειλέω	καταλέγω	1	uncategorised		TBD	needs manual review
+ἐάν	ἐάω	1	uncategorised		TBD	needs manual review
+φύω	φεύγω	1	uncategorised		TBD	needs manual review
+ἀνιόομαι	ἀνιάομαι	1	uncategorised		TBD	needs manual review
+ἔξειμι	ἔξεστι	1	uncategorised		TBD	needs manual review
+δυσφορέω	δυστυχέω	1	uncategorised		TBD	needs manual review
+ὄρνυς	Ὄρνοι	1	uncategorised		TBD	needs manual review
+ἑρμᾶς	Ἑρμῆς	1	uncategorised		TBD	needs manual review
+παρέχω	παραχώννυμι	1	uncategorised		TBD	needs manual review
+ἐγώ	ἐμός	1	uncategorised		TBD	needs manual review
+πᾶς	πάντός	1	uncategorised		TBD	needs manual review
+συνεωνέομαι	συνωνέομαι	1	uncategorised		TBD	needs manual review
+ἀπορρέω	ἀπολέγω	1	uncategorised		TBD	needs manual review
